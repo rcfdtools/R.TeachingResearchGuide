@@ -1,5 +1,6 @@
 # General exclusions
 #.gitignore
+.git/
 .idea/
 venv/
 
