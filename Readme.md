@@ -6,6 +6,9 @@
 
 En esta guía encontrará diferentes microcontenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo.  
 
+<p align="center">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/w3jLJU7DT5E" title="What is GitHub?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
 
