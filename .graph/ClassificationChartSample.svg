@@ -260,7 +260,7 @@
 			<text x="6.1" y="235.01" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Flujo espacialmente variado (FEV)</text>		</g>
 		<g id="shape249-33" v:mID="249" v:groupContext="shape" transform="translate(368.449,-100.713)">
 			<title>Rounded Rectangle.249</title>
-			<desc>Flujo gradualmente variado no permanente.</desc>
+			<desc>Flujo gradualmente variado no permanente</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -280,10 +280,10 @@
 			<path d="M11.34 243.94 L112.73 243.94 A11.3384 11.3384 -180 0 0 124.07 232.61 A11.3384 11.3384 -180 0 0 112.73 221.27
 						 L11.34 221.27 A11.3384 11.3384 -180 0 0 0 232.61 A11.3384 11.3384 -180 0 0 11.34 243.94 Z" class="st1"/>
 			<text x="10.72" y="230.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Flujo gradualmente variado no <tspan
-						x="40.8" dy="1.2em" class="st3">permanente.</tspan></text>		</g>
+						x="41.68" dy="1.2em" class="st3">permanente</tspan></text>		</g>
 		<g id="shape250-37" v:mID="250" v:groupContext="shape" transform="translate(368.449,-61.7433)">
 			<title>Rounded Rectangle.250</title>
-			<desc>Flujo rápidamente variado no permanente.</desc>
+			<desc>Flujo rápidamente variado no permanente</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -303,10 +303,10 @@
 			<path d="M11.34 243.94 L112.73 243.94 A11.3384 11.3384 -180 0 0 124.07 232.61 A11.3384 11.3384 -180 0 0 112.73 221.27
 						 L11.34 221.27 A11.3384 11.3384 -180 0 0 0 232.61 A11.3384 11.3384 -180 0 0 11.34 243.94 Z" class="st1"/>
 			<text x="12.86" y="230.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Flujo rápidamente variado no <tspan
-						x="40.8" dy="1.2em" class="st3">permanente.</tspan></text>		</g>
+						x="41.68" dy="1.2em" class="st3">permanente</tspan></text>		</g>
 		<g id="shape251-41" v:mID="251" v:groupContext="shape" transform="translate(368.449,-22.774)">
 			<title>Rounded Rectangle.251</title>
-			<desc>Flujo espacialmente variado no permanente.</desc>
+			<desc>Flujo espacialmente variado no permanente</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -326,7 +326,7 @@
 			<path d="M11.34 243.94 L112.73 243.94 A11.3384 11.3384 -180 0 0 124.07 232.61 A11.3384 11.3384 -180 0 0 112.73 221.27
 						 L11.34 221.27 A11.3384 11.3384 -180 0 0 0 232.61 A11.3384 11.3384 -180 0 0 11.34 243.94 Z" class="st1"/>
 			<text x="10.25" y="230.21" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Flujo espacialmente variado no <tspan
-						x="40.8" dy="1.2em" class="st3">permanente.</tspan></text>		</g>
+						x="41.68" dy="1.2em" class="st3">permanente</tspan></text>		</g>
 		<g id="shape252-45" v:mID="252" v:groupContext="shape" v:layerMember="0" transform="translate(97.3392,-83.7047)">
 			<title>Dynamic connector.252</title>
 			<v:userDefs>
