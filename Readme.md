@@ -12,5 +12,5 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Ir a Guía en wiki](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) |
-|--------------------------------------------------------------------------------|
+| [Ir a guía wiki](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) |
+|-----------------------------------------------------------------------------|
