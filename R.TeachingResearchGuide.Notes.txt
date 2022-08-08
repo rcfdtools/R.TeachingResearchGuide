@@ -1,4 +1,14 @@
+Guía para enseñanza e investigación colaborativa
 
+R.TeachingResearchGuide
+https://github.com/rcfdtools/R.TeachingResearchGuide.git
+Clone local directory D:\R.TeachingResearchGuide
+
+R.TeachingResearchGuide.wiki
+https://github.com/rcfdtools/R.TeachingResearchGuide.wiki.git
+Clone local directory D:\R.TeachingResearchGuide.wiki
+
+✓✕
 
 Tareas pendientes
 	Imagen corporativa
