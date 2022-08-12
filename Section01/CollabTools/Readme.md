@@ -4,7 +4,7 @@ Keywords: `GitHub` `Collaborative creation` `Agility`
 Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear, ni siquiera tienen que conocerse para poder dar sus criterios y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento disponible públicamente, para ser accedido y revisado por otros investigadores, educadores o estudiantes. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/CollabTools/Graph/CollabToolsChart1.svg" width="70%"><br>
+<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/CollabTools/Graph/CollabTools.svg" width="50%"><br>
 <sub>xxxxxxxxxxxx</sub><br><br>
 </div>
 
@@ -22,10 +22,10 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 Algunas de las plataformas más populares son:
 
 * [GitHub](https://github.com/)
-* [GNU Savannah](https://savannah.gnu.org/)
 * [Gitlab](https://gitlab.com/)
 * [Google Code](https://code.google.com/)
 * [SourceForge](https://sourceforge.net/)
+* [GNU Savannah](https://savannah.gnu.org/)
 
 
 ### [GitHub](https://github.com/)
