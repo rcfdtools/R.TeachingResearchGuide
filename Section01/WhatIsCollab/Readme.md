@@ -34,6 +34,8 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 
 La cooperación y colaboración son elementos vitales en el desarrollo de procesos creativos y producción de conocimiento.
 
+<div align="center">
+
 | Alcance         | Cooperación        | Colaboración          |
 |:----------------|:-------------------|:----------------------|
 | **Requiere**    | Respeto mutuo      | Confianza mutua       |
@@ -43,6 +45,8 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 | **Interacción** | Corto plazo        | Largo plazo           |
 | **Involucra**   | Compartir ideas    | Generar ideas         |
 | **Involucra**   | Compartir ideas    | Generar nuevas ideas  |
+
+</div>
 
 
 ### Algunas dudas y preguntas
