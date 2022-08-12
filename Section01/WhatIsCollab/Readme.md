@@ -29,7 +29,26 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * Facilidad de desarrollo en la solución de casos de estudio debido a que los miembros de la red pueden plantear diferentes formas de abordar el problema y se pueden obtener múltiples soluciones.
 * El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base de conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.  
 
+
+### Algunas dudas y preguntas
+
+* ¿Cómo funciona la propiedad intelectual en proyectos de desarrollo colaborativo?
+* ¿Qué tipos de licencia de uso se pueden utilizar?
+* ¿Qué sucede cuando a través del proyecto colaborativo se genera una patente?
+* ¿Cómo puedo acceder a beneficios institucionales a través de los contenidos en los que participo?
+
+
+### Contenido audiovisual complementario recomendado
+
+* [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
+* [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
+* [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
+* [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
+
 > Si quieres conocer más acerca de los alcances y bondades del desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
+>
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo.
+
 
 
 ### Referencias
