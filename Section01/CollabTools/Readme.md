@@ -94,10 +94,6 @@ SourceForge es una central de desarrollos de software que controla y gestiona va
 * Soy profesor creador de contenidos virtuales y publico mis contenidos en plataformas especializadas de educación virtual, ¿Son útiles para mi trabajo el uso de plataformas de desarrollo colaborativo? 
 
 
-### Contenido audiovisual complementario recomendado
-
-* 
-
 > Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
 > Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo.
@@ -119,8 +115,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/WhatIsCollab) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente]() |
-|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/WhatIsCollab) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente]() |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 
 [^1]: https://saasradar.net/herramientas-desarrollo-colaborativo/
