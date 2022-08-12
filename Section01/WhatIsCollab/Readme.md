@@ -24,10 +24,11 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 ### Beneficios de trabajar colaborativamente
 
 * Los contenidos producidos combinan la experticia de los integrantes del grupo de investigación o del centro de estudios al cual pertenecen.
-* Creación de redes colaborativas donde los repositorios de los grupos o centros es abierta y compartida.
+* Creación de redes colaborativas donde los repositorios de los grupos o centros es abierta y compartida dentro de los miembros de la institución y otras instituciones y cumunidades científicas.
 * Interacción directa entre grupos, profesores y estudiantes a través de discusiones.
 * Facilidad de desarrollo en la solución de casos de estudio debido a que los miembros de la red pueden plantear diferentes formas de abordar el problema y se pueden obtener múltiples soluciones.
-* El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base de conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.  
+* El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base de conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.
+* 
 
 
 ### Cooperación vs Colaboración[^2]
@@ -91,8 +92,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente]() |
-|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/CollabTools) |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 
 [^1]: https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
