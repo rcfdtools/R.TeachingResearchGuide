@@ -34,15 +34,15 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 
 La cooperación y colaboración son elementos vitales en el desarrollo de procesos creativos y producción de conocimiento.
 
-| Alcance         | Cooperación       | Colaboración         |
-|-----------------|-------------------|----------------------|
-| **Requiere**    | Respeto mutuo     | Confianza mutua      |
-| **Requiere**    | Transparencia     | Vulnerabilidad       |
-| **Incluye**     | Ideas compartidas | Valor compartido     |
-| **Dependencia** | Independencia     | Interdependencia     |
-| **Interacción** | Corto plazo       | Largo plazo          |
-| **Involucra**   | Compartir ideas   | Generar ideas        |
-| **Involucra**   | Compartir ideas   | Generar nuevas ideas |
+| Alcance         | Cooperación        | Colaboración          |
+|:----------------|:-------------------|:----------------------|
+| **Requiere**    | Respeto mutuo      | Confianza mutua       |
+| **Requiere**    | Transparencia      | Vulnerabilidad        |
+| **Incluye**     | Ideas compartidas  | Valor compartido      |
+| **Dependencia** | Independencia      | Interdependencia      |
+| **Interacción** | Corto plazo        | Largo plazo           |
+| **Involucra**   | Compartir ideas    | Generar ideas         |
+| **Involucra**   | Compartir ideas    | Generar nuevas ideas  |
 
 
 ### Algunas dudas y preguntas
