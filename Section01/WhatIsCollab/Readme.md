@@ -36,15 +36,14 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 
 <div align="center">
 
-| Alcance         | Cooperación        | Colaboración          |
-|:----------------|:-------------------|:----------------------|
-| **Requiere**    | Respeto mutuo      | Confianza mutua       |
-| **Requiere**    | Transparencia      | Vulnerabilidad        |
-| **Incluye**     | Ideas compartidas  | Valor compartido      |
-| **Dependencia** | Independencia      | Interdependencia      |
-| **Interacción** | Corto plazo        | Largo plazo           |
-| **Involucra**   | Compartir ideas    | Generar ideas         |
-| **Involucra**   | Compartir ideas    | Generar nuevas ideas  |
+| Alcance         | Cooperación        | Colaboración         |
+|:----------------|:-------------------|:---------------------|
+| **Requiere**    | Respeto mutuo      | Confianza mutua      |
+| **Requiere**    | Transparencia      | Vulnerabilidad       |
+| **Incluye**     | Ideas compartidas  | Valor compartido     |
+| **Dependencia** | Independencia      | Interdependencia     |
+| **Interacción** | Corto plazo        | Largo plazo          |
+| **Involucra**   | Compartir ideas    | Generar nuevas ideas |
 
 </div>
 
