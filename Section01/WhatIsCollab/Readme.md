@@ -95,4 +95,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 
 [^1]: https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
-[^1]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
+[^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
