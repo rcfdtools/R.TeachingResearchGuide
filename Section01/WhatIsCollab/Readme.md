@@ -30,6 +30,21 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base de conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.  
 
 
+### Cooperación vs Colaboración[^2]
+
+La cooperación y colaboración son elementos vitales en el desarrollo de procesos creativos y producción de conocimiento.
+
+| Alcance         | Cooperación       | Colaboración         |
+|-----------------|-------------------|----------------------|
+| **Requiere**    | Respeto mutuo     | Confianza mutua      |
+| **Requiere**    | Transparencia     | Vulnerabilidad       |
+| **Incluye**     | Ideas compartidas | Valor compartido     |
+| **Dependencia** | Independencia     | Interdependencia     |
+| **Interacción** | Corto plazo       | Largo plazo          |
+| **Involucra**   | Compartir ideas   | Generar ideas        |
+| **Involucra**   | Compartir ideas   | Generar nuevas ideas |
+
+
 ### Algunas dudas y preguntas
 
 * ¿Cómo funciona la propiedad intelectual en proyectos de desarrollo colaborativo?
@@ -77,3 +92,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 
 [^1]: https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
+[^1]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
