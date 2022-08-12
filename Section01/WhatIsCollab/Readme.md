@@ -44,6 +44,8 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
 * [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
 * [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
+* [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
+* [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
 
 > Si quieres conocer más acerca de los alcances y bondades del desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
