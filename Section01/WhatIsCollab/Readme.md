@@ -54,6 +54,7 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 * ¿Qué tipos de licencia de uso se pueden utilizar?
 * ¿Qué sucede cuando a través del proyecto colaborativo se genera una patente?
 * ¿Cómo puedo acceder a beneficios institucionales a través de los contenidos en los que participo?
+* ¿Por dónde puedo iniciar si mi institución no tiene una política y lineamientos de desarrollo colaborativo?
 
 
 ### Contenido audiovisual complementario recomendado
