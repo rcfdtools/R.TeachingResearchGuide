@@ -5,7 +5,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/TopologyChart1.svg" width="70%"><br>
-<sub>Topología de una red colaborativa a nivel de facultades, centros de estudios y semilleros.</sub><br><br>
+<sub>Ejemplo de topología de una red colaborativa a nivel facultades, centros de estudios y semilleros.</sub><br><br>
 </div>
 
 
@@ -50,7 +50,6 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 > Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo.
 
 
-
 ### Referencias
 
 * [Programación colaborativa. De la necesidad de su uso a la psicología de sus interacciones](https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.)
@@ -64,7 +63,7 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 
 | Versión    | Descripción         | Autor                                      | Horas |
 |------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |   2   |
+| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
