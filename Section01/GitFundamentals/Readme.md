@@ -1,5 +1,5 @@
 ## Fundamentos de Git
-Keywords: 
+Keywords: `Branch` `Commit` `Pull request` `Pull` `Fork`
 
 Git es un software que permite rastrear y validar cambios en archivos de un proyecto o un repositorio.
 
@@ -48,6 +48,12 @@ Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos
 * [freeCodeCamp - Git and GitHub Crash Course](https://www.freecodecamp.org/news/git-and-github-crash-course/): curso en video de conceptos generales de Git.
 * [freeCodeCamp - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg): curso en video con herramientas y conceptos de Git.
 * [edureka! - Git & GitHub Full Course in 5 Hours | Git GitHub Tutorial for Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=KMOmw19ZCGs): curso completo de Git y Github para principantes.
+
+
+### Ciclo de vida de repositorios en GitHub
+
+Conceptos generales de Branch, Commit, Pull request, Pull, Fork.
+
 
 
 ### Preguntas y respuestas Q&A
