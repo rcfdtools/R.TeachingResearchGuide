@@ -89,19 +89,19 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 
 <div align="center">
 
-| Requerimiento                                                                      | GitHub | GitLab  | Google Code |
-|------------------------------------------------------------------------------------|:------:|:-------:|:-----------:|
-| Creación de cuenta sin versión de prueba o que expira                              |   ✓    |         |      ✓      |
-| Repositorios públicos sin login de usuario                                         |   ✓    |         |             |
-| Repositorios ilimitados por usuario sin versión de pago                            |   ✓    |         |             |
-| Creación de organizaciones                                                         |   ✓    |    ✓    |             |
-| Clonación de repositorios entre usuarios y organizaciones                          |   ✓    |    ✓    |             |
-| Descarga directa de repositorio sin registro de usuario                            |   ✓    |         |      ✓      |
-| Buscador de proyectos sin registro de usuario                                      |   ✓    |         |             |
-| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                    |   ✓    |         |             |
-| Gestión local de repositorio utilizando herramientas de desarrollo                 |   ✓    |    ✓    |      ✓      |
-| Entornos de discusión por repositorio                                              |   ✓    |    ✓    |      ✓      |
-| Llamado de recursos entre repositorios (archivos, paquetes de datos, librerías...) |   ✓    |    ✓    |      ✓      |
+| Requerimiento                                                                          | GitHub | GitLab  | Google Code |
+|----------------------------------------------------------------------------------------|:------:|:-------:|:-----------:|
+| Creación de cuenta sin versión de prueba o que expira                                  |   ✓    |         |      ✓      |
+| Repositorios públicos sin login de usuario                                             |   ✓    |         |             |
+| Repositorios ilimitados por usuario sin versión de pago                                |   ✓    |         |             |
+| Creación de organizaciones                                                             |   ✓    |    ✓    |             |
+| Clonación de repositorios entre usuarios y organizaciones                              |   ✓    |    ✓    |             |
+| Descarga directa de repositorio sin registro de usuario                                |   ✓    |         |      ✓      |
+| Buscador de proyectos sin registro de usuario                                          |   ✓    |         |             |
+| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                        |   ✓    |         |             |
+| Gestión local de repositorio utilizando herramientas de desarrollo                     |   ✓    |    ✓    |      ✓      |
+| Entornos de discusión por repositorio                                                  |   ✓    |    ✓    |      ✓      |
+| Llamado de recursos entre repositorios<br>(archivos, paquetes de datos, librerías...) |   ✓    |    ✓    |      ✓      |
 
 </div>
 
