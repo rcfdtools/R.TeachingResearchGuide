@@ -70,7 +70,7 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 
 > Si quieres conocer más acerca de los alcances y bondades del desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo.
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias

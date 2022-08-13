@@ -85,7 +85,7 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 |--------------------------------------------------------------------|:------:|:-------:|:-----------:|
 | Creación de cuenta sin versión de prueba o que expira              |   ✓    |         |      ✓      |
 | Repositorios públicos sin login de usuario                         |   ✓    |         |             |
-| Repositorios ilimitados por usuario                                |   ✓    |         |             |
+| Repositorios ilimitados por usuario sin versión de pago            |   ✓    |         |             |
 | Creación de organizaciones                                         |   ✓    |    ✓    |             |
 | Clonación de repositorios                                          |   ✓    |    ✓    |      ✓      |
 | Buscador de proyectos sin registro de usuario                      |   ✓    |         |             |
@@ -107,7 +107,7 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 
 > Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo.
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias
