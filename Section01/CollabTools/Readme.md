@@ -119,11 +119,11 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el
 | Soy profesor creador de contenidos virtuales y publico mis contenidos en plataformas especializadas de educación virtual, ¿Son útiles para mi trabajo el uso de plataformas de desarrollo colaborativo? |           |
 | ¿Puede ser Microsoft Office 365 y Sharepoint considerada una plataforma de desarrollo colaborativo?                                                                                                     |           |
 
-> Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
+> Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido.
 >
 > Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias
