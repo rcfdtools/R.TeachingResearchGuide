@@ -21,7 +21,9 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 Algunas de las plataformas más populares son: GitHub, GitLab, Google Code, SourceForge, GNU Savannah.
 
 
-### [GitHub](https://github.com/)
+### Plataformas de desarrollo colaborativo
+
+#### [GitHub](https://github.com/)
 
 Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Fue desarrollada en el lenguaje de programación Ruby on Rails y opera desde el 2010 bajo este nombre, heredado de Logical Awesome LLC. En la actualidad esta forja es propiedad de Microsoft, y es la más importante hasta la fecha, con una alta cantidad de usuarios que la usan. Esto se debe, entre otras particularidades, por la mejora continua de sus funciones y posibilidades en materia de publicación y acceso a los proyectos. Brinda opciones para diferentes intereses, permitiendo clasificar algunos proyectos con un mayor nivel de privacidad, manteniendo una mayoría de código público. Un factor relevante es la seguridad que posee y la estabilidad, lo cual genera confianza en los desarrolladores. [Video recomendado.](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
@@ -40,12 +42,12 @@ Dentro de GitHub hay varios servicios, como:
 * [Patrocinadores](https://github.com/sponsors)
 
 
-### [GitLab](https://gitlab.com/)
+#### [GitLab](https://gitlab.com/)
 
 Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. Como el resto, maneja el control de versiones para los proyectos como aspecto clave en el desarrollo colaborativo. En este caso, GitLab incluye servicios DevOps para agilizar las etapas de construcción de un software. Su amplia usabilidad se debe a que es una suite muy completa que permite, no solo crear repositorios, sino administrarlos y gestionarlos, para que puedan incluso se conecten entre ellos, aunque pertenezcan a diferentes proyectos. Una idea de su impacto se genera al conocer que tiene clientes como la SIEMENS, NVIDIA y T-Mobile. [Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
 
 
-### [Google Code](https://www.youtube.com/watch?v=DV5-6s-UfUE)
+#### [Google Code](https://code.google.com/)
 
 El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google. Desafortunadamente en la actualidad el acceso a estos proyectos es de solo lectura, por lo que no pueden subirse nuevos códigos, aunque sí utilizar los existentes. [Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
 
@@ -55,14 +57,14 @@ Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser un
 * Google Web Toolkit: es un conjunto de herramientas que facilitan la creación de aplicaciones Ajax y otras acciones sobre Java
 
 
-### [SourceForge](https://sourceforge.net/)[^2]
+#### [SourceForge](https://sourceforge.net/)[^2]
 
 SourceForge es un sitio web de colaboración para proyectos de software. Fue fundado en 1999 por VA Software y, desde enero de 2016 es comercializado por Slashdot Media (antes llamada BizX). Provee una portada para una amplia gama de servicios útiles para los procesos de desarrollo de software e integra un amplio número de aplicaciones de software libre.
 
 SourceForge es una central de desarrollos de software que controla y gestiona varios proyectos de software libre y actúa como un repositorio de código fuente. SourceForge.net es hospedado por VA Software y corre en una versión del software SourceForge. A 2016, ofrece alojamiento a proyectos tales como Ares Galaxy, FileZilla, 7-Zip, phpMyAdmin, etc.
 
 
-### [GNU Savannah](https://savannah.gnu.org/)
+#### [GNU Savannah](https://savannah.gnu.org/)
 
 Es un proyecto macro, que ejecuta varios servicios para la gestión de proyectos de software libre. Este último aspecto marca la diferencia con otras forjas, pues brinda componentes meramente libres, por lo que los usuarios cuando suben sus sistemas deben especificar bajo que licencia lo distribuyen.
 
@@ -75,12 +77,33 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 * Seguimiento de bugs.
 
 
+### ¿Qué plataforma debo usar?
+
+Para responder esta pregunta, creemos una lista de requerimientos específicos para el enfoque de educación e investigación planteado en este curso y para las 3 plataformas más populares.
+
+| Requerimiento                                                      | GitHub | GitLab | Google Code |
+|--------------------------------------------------------------------|:------:|:------:|:-----------:|
+| Creación de cuenta sin versión de prueba o que expira              |   ✓    |   ✕    |      ✓      |
+| Repositorios públicos sin login de usuario                         |   ✓    |   ✕    |             |
+| Repositorios ilimitados por usuario                                |   ✓    |        |             |
+| Creación de organizaciones                                         |   ✓    |   ✓    |             |
+| Clonación de repositorios                                          |   ✓    |   ✓    |      ✓      |
+| Buscador de proyectos sin registro de usuario                      |   ✓    |        |             |
+| Cargue masivo de archivos inferiores a 100 MB en cuentas libres    |   ✓    |        |             |
+| Gestión local de repositorio utilizando herramientas de desarrollo |   ✓    |   ✓    |      ✓      |
+
+> Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools](https://github.com/rcfdtools) y su validación puede cambiar por cambios en las políticas propias de cada plataforma.
+> 
+> Pruebas de búsqueda de repositorios públicos realizada en 2022.08.13 desde los buscadores de cada plataforma: al ingresar la palabra **Hydrology** en Google Open Source y en el buscador de GitLab sin inicio de sesión o registro de usuario, no se obtienen resultados. Al realizar esta misma búsqueda desde el buscador de GitHub se obtienen más de 1000 repositorios directos.
+
+
 ### Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                                                                                | Respuesta |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | ¿Soy creador de libros electrónicos, puedo utilizar estas plataformas para publicar este tipo de contenidos?                                                                                            |           |
 | Soy profesor creador de contenidos virtuales y publico mis contenidos en plataformas especializadas de educación virtual, ¿Son útiles para mi trabajo el uso de plataformas de desarrollo colaborativo? |           |
+| ¿Puede ser Microsoft Office 365 y Sharepoint considerada una plataforma de desarrollo colaborativo?                                                                                                     |           |
 
 > Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
