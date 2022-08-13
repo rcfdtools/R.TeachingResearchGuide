@@ -28,7 +28,6 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * Interacción directa entre grupos, profesores y estudiantes a través de discusiones.
 * Facilidad de desarrollo en la solución de casos de estudio debido a que los miembros de la red pueden plantear diferentes formas de abordar el problema y se pueden obtener múltiples soluciones.
 * El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base de conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.
-* 
 
 
 ### Cooperación vs Colaboración[^2]

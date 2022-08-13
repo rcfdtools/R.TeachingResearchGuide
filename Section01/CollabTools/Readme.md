@@ -1,5 +1,5 @@
 ## Herramientas para desarrollo colaborativo
-Keywords: `GitHub` `Collaborative creation` `Agility`
+Keywords: `GitHub` `GitLab` `Google Code` `SourceForge` `GNU Savannah`
 
 Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear, ni siquiera tienen que conocerse para poder dar sus criterios y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento disponible públicamente, para ser accedido y revisado por otros investigadores, educadores o estudiantes. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
 
@@ -21,7 +21,7 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 Algunas de las plataformas más populares son:
 
 * [GitHub](https://github.com/)
-* [Gitlab](https://gitlab.com/)
+* [GitLab](https://gitlab.com/)
 * [Google Code](https://code.google.com/)
 * [SourceForge](https://sourceforge.net/)
 * [GNU Savannah](https://savannah.gnu.org/)
@@ -29,9 +29,7 @@ Algunas de las plataformas más populares son:
 
 ### [GitHub](https://github.com/)
 
-[Video recomendado.](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-
-Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Fue desarrollada en el lenguaje de programación Ruby on Rails y opera desde el 2010 bajo este nombre, heredado de Logical Awesome LLC. En la actualidad esta forja es propiedad de Microsoft, y es la más importante hasta la fecha, con una alta cantidad de usuarios que la utilizan. Esto se debe, entre otras particularidades, por la mejora continua de sus funciones y posibilidades en materia de publicación y acceso a los proyectos. Brinda opciones para diferentes intereses, permitiendo clasificar algunos proyectos con un mayor nivel de privacidad, manteniendo una mayoría de código público. Un factor importante es la seguridad que posee y la estabilidad, lo cual genera confianza en los desarrolladores.
+Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Fue desarrollada en el lenguaje de programación Ruby on Rails y opera desde el 2010 bajo este nombre, heredado de Logical Awesome LLC. En la actualidad esta forja es propiedad de Microsoft, y es la más importante hasta la fecha, con una alta cantidad de usuarios que la usan. Esto se debe, entre otras particularidades, por la mejora continua de sus funciones y posibilidades en materia de publicación y acceso a los proyectos. Brinda opciones para diferentes intereses, permitiendo clasificar algunos proyectos con un mayor nivel de privacidad, manteniendo una mayoría de código público. Un factor relevante es la seguridad que posee y la estabilidad, lo cual genera confianza en los desarrolladores. [Video recomendado.](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 Algunas características de esta plataforma son:
 
@@ -48,31 +46,14 @@ Dentro de GitHub hay varios servicios, como:
 * [Patrocinadores](https://github.com/sponsors)
 
 
-### [GNU Savannah](https://savannah.gnu.org/)
+### [GitLab](https://gitlab.com/)
 
-Es un proyecto macro, que ejecuta varios servicios para la gestión de proyectos de software libre. Este último aspecto marca la diferencia con otras forjas, pues brinda componentes meramente libres, por lo que los usuarios cuando suben sus sistemas deben especificar bajo que licencia lo distribuyen.
-
-Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
-
-* Control de versiones con diferentes entornos como CVS, Subversion, Git, Mercurial y Bazaar.
-* Gestión de listas de correo.
-* Hospedaje web para sistemas.
-* GNU arch y hospedaje de archivos.
-* Seguimiento de bugs.
-
-
-### [Gitlab](https://gitlab.com/)
-
-[Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
-
-Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. Como el resto, maneja el control de versiones para los proyectos como aspecto clave en el desarrollo colaborativo. En este caso, GitLab incluye servicios DevOps para agilizar las etapas de construcción de un software. Su amplia usabilidad se debe a que es una suite muy completa que permite, no solo crear repositorios, sino administrarlos y gestionarlos, para que puedan incluso se conecten entre ellos, aunque pertenezcan a diferentes proyectos. Una idea de su impacto se genera al conocer que tiene clientes como la NASA, IBM y Sony.
+Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. Como el resto, maneja el control de versiones para los proyectos como aspecto clave en el desarrollo colaborativo. En este caso, GitLab incluye servicios DevOps para agilizar las etapas de construcción de un software. Su amplia usabilidad se debe a que es una suite muy completa que permite, no solo crear repositorios, sino administrarlos y gestionarlos, para que puedan incluso se conecten entre ellos, aunque pertenezcan a diferentes proyectos. Una idea de su impacto se genera al conocer que tiene clientes como la SIEMENS, NVIDIA y T-Mobile. [Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
 
 
 ### [Google Code](https://www.youtube.com/watch?v=DV5-6s-UfUE)
 
-[Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
-
-El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basado en Google. Desafortunadamente en la actualidad el acceso a estos proyectos es de solo lectura, por lo que no pueden subirse nuevos códigos, aunque sí utilizar los existentes.
+El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google. Desafortunadamente en la actualidad el acceso a estos proyectos es de solo lectura, por lo que no pueden subirse nuevos códigos, aunque sí utilizar los existentes. [Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
 
 Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser una herramienta creada por el rey de internet. Algunos de los proyectos que brinda son:
 
@@ -85,6 +66,19 @@ Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser un
 SourceForge es un sitio web de colaboración para proyectos de software. Fue fundado en 1999 por VA Software y, desde enero de 2016 es comercializado por Slashdot Media (antes llamada BizX). Provee una portada para una amplia gama de servicios útiles para los procesos de desarrollo de software e integra un amplio número de aplicaciones de software libre.
 
 SourceForge es una central de desarrollos de software que controla y gestiona varios proyectos de software libre y actúa como un repositorio de código fuente. SourceForge.net es hospedado por VA Software y corre en una versión del software SourceForge. A 2016, ofrece alojamiento a proyectos tales como Ares Galaxy, FileZilla, 7-Zip, phpMyAdmin, etc.
+
+
+### [GNU Savannah](https://savannah.gnu.org/)
+
+Es un proyecto macro, que ejecuta varios servicios para la gestión de proyectos de software libre. Este último aspecto marca la diferencia con otras forjas, pues brinda componentes meramente libres, por lo que los usuarios cuando suben sus sistemas deben especificar bajo que licencia lo distribuyen.
+
+Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
+
+* Control de versiones con diferentes entornos como CVS, Subversion, Git, Mercurial y Bazaar.
+* Gestión de listas de correo.
+* Hospedaje web para sistemas.
+* GNU arch y hospedaje de archivos.
+* Seguimiento de bugs.
 
 
 ### Algunas dudas y preguntas
@@ -107,7 +101,7 @@ SourceForge es una central de desarrollos de software que controla y gestiona va
 
 | Versión    | Descripción         | Autor                                      | Horas |
 |------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |  2   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
