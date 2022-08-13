@@ -18,13 +18,7 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 * Publicación de foros de discusión y soporte
 * Wikis para gestionar la documentación
 
-Algunas de las plataformas más populares son:
-
-* [GitHub](https://github.com/)
-* [GitLab](https://gitlab.com/)
-* [Google Code](https://code.google.com/)
-* [SourceForge](https://sourceforge.net/)
-* [GNU Savannah](https://savannah.gnu.org/)
+Algunas de las plataformas más populares son: GitHub, GitLab, Google Code, SourceForge, GNU Savannah.
 
 
 ### [GitHub](https://github.com/)
