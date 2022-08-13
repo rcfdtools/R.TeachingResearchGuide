@@ -87,6 +87,8 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 
 Para responder esta pregunta, creemos una lista de requerimientos específicos para el enfoque de educación e investigación planteado en este curso y para las 3 plataformas más populares.
 
+<div align="center">
+
 | Requerimiento                                                      | GitHub | GitLab  | Google Code |
 |--------------------------------------------------------------------|:------:|:-------:|:-----------:|
 | Creación de cuenta sin versión de prueba o que expira              |   ✓    |         |      ✓      |
@@ -98,6 +100,8 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 | Cargue masivo de archivos inferiores a 100 MB en cuentas libres    |   ✓    |         |             |
 | Gestión local de repositorio utilizando herramientas de desarrollo |   ✓    |    ✓    |      ✓      |
 | Entornos de discusión por repositorio                              |   ✓    |    ✓    |      ✓      |
+
+</div>
 
 > Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools](https://github.com/rcfdtools) y su validación puede cambiar por cambios en las políticas propias de cada plataforma.
 > 
