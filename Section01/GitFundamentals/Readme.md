@@ -26,7 +26,7 @@ A diferencia de algunos programas de software de control de versiones, Git no se
 Su arquitectura distribuida también permite disfrutar de importantes ventajas en términos de rendimiento.
 
 
-### Seguridad
+### Seguridad[^1]
 
 Git se ha diseñado con la principal prioridad de conservar la integridad del código fuente gestionado. El contenido de los archivos y las verdaderas relaciones entre estos y los directorios, las versiones, las etiquetas y las confirmaciones, todos ellos objetos del repositorio de Git, están protegidos con un algoritmo de hash criptográficamente seguro llamado "SHA1". De este modo, se salvaguarda el código y el historial de cambios frente a las modificaciones accidentales y maliciosas, y se garantiza que el historial sea totalmente trazable.
 
@@ -35,7 +35,7 @@ Con Git, puedes tener la certeza de contar con un auténtico historial de conten
 Algunos otros sistemas de control de versiones carecen de protección contra las modificaciones ocultas realizadas con posterioridad, algo que puede suponer una grave vulnerabilidad de seguridad de la información para cualquier organización que se base en el desarrollo de software.
 
 
-### Flexibilidad
+### Flexibilidad[^1]
 
 Uno de los objetivos clave de Git en cuanto al diseño es la flexibilidad. Git es flexible en varios aspectos: en la capacidad para varios tipos de flujos de trabajo de desarrollo no lineal, en su eficiencia en proyectos tanto grandes como pequeños y en su compatibilidad con numerosos sistemas y protocolos.
 
@@ -71,7 +71,7 @@ Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos
 
 | Versión    | Descripción         | Autor                                      | Horas |
 |------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.13 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |       |
+| 2022.08.13 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |  1.5  |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
@@ -80,6 +80,5 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 | [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/CollabTools) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-
 
 [^1]: https://www.atlassian.com/es/git/tutorials/what-is-git
