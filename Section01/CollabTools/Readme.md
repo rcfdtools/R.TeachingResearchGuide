@@ -75,11 +75,12 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 * Seguimiento de bugs.
 
 
-### Algunas dudas y preguntas
+### Preguntas y respuestas Q&A
 
-* ¿Soy creador de libros electrónicos, puedo utilizar estas plataformas para publicar este tipo de contenidos?
-* Soy profesor creador de contenidos virtuales y publico mis contenidos en plataformas especializadas de educación virtual, ¿Son útiles para mi trabajo el uso de plataformas de desarrollo colaborativo? 
-
+| Pregunta                                                                                                                                                                                                | Respuesta |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| ¿Soy creador de libros electrónicos, puedo utilizar estas plataformas para publicar este tipo de contenidos?                                                                                            |           |
+| Soy profesor creador de contenidos virtuales y publico mis contenidos en plataformas especializadas de educación virtual, ¿Son útiles para mi trabajo el uso de plataformas de desarrollo colaborativo? |           |
 
 > Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
 >
