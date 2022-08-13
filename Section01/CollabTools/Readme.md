@@ -89,18 +89,18 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 
 <div align="center">
 
-| Requerimiento                                                                          | GitHub | GitLab  | Google Code |
-|----------------------------------------------------------------------------------------|:------:|:-------:|:-----------:|
-| Creación de cuenta sin versión de prueba o que expira                                  |   ✓    |         |      ✓      |
-| Repositorios públicos sin login de usuario                                             |   ✓    |         |             |
-| Repositorios ilimitados por usuario sin versión de pago                                |   ✓    |         |             |
-| Creación de organizaciones                                                             |   ✓    |    ✓    |             |
-| Clonación de repositorios entre usuarios y organizaciones                              |   ✓    |    ✓    |             |
-| Descarga directa de repositorio sin registro de usuario                                |   ✓    |         |      ✓      |
-| Buscador de proyectos sin registro de usuario                                          |   ✓    |         |             |
-| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                        |   ✓    |         |             |
-| Gestión local de repositorio utilizando herramientas de desarrollo                     |   ✓    |    ✓    |      ✓      |
-| Entornos de discusión por repositorio                                                  |   ✓    |    ✓    |      ✓      |
+| Requerimiento                                                                         | GitHub | GitLab  | Google Code |
+|---------------------------------------------------------------------------------------|:------:|:-------:|:-----------:|
+| Creación de cuenta sin versión de prueba o que expira                                 |   ✓    |         |      ✓      |
+| Repositorios públicos sin login de usuario                                            |   ✓    |         |             |
+| Repositorios ilimitados por usuario sin versión de pago                               |   ✓    |         |             |
+| Creación de organizaciones                                                            |   ✓    |    ✓    |             |
+| Clonación de repositorios entre usuarios y organizaciones                             |   ✓    |    ✓    |             |
+| Descarga directa de repositorio sin registro de usuario                               |   ✓    |         |      ✓      |
+| Buscador de proyectos sin registro de usuario                                         |   ✓    |         |             |
+| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                       |   ✓    |         |             |
+| Gestión local de repositorio utilizando herramientas de desarrollo                    |   ✓    |    ✓    |      ✓      |
+| Entornos de discusión por repositorio                                                 |   ✓    |    ✓    |      ✓      |
 | Llamado de recursos entre repositorios<br>(archivos, paquetes de datos, librerías...) |   ✓    |    ✓    |      ✓      |
 
 </div>
@@ -122,8 +122,6 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el
 
 > Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido.
 >
-> Si quieres conocer más acerca de herramientas de desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
->
 > Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
@@ -134,9 +132,10 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el
 
 ### Control de versiones
 
-| Versión    | Descripción         | Autor                                      | Horas |
-|------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |  2   |
+| Versión    | Descripción                | Autor                                      | Horas  |
+|------------|:---------------------------|--------------------------------------------|:------:|
+| 2022.08.13 | ¿Qué plataforma debo usar? | [rcfdtools](https://github.com/rcfdtools)  |  1.5   |
+| 2022.08.12 | Versión preliminar.        | [rcfdtools](https://github.com/rcfdtools)  |   2    |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
@@ -145,7 +144,6 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 | [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/WhatIsCollab) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente]() |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-
 
 [^1]: https://saasradar.net/herramientas-desarrollo-colaborativo/
 [^2]: https://es.wikipedia.org/wiki/SourceForge
