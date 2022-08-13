@@ -51,10 +51,16 @@ Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. 
 
 El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google. Desafortunadamente en la actualidad el acceso a estos proyectos es de solo lectura, por lo que no pueden subirse nuevos códigos, aunque sí utilizar los existentes. [Video recomendado.](https://www.youtube.com/watch?v=MqL6BMOySIQ)
 
-Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser una herramienta creada por el rey de internet. Algunos de los proyectos que brinda son:
+Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser una herramienta creada por Google. Algunos de los proyectos que brinda son:
 
-* Gears: un software beta para acceder a servicios en la red, sin necesidad de que los usuarios estan conectados. Una vez que se habilita una conexión, los sistemas se sincronizan y se actualizan.
+* Gears: un software beta para acceder a servicios en la red, sin necesidad de que los usuarios están conectados. Una vez que se habilita una conexión, los sistemas se sincronizan y se actualizan.
 * Google Web Toolkit: es un conjunto de herramientas que facilitan la creación de aplicaciones Ajax y otras acciones sobre Java
+
+Servicios principales visibles en code.google.com
+
+* [Google Open Source](https://opensource.google.com/)
+* [Google Developers](https://developers.google.com/)
+* [Google Code Archive](https://code.google.com/archive/)
 
 
 #### [SourceForge](https://sourceforge.net/)[^2]
@@ -91,10 +97,13 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 | Buscador de proyectos sin registro de usuario                      |   ✓    |         |             |
 | Cargue masivo de archivos inferiores a 100 MB en cuentas libres    |   ✓    |         |             |
 | Gestión local de repositorio utilizando herramientas de desarrollo |   ✓    |    ✓    |      ✓      |
+| Entornos de discusión por repositorio                              |   ✓    |    ✓    |      ✓      |
 
 > Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools](https://github.com/rcfdtools) y su validación puede cambiar por cambios en las políticas propias de cada plataforma.
 > 
-> Pruebas de búsqueda de repositorios públicos realizada en 2022.08.13 desde los buscadores de cada plataforma: al ingresar la palabra **Hydrology** en Google Open Source y en el buscador de GitLab sin inicio de sesión o registro de usuario, no se obtienen resultados. Al realizar esta misma búsqueda desde el buscador de GitHub se obtienen más de 1000 repositorios directos.
+> Pruebas de búsqueda de repositorios públicos realizada en 2022.08.13 desde los buscadores de cada plataforma: al ingresar la palabra **Hydrology** en Google Code Archive se obtienen 34 resultados y en el buscador de GitLab sin inicio de sesión o registro de usuario, no se obtienen resultados. Al realizar esta misma búsqueda desde el buscador de GitHub se obtienen más de 1000 repositorios directos.
+
+De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el desarrollo de contenidos por desarrollo colaborativo orientado a educación e investigación es GitHub. 
 
 
 ### Preguntas y respuestas Q&A
