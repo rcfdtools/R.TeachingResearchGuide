@@ -38,6 +38,10 @@ Lenguaje de escritura para documentos Readme.md y documentación wiki en Github
 
 Los repositorios alojados en GitHub utilizan el lenguaje de marcas Markdown para documentar en archivos .md, los contenidos almacenados en cada directorio y en general para el proyecto. Para facilitar la interacción con el repositorio, la edición de los documentos .md puede ser realizada en línea. 
 
+Ecuaciones embebidas en formato LaTeX
+
+GitHub permite embeber ecuaciones escritas en el lenguaje LaTeX y sin el uso de complementos para su visualización, sin embargo, si correcta visualización dependerá de la versión del navegador utilizado. En algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la representación de la ecuación.
+
 
 ### Preguntas y respuestas Q&A
 
