@@ -113,6 +113,26 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
+### Creación de diagramas[^3]
+
+Ejemplo simple de un diagrama de flujo:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+
 ### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
@@ -167,3 +187,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 [^2]: Ejemplo tomado de https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia
+[^3]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
