@@ -232,7 +232,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 | ¿Puedo crear tablas con muchas columnas y texto?                         | Sí, tablas con múltiples columnas que no sean ajustables al espacio de visualización del navegador pueden ser visibles a través de barras de desplazamiento que son generadas automáticamente.                                                                                                                                        |
 | ¿Puedo crear tablas con gráficas embebidas?                              | Sí, las gráficas deben ser almacenadas en un directorio del repositorio y luego pueden ser embebidas con la marca `![Descripción](hiperenlace)`.                                                                                                                                                                                      |
 
-> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido.
+> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) de este microcontenido.
 >
 > En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
 > 
@@ -272,8 +272,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente]() |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository) |
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 [^2]: https://docs.github.com/es/get-started/writing-on-github
