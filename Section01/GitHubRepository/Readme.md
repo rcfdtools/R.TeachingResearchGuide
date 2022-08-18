@@ -1,7 +1,7 @@
 ## Creación y gestión en línea de repositorios en GitHub
 Keywords: `Markdown` `HTML` `Repository` `.gitignore` `Readme.md`
 
-En esta actividad aprenderás a crear y gestionar repositorios en GitHub directamente desde el navegador de Internet.
+En esta actividad aprenderá a crear y gestionar repositorios en GitHub directamente desde el navegador de Internet.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Graph/GitHubRepository.svg" width="30%"><br><br>
@@ -9,6 +9,11 @@ En esta actividad aprenderás a crear y gestionar repositorios en GitHub directa
                                                                                                                                                       
 
 ### Procedimiento
+
+1. Ingrese a https://github.com/ y de clic en la opción `Sign up`
+
+![R.TeachingResearchGuide](ddddd)
+GitHubSingUp
 
 
 
@@ -40,7 +45,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
+| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/Markdown) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
 [^1]: 
