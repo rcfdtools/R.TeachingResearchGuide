@@ -151,7 +151,6 @@ graph TD;
       "geometry": {
         "type": "Point",
         "coordinates": [-90,35]
-        ]
       }
     }
   ]
