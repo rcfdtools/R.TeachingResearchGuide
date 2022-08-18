@@ -71,11 +71,13 @@ print('x^y = %d', potencia)
 #### Mostrar una ilustración
 
 Ilustración embebida  
-`![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`
+`![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
 ![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")
 
-Ilustración como HTML con tamaño definido 
+Ilustración como HTML con tamaño definido  
+`<img alt="Logo de R.TeachingResearchGuide" height="20" src="![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg &quot;Ilustración ejemplo&quot;)" title="Ilustración ejemplo" width="80"/>`  
 <img alt="Logo de R.TeachingResearchGuide" height="20" src="![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg &quot;Ilustración ejemplo&quot;)" title="Ilustración ejemplo" width="80"/>
+
 
 Ilustración como HTML con centrado  
 <0div align="center"><img alt="Logo de R.TeachingResearchGuide" height="20" src="![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg &quot;Ilustración ejemplo&quot;)" title="Ilustración ejemplo" width="80"/></div>
