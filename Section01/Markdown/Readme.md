@@ -53,7 +53,7 @@ Algunos de los beneficios de usar Markdown son:
 > Para embeber sus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube.
 
 
-#### Ejemplo de script con múltiples líneas
+#### Script con múltiples líneas
 
 Se utilizan 3 comillas invertidas al inicio y fin de las líneas de código ```
 
@@ -82,7 +82,7 @@ print('x^y = %d', potencia)
 | Fila 3 | Texto                |  Texto   |               3.14 |
 
 
-#### Mostrar una imagen
+#### Imágenes
 
 **Ilustración embebida**  
 `![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
@@ -182,13 +182,11 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 ```
 
 
-
 #### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
 * Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin. Se recomienda el uso de ```.
-
 
 
 ### Preguntas y respuestas Q&A
@@ -218,6 +216,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 * https://github.com/tchapi/markdown-cheatsheet
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
+* https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
 * emojis https://gist.github.com/rxaviers/7360908
 * emojis https://www.webfx.com/tools/emoji-cheat-sheet/
@@ -225,9 +224,9 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas  |
-|------------|:-----------------|--------------------------------------------|:------:|
-| 2022.08.18 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  1.5   |
+| Versión    | Descripción                   | Autor                                      | Horas |
+|------------|:------------------------------|--------------------------------------------|:-----:|
+| 2022.08.18 | Versión inicial con ejemplos. | [rcfdtools](https://github.com/rcfdtools)  |   5   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
