@@ -55,7 +55,17 @@ Algunos de los beneficios de usar Markdown son:
 
 #### Ejemplo de script con múltiples líneas
 
-Se utilizan 3 comillas invertidas al inicio y fin de las líneas de códico ```
+Se utilizan 3 comillas invertidas al inicio y fin de las líneas de código ```
+
+```
+```
+# Ejemplo de potenciación en Python
+x = 2
+y = 3
+potencia = x**y
+print('x^y = %d', potencia)
+```
+```
 
 ```
 # Ejemplo de potenciación en Python
