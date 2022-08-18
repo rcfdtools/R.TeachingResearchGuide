@@ -67,24 +67,19 @@ print('x^y = %d', potencia)
 
 #### Tablas
 
-
-Tablas básicas  
 ```
-| Columna 1 | Columna 1 | Columna 1 |
-|-----------|-----------|-----------|
-| Fila 1    | Texto     | Texto     |
-| Fila 2    | Texto     | Texto     |
-| Fila 3    | Texto     | Texto     |
+| Columna 1 | Columna 2 alineada a la izquierda | Columna 3 centrada | Columna 4 alineada a la derecha |
+|-----------|:----------------------------------|:------------------:|--------------------------------:|
+| Fila 1    | Texto                             |       Texto        |                            1.27 |
+| Fila 2    | Texto                             |       Texto        |                            16.4 |
+| Fila 3    | Texto                             |       Texto        |                            3.14 |
 ```
 
-| Columna 1 | Columna 1 | Columna 1 |
-|-----------|-----------|-----------|
-| Fila 1    | Texto     | Texto     |
-| Fila 2    | Texto     | Texto     |
-| Fila 3    | Texto     | Texto     |
-
-
-
+| Columna 1 | Columna 2 alineada a la izquierda | Columna 3 centrada | Columna 4 alineada a la derecha |
+|-----------|:----------------------------------|:------------------:|--------------------------------:|
+| Fila 1    | Texto                             |       Texto        |                            1.27 |
+| Fila 2    | Texto                             |       Texto        |                            16.4 |
+| Fila 3    | Texto                             |       Texto        |                            3.14 |
 
 
 #### Mostrar una imagen
