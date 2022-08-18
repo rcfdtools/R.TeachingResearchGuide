@@ -87,10 +87,31 @@ print('x^y = %d', potencia)
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-### Ecuaciones con LaTeX
+### Ecuaciones con LaTeX[^2]
 
-$I = \int \rho R^{2} dV$
+La potencia de la corriente se define como la energía disponible por unidad de área1:
 
+```
+$P=\gamma y S_{0} V$
+
+Donde:
+$P$ = Potencia de la corriente $[N-m/s]$  
+$\gamma$ = Peso específico del agua $[N/m^{3}]$  
+$y$ = Profundidad de la lámina de agua $[m]$  
+$V$ = Velocidad media de la corriente $[m/s]$  
+$S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
+```
+
+$P=\gamma y S_{0} V$
+
+Donde:
+$P$ = Potencia de la corriente $[N-m/s]$  
+$\gamma$ = Peso específico del agua $[N/m^{3}]$  
+$y$ = Profundidad de la lámina de agua $[m]$  
+$V$ = Velocidad media de la corriente $[m/s]$  
+$S_{0}$ = Pendiente media del fondo del lecho $[m/m]$  
+
+> Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
 ### Otras marcas
 
@@ -145,3 +166,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
+[^2]: Ejemplo tomado de https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia
