@@ -112,8 +112,14 @@ En la parte superior de la ventana del repositorio, podrá encontrar las siguien
 | Insights     | Esta pestaña permite monitorear todo lo que sucede en el repositorio, p. ej. el total de incorporaciones realizadas, las incorporaciones pendientes, los problemas identificados y resueltos, las acciones realizadas, los contribuidores, el tráfico hacia el repositorio como el número de veces que ha sido clonado o visitado, la frecuencia con la que se trabaja en el repositorio, gráficas de dependencia y linea de tiempo. |
 | Settings     | Configuración general del repositorio, definición de colaboradores, opciones de moderación, administración de ramas, definición de etiquetas, acciones, ambientes, páginas, integraciones y otros.                                                                                                                                                                                                                                   |
 
-> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discussiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General..
+> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discussiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General.
 
+
+### Creación de estructuras de directorios
+
+
+
+En la sección `<> Code`
 
 
 
