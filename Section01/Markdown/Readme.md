@@ -12,7 +12,7 @@ Los repositorios de GitHub utilizan para la documentación el lenguaje Markdown 
 Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos usando directamente HTML, y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cuál vaya a ser su destino. Como explica [*John Gruber*](http://daringfireball.net/projects/markdown/), uno de sus creadores, Markdown es realmente dos cosas: por un lado, el lenguaje; por otro, una herramienta de software que convierte el lenguaje en HTML válido.
 
 
-#### Beneficios de usar Markdown
+Algunos de los beneficios de usar Markdown son:
 
 Producir documentos web es más rápido y cómodo
 
@@ -36,15 +36,14 @@ Realmente, para emplear Markdown todo lo que necesitamos es un editor de texto, 
 
 Lenguaje de escritura para documentos Readme.md y documentación wiki en Github
 
-
-
+Los repositorios alojados en GitHub utilizan el lenguaje de marcas Markdown para documentar en archivos .md, los contenidos almacenados en cada directorio y en general para el proyecto. Para facilitar la interacción con el repositorio, la edición de los documentos .md puede ser realizada en línea. 
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                 | Respuesta                                                                                                                                                                                                                                                                                                                                   |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Puedo embeber dentro de un archivo Markdown .md, instrucciones de HTML? | Sí, sin embargo dentro de archivos Readme.md alojados directamente dentro de un repositorio de GitHub no son visibles p. ej. los marcos dinámicos que permiten embeber un video de youtube y visualizarlo desde el documento. Desde GitHub pages que utiliza también archivos .md, sí es posible reproducir directamente un video embebido. |
 
 > Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido.
 >
