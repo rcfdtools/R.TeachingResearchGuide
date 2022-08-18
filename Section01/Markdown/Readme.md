@@ -1,5 +1,5 @@
 ## Lenguaje Markdown
-Keywords: `Markdown` `HTML` `LaTeX`
+Keywords: `Markdown` `HTML` `LaTeX` `mermaid` `geoJSON`
 
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
 
@@ -68,18 +68,18 @@ print('x^y = %d', potencia)
 #### Tablas
 
 ```
-| Columna | Alineación izquierda | Centrada | Alineación derecha |
+|         | Alineación izquierda | Centrada | Alineación derecha |
 |---------|:---------------------|:--------:|-------------------:|
 | Fila 1  | Texto                |  Texto   |               1.27 |
 | Fila 2  | Texto                |  Texto   |               16.4 |
 | Fila 3  | Texto                |  Texto   |               3.14 |
 ```
 
-| Columna | Alineación izquierda | Centrada | Alineación derecha |
-|---------|:---------------------|:--------:|-------------------:|
-| Fila 1  | Texto                |  Texto   |               1.27 |
-| Fila 2  | Texto                |  Texto   |               16.4 |
-| Fila 3  | Texto                |  Texto   |               3.14 |
+|        | Alineación izquierda | Centrada | Alineación derecha |
+|--------|:---------------------|:--------:|-------------------:|
+| Fila 1 | Texto                |  Texto   |               1.27 |
+| Fila 2 | Texto                |  Texto   |               16.4 |
+| Fila 3 | Texto                |  Texto   |               3.14 |
 
 
 #### Mostrar una imagen
