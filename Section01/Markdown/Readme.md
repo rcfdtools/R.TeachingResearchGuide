@@ -29,19 +29,22 @@ Algunos de los beneficios de usar Markdown son:
 
 ### Ejemplos básicos de Markdown
 
-| Ejemplo                                       | Sintaxis                                        |
-|:----------------------------------------------|:------------------------------------------------|
-| # Título nivel 1                              | `# Título nivel 1`                              |
-| ## Título nivel 2                             | `## Título nivel 1`                             |
-| ### Título nivel 2                            | `### Título nivel 3`                            |
-| _Texto en itálica_                            | `_Texto en itálica_`                            |
-| *Texto en itálica*                            | `*Texto en itálica*`                            |
-| **Texto en negrilla**                         | `**Texto en negrilla resaltada**`               |
-| ~~Texto tachado~~                             | `~~Texto tachado~~`                             |
-| `Ejemplo de código`                           | ``Ejemplo de código``                           |
-| [Hipervínculo](https://github.com/rcfdtools/) | `[Hipervínculo](https://github.com/rcfdtools/)` |
-|                                               |                                                 |
-|                                               |                                                 |
+| Ejemplo                                                | Sintaxis                                                             |
+|:-------------------------------------------------------|:---------------------------------------------------------------------|
+| # Título nivel 1                                       | `# Título nivel 1`                                                   |
+| ## Título nivel 2                                      | `## Título nivel 1`                                                  |
+| ### Título nivel 2                                     | `### Título nivel 3`                                                 |
+| _Texto en itálica_                                     | `_Texto en itálica_`                                                 |
+| *Texto en itálica*                                     | `*Texto en itálica*`                                                 |
+| **Texto en negrilla o énfasis**                        | `**Texto en negrilla o énfasis**`                                    |
+| ~~Texto tachado~~                                      | `~~Texto tachado~~`                                                  |
+| `Ejemplo de código o variable`                         | ``Ejemplo de código de una línea o para resalte de palabras clave``  |
+| [Hipervínculo](https://github.com/rcfdtools/)          | `[Hipervínculo](https://github.com/rcfdtools/)`                      |
+| <kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd> | `<kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd>`             |
+| > Citación de texto                                    | `> Citación de texto`                                                |
+| Salto de línea<br>usando HTML                          | `Salto de línea<br>usando HTML`                                                |
+|                                                        |                                                 |
+|                                                        |                                                 |
 
 
 #### Hiperenlace a video de youtube centrado en marco div de HTML
@@ -65,7 +68,17 @@ potencia = x**y
 print('x^y = %d', potencia)
 ```
 
+#### Mostrar una ilustración
 
+Ilustración embebida  
+`![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`
+![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")
+
+Ilustración como HTML con tamaño definido 
+<img alt="Logo de R.TeachingResearchGuide" height="20" src="![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg &quot;Ilustración ejemplo&quot;)" title="Ilustración ejemplo" width="80"/>
+
+Ilustración como HTML con centrado  
+<0div align="center"><img alt="Logo de R.TeachingResearchGuide" height="20" src="![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg &quot;Ilustración ejemplo&quot;)" title="Ilustración ejemplo" width="80"/></div>
 
 
 ### Preguntas y respuestas Q&A
