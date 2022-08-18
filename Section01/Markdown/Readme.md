@@ -89,7 +89,7 @@ print('x^y = %d', potencia)
 
 ### Ecuaciones con LaTeX
 
-\I = \int \rho R^{2} dV\
+$I = \int \rho R^{2} dV$
 
 
 ### Otras marcas
