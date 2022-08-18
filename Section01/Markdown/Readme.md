@@ -117,6 +117,15 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 Ejemplo simple de un diagrama de flujo:
 
+```
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ```mermaid
 graph TD;
     A-->B;
