@@ -53,14 +53,9 @@ Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. 
 
 #### [Google Code](https://code.google.com/)
 
-El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google. Desafortunadamente en la actualidad el acceso a estos proyectos es de solo lectura, por lo que no pueden subirse nuevos códigos, aunque sí utilizar los existentes.
+El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google.
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=MqL6BMOySIQ" target="_blank"><img src="http://img.youtube.com/vi/MqL6BMOySIQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a><sub><br>https://www.youtube.com/watch?v=MqL6BMOySIQ</sub><br><br><</div>
-
-Es una plataforma pequeña, con un objetivo marcado y que debe su auge al ser una herramienta creada por Google. Algunos de los proyectos que brinda son:
-
-* Gears: un software beta para acceder a servicios en la red, sin necesidad de que los usuarios están conectados. Una vez que se habilita una conexión, los sistemas se sincronizan y se actualizan.
-* Google Web Toolkit: es un conjunto de herramientas que facilitan la creación de aplicaciones Ajax y otras acciones sobre Java
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=_nOzAsz6EHI" target="_blank"><img src="http://img.youtube.com/vi/_nOzAsz6EHI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a><sub><br>https://www.youtube.com/watch?v=_nOzAsz6EHI</sub><br><br><</div>
 
 Servicios principales visibles en code.google.com
 
