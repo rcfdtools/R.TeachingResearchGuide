@@ -52,8 +52,17 @@ Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos
 
 ### Ciclo de vida de repositorios en GitHub
 
-Conceptos generales de Branch, Commit, Pull request, Pull, Fork.
+Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 
+**Branch**: las ramas en Git son utilizadas para de forma aislada, realizar modificaciones y depuraciones de prueba en el código o la documentación sin afectar la rama principal. En un repositorio pueden existir múltiples ramificaciones y una vez se verifica que los cambios son válidos, estos son incorporados a la rama principal.[^2]
+
+**Pull-request**: una solicitud de incorporación de cambios es una forma de pedirle a otro desarrollador que fusione una de tus ramas en su repositorio. Esto no solo permite a los responsables del proyecto realizar un seguimiento de los cambios más fácilmente, sino que además permite a los desarrolladores iniciar debates sobre su trabajo antes de integrarlo con el resto del código base. Dado que son esencialmente un hilo de comentarios adjunto a una rama de funciones, las solicitudes de incorporación de cambios son muy versátiles. Cuando un desarrollador se queda atascado con un problema complejo, puede iniciar una solicitud de incorporación de cambios para pedir ayuda al resto del equipo. Por otra parte, los desarrolladores junior pueden estar seguros de que no están destruyendo todo el proyecto al tratar las solicitudes de incorporación de cambios como una revisión formal del código.[^3]
+
+**Push**: la incorporación de las modificaciones realizadas a un documento Markdown, a ún código o a cualquier elemento nuevo dentro del repositorio, son realizadas a través de una carga o Push.
+
+**Commit**: al realizar modificaciones sobre el código o la documentación, es necesario incluir comentarios que ayuden a los demás usuarios a entender los cambios realizados. 
+
+**Fork**: en GitHub, cualquier usuario puede clonar un repositorio creado por otro usuario y este aparecerá dentro de los repositorios del usuario que realizó la clonación. Complementariamente, usuarios pueden descargar un comprimido completo de un repositorio específico.
 
 
 ### Preguntas y respuestas Q&A
@@ -88,3 +97,5 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 [^1]: https://www.atlassian.com/es/git/tutorials/what-is-git
+[^2]: https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+[^3]: https://www.atlassian.com/es/git/tutorials/why-git
