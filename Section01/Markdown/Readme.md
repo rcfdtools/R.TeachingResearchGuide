@@ -26,25 +26,22 @@ Algunos de los beneficios de usar Markdown son:
 | Generación automática de reportes .md a través de generadores de código        | Utilizando cualquier lenguaje de programación, se pueden generar fácilmente reportes en formato Markdown a partir de datos base y los resultados (textos descriptivos, tablas, gráficos) pueden publicarse y asociarse mediante objetos dentro de carpetas de publicación.                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Control de versiones                                                           | Al estar embebidos y al ser interpretables por GitHub, se realiza automáticamente el seguimiento a los cambios realizados por uno o múltiples usuarios, por lo que en desarrollo colaborativo, se pueden identificar los cambios, actualizaciones e integraciones realizadas por cada usuario e incluso revertir cambios sobre el documento. Para cada nueva versión, en GitHub se pueden incluir en los _Commit_, comentarios detallados de los cambios realizados sobre el documento publicado.                                                                                                                                                                                                         |
 
-
 ### Ejemplos básicos de Markdown
 
-| Ejemplo                                                | Sintaxis                                                             |
-|:-------------------------------------------------------|:---------------------------------------------------------------------|
-| # Título nivel 1                                       | `# Título nivel 1`                                                   |
-| ## Título nivel 2                                      | `## Título nivel 1`                                                  |
-| ### Título nivel 2                                     | `### Título nivel 3`                                                 |
-| _Texto en itálica_                                     | `_Texto en itálica_`                                                 |
-| *Texto en itálica*                                     | `*Texto en itálica*`                                                 |
-| **Texto en negrilla o énfasis**                        | `**Texto en negrilla o énfasis**`                                    |
-| ~~Texto tachado~~                                      | `~~Texto tachado~~`                                                  |
-| `Ejemplo de código o variable`                         | ``Ejemplo de código de una línea o para resalte de palabras clave``  |
-| [Hipervínculo](https://github.com/rcfdtools/)          | `[Hipervínculo](https://github.com/rcfdtools/)`                      |
-| <kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd> | `<kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd>`             |
-| > Citación de texto                                    | `> Citación de texto`                                                |
-| Salto de línea<br>usando HTML                          | `Salto de línea<br>usando HTML`                                                |
-|                                                        |                                                 |
-|                                                        |                                                 |
+| Ejemplo                                                | Sintaxis                                                            |
+|:-------------------------------------------------------|:--------------------------------------------------------------------|
+| # Título nivel 1                                       | `# Título nivel 1`                                                  |
+| ## Título nivel 2                                      | `## Título nivel 1`                                                 |
+| ### Título nivel 2                                     | `### Título nivel 3`                                                |
+| _Texto en itálica_                                     | `_Texto en itálica_`                                                |
+| *Texto en itálica*                                     | `*Texto en itálica*`                                                |
+| **Texto en negrilla o énfasis**                        | `**Texto en negrilla o énfasis**`                                   |
+| ~~Texto tachado~~                                      | `~~Texto tachado~~`                                                 |
+| `Ejemplo de código o variable`                         | ``Ejemplo de código de una línea o para resalte de palabras clave`` |
+| [Hipervínculo](https://github.com/rcfdtools/)          | `[Hipervínculo](https://github.com/rcfdtools/)`                     |
+| <kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd> | `<kbd>Combinación</kbd> <kbd>de</kbd> <kbd>teclas</kbd>`            |
+| > Citación de texto                                    | `> Citación de texto`                                               |
+| Salto de línea<br>usando HTML                          | `Salto de línea<br>usando HTML`                                     |
 
 
 #### Hiperenlace a video de youtube centrado en marco div de HTML
@@ -67,6 +64,28 @@ y = 3
 potencia = x**y
 print('x^y = %d', potencia)
 ```
+
+#### Tablas
+
+
+Tablas básicas  
+```
+| Columna 1 | Columna 1 | Columna 1 |
+|-----------|-----------|-----------|
+| Fila 1    | Texto     | Texto     |
+| Fila 2    | Texto     | Texto     |
+| Fila 3    | Texto     | Texto     |
+```
+
+| Columna 1 | Columna 1 | Columna 1 |
+|-----------|-----------|-----------|
+| Fila 1    | Texto     | Texto     |
+| Fila 2    | Texto     | Texto     |
+| Fila 3    | Texto     | Texto     |
+
+
+
+
 
 #### Mostrar una imagen
 
@@ -140,6 +159,7 @@ graph TD;
 
 Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https://geojson.org/)
 
+```
 ```geojson
 {
   "type": "Feature",
@@ -153,7 +173,6 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 }
 ```
 
-```
 ```geojson
 {
   "type": "Feature",
@@ -166,12 +185,14 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
   }
 }
 ```
+
 
 
 #### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
+* Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin.
 
 
 
