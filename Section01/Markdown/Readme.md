@@ -115,6 +115,8 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 ### Creación de diagramas[^3]
 
+Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
+
 Ejemplo simple de un diagrama de flujo:
 
 ```
@@ -124,6 +126,7 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+    A-->D;
 ```
 
 ```mermaid
@@ -132,14 +135,8 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+    A-->D;
 ```
-
-mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
 
 
 ### Otras marcas
