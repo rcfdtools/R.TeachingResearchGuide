@@ -147,7 +147,7 @@ En la sección `<> Code`
 
 | Versión    | Descripción      | Autor                                      | Horas |
 |------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.18 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  0.0  |
+| 2022.08.18 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
