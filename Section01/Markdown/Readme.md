@@ -153,7 +153,7 @@ graph TD;
           "type": "Point",
           "properties": {"prop0": "value0"},
           "coordinates": [4000, 5000]
-        }
+        },
           "arcs": [[1]]
         }
       ]
