@@ -236,7 +236,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 >
 > En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
 > 
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias
