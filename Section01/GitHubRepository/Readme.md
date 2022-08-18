@@ -19,9 +19,9 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 > En la ventana de creación aparecerán mensajes indicando si la cuenta de correo utilizada ya está siendo utilizada por otro usuario, password válido y nombre disponible para la creación del usuario GitHub.  
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterYourEmail.png)
 
-> Recomendación de correo asociado: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
+> **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
 > 
-> Recomendación para nombres de usuario: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en  GitHub, **No** es recomendable usar su nombre o información personal. Si es propietario de una empresa, no utilice este nombre para crear su perfil, cree el espacio compartido colaborativo a través de una Organización de GitHub.  
+> **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en  GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no use este nombre para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
 
 3. Para terminar con la creación de cuenta, verifique la creación de su cuenta seleccionando o solucionando el rompecabezas que aparece en pantalla y de clic en el botón `Create account`. Será enviado un código de verificación a su cuenta de correo.
 
@@ -36,12 +36,18 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 5. Para visualizar su espacio personal y los repositorios creados asociados, ingrese su nombre de usuario después de nombre de dominio `https://github.com/rcfdtoolstest`
 
-
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubHome.png)
 
 
 ### Creación de mi primer repositorio
 
-1. 
+1. En la parte superior derecha de su ventana de GitHub, de clic en el botón `+` y seleccione la opción `New repository`.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubNewRepository.png)
+
+2.  
+
+
 
 
 
