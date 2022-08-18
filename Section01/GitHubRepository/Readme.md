@@ -67,7 +67,6 @@ Para finalizar la creación del repositorio, de clic en el botón `Create reposi
 
 Ejemplo de licencia MIT
 
-
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -89,6 +88,33 @@ En la dirección de su navegador podrá observar el nombre de su cuenta de usuar
 Para clonar o descargar el repositorio, en el botón `Code` encontrará opciones para generar una URL de clonación, [GitHub command line - CLI](https://cli.github.com/), apertura y sincronización desde GitHub Desktop y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestCode.png)
+
+Al encontrarse su sesión de usuario abierta en el navegador, ingresando https://github.com/, podrá observar que en el panel izquierdo aparece su repositorio en recientes.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRecent.png)
+
+
+### Opciones predeterminadas disponibles para repositorios nuevos
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestCodeSections.png)
+
+En la parte superior de la ventana del repositorio, podrá encontrar las siguientes secciones:
+
+| Sección      | Utilidad                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <> Code      | Ventana principal del repositorio donde se encuentran los archivos y carpetas del proyecto, investigación, e-book. Por defecto, todos los archivos se encuentran en el `main` del repositorio y pueden existir múltiples ramas o `branch`.                                                                                                                                                                                           |
+| Issues       | Los Issues son utilizados para elementos del repositorio, reportar errores que necesitan ser ajustados en nuevas versiones, solicitar nuevas funcionalidades, referenciar otras fuentes o métodos y en general se convierten en la lista de tareas pendientes que se deben ir solucionando. Issues permite la creación de plantillas para facilitar el reporte por parte de los usuarios.                                            |
+| Pull request | Cuando un usuario o un colaborador clona el repositorio y realiza ajustes, correcciones, actualizaciones, nuevas implementaciones; estas pueden ser incorporadas a través de peticiones de incorporación o Pull request. Una vez el propietario o colaborador directo revisa los cambios, estos pueden ser incorporados al main del proyecto y quedan documentados a través de Commit's.                                             |
+| Actions      | GitHub actions permite crear, probar y depurar el código creado a través de flujos de procesos. Durante las acciones se pueden documentar las revisiones, administrar las diferentes ramas de prueba y clasificar los problemas encontrados para colocarlos en la lista de pendientes de Issues.                                                                                                                                     |
+| Projects     | Esta herramienta permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                                                                                                                                     |
+| Wiki         | Wikis es el lugar donde se crea la documentación general del repositorio, permite incluir múltiples archivos Markdown para generar, p. ej. el índice general de contenidos, referencias generales, licencia de uso y un listado de abreviaturas.                                                                                                                                                                                     |
+| Security     | Desde esta pestaña se establecen las políticas generales y recomendaciones de seguridad, además de la configuración de herramientas para detectar vulnerabilidades.                                                                                                                                                                                                                                                                  |
+| Insights     | Esta pestaña permite monitorear todo lo que sucede en el repositorio, p. ej. el total de incorporaciones realizadas, las incorporaciones pendientes, los problemas identificados y resueltos, las acciones realizadas, los contribuidores, el tráfico hacia el repositorio como el número de veces que ha sido clonado o visitado, la frecuencia con la que se trabaja en el repositorio, gráficas de dependencia y linea de tiempo. |
+| Settings     | Configuración general del repositorio, definición de colaboradores, opciones de moderación, administración de ramas, definición de etiquetas, acciones, ambientes, páginas, integraciones y otros.                                                                                                                                                                                                                                   |
+
+> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discussiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General..
+
+
 
 
 ### Preguntas y respuestas Q&A
