@@ -1,11 +1,12 @@
 ## ¿Qué es el lenguaje Markdown?
 Keywords: `Markdown` `HTML` `LaTeX`
 
-Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.                                                                                                                                                            
+Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
+
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/Markdown/Graph/Markdown.svg" width="30%"><br><br>
 </div>
-
+                                                                                                                                                      
 
 ### Conceptos básicos y beneficios[^1]
 
@@ -38,6 +39,8 @@ Algunos de los beneficios de usar Markdown son:
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido.
 >
+> En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
+> 
 > Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
@@ -47,6 +50,7 @@ Algunos de los beneficios de usar Markdown son:
 * https://www.markdownguide.org/extended-syntax/
 * https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
