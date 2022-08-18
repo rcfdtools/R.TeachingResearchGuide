@@ -29,15 +29,16 @@ Algunos de los beneficios de usar Markdown son:
 
 ### Ejemplos básicos de Markdown
 
-| Ejemplo            |                       |
-|--------------------|-----------------------|
-| # Título nivel 1   | `# Título nivel 1`    |
-| ## Título nivel 2  | `## Título nivel 1`   |
-| ### Título nivel 2 | `### Título nivel 3` |
-|                    |                       |
-|                    |                       |
-|                    |                       |
-|                    |                       |
+| Ejemplo                         | Sintaxis                           |
+|---------------------------------|------------------------------------|
+| # Título nivel 1                | `# Título nivel 1`                 |
+| ## Título nivel 2               | `## Título nivel 1`                |
+| ### Título nivel 2              | `### Título nivel 3`               |
+| _Texto en itálica_              | `_Texto en itálica_`               |
+| *Texto en negrilla simple*      | `*Texto en negrilla simple*`       |
+| **Texto en negrilla resaltada** | ` **Texto en negrilla resaltada**` |
+|                                 |                                    |
+|                                 |                                    |
 
 
 #### Hiperenlace a video de youtube centrado en marco div de HTML
