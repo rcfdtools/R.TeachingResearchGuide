@@ -68,20 +68,21 @@ potencia = x**y
 print('x^y = %d', potencia)
 ```
 
-#### Mostrar una ilustración
+#### Mostrar una imagen
 
 **Ilustración embebida**  
 `![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
 ![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")
 
-**Ilustración como HTML con tamaño definido**  
-`<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="100px">`  
-<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="100px">
+**Ilustración con HTML y tamaño definido**  
+`<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px">`  
+<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px">
 
-**Ilustración como HTML con centrado**  
-`<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="100px"></div>`  
-<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="100px"></div>
+**Ilustración con HTML y centrado**  
+`<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div>`  
+<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div>
 
+> Para ilustraciones embebidas utilizando únicamente el lenguaje de marcas Markdown, se utiliza el tamaño original de la imagen. En caso de que el tamaño exceda el ancho de pantalla, esta se ajusta al 100% del ancho disponible para visualización.
 
 ### Preguntas y respuestas Q&A
 
