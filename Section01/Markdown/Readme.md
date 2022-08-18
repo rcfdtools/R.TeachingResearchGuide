@@ -138,34 +138,31 @@ graph TD;
     A-->D;
 ```
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72,4]
-      }
-    }
-  ]
-}
-```
+Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https://geojson.org/)
 
 ```geojson
 {
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [125.6, 10.1]
+    "coordinates": [-74.043193, 4.783243]
   },
   "properties": {
-    "name": "Dinagat Islands"
+    "name": "Universidad Escuela Colombiana de Ingeniería Julio Garavito"
+  }
+}
+```
+
+```
+```geojson
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.043193, 4.783243]
+  },
+  "properties": {
+    "name": "Universidad Escuela Colombiana de Ingeniería Julio Garavito"
   }
 }
 ```
