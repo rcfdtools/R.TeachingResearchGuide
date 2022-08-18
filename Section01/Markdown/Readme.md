@@ -3,7 +3,7 @@ Keywords: `Markdown` `HTML` `LaTeX`
 
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.                                                                                                                                                            
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/Markdown/Graph/Markdown.png" width="80%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/Markdown/Graph/Markdown.svg" width="40%"><br><br>
 </div>
 
 
