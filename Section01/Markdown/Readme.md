@@ -1,4 +1,4 @@
-## Lenguaje Markdown
+## Lenguaje Markdown y escritura en GitHub
 Keywords: `Markdown` `HTML` `LaTeX` `mermaid` `geoJSON`
 
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
@@ -181,6 +181,18 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 }
 ```
 
+#### emojis
+
+|       Ícono        | shortcode            | Utilidad                                                                                             |
+|:------------------:|:---------------------|:-----------------------------------------------------------------------------------------------------|
+|      :house:       | `:house:`            | Ir al inicio de la documentación wiki o del catálogo general de actividades del curso o del proyecto |
+|     :beginner:     | `:beginner:`         | Solicitar a través de discusiones: ayuda, soporte, enviar preguntas o respuestas, ideas...           |
+|   :mortar_board:   | `:mortar_board:`     | Referenciar otra actividad previa o indicar como aprender.                                           |
+| :open_file_folder: | `:open_file_folder:` | Elemento descargable mediante uno o varios enlaces.                                                  |
+|       :new:        | `:new:`              | Elemento nuevo en cualquier sección, actividad o en documentación.                                   |
+|   :lady_beetle:    | `:lady_beetle:`      | Solución de errores o bugs.                                                                          |
+|     :pencil2:      | `:pencil2:`          | Actividades complementarias a desarrollar por el estudiante.                                         |
+
 
 #### Otras marcas
 
@@ -207,6 +219,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 
 ### Referencias
 
+Markdown generales  
 * [Curso de #Markdown desde cero, ProgramaTutos en Youtube](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ)
 * https://www.markdownguide.org/basic-syntax/
 * https://www.markdownguide.org/extended-syntax/
@@ -217,6 +230,9 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
 * https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
+* https://geojson.org/
+
+emojis  
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
 * emojis https://gist.github.com/rxaviers/7360908
 * emojis https://www.webfx.com/tools/emoji-cheat-sheet/
