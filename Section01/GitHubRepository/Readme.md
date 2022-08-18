@@ -8,12 +8,34 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 </div>
                                                                                                                                                       
 
-### Procedimiento
+### Creación de usuario
 
 1. Ingrese a https://github.com/ y de clic en la opción `Sign up`
 
-![R.TeachingResearchGuide](ddddd)
-GitHubSingUp
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubSingUp.png)
+
+2. En la ventana de registro, ingrese su dirección de correo electrónico, establezca una contraseña segura, defina su nombre de usuario, indique con `y/n` si desea recibir notificaciones por correo y de clic en el botón `Continue`. Para este ejemplo, crearé la cuenta de usuario `rcfdtoolstest`.
+
+> En la ventana de creación aparecerán mensajes indicando si la cuenta de correo utilizada ya está siendo utilizada por otro usuario, password válido y nombre disponible para la creación del usuario GitHub.  
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterYourEmail.png)
+
+> Recomendación: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
+
+3. Para terminar con la creación de cuenta, verifique la creación de su cuenta seleccionando o solucionando el rompecabezas que aparece en pantalla y de clic en el botón `Create account`. Será enviado un código de verificación a su cuenta de correo.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubVerifyAccount.png)
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubCreateAccount.png)
+
+4. Ingrese el código de verificación recibido en su cuenta de correo, automáticamente será dirigido a la raíz de su espacio GitHub.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEmailCode.png)
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterCode.png)
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubMain.png)
+
+> Para visualizar su espacio personal y los repositorios creados asociados, ingrese su nombre de usuario después de nombre de dominio `https://github.com/rcfdtoolstest`
+
+
+### Creación de repositorio
 
 
 
