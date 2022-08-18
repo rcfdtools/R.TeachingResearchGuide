@@ -29,16 +29,19 @@ Algunos de los beneficios de usar Markdown son:
 
 ### Ejemplos básicos de Markdown
 
-| Ejemplo                         | Sintaxis                           |
-|---------------------------------|------------------------------------|
-| # Título nivel 1                | `# Título nivel 1`                 |
-| ## Título nivel 2               | `## Título nivel 1`                |
-| ### Título nivel 2              | `### Título nivel 3`               |
-| _Texto en itálica_              | `_Texto en itálica_`               |
-| *Texto en negrilla simple*      | `*Texto en negrilla simple*`       |
-| **Texto en negrilla resaltada** | ` **Texto en negrilla resaltada**` |
-|                                 |                                    |
-|                                 |                                    |
+| Ejemplo                                       | Sintaxis                                        |
+|:----------------------------------------------|:------------------------------------------------|
+| # Título nivel 1                              | `# Título nivel 1`                              |
+| ## Título nivel 2                             | `## Título nivel 1`                             |
+| ### Título nivel 2                            | `### Título nivel 3`                            |
+| _Texto en itálica_                            | `_Texto en itálica_`                            |
+| *Texto en itálica*                            | `*Texto en itálica*`                            |
+| **Texto en negrilla**                         | `**Texto en negrilla resaltada**`               |
+| ~~Texto tachado~~                             | `~~Texto tachado~~`                             |
+| `Ejemplo de código`                           | `Ejemplo de código`                             |
+| [Hipervínculo](https://github.com/rcfdtools/) | `[Hipervínculo](https://github.com/rcfdtools/)` |
+|                                               |                                                 |
+|                                               |                                                 |
 
 
 #### Hiperenlace a video de youtube centrado en marco div de HTML
