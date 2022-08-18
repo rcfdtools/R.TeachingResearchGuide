@@ -34,7 +34,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterCode.png)
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubMain.png)
 
-5. Para visualizar su espacio personal y los repositorios creados asociados, ingrese su nombre de usuario después de nombre de dominio `https://github.com/rcfdtoolstest`
+5. Para visualizar su espacio personal y los repositorios creados asociados, ingrese su nombre de usuario después del nombre de dominio `https://github.com/rcfdtoolstest`
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubHome.png)
 
@@ -45,8 +45,38 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubNewRepository.png)
 
-2.  
+2. En la ventana de creación de repositorio nuevo, ingrese el nombre del repositorio, p. ej. `repotest` e ingrese una descripción general de su propósito.
 
+Defina su el repositorio será de uso Público o Privado, si es público, cualquier usuario de Internet podrá visualizar, clonar o descargar la información contenida dentro del respositorio; si es privado, usted podrá decidir quien o quienes pueden acceder al respositorio.
+
+> Para los dos tipos de repositorio, el creador podrá decidir si integra o no las modificaciones que los usuarios propongan a través de commit's.
+
+Para inicializar un repositorio, uste puede decidir si quiere incluir el primer archivo de documentación `Readme.md` en formato Markdown sobre la raíz. También podrá incluir el archivo de exclusiones `.gitignore` que le permitirá realizar exclusiones de archivos y directorios que no hacen parte de la información pública que se sincronizará desde unidades locales cuando la gestión del repositorio se realiza con una herramienta externa directamente desde su equipo. Para este ejemplo incluiremos estas dos opciones sin definir una plantilla prototipo para .gitignore.
+
+> En caso de que no cree el archivo Readme.md y .gitingore, estos podrán ser creados manualmente.
+> 
+> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`.
+
+Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferentes licencias disponibles orientadas a desarrollo de software o a producción de contenido audiovisual. Generalmente, los usuarios seleccionan la [Licencia MIT](https://opensource.org/licenses/MIT) debido a que confiere uso abierto completo pero sin ningún tipo de garantía o responsabilidad.
+
+> Para este ejemplo no especificaremos una licencia debido a que utilizaremos una licencia derivada que será documentada desde el centro de documentación wiki de este ejemplo.
+
+Para finalizar la creación del repositorio, de clic en el botón `Create repository`
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubCreateRepository.png)
+
+Ejemplo de licencia MIT
+
+
+```
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 
 
 
@@ -65,7 +95,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 ### Referencias
 
-* 
+* https://opensource.org/licenses/MIT
 
 
 ### Control de versiones
