@@ -65,8 +65,7 @@ potencia = x**y
 print('x^y = %d', potencia)
 ```
 
-#### Tablas  
-https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+#### [Tablas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
 
 ```
 |         | Alineación izquierda | Centrada | Alineación derecha |
@@ -123,8 +122,7 @@ https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-f
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-#### Escritura de expresiones matemáticas con LaTeX[^3]  
-https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+#### [Escritura de expresiones matemáticas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) con LaTeX[^3]  
 
 ```
 La potencia de la corriente se define como la energía disponible por unidad de área1:  
@@ -150,8 +148,7 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
-#### Diagramas[^4]  
-https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+#### [Diagramas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
 
 Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
 
@@ -205,7 +202,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 }
 ```
 
-#### emojis
+#### [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 
 |       Ícono        | shortcode            | Utilidad                                                                                             |
 |:------------------:|:---------------------|:-----------------------------------------------------------------------------------------------------|
