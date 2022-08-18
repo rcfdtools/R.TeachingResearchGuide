@@ -86,14 +86,16 @@ print('x^y = %d', potencia)
 > 
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
+
 ### Ecuaciones con LaTeX
 
+\I = \int \rho R^{2} dV\
 
 
 ### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
-* Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo.` Tenga en cuenta que una misma nota a pir puede ser llamada múltiples veces dentro de un mismo documento. 
+* Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
 
 
 
@@ -120,10 +122,12 @@ print('x^y = %d', potencia)
 * https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://github.com/tchapi/markdown-cheatsheet
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
 * emojis https://gist.github.com/rxaviers/7360908
+* emojis https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
 ### Control de versiones
