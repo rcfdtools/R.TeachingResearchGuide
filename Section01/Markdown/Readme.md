@@ -150,14 +150,7 @@ graph TD;
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
+        "coordinates": [-90,35]
         ]
       }
     }
