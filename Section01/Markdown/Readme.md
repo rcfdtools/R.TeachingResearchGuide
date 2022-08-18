@@ -142,7 +142,7 @@ graph TD;
 {
   "type": "Topology",
   "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "scale": [0.01, 0.01],
     "translate": [100, 0]
   },
   "objects": {
