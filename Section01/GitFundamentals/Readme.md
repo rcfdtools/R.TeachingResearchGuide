@@ -42,14 +42,6 @@ Uno de los objetivos clave de Git en cuanto al diseño es la flexibilidad. Git e
 Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios. No todos los sistemas de control de versiones ofrecen este nivel de seguimiento.
 
 
-### Recursos para aprendizaje Git
-
-* [Atlassian Bitbucket - Aprende Git](https://www.atlassian.com/es/git/tutorials/what-is-git): guía fundamental de Git.
-* [freeCodeCamp - Git and GitHub Crash Course](https://www.freecodecamp.org/news/git-and-github-crash-course/): curso en video de conceptos generales de Git.
-* [freeCodeCamp - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg): curso en video con herramientas y conceptos de Git.
-* [edureka! - Git & GitHub Full Course in 5 Hours | Git GitHub Tutorial for Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=KMOmw19ZCGs): curso completo de Git y Github para principantes.
-
-
 ### Ciclo de vida de repositorios en GitHub
 
 Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
@@ -63,6 +55,14 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 **Commit**: al realizar modificaciones sobre el código o la documentación, es necesario incluir comentarios que ayuden a los demás usuarios a entender los cambios realizados. 
 
 **Fork**: en GitHub, cualquier usuario puede clonar un repositorio creado por otro usuario y este aparecerá dentro de los repositorios del usuario que realizó la clonación. Complementariamente, usuarios pueden descargar un comprimido completo de un repositorio específico.
+
+
+### Recursos para aprendizaje Git
+
+* [Atlassian Bitbucket - Aprende Git](https://www.atlassian.com/es/git/tutorials/what-is-git): guía fundamental de Git.
+* [freeCodeCamp - Git and GitHub Crash Course](https://www.freecodecamp.org/news/git-and-github-crash-course/): curso en video de conceptos generales de Git.
+* [freeCodeCamp - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg): curso en video con herramientas y conceptos de Git.
+* [edureka! - Git & GitHub Full Course in 5 Hours | Git GitHub Tutorial for Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=KMOmw19ZCGs): curso completo de Git y Github para principiantes.
 
 
 ### Preguntas y respuestas Q&A
