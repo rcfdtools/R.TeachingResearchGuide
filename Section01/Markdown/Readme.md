@@ -194,7 +194,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [[-74.043193, 4.783243], [-75.043193, 4.783243]]
+    "coordinates": [-74.043193, 4.783243]
   },
   "properties": {
     "name": "Universidad Escuela Colombiana de Ingeniería Julio Garavito"
