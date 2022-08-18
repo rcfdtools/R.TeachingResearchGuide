@@ -65,7 +65,7 @@ Para finalizar la creación del repositorio, de clic en el botón `Create reposi
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubCreateRepository.png)
 
-Ejemplo de licencia MIT
+[Ejemplo de licencia MIT](https://opensource.org/licenses/MIT)
 
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
