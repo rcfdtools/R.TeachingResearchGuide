@@ -89,9 +89,9 @@ print('x^y = %d', potencia)
 
 ### Ecuaciones con LaTeX[^2]
 
-La potencia de la corriente se define como la energía disponible por unidad de área1:
-
 ```
+La potencia de la corriente se define como la energía disponible por unidad de área1:  
+
 $P=\gamma y S_{0} V$
 
 Donde:
