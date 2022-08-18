@@ -87,7 +87,7 @@ print('x^y = %d', potencia)
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-### Ecuaciones con LaTeX[^2]
+#### Ecuaciones con LaTeX[^2]
 
 ```
 La potencia de la corriente se define como la energía disponible por unidad de área1:  
@@ -113,11 +113,11 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
-### Creación de diagramas[^3]
+#### Creación de diagramas[^3]
 
 Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
 
-Ejemplo simple de un diagrama de flujo:
+Ejemplo simple de un diagrama de flujo con [mermaid](https://mermaid-js.github.io/mermaid/#/):
 
 ```
 ```mermaid
@@ -138,8 +138,43 @@ graph TD;
     A-->D;
 ```
 
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
 
-### Otras marcas
+
+#### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
@@ -164,6 +199,7 @@ graph TD;
 
 ### Referencias
 
+* [Curso de #Markdown desde cero, ProgramaTutos en Youtube](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ)
 * https://www.markdownguide.org/basic-syntax/
 * https://www.markdownguide.org/extended-syntax/
 * https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
