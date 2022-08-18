@@ -38,7 +38,7 @@ Algunos de los beneficios de usar Markdown son:
 | *Texto en itálica*                            | `*Texto en itálica*`                            |
 | **Texto en negrilla**                         | `**Texto en negrilla resaltada**`               |
 | ~~Texto tachado~~                             | `~~Texto tachado~~`                             |
-| `Ejemplo de código`                           | `Ejemplo de código`                             |
+| `Ejemplo de código`                           | ``Ejemplo de código``                           |
 | [Hipervínculo](https://github.com/rcfdtools/) | `[Hipervínculo](https://github.com/rcfdtools/)` |
 |                                               |                                                 |
 |                                               |                                                 |
@@ -51,6 +51,21 @@ Algunos de los beneficios de usar Markdown son:
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
 
 > Para embeber sus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube.
+
+
+#### Ejemplo de script con múltiples líneas
+
+Se utilizan 3 comillas invertidas al inicio y fin de las líneas de códico ```
+
+```
+# Ejemplo de potenciación en Python
+x = 2
+y = 3
+potencia = x**y
+print('x^y = %d', potencia)
+```
+
+
 
 
 ### Preguntas y respuestas Q&A
