@@ -84,11 +84,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 > Recuerde que la documentación del proyecto principalmente se realiza a través de archivos Markdown en formato .md, y GitHub puede interpretar y mostrar en pantalla el contenido del archivo con su traducción a HTML para su visualización.
 
-En la dirección de su navegador podrá observar el nombre de su cuenta de usuario y en nombre del repositorio creado como `https://github.com/rcfdtoolstest/repotest`. Desde este momento, el repositorio se encuentra visible en Internet y puede ser consultado por cualquier usuario debido a que es público.
+En la dirección de su navegador podrá observar el nombre de su cuenta de usuario y el nombre del repositorio creado `https://github.com/rcfdtoolstest/repotest`. Desde este momento, el repositorio se encuentra visible en Internet y puede ser consultado por cualquier usuario debido a que es público.
 
-Para clonar o descargar el repositorio, en el botón Code encontrará opciones para generar una URL de clonación, apertura y sincronización desde GitHub Desktop y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
+Para clonar o descargar el repositorio, en el botón `Code` encontrará opciones para generar una URL de clonación, [GitHub command line - CLI](https://cli.github.com/), apertura y sincronización desde GitHub Desktop y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
 
-
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestCode.png)
 
 
 ### Preguntas y respuestas Q&A
