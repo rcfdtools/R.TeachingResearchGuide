@@ -48,9 +48,9 @@ Algunos de los beneficios de usar Markdown son:
 
 `<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br><</div>`
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
 
-> Para embeber sus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube.
+> Para embeber sus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube. Utilice `height="360"` para definir el alto de la imagen de referencia 
 
 
 #### Script con múltiples líneas
@@ -147,6 +147,7 @@ $V$ = Velocidad media de la corriente $[m/s]$
 $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$  
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
+
 
 #### [Diagramas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
 
