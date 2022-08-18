@@ -26,7 +26,7 @@ Algunos de los beneficios de usar Markdown son:
 | Generación automática de reportes .md a través de generadores de código        | Utilizando cualquier lenguaje de programación, se pueden generar fácilmente reportes en formato Markdown a partir de datos base y los resultados (textos descriptivos, tablas, gráficos) pueden publicarse y asociarse mediante objetos dentro de carpetas de publicación.                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Control de versiones                                                           | Al estar embebidos y al ser interpretables por GitHub, se realiza automáticamente el seguimiento a los cambios realizados por uno o múltiples usuarios, por lo que en desarrollo colaborativo, se pueden identificar los cambios, actualizaciones e integraciones realizadas por cada usuario e incluso revertir cambios sobre el documento. Para cada nueva versión, en GitHub se pueden incluir en los _Commit_, comentarios detallados de los cambios realizados sobre el documento publicado.                                                                                                                                                                                                         |
 
-### Ejemplos básicos de Markdown
+### Ejemplos básicos de Markdown[^2]
 
 | Ejemplo                                                | Sintaxis                                                            |
 |:-------------------------------------------------------|:--------------------------------------------------------------------|
@@ -65,7 +65,8 @@ potencia = x**y
 print('x^y = %d', potencia)
 ```
 
-#### Tablas
+#### Tablas  
+https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
 ```
 |         | Alineación izquierda | Centrada | Alineación derecha |
@@ -80,6 +81,27 @@ print('x^y = %d', potencia)
 | Fila 1 | Texto                |  Texto   |               1.27 |
 | Fila 2 | Texto                |  Texto   |               16.4 |
 | Fila 3 | Texto                |  Texto   |               3.14 |
+
+
+#### Listas  
+
+```
+* Nivel 1
+* Nivel 2
+  * Subnivel 2-1
+  * Subnivel 2-2
+  * Subnivel 2-3
+    * Subnivel 2-3-1
+    * Subnivel 2-3-2
+```
+
+* Nivel 1
+* Nivel 2
+  * Subnivel 2-1
+  * Subnivel 2-2
+  * Subnivel 2-3
+    * Subnivel 2-3-1
+    * Subnivel 2-3-2
 
 
 #### Imágenes
@@ -101,7 +123,8 @@ print('x^y = %d', potencia)
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-#### Ecuaciones con LaTeX[^2]
+#### Escritura de expresiones matemáticas con LaTeX[^3]  
+https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 ```
 La potencia de la corriente se define como la energía disponible por unidad de área1:  
@@ -127,7 +150,8 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
-#### Creación de diagramas[^3]
+#### Diagramas[^4]  
+https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
 
@@ -220,6 +244,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 ### Referencias
 
 Markdown generales  
+* https://docs.github.com/es/get-started/writing-on-github
 * [Curso de #Markdown desde cero, ProgramaTutos en Youtube](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ)
 * https://www.markdownguide.org/basic-syntax/
 * https://www.markdownguide.org/extended-syntax/
@@ -253,5 +278,6 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
-[^2]: Ejemplo tomado de https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia
-[^3]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+[^2]: https://docs.github.com/es/get-started/writing-on-github
+[^3]: Ejemplo tomado de https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia
+[^4]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
