@@ -80,9 +80,25 @@ print('x^y = %d', potencia)
 
 **Ilustración con HTML y centrado**  
 `<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div>`  
-<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div>
+<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div><br><br>
 
 > Para ilustraciones embebidas utilizando únicamente el lenguaje de marcas Markdown, se utiliza el tamaño original de la imagen. En caso de que el tamaño exceda el ancho de pantalla, esta se ajusta al 100% del ancho disponible para visualización.
+> 
+> Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
+
+### Ecuaciones con LaTeX
+
+
+
+### Otros
+
+* Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea
+
+Notas a pie de documento
+`[^1] Incluye una nota a pie.  
+[^1]: Al final del documento se presenta la descripción de la nota a pie usando : y el texto descriptivo.`
+
+
 
 ### Preguntas y respuestas Q&A
 
