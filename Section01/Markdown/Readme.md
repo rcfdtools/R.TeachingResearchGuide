@@ -1,4 +1,4 @@
-## ¿Qué es el lenguaje Markdown?
+## Lenguaje Markdown
 Keywords: `Markdown` `HTML` `LaTeX`
 
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
@@ -187,7 +187,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
-* Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin.
+* Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin. Se recomienda el uso de ```.
 
 
 
@@ -234,8 +234,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente]() |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 [^2]: Ejemplo tomado de https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia
