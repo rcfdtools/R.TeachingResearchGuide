@@ -90,13 +90,10 @@ print('x^y = %d', potencia)
 
 
 
-### Otros
+### Otras marcas
 
-* Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea
-
-Notas a pie de documento
-`[^1] Incluye una nota a pie.  
-[^1]: Al final del documento se presenta la descripción de la nota a pie usando : y el texto descriptivo.`
+* Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
+* Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo.` Tenga en cuenta que una misma nota a pir puede ser llamada múltiples veces dentro de un mismo documento. 
 
 
 
