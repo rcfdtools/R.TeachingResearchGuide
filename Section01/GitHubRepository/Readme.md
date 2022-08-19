@@ -149,11 +149,11 @@ Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de
 | Repositorio orientado al desarrollo de un Software | Su estructura depende de los requerimientos y entornos de desarrollo propios de cada lenguaje de programación.                                                                                                                                                                                                 |
 | Libro electrónico o e-Book                         | Su estructura general se puede definir a través de capítulos y sub-capítulos más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                                 |
 | Investigación                                      | Se puede utilizar una combinación entre la estructura general de un libro electrónico y desarrollo de software, cuando la investigación incluye la creación de scripts, herramientas, módulos, paquetes. Son requeridas carpetas complementarias para almacenamiento de conjuntos de datos y archivos comunes. |
-| Curso teórico                                      | Su estructura general se puede definir a través de Secciones o Temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                               |
-| Curso práctico                                     | Su estructura general se puede definir a través de Secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
-| Curso teórico / práctico                           | Su estructura general se puede definir a través de Secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                                                                                                                                                                                 |
+| Curso teórico                                      | Su estructura general se puede definir a través de secciones o temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                              |
+| Curso práctico                                     | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
+| Curso teórico / práctico                           | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
 
-Para la estructura general de los cursos, se utilizarán dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
+Para la estructura general de los cursos, es recomendable utilizar únicamente dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
 
 | Elemento            | Curso teórico                | Curso teórico y práctico                                                           | Investigación             | e-book                        |
 |:--------------------|:-----------------------------|:-----------------------------------------------------------------------------------|:--------------------------|:------------------------------|
@@ -175,14 +175,18 @@ Estructura ejemplo para un curso teórico y práctico:
   * Actividad B
   * Actividad C
 
-> Dentro de la estructura de carpetas se nombran y numeran las secciones de forma consecutiva debido a que enmarcan contenidos y actividades que se relacionan entre ellas. Respecto a las actividades, estás no se numeran, indexan o se ordenan de forma sucesiva debido a que su estructura interna y ordenamiento puede modificarse o ajustarse por inclusión de nuevas actividades intermedias, actividades complementarias o el retiro de actividades que dentro de la gestión del curso se consideran obsoletas o han sido reemplazadas por una nueva actividad con contenidos actualizados.  
+> Dentro de la estructura de carpetas se nombran y numeran las secciones de forma consecutiva debido a que enmarcan contenidos y actividades que se relacionan entre ellas. Respecto a las actividades, estás no se numeran, indexan o se ordenan de manera sucesiva debido a que su estructura interna y ordenamiento puede modificarse o ajustarse por inclusión de nuevas actividades intermedias, actividades complementarias o el retiro de actividades que dentro de la gestión del curso se consideran obsoletas o han sido reemplazadas por una nueva actividad con contenidos actualizados.  
 >
-> Tenga en cuenta que las actividades de un curso pueden ser utilizadas o citadas transversalmente en otros cursos y que al ser incluida numeración consecutiva, esta no coincidirá con la establecida en otros cursos. Por tal motivo no se recomienda numerar las actividades. 
+> Tenga en cuenta que las actividades de un curso o una investigación pueden ser utilizadas o citadas transversalmente en otros cursos o investigaciones y que al ser incluida numeración consecutiva, esta no coincidirá con la establecida. Por tal motivo no se recomienda numerar las actividades. 
+> 
+> Respecto al nombre de la actividad, se recomienda utilizar un nombre corto que no incluya espacios, tildes, eñes ni caracteres especiales. 
 
 
 ### Carpetas de archivos comunes
 
-Para la gestión de los recursos compartidos del repositorio es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS. No usar tildes, eñes ni caracteres especiales como #$&*/|\{}[].... 
+Para la gestión de los recursos compartidos del repositorio, es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS. No usar tildes, eñes ni caracteres especiales como #$&*/|\{}[]. 
+
+Ejemplo:
 
 | Carpeta   | Descripción                                                                                             | Formatos ejemplo                                                                                  |
 |-----------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
@@ -194,21 +198,17 @@ Para la gestión de los recursos compartidos del repositorio es necesario crear 
 | .src      | Scripts de uso común                                                                                    | .py, .bas, .sh                                                                                    |
 | .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                 |
 
-> Todos los directorios contendrán un archivo Readme.md en formato Markdown que contendrá las especificaciones detalladas de los contenidos de las carpetas.
+> Todos los directorios contendrán un archivo Readme.md en formato Markdown con las especificaciones detalladas de los contenidos de las carpetas.
 > 
-> En la nube de GitHub no se sincronizan los directorios y archivos de entornos virtuales, directorios de gestión del respositorio .idea y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
+> En la nube de GitHub no se sincronizan los directorios y archivos de entornos virtuales `venv`, directorios de gestión del respositorio `.idea` y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
 
-Dentro de una sección o una actividad o clase, pueden existir carpetas específicas para gestión de datos, p. ej. la carpeta .datasets con archivos particulares que únicamente se utilizan en esa sección o actividad. Dentro de cada sección es necesario incluir las siguientes carpetas:
+Dentro de una sección, una actividad o clase, pueden existir carpetas específicas para gestión de datos, p. ej. la carpeta .datasets con archivos particulares que únicamente se utilizan en esa sección o actividad. Dentro de cada sección es necesario incluir las siguientes carpetas:
 
 | Carpeta    | Descripción                                                                                                                 | Formatos ejemplo  |
 |------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------|
 | Graph      | Gráficos generados o exportados, diagramas, esquemas, ilustraciones y archivos fuente de diseño gráfico                     | .cdr, .svg, .vsdx |
 | Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
 
-
-
-
-En la sección `<> Code`
 
 
 
