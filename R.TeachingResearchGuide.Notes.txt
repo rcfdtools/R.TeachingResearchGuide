@@ -20,13 +20,6 @@ Tareas
 		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
 
 
-https://github.com/rcfdtools/R.TeachingResearchGuide/wiki
-
-
-
-
-
-
 General update.
 _Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta actividad._
 
