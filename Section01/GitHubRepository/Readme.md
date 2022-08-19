@@ -227,6 +227,7 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 ### Referencias
 
 * https://opensource.org/licenses/MIT
+* https://pages.github.com/
 
 
 ### Control de versiones
