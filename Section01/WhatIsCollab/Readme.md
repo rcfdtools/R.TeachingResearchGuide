@@ -5,9 +5,8 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/TopologyChart1.svg" width="70%"><br>
-<sub>Ejemplo de topología de una red colaborativa a nivel facultades, centros de estudios y semilleros.</sub><br><br>
+<sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultades y/o programas, centros de estudios y semilleros.</sub><br><br>
 </div>
-
 
 ### Creación de contenidos de forma individual o colectiva
 

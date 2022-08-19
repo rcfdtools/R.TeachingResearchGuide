@@ -5,7 +5,6 @@ Existen diferentes herramientas o plataformas informáticas para desarrollo cola
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/CollabTools/Graph/CollabTools.png" width="80%"><br>
-<sub>Esquema genérico instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo.</sub><br><br>
 </div>
 
 
