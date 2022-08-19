@@ -140,7 +140,71 @@ De clic en las opciones de configuración, podrá observar que también puede as
 </div>
 
 
-### Creación de estructuras de directorios
+### Estructura genérica de un curso, una investigación, un e-book o un repositorio orientado a desarrollo de software
+
+Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de proyecto a realizar, p. ej.:
+
+| Tipo de proyecto                                   | Descripción                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Repositorio orientado al desarrollo de un Software | Su estructura depende de los requerimientos y entornos de desarrollo propios de cada lenguaje de programación.                                                                                                                                                                                                 |
+| Libro electrónico o e-Book                         | Su estructura general se puede definir a través de capítulos y sub-capítulos más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                                 |
+| Investigación                                      | Se puede utilizar una combinación entre la estructura general de un libro electrónico y desarrollo de software, cuando la investigación incluye la creación de scripts, herramientas, módulos, paquetes. Son requeridas carpetas complementarias para almacenamiento de conjuntos de datos y archivos comunes. |
+| Curso teórico                                      | Su estructura general se puede definir a través de Secciones o Temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                               |
+| Curso práctico                                     | Su estructura general se puede definir a través de Secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
+| Curso teórico / práctico                           | Su estructura general se puede definir a través de Secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                                                                                                                                                                                 |
+
+Para la estructura general de los cursos, se utilizarán dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
+
+| Elemento            | Curso teórico                | Curso teórico y práctico                                                           | Investigación             | e-book                        |
+|:--------------------|:-----------------------------|:-----------------------------------------------------------------------------------|:--------------------------|:------------------------------|
+| **Jerarquía**       | Compuesto por temas y clases | Compuesto por secciones y actividades                                              | Capítulos y sub-capítulos | Capítulos y sub-capítulos     | 
+| **Caso de estudio** | Ejemplos teóricos            | Caso de estudio general y/o casos de estudios particulares por sección o actividad | Caso de estudio único     | Ejemplos teóricos y prácticos | 
+
+Estructura ejemplo para un curso teórico y práctico:  
+
+* Sección 1
+  * Actividad A
+  * Actividad B
+  * Actividad C
+* Sección 2
+  * Actividad A
+  * Actividad B
+  * Actividad C
+* Sección 3
+  * Actividad A
+  * Actividad B
+  * Actividad C
+
+> Dentro de la estructura de carpetas se nombran y numeran las secciones de forma consecutiva debido a que enmarcan contenidos y actividades que se relacionan entre ellas. Respecto a las actividades, estás no se numeran, indexan o se ordenan de forma sucesiva debido a que su estructura interna y ordenamiento puede modificarse o ajustarse por inclusión de nuevas actividades intermedias, actividades complementarias o el retiro de actividades que dentro de la gestión del curso se consideran obsoletas o han sido reemplazadas por una nueva actividad con contenidos actualizados.  
+>
+> Tenga en cuenta que las actividades de un curso pueden ser utilizadas o citadas transversalmente en otros cursos y que al ser incluida numeración consecutiva, esta no coincidirá con la establecida en otros cursos. Por tal motivo no se recomienda numerar las actividades. 
+
+
+### Carpetas de archivos comunes
+
+Para la gestión de los recursos compartidos del repositorio es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS. No usar tildes, eñes ni caracteres especiales como #$&*/|\{}[].... 
+
+| Carpeta   | Descripción                                                                                             | Formatos ejemplo                                                                                  |
+|-----------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
+| .datasets | Contiene datos base que puedan ser convertidos en tablas, series o bases de datos.                      | .xls, xlsx, .txt, .dbf, .asc, .csv, .db, .mdbno espacial, .accdb no espacial, .sqlite no espacial |
+| .gdb      | Bases de datos espaciales                                                                               | Esri .gdb, .mdb .spatialite                                                                       |
+| .github   | Almacenamiento de plantillas Issue del repositorio                                                      | .md                                                                                               |
+| .icons    | Iconografía general                                                                                     | .ico, .png, .svg (recomendado)                                                                    |
+| .refs     | Archivos de referencias bibliográficas de uso libre recopiladas                                         | .pdf, .md, .doc, .docx, .epub                                                                     |
+| .src      | Scripts de uso común                                                                                    | .py, .bas, .sh                                                                                    |
+| .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                 |
+
+> Todos los directorios contendrán un archivo Readme.md en formato Markdown que contendrá las especificaciones detalladas de los contenidos de las carpetas.
+> 
+> En la nube de GitHub no se sincronizan los directorios y archivos de entornos virtuales, directorios de gestión del respositorio .idea y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
+
+Dentro de una sección o una actividad o clase, pueden existir carpetas específicas para gestión de datos, p. ej. la carpeta .datasets con archivos particulares que únicamente se utilizan en esa sección o actividad. Dentro de cada sección es necesario incluir las siguientes carpetas:
+
+| Carpeta    | Descripción                                                                                                                 | Formatos ejemplo  |
+|------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------|
+| Graph      | Gráficos generados o exportados, diagramas, esquemas, ilustraciones y archivos fuente de diseño gráfico                     | .cdr, .svg, .vsdx |
+| Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
+
 
 
 
