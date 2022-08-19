@@ -10,12 +10,21 @@ Clone local directory D:\R.TeachingResearchGuide.wiki
 
 ✓✕
 
-Tareas pendientes
-    Sesion 1 - Viernes 07 de octubre.
-    Sesion 2 - Viernes 14 de octubre.
+Tareas
 	Revisión estructura por clase o actividad.
-    Diseño de piezas publicitarias.
-    Esquema de certificación de cursos.
+	Imagen corporativa y diseño de piezas publicitarias.
+    Esquema de acreditación de cursos.
+	Transferencia de conocimiento
+		Sesion 1 - Viernes 07 de octubre.
+		Sesion 2 - Viernes 14 de octubre.
+		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
+
+
+https://github.com/rcfdtools/R.TeachingResearchGuide/wiki
+
+
+
+
 
 
 General update.
