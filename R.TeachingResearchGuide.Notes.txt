@@ -11,10 +11,11 @@ Clone local directory D:\R.TeachingResearchGuide.wiki
 ✓✕
 
 Tareas pendientes
-    Sesion 1 - Viernes 07 de octubre:
-    Sesion 2 - Viernes 14 de octubre
+    Sesion 1 - Viernes 07 de octubre.
+    Sesion 2 - Viernes 14 de octubre.
+	Revisión estructura por clase o actividad.
     Diseño de piezas publicitarias.
-    Esquema de certificación de cursos
+    Esquema de certificación de cursos.
 
 
 General update.
