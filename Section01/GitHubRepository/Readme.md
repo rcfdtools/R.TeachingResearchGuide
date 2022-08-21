@@ -55,7 +55,7 @@ Para inicializar un repositorio, uste puede decidir si quiere incluir el primer 
 
 > En caso de que no cree el archivo Readme.md y .gitingore, estos podrán ser creados manualmente.
 > 
-> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `.venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`.
+> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `.venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`. Para la gestión desde Desktop, p. ej. a través de PyCharm o de Visual Studio Code`, no se incluyen la carpeta `.idea` y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
 
 Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferentes licencias disponibles orientadas a desarrollo de software o a producción de contenido audiovisual. Generalmente, los usuarios seleccionan la [Licencia MIT](https://opensource.org/licenses/MIT) debido a que confiere uso abierto completo pero sin ningún tipo de garantía o responsabilidad.
 
@@ -143,23 +143,23 @@ De clic en las opciones de configuración, podrá observar que también puede as
 
 Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de proyecto a realizar, p. ej.:
 
-| Tipo de proyecto                                   | Descripción                                                                                                                                                                                                                                                                                                    |
-|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repositorio orientado al desarrollo de un Software | Su estructura depende de los requerimientos y entornos de desarrollo propios de cada lenguaje de programación.                                                                                                                                                                                                 |
-| Libro electrónico o e-Book                         | Su estructura general se puede definir a través de capítulos y sub-capítulos más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                                 |
-| Investigación                                      | Se puede utilizar una combinación entre la estructura general de un libro electrónico y desarrollo de software, cuando la investigación incluye la creación de scripts, herramientas, módulos, paquetes. Son requeridas carpetas complementarias para almacenamiento de conjuntos de datos y archivos comunes. |
-| Curso teórico                                      | Su estructura general se puede definir a través de secciones o temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                               |
-| Curso práctico                                     | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
-| Curso teórico / práctico                           | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
+| Tipo de proyecto                                | Descripción                                                                                                                                                                                                                                                                                                    |
+|:------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Repositorio orientado al desarrollo de software | Su estructura depende de los requerimientos y entornos de desarrollo propios de cada lenguaje de programación.                                                                                                                                                                                                 |
+| Libro electrónico o e-Book                      | Su estructura general se puede definir a través de capítulos y sub-capítulos más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                                 |
+| Investigación / Profundización                  | Se puede utilizar una combinación entre la estructura general de un libro electrónico y desarrollo de software, cuando la investigación incluye la creación de scripts, herramientas, módulos, paquetes. Son requeridas carpetas complementarias para almacenamiento de conjuntos de datos y archivos comunes. |
+| Curso teórico                                   | Su estructura general se puede definir a través de secciones o temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                               |
+| Curso práctico                                  | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
+| Curso teórico / práctico                        | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
 
 Para la estructura general de los cursos, es recomendable utilizar únicamente dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
 
-| Tipología                | Jerarquía interna         | Caso de estudio                                                                    |
-|:-------------------------|:--------------------------|:-----------------------------------------------------------------------------------|
-| Curso teórico            | Temas y clases            | Ejemplos teóricos                                                                  |
-| Curso teórico y práctico | Secciones y actividades   | Caso de estudio general y/o casos de estudios particulares por sección o actividad |
-| Investigación            | Capítulos y sub-capítulos | Caso de estudio único                                                              |
-| e-book                   | Capítulos y sub-capítulos | Ejemplos teóricos y prácticos                                                      |
+| Tipología                      | Jerarquía interna         | Caso de estudio / Aplicabilidad                                                    |
+|:-------------------------------|:--------------------------|:-----------------------------------------------------------------------------------|
+| Curso teórico                  | Temas y clases            | Ejemplos teóricos                                                                  |
+| Curso teórico y práctico       | Secciones y actividades   | Caso de estudio general y/o casos de estudios particulares por sección o actividad |
+| Investigación / Profundización | Capítulos y sub-capítulos | Caso de estudio único                                                              |
+| e-book                         | Capítulos y sub-capítulos | Ejemplos teóricos y prácticos                                                      |
 
 Estructura ejemplo para un curso teórico y práctico:  
 
@@ -180,12 +180,12 @@ Estructura ejemplo para un curso teórico y práctico:
 >
 > Tenga en cuenta que las actividades de un curso o una investigación pueden ser utilizadas o citadas transversalmente en otros cursos o investigaciones y que al ser incluida numeración consecutiva, esta no coincidirá con la establecida. Por tal motivo no se recomienda numerar las actividades. 
 > 
-> Respecto al nombre de la actividad, se recomienda utilizar un nombre corto que no incluya espacios, tildes, eñes ni caracteres especiales. 
+> Respecto al nombre de las secciones y actividades, se recomienda utilizar un nombre corto que no incluya espacios, tildes, eñes, apóstrofes ni caracteres especiales como #$&*/|\{}[]. 
 
 
 ### Carpetas de archivos comunes
 
-Para la gestión de los recursos compartidos del repositorio, es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS. No usar tildes, eñes ni caracteres especiales como #$&*/|\{}[]. 
+Para la gestión de los recursos compartidos del repositorio, es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS.
 
 Ejemplo:
 
@@ -200,15 +200,14 @@ Ejemplo:
 | .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                 |
 
 > Todos los directorios contendrán un archivo Readme.md en formato Markdown con las especificaciones detalladas de los contenidos de las carpetas.
-> 
-> En la nube de GitHub no se sincronizan los directorios y archivos de entornos virtuales `venv`, directorios de gestión del respositorio `.idea` y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
 
-Dentro de una sección, una actividad o clase, pueden existir carpetas específicas para gestión de datos, p. ej. la carpeta .datasets con archivos particulares que únicamente se utilizan en esa sección o actividad. Dentro de cada sección es necesario incluir las siguientes carpetas:
+Dentro de una sección, una actividad o clase, pueden existir carpetas específicas para gestión de datos, p. ej. la carpeta `.datasets` con archivos particulares que únicamente se utilizan en esa sección o actividad. Dentro de cada sección es necesario incluir las siguientes carpetas:
 
 | Carpeta    | Descripción                                                                                                                 | Formatos ejemplo  |
 |------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------|
 | Graph      | Gráficos generados o exportados, diagramas, esquemas, ilustraciones y archivos fuente de diseño gráfico                     | .cdr, .svg, .vsdx |
 | Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
+
 
 
 
