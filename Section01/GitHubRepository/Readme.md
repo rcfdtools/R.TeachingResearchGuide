@@ -144,25 +144,22 @@ De clic en las opciones de configuración, podrá observar que también puede as
 Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de proyecto a realizar, p. ej.:
 
 | Tipo de proyecto                                   | Descripción                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Repositorio orientado al desarrollo de un Software | Su estructura depende de los requerimientos y entornos de desarrollo propios de cada lenguaje de programación.                                                                                                                                                                                                 |
 | Libro electrónico o e-Book                         | Su estructura general se puede definir a través de capítulos y sub-capítulos más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                                 |
 | Investigación                                      | Se puede utilizar una combinación entre la estructura general de un libro electrónico y desarrollo de software, cuando la investigación incluye la creación de scripts, herramientas, módulos, paquetes. Son requeridas carpetas complementarias para almacenamiento de conjuntos de datos y archivos comunes. |
-| Curso teórico                                      | Su estructura general se puede definir a través de secciones o temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                              |
+| Curso teórico                                      | Su estructura general se puede definir a través de secciones o temas y clases, más directorios comunes para referencias, iconografía y gráficos.                                                                                                                                                               |
 | Curso práctico                                     | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
 | Curso teórico / práctico                           | Su estructura general se puede definir a través de secciones y actividades, más directorios comunes para conjuntos datos, referencias, iconografía y gráficos.                                                                                                                                                 |
 
 Para la estructura general de los cursos, es recomendable utilizar únicamente dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
 
-| Tipología                | Jerarquía interna                     | Caso de estudio                                                                    |
-|--------------------------|---------------------------------------|------------------------------------------------------------------------------------|
-| Curso teórico            | Compuesto por temas y clases          | Ejemplos teóricos                                                                  |
-| Curso teórico y práctico | Compuesto por secciones y actividades | Caso de estudio general y/o casos de estudios particulares por sección o actividad |
-| Investigación            | Capítulos y sub-capítulos             | Caso de estudio único                                                              |
-| e-book                   | Capítulos y sub-capítulos             | Ejemplos teóricos y prácticos                                                      |
-
-
-
+| Tipología                | Jerarquía interna         | Caso de estudio                                                                    |
+|:-------------------------|:--------------------------|:-----------------------------------------------------------------------------------|
+| Curso teórico            | Temas y clases            | Ejemplos teóricos                                                                  |
+| Curso teórico y práctico | Secciones y actividades   | Caso de estudio general y/o casos de estudios particulares por sección o actividad |
+| Investigación            | Capítulos y sub-capítulos | Caso de estudio único                                                              |
+| e-book                   | Capítulos y sub-capítulos | Ejemplos teóricos y prácticos                                                      |
 
 Estructura ejemplo para un curso teórico y práctico:  
 
