@@ -209,7 +209,7 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 | Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
 
 
-### Creación de carpetas y archivos Readme.md
+### Creación de carpetas comunes y archivos Readme.md
 
 1. Desde su navegador de Internet y en el repositorio creado previamente (p. ej. rcfdtoolstest/repotest), de clic en el botón `Add file` y seleccione la opción `Create new file`
 
@@ -240,8 +240,28 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolders.png)
 
 
+### Ejemplo de creación de carpetas específicas y archivos Readme.md
 
+Como explicamos anteriormente, un repositorio de GitHub puede ser utilizado para diferentes propósitos (desarrollar una App, crear un e-book, desarrollar una investigación, crear un curso...). Para este ejemplo, generaremos la estructura de un curso con contenido teórico / práctico, que está compuesto por 3 secciones y diferentes actividades por sección, y cuyo objetivo principal es enseñar fundamentos del lenguaje de programación Python. El procedimiento a seguir es el mismo presentado para la creación de carpetas comunes y la diferencia principal es que dentro de las secciones, existirán diferentes subcarpetas que corresponderán a las actividades. 
 
+Estructura del curso ejemplo:
+
+* Seccion01
+  * Introduccion
+  * Requirimientos
+* Seccion02
+  * Fundamentos
+  * Instalacion
+  * PrimerosPasos
+  * PrimerScript
+* Seccion03
+  * InstalacionPandas
+  * ExploracionDatos
+  * AnalisisDatos
+
+> Como observa en el ejemplo del curso, no se ha definido un nombre específico para cada sección y al final se ha incluido la numeración consecutiva 01, 02, 03, que posteriormente permitirá al ingresar más de 10 actividades, que el ordenamiento de las secciones se visualice de forma consecutiva. El detalle específico de cada sección, se describe dentro del archivo Readme.md de cada sección.
+> 
+> Los nombres de las actividades dentro de cada sección no contienen una numeración específica y se describen a través de un nombre corto descriptivo. Como se indicó anteriormente, las secuencia de desarrollo de las actividades dentro de un curso, debe ser diseñada de tal forma que estas puedan ser reordenadas, actualizadas, eliminadas y puedan ser integrados con otros cursos para crear cursos con contenidos compartidos. Al igual que las secciones, cada actividad contendrá un archivo Readme.md dentro del cual se desarrollaran los contenidos específicos de cada actividad.
 
 
 
