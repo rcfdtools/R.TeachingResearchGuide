@@ -242,7 +242,7 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 
 ### Ejemplo de creación de carpetas específicas y archivos Readme.md
 
-Como explicamos anteriormente, un repositorio de GitHub puede ser utilizado para diferentes propósitos (desarrollar una App, crear un e-book, desarrollar una investigación, crear un curso...). Para este ejemplo, generaremos la estructura de un curso con contenido teórico / práctico, que está compuesto por 3 secciones y diferentes actividades por sección, y cuyo objetivo principal es enseñar fundamentos del lenguaje de programación Python. El procedimiento a seguir es el mismo presentado para la creación de carpetas comunes y la diferencia principal es que dentro de las secciones, existirán diferentes subcarpetas que corresponderán a las actividades. 
+Como explicamos anteriormente, un repositorio de GitHub puede ser utilizado para diferentes propósitos (desarrollar una App, crear un e-book, desarrollar una investigación, crear un curso...). Para este ejemplo, generaremos la estructura de un curso básico con contenido teórico / práctico, que está compuesto por 3 secciones y diferentes actividades por sección, y cuyo objetivo principal es enseñar fundamentos del lenguaje de programación Python. El procedimiento a seguir es el mismo presentado para la creación de carpetas comunes y la diferencia principal es que dentro de las secciones, existirán diferentes subcarpetas que corresponderán a las actividades. 
 
 Estructura del curso ejemplo:
 
@@ -259,9 +259,39 @@ Estructura del curso ejemplo:
   * ExploracionDatos
   * AnalisisDatos
 
-> Como observa en el ejemplo del curso, no se ha definido un nombre específico para cada sección y al final se ha incluido la numeración consecutiva 01, 02, 03, que posteriormente permitirá al ingresar más de 10 actividades, que el ordenamiento de las secciones se visualice de forma consecutiva. El detalle específico de cada sección, se describe dentro del archivo Readme.md de cada sección.
+> Como observa en el ejemplo, no se ha definido un nombre específico para cada sección y al final se ha incluido la numeración consecutiva 01, 02, 03, que posteriormente permitirá al ingresar más de 10 actividades, que el ordenamiento de las secciones se visualice de forma consecutiva. El detalle específico de cada sección, se describe dentro del archivo Readme.md de cada carpeta.
 > 
 > Los nombres de las actividades dentro de cada sección no contienen una numeración específica y se describen a través de un nombre corto descriptivo. Como se indicó anteriormente, las secuencia de desarrollo de las actividades dentro de un curso, debe ser diseñada de tal forma que estas puedan ser reordenadas, actualizadas, eliminadas y puedan ser integrados con otros cursos para crear cursos con contenidos compartidos. Al igual que las secciones, cada actividad contendrá un archivo Readme.md dentro del cual se desarrollaran los contenidos específicos de cada actividad.
+
+
+### Edición de archivos de documentación Readme.md
+
+Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit.png)
+
+Incluya las siguientes referencias:
+
+```
+* [Sweigart, Al. Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners 2nd Edition.](https://automatetheboringstuff.com/)
+* [Sweigart, Al. The Big Book of Small Python Projects: 81 Easy Practice Programs.](https://inventwithpython.com/bigbookpython/)
+* [Sweigart, Al. Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code.](http://inventwithpython.com/beyond/)
+* [Sweigart, Al. Cracking Codes with Python: An Introduction to Building and Breaking Ciphers.](https://inventwithpython.com/cracking/)
+```
+
+> Como observa, las referencias se han definido a través de una lista utilizando `*` y contienen la hipervinculación `[descripción](hiperenlace)` al libro en línea. 
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit1.png)
+
+En la parte inferior de la ventana de edición, incluya como comentario de actualización o Commit: _"Inclusión de 4 referencias del autor Al Sweigart."_ y de clic en el botón `Commit changes`.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommit.png)
+
+Visualice el resultado obtenido y la representación en HTML del archivo Markdown.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommitted.png)
+
+
 
 
 
