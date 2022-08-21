@@ -266,7 +266,7 @@ Estructura del curso ejemplo:
 
 ### Edición de archivos de documentación Readme.md
 
-Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
+Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md, localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit.png)
 
@@ -291,10 +291,9 @@ Visualice el resultado obtenido y la representación en HTML del archivo Markdow
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommitted.png)
 
-> Como pudo observar en el proceso de edición del archivo de referencias, es necesario conocer las marcas de Markdown que permiten crear listas o hipervincular texto, y no existe edición asistida que permita a partir de la selección de un texto, establecer por ejemplo negrillas. La ventana del editor, permite realizar una previsualización del archivo antes de que los cambios sean publicados.
+> Como pudo observar en el proceso de edición del archivo de referencias, es necesario conocer las marcas de Markdown que permiten crear listas o hipervincular texto, y no existe edición asistida que permita a partir de la selección de un texto, establecer p. ej., negrillas o cursiva. La ventana del editor permite realizar previsualización del archivo antes de que los cambios sean publicados.
 > 
 > En el centro de documentación wiki de repositorios en GitHub, sí existen herramientas de edición asistida que permiten editar directamente archivos de Markdown.
-
 
 
 ### Preguntas y respuestas Q&A
