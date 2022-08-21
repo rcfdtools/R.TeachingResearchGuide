@@ -1,4 +1,4 @@
-## Creación y gestión en línea de repositorios en GitHub
+## Creación y gestión en línea de repositorios y documentos en GitHub
 Keywords: `Markdown` `HTML` `Repository` `.gitignore` `Readme.md`
 
 En esta actividad aprenderá a crear y gestionar repositorios en GitHub directamente desde el navegador de Internet.
