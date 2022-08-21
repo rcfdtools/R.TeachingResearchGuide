@@ -203,7 +203,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 }
 ```
 
-> Opcionalmente, podrá utilizar herramientas Desktop o en línea para generar diagramas y estos pueden ser guardados dentro del repositorio para su visualización en cualquier documento. Se recomienda la exportación en formato vectorial gráfico escalable .svg.
+> Opcionalmente, podrá utilizar herramientas Desktop o en línea como Microsoft Visio o Draw.io para generar diagramas y estos pueden ser guardados dentro del repositorio para su visualización en cualquier documento. Se recomienda la exportación en formato vectorial gráfico escalable .svg.
 
 
 #### [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
