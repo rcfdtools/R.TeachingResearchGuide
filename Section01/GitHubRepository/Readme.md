@@ -209,6 +209,40 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 | Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
 
 
+### Creación de carpetas y archivos Readme.md
+
+1. Desde su navegador de Internet y en el repositorio creado previamente (p. ej. rcfdtoolstest/repotest), de clic en el botón `Add file` y seleccione la opción `Create new file`
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile.png)
+
+2. Cree la carpeta `.datasets` con su respectivo archivo Readme.md. Para crear carpetas, ingrese después de `repotest/` el nombre de la carpeta y el nombre del archivo readme. p. ej.: `.datasets/Readme.md`.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile1.png)
+
+Dentro del editor, ingrese el texto `## Datasets o conjuntos de datos comunes`.
+
+>> ## es utilizado en Markdown para definir un título de nivel 2.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile2.png)
+
+3. En la parte inferior de la ventana, ingrese en el `Commit` o texto de revisión descriptivo, p. ej., "Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes." y de clic en el botón `Commit new file`.
+
+> En GitHub, todas las modificaciones de elementos deben incluir un texto de revisión que describe los cambios que se están realizando sobre los archivos. Utilizando herramientas de gestión de repositorios Desktop, podrá efectuar la modificación de múltiples archivos y al publicar las actualizaciones deberá incluir un único Commit que será visible en cada archivo.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile3.png)
+
+Una vez finalizada la creación de la carpeta y el archivo, podrá observar que en pantalla aparece la nueva carpeta y el archivo Readme.md.
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolderDatasets.png)
+
+4. Repita el procedimiento anterior para crear las carpetas y archivos Readme.md para `.icons`, `.refs` y `.temp`
+
+Cree las carpetas `.datasets`, `.icons`, `.refs` y `.temp` con sus respectivos archivos Readme.md. Diríjase a la raíz del repositorio y observe las carpetas creadas y los comentarios de revisión.
+
+
+
+
+
 
 
 
@@ -228,6 +262,7 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 
 * https://opensource.org/licenses/MIT
 * https://pages.github.com/
+* https://docs.github.com/en/get-started/quickstart/github-glossary
 
 
 ### Control de versiones
