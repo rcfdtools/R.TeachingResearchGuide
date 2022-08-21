@@ -21,7 +21,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 > **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
 > 
-> **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en  GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no use este nombre para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
+> **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no use este nombre para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
 
 3. Para terminar con la creación de cuenta, verifique la creación de su cuenta seleccionando o solucionando el rompecabezas que aparece en pantalla y de clic en el botón `Create account`. Será enviado un código de verificación a su cuenta de correo.
 
@@ -51,7 +51,7 @@ Defina su el repositorio será de uso Público o Privado, si es público, cualqu
 
 > Para los dos tipos de repositorio, el creador podrá decidir si integra o no las modificaciones que los usuarios propongan a través de commit's.
 
-Para inicializar un repositorio, uste puede decidir si quiere incluir el primer archivo de documentación `Readme.md` en formato Markdown sobre la raíz. También podrá incluir el archivo de exclusiones `.gitignore` que le permitirá realizar exclusiones de archivos y directorios que no hacen parte de la información pública que se sincronizará desde unidades locales cuando la gestión del repositorio se realiza con una herramienta externa directamente desde su equipo. Para este ejemplo incluiremos estas dos opciones sin definir una plantilla prototipo para .gitignore.
+Para inicializar un repositorio, uste puede decidir si quiere incluir el primer archivo de documentación `Readme.md` en formato Markdown sobre la raíz. También podrá incluir el archivo de exclusiones `.gitignore` que le permitirá realizar exclusiones de archivos y directorios que no hacen parte de la información pública que se sincronizará desde unidades locales cuando la gestión del repositorio se realiza con una herramienta externa directamente desde su equipo. Para este ejemplo incluiremos estas dos opciones sin definir una plantilla prototipo para `.gitignore`.
 
 > En caso de que no cree el archivo Readme.md y .gitingore, estos podrán ser creados manualmente.
 > 
@@ -225,7 +225,7 @@ Dentro del editor, ingrese el texto `## Datasets o conjuntos de datos comunes`.
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile2.png)
 
-3. En la parte inferior de la ventana, ingrese en el `Commit` o texto de revisión descriptivo, p. ej., _"Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes."_ y de clic en el botón `Commit new file`.
+3. En la parte inferior de la ventana, ingrese en él `Commit` o texto de revisión descriptivo, p. ej., _"Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes."_ y de clic en el botón `Commit new file`.
 
 > En GitHub, todas las modificaciones de elementos deben incluir un texto de revisión que describe los cambios que se están realizando sobre los archivos. Utilizando herramientas Desktop para gestión de repositorios, podrá efectuar la modificación de múltiples archivos y al publicar las actualizaciones deberá incluir un único _Commit_ que será visible en cada archivo.
 
@@ -283,7 +283,7 @@ Incluya las siguientes referencias:
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit1.png)
 
-En la parte inferior de la ventana de edición, incluya como comentario de actualización o Commit: _"Inclusión de 4 referencias del autor Al Sweigart."_ y de clic en el botón `Commit changes`.
+En la parte inferior de la ventana de edición, incluya como comentario de actualización o Commit: _"Inclusión de 4 referencias del autor Al Sweigart."_, y de clic en el botón `Commit changes`.
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommit.png)
 
@@ -295,12 +295,35 @@ Visualice el resultado obtenido y la representación en HTML del archivo Markdow
 > 
 > En el centro de documentación wiki de repositorios en GitHub, sí existen herramientas de edición asistida que permiten editar directamente archivos de Markdown.
 
+El editor de archivos en línea dispone de las siguientes opciones:
+
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditOptions.png)
+
+| Opción           | Descripción                                                                                                                                                                                                                                 |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <>               | Muestra dentro de la ventana de edición el texto fuente contenido dentro del archivo, tal como se observa cuando se esta editando.                                                                                                          |
+| :page_facing_up: | Muestra el archivo Markdown en HTML. Opción por defecto.                                                                                                                                                                                    |
+| Raw              | Muestra el archivo fuente dentro del navegador sin ningún tipo de representación o interpretación HTML.                                                                                                                                     |
+| Blame            | Muestra el detalle de todos los cambios y modificaciones realizada dentro del archivo desde el momento de su creación. Dentro de esta opción podrá visualizar el Raw, volver a la vista normal o revisar el arbol del histórico de cambios. |
+| :pencil2:        | Permite editar el archivo en línea, abrir a través de github.dev o GitHub Desktop.                                                                                                                                                          |
+| Dos recuadros    | Copiar el contenido Raw dentro del portapapeles.                                                                                                                                                                                            |
+| :wastebasket:    | Eliminar el archivo. Requiere Commit.                                                                                                                                                                                                       |
+
+Blame  
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeBlame.png)
+
+History  
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
+
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                                                                                                                                            | Respuesta |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Mis cursos contienen contenidos en Temas / subtemas / capítulos / subcapítulos / clases y/o actividades. ¿Es adecuado crear una estructura de directorios con 5 niveles y numerando cada actividad? |           |
+| ¿Debo conocer todas las marcas del lenguaje Markdown para crear las actividades detalladas de mis repositorios?                                                                                     |           |
+| ¿Existen herramientas Desktop que faciliten la edición de los documentos y que permitan revisar la ortografía y gramática de mis contenidos?                                                        |           |
+
 
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) de este microcontenido.
