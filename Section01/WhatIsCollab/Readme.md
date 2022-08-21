@@ -81,6 +81,10 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 * https://www.euroinnova.pe/blog/que-son-los-proyectos-colaborativos
 * https://www.avantel.co/blog/emprendimiento/que-es-el-trabajo-colaborativo-sus-caracteristicas-y-como-implementarlo/
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
+* https://opensource.guide/es/
+* https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+* https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+* https://choosealicense.com/
 
 
 ### Control de versiones
