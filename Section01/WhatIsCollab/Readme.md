@@ -60,6 +60,11 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 > Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
 
 
+### Descargo de responsabilidad en licencias[^3]
+
+El objetivo de los esfuerzos de generación de licencias de código abierto de GitHub es proporcionar un punto de partida para ayudarte a hacer una elección informada. GitHub muestra información de licencias para ayudar a los usuarios a obtener información acerca de las licencias de código abierto y los proyectos que las utilizan. Esperamos que te sea útil, pero ten presente que no somos abogados y que cometemos errores como todo el mundo. Por ese motivo, GitHub proporciona la información sobre una base hipotética de "tal cual" y no da garantías al respecto de ninguna información o licencia proporcionada en función o a través de esta. Tampoco se hace responsable de los daños que surjan por el uso de la información de la licencia. Si tienes alguna pregunta al respecto de la licencia correcta para tu código o cualquier otro problema legal relacionado con esto, siempre es mejor consultar con un profesional.
+
+
 ### Contenido audiovisual complementario recomendado
 
 * [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
@@ -104,3 +109,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 [^1]: https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
 [^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
+[^3]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
