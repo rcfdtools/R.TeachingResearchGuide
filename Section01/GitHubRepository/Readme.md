@@ -221,13 +221,13 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 
 Dentro del editor, ingrese el texto `## Datasets o conjuntos de datos comunes`.
 
->> ## es utilizado en Markdown para definir un título de nivel 2.
+>> Recuerde que ## es utilizado en Markdown para definir un título de nivel 2.
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile2.png)
 
-3. En la parte inferior de la ventana, ingrese en el `Commit` o texto de revisión descriptivo, p. ej., "Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes." y de clic en el botón `Commit new file`.
+3. En la parte inferior de la ventana, ingrese en el `Commit` o texto de revisión descriptivo, p. ej., _"Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes."_ y de clic en el botón `Commit new file`.
 
-> En GitHub, todas las modificaciones de elementos deben incluir un texto de revisión que describe los cambios que se están realizando sobre los archivos. Utilizando herramientas de gestión de repositorios Desktop, podrá efectuar la modificación de múltiples archivos y al publicar las actualizaciones deberá incluir un único Commit que será visible en cada archivo.
+> En GitHub, todas las modificaciones de elementos deben incluir un texto de revisión que describe los cambios que se están realizando sobre los archivos. Utilizando herramientas Desktop para gestión de repositorios, podrá efectuar la modificación de múltiples archivos y al publicar las actualizaciones deberá incluir un único _Commit_ que será visible en cada archivo.
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile3.png)
 
@@ -235,10 +235,9 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolderDatasets.png)
 
-4. Repita el procedimiento anterior para crear las carpetas y archivos Readme.md para `.icons`, `.refs` y `.temp`
+4. Repita el procedimiento anterior para crear las carpetas y archivos Readme.md para `.icons`, `.refs` y `.temp`. Diríjase a la raíz del repositorio y, visualice las carpetas generadas y los comentarios de revisión.
 
-Cree las carpetas `.datasets`, `.icons`, `.refs` y `.temp` con sus respectivos archivos Readme.md. Diríjase a la raíz del repositorio y observe las carpetas creadas y los comentarios de revisión.
-
+![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolders.png)
 
 
 
