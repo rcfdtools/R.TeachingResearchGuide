@@ -18,7 +18,7 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 * Publicación de foros de discusión y soporte
 * Wikis para gestionar la documentación
 
-Algunas de las plataformas más populares son: GitHub, GitLab, Google Code, SourceForge, GNU Savannah.
+Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah.
 
 
 ### Plataformas de desarrollo colaborativo
@@ -51,17 +51,18 @@ Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=MqL6BMOySIQ" target="_blank"><img src="http://img.youtube.com/vi/MqL6BMOySIQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=MqL6BMOySIQ</sub><br><br></div>
 
 
-#### [Google Code](https://code.google.com/)
+#### [Google Collab & Code](https://code.google.com/)
 
 El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google.
 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=_nOzAsz6EHI" target="_blank"><img src="http://img.youtube.com/vi/_nOzAsz6EHI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=_nOzAsz6EHI</sub><br><br></div>
 
-Servicios principales visibles en code.google.com
+Servicios principales visibles en code.google.com y 
 
 * [Google Open Source](https://opensource.google.com/)
 * [Google Developers](https://developers.google.com/)
 * [Google Code Archive](https://code.google.com/archive/)
+* [Google Colab](https://research.google.com/colaboratory/faq.html)
 
 
 #### [SourceForge](https://sourceforge.net/)[^2]

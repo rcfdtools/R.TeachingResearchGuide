@@ -55,7 +55,7 @@ Para inicializar un repositorio, uste puede decidir si quiere incluir el primer 
 
 > En caso de que no cree el archivo Readme.md y .gitingore, estos podrán ser creados manualmente.
 > 
-> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`.
+> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `.venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`.
 
 Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferentes licencias disponibles orientadas a desarrollo de software o a producción de contenido audiovisual. Generalmente, los usuarios seleccionan la [Licencia MIT](https://opensource.org/licenses/MIT) debido a que confiere uso abierto completo pero sin ningún tipo de garantía o responsabilidad.
 
@@ -77,8 +77,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-[Ejemplo de licencia embebida en R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)
-
+[Ejemplo de licencia embebida en R.TeachingResearchGuide.](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)
 
 3. Luego de creado el repositorio, será dirigido automáticamente `repotest` y podrá visualizar el contenido del Archivo `Readme.md`
 
@@ -155,10 +154,15 @@ Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de
 
 Para la estructura general de los cursos, es recomendable utilizar únicamente dos niveles para facilitar la navegabilidad entre los contenidos y la administración de los directorios o carpetas asociadas. 
 
-| Elemento            | Curso teórico                | Curso teórico y práctico                                                           | Investigación             | e-book                        |
-|:--------------------|:-----------------------------|:-----------------------------------------------------------------------------------|:--------------------------|:------------------------------|
-| **Jerarquía**       | Compuesto por temas y clases | Compuesto por secciones y actividades                                              | Capítulos y sub-capítulos | Capítulos y sub-capítulos     | 
-| **Caso de estudio** | Ejemplos teóricos            | Caso de estudio general y/o casos de estudios particulares por sección o actividad | Caso de estudio único     | Ejemplos teóricos y prácticos | 
+| Tipología                | Jerarquía interna                     | Caso de estudio                                                                    |
+|--------------------------|---------------------------------------|------------------------------------------------------------------------------------|
+| Curso teórico            | Compuesto por temas y clases          | Ejemplos teóricos                                                                  |
+| Curso teórico y práctico | Compuesto por secciones y actividades | Caso de estudio general y/o casos de estudios particulares por sección o actividad |
+| Investigación            | Capítulos y sub-capítulos             | Caso de estudio único                                                              |
+| e-book                   | Capítulos y sub-capítulos             | Ejemplos teóricos y prácticos                                                      |
+
+
+
 
 Estructura ejemplo para un curso teórico y práctico:  
 
