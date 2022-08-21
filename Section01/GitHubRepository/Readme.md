@@ -264,7 +264,7 @@ Estructura del curso ejemplo:
 > Los nombres de las actividades dentro de cada sección no contienen una numeración específica y se describen a través de un nombre corto descriptivo. Como se indicó anteriormente, las secuencia de desarrollo de las actividades dentro de un curso, debe ser diseñada de tal forma que estas puedan ser reordenadas, actualizadas, eliminadas y puedan ser integrados con otros cursos para crear cursos con contenidos compartidos. Al igual que las secciones, cada actividad contendrá un archivo Readme.md dentro del cual se desarrollaran los contenidos específicos de cada actividad.
 
 
-### Edición de archivos de documentación Readme.md
+### Edición en línea de archivos de documentación Readme.md
 
 Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md, localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
 
@@ -320,7 +320,7 @@ History
 
 | Pregunta                                                                                                                                                                                            | Respuesta |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Mis cursos contienen contenidos en Temas / subtemas / capítulos / subcapítulos / clases y/o actividades. ¿Es adecuado crear una estructura de directorios con 5 niveles y numerando cada actividad? |           |
+| Mis cursos contienen contenidos en Temas / subtemas / capítulos / subcapítulos / clases y/o actividades. ¿Es adecuado crear una estructura de directorios con 5 niveles y numerar cada actividad?   |           |
 | ¿Debo conocer todas las marcas del lenguaje Markdown para crear las actividades detalladas de mis repositorios?                                                                                     |           |
 | ¿Existen herramientas Desktop que faciliten la edición de los documentos y que permitan revisar la ortografía y gramática de mis contenidos?                                                        |           |
 
@@ -340,9 +340,10 @@ History
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas |
-|------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.18 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| Versión    | Descripción                                                                                                                                          | Autor                                      | Horas |
+|------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.08.21 | Creación de carpetas comunes y archivos. Ejemplo de creación de carpetas específicas y archivos. Edición en línea de archivos de documentación. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| 2022.08.18 | Versión inicial.                                                                                                                                     | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
