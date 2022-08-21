@@ -57,7 +57,7 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 | ¿Cómo puedo acceder a beneficios institucionales a través de los contenidos en los que participo?           |                                                                                                                                                     |
 | ¿Por dónde puedo iniciar si mi institución no tiene una política y lineamientos de desarrollo colaborativo? |                                                                                                                                                     |
 
-> Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
+> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
 
 
 ### Descargo de responsabilidad en licencias[^3]

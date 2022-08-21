@@ -23,6 +23,9 @@ Tareas
 General update.
 _Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta actividad._
 
+> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
+
+
 <div align="center">
 </div>
 
