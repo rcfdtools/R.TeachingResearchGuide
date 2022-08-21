@@ -291,7 +291,9 @@ Visualice el resultado obtenido y la representación en HTML del archivo Markdow
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommitted.png)
 
-
+> Como pudo observar en el proceso de edición del archivo de referencias, es necesario conocer las marcas de Markdown que permiten crear listas o hipervincular texto, y no existe edición asistida que permita a partir de la selección de un texto, establecer por ejemplo negrillas. La ventana del editor, permite realizar una previsualización del archivo antes de que los cambios sean publicados.
+> 
+> En el centro de documentación wiki de repositorios en GitHub, sí existen herramientas de edición asistida que permiten editar directamente archivos de Markdown.
 
 
 
