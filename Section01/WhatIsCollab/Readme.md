@@ -49,13 +49,13 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                                    | Respuesta |
-|-------------------------------------------------------------------------------------------------------------|-----------|
-| ¿Cómo funciona la propiedad intelectual en proyectos de desarrollo colaborativo?                            |           |
-| ¿Qué tipos de licencia de uso se pueden utilizar?                                                           |           |
-| ¿Qué sucede cuando a través del proyecto colaborativo se genera una patente?                                |           |
-| ¿Cómo puedo acceder a beneficios institucionales a través de los contenidos en los que participo?           |           |
-| ¿Por dónde puedo iniciar si mi institución no tiene una política y lineamientos de desarrollo colaborativo? |           |
+| Pregunta                                                                                                    | Respuesta                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Cómo funciona la propiedad intelectual en proyectos de desarrollo colaborativo?                            |                                                                                                                                                     |
+| ¿Qué tipos de licencia de uso se pueden utilizar?                                                           | Existen diversas licencias que pueden ser asociadas a tus repositorios y dependen del tipo de contenido que estés desarrollando. [Mas información...](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) |
+| ¿Qué sucede cuando a través del proyecto colaborativo se genera una patente?                                |                                                                                                                                                     |
+| ¿Cómo puedo acceder a beneficios institucionales a través de los contenidos en los que participo?           |                                                                                                                                                     |
+| ¿Por dónde puedo iniciar si mi institución no tiene una política y lineamientos de desarrollo colaborativo? |                                                                                                                                                     |
 
 > Ayúdame a responder estas preguntas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
 
