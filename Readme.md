@@ -1,6 +1,6 @@
 <div align="center">
   <br><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="480px">
-  <br><b>Guía para enseñanza e investigación colaborativa.</b><br>by r.cfdtools@gmail.com<br><br>  
+  <br><b>Guía para enseñanza e investigación colaborativa utilizando GitHub.</b><br>by r.cfdtools@gmail.com<br><br>  
 </div>
 
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo.  
