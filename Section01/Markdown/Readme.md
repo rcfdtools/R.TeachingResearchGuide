@@ -148,7 +148,13 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 Otro ejemplo con centrado manual
 
-`$x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$`
+```
+<div align="center">  
+
+$x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$
+
+</div>
+```
 
 <div align="center">  
 
