@@ -32,9 +32,10 @@ Cada persona que utiliza GitHub siempre inicia sesión en su cuenta personal par
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                                | Respuesta |
+|-----------------------------------------------------------------------------------------|-----------|
+| ¿Que sucede con mis repositorios y mis derechos de propiedad si cambio de organización? |           |
+|                                                                                         |           |
 
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
