@@ -8,6 +8,22 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores de co
 </div>
                                                                                                                                                       
 
+### Conceptos generales
+
+Las organizaciones de GitHub son cuentas compartidas donde empresas y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor don se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
+
+Por ejemplo, los profesores o los investigadores de un centro de estudios de una institución, pueden crear de forma particular diferentes contenidos o desarrollos, luego estos pueden desde una organización clonar las versiones finales y presentar a estudiantes u otros investigadores sus creaciones en un espacio integrado. Por otra parte, los creadores de contenido pueden generar un proyecto desde la organización y trabajar colaborativamente de manera agrupada.
+
+Existen diversas tipologías para la creación de organizaciones, desde la creación de una única organización donde se crean o publican los contenidos de todos los colaboradores (la navegabilidad dentro de los repositorios de la organización no clasifica los contenidos por un nivel jerárquico específico o una temática común); la creación de organizaciones segmentadas de acuerdo a criterios académicos y administrativos (p. ej., un centro de estudios, un programa académico, una facultad...) para integrar las actividades específicas de un equipo de trabajo y las organizaciones segmentadas particulares para crear contenidos al rededor de una temática específica. 
+
+Cada persona que utiliza GitHub siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, utilizando características administrativas y de seguridad sofisticadas. Más información [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).  
+
+
+
+#### Tipos de cuentas
+
+
+
 ### Creación de organizaciones
 
 
@@ -28,7 +44,9 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores de co
 
 ### Referencias
 
-* 
+* https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
+* https://github.com/organizations/plan
+* https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts
 
 
 ### Control de versiones
