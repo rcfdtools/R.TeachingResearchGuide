@@ -122,7 +122,7 @@ print('x^y = %d', potencia)
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-#### [Escritura de expresiones matemáticas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) con LaTeX[^3]  
+#### [Escritura de expresiones matemáticas y/o ecuaciones](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) con LaTeX[^3]  
 
 ```
 La potencia de la corriente se define como la energía disponible por unidad de área1:  
@@ -145,6 +145,16 @@ $\gamma$ = Peso específico del agua $[N/m^{3}]$
 $y$ = Profundidad de la lámina de agua $[m]$  
 $V$ = Velocidad media de la corriente $[m/s]$  
 $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$  
+
+Otro ejemplo con centrado manual
+
+`$x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$`
+
+<div align="center">  
+
+$x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$
+
+</div>
 
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
