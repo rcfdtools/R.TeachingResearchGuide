@@ -10,7 +10,7 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores de co
 
 ### Conceptos generales
 
-Las organizaciones de GitHub son cuentas compartidas donde empresas y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor don se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
+Las organizaciones de GitHub son cuentas compartidas donde empresas, instituciones y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor donde se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
 
 Por ejemplo, los profesores o los investigadores de un centro de estudios de una institución, pueden crear de forma particular diferentes contenidos o desarrollos, luego estos pueden desde una organización clonar las versiones finales y presentar a estudiantes u otros investigadores sus creaciones en un espacio integrado. Por otra parte, los creadores de contenido pueden generar un proyecto desde la organización y trabajar colaborativamente de manera agrupada.
 
