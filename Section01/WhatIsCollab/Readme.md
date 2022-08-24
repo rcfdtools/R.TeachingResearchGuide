@@ -5,7 +5,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/WhatIsCollabChart.svg" width="75%"><br>
-<sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultades y/o programas, centros de estudios y semilleros.</sub><br><br>
+<sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultad y/o programa, centros de estudios, grupos de investigación y semilleros.</sub><br><br>
 </div>
 
 ### Creación de contenidos de forma individual o colectiva
@@ -17,12 +17,12 @@ Tradicionalmente, pensamos que la creación de contenidos académicos y científ
 
 Cuando iniciaron las primeras computadoras, hubo necesidad de crear programas para que estas funcionaran. En ese entonces, no existía la ingeniería de software como tal y la programación era un proceso más artesanal que metodológico. No fue hasta 1968, que la ingeniería del software surgió buscando ordenar las actividades relacionadas con la creación de programas de cómputo, orientándolas hacia la obtención de un producto de calidad, a través de un proceso repetible, que minimizará la probabilidad de fracaso. Su creación fue la respuesta a la llamada crisis del software, causada por sistemas complejos, de difícil implementación, que superan su presupuesto original, que no satisfacen los requerimientos para los que fueron creados y que demoran mucho en concluirse, o bien, no se concluyen nunca.
 
-En la década de los ochenta y noventa, la complejidad de las aplicaciones informáticas creció todavía más y la importancia de la ingeniería de software fue evidente. Se hizo necesaria la colaboración de varias personas en proyectos de amplio alcance; sin embargo, no fue hasta el año 2001, en Utah, Estados Unidos, cuando se reconoció oficialmente que el software podía desarrollarse de mejores maneras. Se firmó el manifiesto ágil (Kent Beck et al., 2001), que significó un cambio de paradigma en la creación de programas informáticos. Se enfatizaron los aspectos humanos sobre los aspectos técnicos y se centró la atención en el software que funciona y agrega valor a quien lo usa, dejando así de lado la documentación excesiva y los procedimientos densos y tardados. A esta filosofía se le denominó “agilidad”.
+En la década de los ochenta y noventa, la complejidad de las aplicaciones informáticas creció todavía más y la importancia de la ingeniería de software fue evidente. Se hizo necesaria la colaboración de varias personas en proyectos de amplio alcance; sin embargo, no fue hasta el año 2001, en Utah, Estados Unidos, cuando se reconoció oficialmente que el software podía desarrollarse de mejores maneras. Se firmó el manifiesto ágil (Kent Beck et al., 2001), que significó un cambio de paradigma en la creación de programas informáticos. Se enfatizaron los aspectos humanos sobre los aspectos técnicos y se centró la atención en el software que funciona y agrega valor a quien lo usa, dejando así de lado la documentación excesiva y los procedimientos densos y tardados. A esta filosofía se le denominó “agilidad” o "agility".
 
 
 ### Beneficios de trabajar colaborativamente
 
-* Los contenidos producidos combinan la experticia de los integrantes del grupo de investigación o del centro de estudios al cual pertenecen.
+* Los contenidos producidos combinan la experticia de los integrantes del equipo de trabajo, de la facultad o el programa académico, del grupo de investigación o del centro de estudios al cual pertenecen.
 * Creación de redes colaborativas donde los repositorios de los grupos o centros es abierta y compartida dentro de los miembros de la institución y otras instituciones y cumunidades científicas.
 * Interacción directa entre grupos, profesores y estudiantes a través de discusiones.
 * Facilidad de desarrollo en la solución de casos de estudio debido a que los miembros de la red pueden plantear diferentes formas de abordar el problema y se pueden obtener múltiples soluciones.
