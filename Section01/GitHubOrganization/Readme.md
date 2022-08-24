@@ -84,9 +84,6 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
-
-
 ### Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                            | Respuesta                                                                                                                                                                                                                                                                                                                             |
@@ -112,7 +109,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 | Versión     | Descripción                                                             | Autor                                      | Horas |
 |-------------|:------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.08.24  | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
+| 2022.08.24  | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   6   |
 | 2022.08.22  | Versión inicial.                                                        | [rcfdtools](https://github.com/rcfdtools)  |   1   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
