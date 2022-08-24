@@ -26,9 +26,11 @@ Para la creación y la gestión de las organizaciones en GitHub, existen diferen
 
 #### Cuentas personales
 
-Cada persona que utilice GitHub.com deberá iniciar sesión en una cuenta personal. Tu cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Tu cuenta personal puede ser propietaria de recursos tales como repositorios, paquetes y proyectos. En cualquier momento que realices una acción en GitHub.com, tal como crear una propuesta o revisar una solicitud de cambios, dicha acción se atribuirá a tu cuenta personal.
+Cada persona que utilice GitHub.com deberá iniciar sesión con una cuenta personal. La cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Tu cuenta personal puede ser propietaria de recursos tales como repositorios, paquetes y proyectos. En cualquier momento que realices una acción en GitHub.com, tal como crear una propuesta o revisar una solicitud de cambios, dicha acción se atribuirá a tu cuenta personal.
 
 Cada cuenta personal utiliza ya sea GitHub Free o GitHub Pro. Todas las cuentas personales pueden ser propietarias de una cantidad ilimitada de repositorios públicos o privados, con una cantidad ilimitada de colaboradores en dichos repositorios. Si utilizas GitHub Free, los repositorios privados que le pertenezcan a tu cuenta personal tendrán un conjunto de características limitado, sin embargo, se puede mejorar migrando a una cuenta de pago en GitHub Pro para obtener el conjunto total de características para los repositorios privados. Para obtener más información, consulta "[Productos de GitHub](https://docs.github.com/es/get-started/learning-about-github/githubs-products)".
+
+Utilizando cuentas libres y para los repositorios públicos, las discusiones y documentación wiki podrán ser habilitadas y utilizadas sin tener que utilizar una cuenta de pago. 
 
 
 #### Cuentas de organización[^1]
@@ -39,13 +41,14 @@ Tal como las cuentas personales, las organizaciones pueden ser propietarias de r
 
 Se puede otorgar roles diferentes a las cuentas personales de una organización dentro de esta, lo cual otorga niveles diferentes de acceso a la organización y a sus datos. Todos los miembros pueden colaborar entre ellos en los repositorios y proyectos, pero solo los propietarios de organizaciones y administradores de seguridad pueden administrar la configuración de la organización y controlar el acceso a los datos de la organización con seguridad sofisticada y características administrativas. Para obtener más información, consulta las secciones "[Roles en una organización](https://docs.github.com/es/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization)" y "[Mantener tu organización segura](https://docs.github.com/es/organizations/keeping-your-organization-secure)".
 
-Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de repositorios públicos y privados. Puedes utilizar las organizaciones gratuitamente con GitHub Free, el cual incluye características limitadas en los repositorios privados. Para obtener el conjunto de características completo en los repositorios privados y las características adicionales a nivel de la organización, incluyendo el inicio de sesión único de SAML y la cobertura de soporte mejorada, puedes mejorar a GitHub Team o Nube de GitHub Enterprise.
+Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de repositorios públicos y privados. Puedes utilizar las organizaciones gratuitamente con GitHub Free, el cual incluye características limitadas en los repositorios privados. 
+
+> Para obtener el conjunto de características completo en los repositorios privados y las características adicionales a nivel de la organización, incluyendo el inicio de sesión único de SAML y la cobertura de soporte mejorada, se puede migrar a GitHub Team o Nube de GitHub Enterprise.
 
 
 #### Cuentas de empresa[^1]
 
-Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
-
+Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales de pago, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
 
 
 ### Creación de organizaciones
