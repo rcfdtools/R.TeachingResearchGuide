@@ -1,5 +1,5 @@
 ## Fundamentos de organizaciones y equipos en GitHub
-Keywords: `Organization` `Collaboration`
+Keywords: `Organization` `Collaboration` `Teams` `Members` `Manteiners`
 
 Las organizaciones permiten integrar miembros de la comunidad de creadores, en equipos de trabajo para crear y publicar contenidos colaborativos a través de la clonación de versiones oficiales lanzadas por cada miembro o desde repositorios creados directamente por la organización.
 
