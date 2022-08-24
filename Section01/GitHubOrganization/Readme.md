@@ -19,6 +19,20 @@ Existen diversas [topologías](https://wikidiff.com/topology/typology) para la c
 Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones o equipos de trabajo para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, usando características administrativas y de seguridad sofisticadas. Más información [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).  
 
 
+### Como funcionan los equipos de trabajo[^2]
+
+Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembros de una organización, los cuales son invitados por los propietarios o administradores generales o por los gestores de equipo. Un usuario de GitHub puede pertenecer a múltiples organizaciones y a múltiples equipos de trabajo dentro de ellas y sus funciones y privilegios dependerán del rol (administrar, leer, escribir, acceder) que se desempeñe en cada proyecto o en cada repositorio.    
+
+**Visibilidad**: los equipos de trabajo pueden ser visibles o secretos. Todos los miembros en la organización pueden ver y @mencionar a los equipos visibles. Solo las personas en el equipo y aquellas con permisos de propietario pueden ver los equipos secretos. Son ideales para ocultar equipos con nombres o miembros sensibles, tales como aquellos que se utilizan para trabajar con socios o clientes externos. Los equipos secretos no pueden anidarse bajo equipos padre ni tener equipos hijo.
+
+**Espacio virtual del equipo**: cada equipo tiene una página o un tablero propio y dentro de él se pueden observar los miembros del equipo, sub equipos y los repositorios propios o en los que participa el equipo. Los propietarios y los gestores de los equipos pueden acceder a la configuración del equipo, actualizar su descripción, el logo, agregar nuevos miembros, crear subgrupos y asociar repositorios. 
+
+**Equipos anidados**: cuando se crea dentro de una organización un equipo de trabajo, a este se le pueden integrar diferentes miembros o subequipos a los cuales se les podrán también agregar diferentes miembros. Por ejemplo, si la organización corresponde a una institución educativa, esta podrá tener equipos de trabajo por programa académico, a su vez estos podrán tener dentro diferentes centros de estudios y estos a su vez diferentes áreas de investigación, semilleros o proyectos conformados por sus propios equipos.
+
+Aprende más acerca de como crear equipos [aquí](https://docs.github.com/es/articles/creating-a-team).  
+Aprende más acerca de como agregar miembros a un equipo [aquí](https://docs.github.com/es/articles/adding-organization-members-to-a-team).
+
+
 ### Tipos de cuentas en GitHub[^1]
 
 Para la creación y la gestión de las organizaciones en GitHub, existen diferentes tipos de cuentas de usuario. 
@@ -28,7 +42,7 @@ Para la creación y la gestión de las organizaciones en GitHub, existen diferen
 
 Cada persona que utilice GitHub.com deberá iniciar sesión con una cuenta personal. La cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Tu cuenta personal puede ser propietaria de recursos tales como repositorios, paquetes y proyectos. En cualquier momento que realices una acción en GitHub.com, tal como crear una propuesta o revisar una solicitud de cambios, dicha acción se atribuirá a tu cuenta personal.
 
-Cada cuenta personal utiliza ya sea GitHub Free o GitHub Pro. Todas las cuentas personales pueden ser propietarias de una cantidad ilimitada de repositorios públicos o privados, con una cantidad ilimitada de colaboradores en dichos repositorios. Si utilizas GitHub Free, los repositorios privados que le pertenezcan a tu cuenta personal tendrán un conjunto de características limitado, sin embargo, se puede mejorar migrando a una cuenta de pago en GitHub Pro para obtener el conjunto total de características para los repositorios privados. Para obtener más información, consulta "[Productos de GitHub](https://docs.github.com/es/get-started/learning-about-github/githubs-products)".
+Cada cuenta personal utiliza ya sea GitHub Free o GitHub Pro. Todas las cuentas personales pueden ser propietarias de una cantidad ilimitada de repositorios públicos o privados, con una cantidad ilimitada de colaboradores en dichos repositorios. Si usas GitHub Free, los repositorios privados que le pertenezcan a tu cuenta personal tendrán un conjunto de características limitado, sin embargo, se puede mejorar migrando a una cuenta de pago en GitHub Pro para obtener el conjunto total de características para los repositorios privados. Para obtener más información, consulta "[Productos de GitHub](https://docs.github.com/es/get-started/learning-about-github/githubs-products)".
 
 Utilizando cuentas libres y para los repositorios públicos, las discusiones y documentación wiki podrán ser habilitadas y utilizadas sin tener que utilizar una cuenta de pago. 
 
@@ -53,7 +67,6 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 > Para la creación y gestión de repositorios relacionados con investigación y docencia, no es necesario adquirir productos de pago y se pueden utilizar las cuentas de usuario y organizaciones libres.  
 
 
-### Creación de organizaciones
 
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
@@ -61,10 +74,10 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                | Respuesta |
-|-----------------------------------------------------------------------------------------|-----------|
-| ¿Que sucede con mis repositorios y mis derechos de propiedad si cambio de organización? |           |
-|                                                                                         |           |
+| Pregunta                                                                                                                  | Respuesta |
+|---------------------------------------------------------------------------------------------------------------------------|-----------|
+| ¿Que sucede con mis repositorios creados dentro de la organización y mis derechos de propiedad si cambio de organización? |           |
+| ¿Puedo clonar los repositorios de la organización dentro de mi cuenta personal?                                           |           |
 
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
@@ -94,3 +107,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: Tomado o adaptado de https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
+[^2]: Tomado o adaptado de https://docs.github.com/es/organizations/organizing-members-into-teams/about-teams
