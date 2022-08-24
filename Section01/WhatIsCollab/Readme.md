@@ -14,7 +14,7 @@ Tradicionalmente, pensamos que la creación de contenidos académicos y científ
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/SingleOrCollabChart.svg" width="60%"><br>
-<sub>Esquema de creadores de contenidos asociados para producción colaborativa.</sub><br><br>
+<sub>Esquema genérico de creadores de contenidos asociados para producción colaborativa.</sub><br><br>
 </div>
 
 
