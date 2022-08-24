@@ -1,4 +1,4 @@
-## Creación y gestión en línea de organizaciones y equipos en GitHub
+## Fundamentos de organizaciones y equipos en GitHub
 Keywords: `Organization` `Collaboration`
 
 Las organizaciones permiten integrar miembros de la comunidad de creadores de contenido en equipos de trabajo para publicar a través de clonación las versiones oficiales lanzadas o crear repositorios propios.               
@@ -49,6 +49,8 @@ Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de re
 #### Cuentas de empresa[^1]
 
 Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales de pago, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
+
+> Para la creación y gestión de repositorios relacionados con investigación y docencia, no es necesario adquirir productos de pago y se pueden utilizar las cuentas de usuario y organizaciones libres.  
 
 
 ### Creación de organizaciones
