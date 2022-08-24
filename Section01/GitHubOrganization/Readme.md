@@ -76,11 +76,11 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                                                  | Respuesta                                                                                                                                                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ¿Que sucede con mis repositorios creados dentro de la organización y mis derechos de propiedad si cambio de organización? | Esto depende de las políticas y acuerdos propios de cada organización, institución, entidad o empresa.                                                                                                                                                                                                                               |
-| ¿Puedo clonar los repositorios públicos de una organización dentro de mi cuenta personal?                                 | Sí, por tratarse de desarrollo colaborativo bajo el concepto de uso abierto, los repositorios pueden ser clonados y sus clonaciones pueden ser actualizadas. Si el repositorio de la organización fue clonado de la cuenta personal de uno de sus miembros, se recomienda clonar el repositorio original y no el repositorio clonado. |
-| ¿Al eliminar un equipo se eliminan también sus repositorios?                                                              | No, los repositorios de todos los equipos son administrados a nivel organización y estos son asociados a los equipos. Directamente los equipos no crear repositorios, únicamente los asocian si estos han sido creados previamente dentro de la organización.                                                                         |
+| Pregunta                                                                                                                                            | Respuesta                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Que sucede con los repositorios creados dentro de la organización en los que he participado y mis derechos de propiedad si cambio de organización? | Esto depende de las políticas y acuerdos propios de cada organización, institución, entidad o empresa.                                                                                                                                                                                                                                |
+| ¿Puedo clonar los repositorios públicos de una organización dentro de mi cuenta personal?                                                           | Sí, por tratarse de desarrollo colaborativo bajo el concepto de uso abierto, los repositorios pueden ser clonados y sus clonaciones pueden ser actualizadas. Si el repositorio de la organización fue clonado de la cuenta personal de uno de sus miembros, se recomienda clonar el repositorio original y no el repositorio clonado. |
+| ¿Al eliminar un equipo se eliminan también sus repositorios?                                                                                        | No, los repositorios de todos los equipos son administrados a nivel global de organización y estos son asociados a los equipos. Directamente los equipos no crear repositorios, únicamente los asocian si estos han sido creados previamente dentro de la organización.                                                               |
 
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
@@ -97,10 +97,10 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas |
-|------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
-
+| Versión     | Descripción                                                             | Autor                                      | Horas |
+|-------------|:------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.08.24  | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
+| 2022.08.22  | Versión inicial.                                                        | [rcfdtools](https://github.com/rcfdtools)  |   1   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
 
