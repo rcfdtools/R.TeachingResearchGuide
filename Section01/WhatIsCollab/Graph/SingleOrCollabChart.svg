@@ -9,15 +9,15 @@
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:#f2f2f2;stroke:none;stroke-width:1.5}
-		.st2 {fill:#990000;font-family:Segoe UI;font-size:0.666664em}
+		.st2 {fill:#000000;font-family:Segoe UI;font-size:0.666664em}
 		.st3 {fill:#7f7f7f;stroke:none;stroke-width:1.5}
 		.st4 {fill:#ffffff;font-family:Segoe UI;font-size:0.666664em}
 		.st5 {font-size:1em}
-		.st6 {marker-end:url(#mrkr6-13);stroke:#990000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st7 {fill:#990000;fill-opacity:1;stroke:#990000;stroke-opacity:1;stroke-width:0.25773195876289}
-		.st8 {marker-end:url(#mrkr6-36);stroke:#990000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st9 {marker-end:url(#mrkr6-36);stroke:#990000;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st10 {marker-end:url(#mrkr6-13);stroke:#990000;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {marker-end:url(#mrkr6-13);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-opacity:1;stroke-width:0.25773195876289}
+		.st8 {marker-end:url(#mrkr6-36);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {marker-end:url(#mrkr6-36);stroke:#7f7f7f;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {marker-end:url(#mrkr6-13);stroke:#7f7f7f;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st11 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:6.375}
 		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -291,7 +291,7 @@
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 183.54 C-0 192.79 35.91 193.99 45.24 201.4 L45.42 201.71" class="st8"/>
+			<path d="M0 183.54 C0 192.79 35.91 193.99 45.24 201.4 L45.42 201.71" class="st8"/>
 		</g>
 		<g id="shape426-67" v:mID="426" v:groupContext="shape" v:layerMember="0" transform="translate(253.127,-117.218)">
 			<title>Dynamic connector.426</title>
