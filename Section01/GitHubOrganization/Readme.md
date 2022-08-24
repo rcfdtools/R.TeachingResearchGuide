@@ -19,8 +19,10 @@ Existen diversas [topologías](https://wikidiff.com/topology/typology) para la c
 Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones o equipos de trabajo para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, usando características administrativas y de seguridad sofisticadas. Más información [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).  
 
 
-
 ### Tipos de cuentas en GitHub[^1]
+
+Para la creación y la gestión de las organizaciones en GitHub, existen diferentes tipos de cuentas de usuario. 
+
 
 #### Cuentas personales
 
@@ -41,6 +43,8 @@ Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de re
 
 
 #### Cuentas de empresa[^1]
+
+Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
 
 
 
