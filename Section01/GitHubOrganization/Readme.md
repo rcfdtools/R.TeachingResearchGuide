@@ -18,7 +18,7 @@ Existen diversas [topologías](https://wikidiff.com/topology/typology) para la c
 
 Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones o equipos de trabajo para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, usando características administrativas y de seguridad sofisticadas. Más información [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).  
 
-Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
+:mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
 
 ### Como funcionan los equipos de trabajo[^2]
@@ -31,8 +31,8 @@ Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembro
 | **Espacio virtual por equipo** | Cada equipo tiene una página o un tablero propio y dentro de él se pueden observar los miembros del equipo, sub equipos y los repositorios propios o en los que participa el equipo. Los propietarios y los gestores de los equipos pueden acceder a la configuración del equipo, actualizar su descripción, el logo, agregar nuevos miembros, crear subgrupos y asociar repositorios.                                                                                                                                |
 | **Equipos anidados**           | Cuando se crea dentro de una organización un equipo de trabajo, a este se le pueden integrar diferentes miembros o subequipos a los cuales se les podrán también agregar diferentes miembros. Por ejemplo, si la organización corresponde a una institución educativa, esta podrá tener equipos de trabajo por programa académico, a su vez estos podrán tener dentro diferentes centros de estudios y estos a su vez diferentes áreas de investigación, semilleros o proyectos conformados por sus propios miembros. |
 
-Aprende más acerca de como crear equipos [aquí](https://docs.github.com/es/articles/creating-a-team).  
-Aprende más acerca de como agregar miembros a un equipo [aquí](https://docs.github.com/es/articles/adding-organization-members-to-a-team).
+:mortar_board: Aprende más acerca de como crear equipos [aquí](https://docs.github.com/es/articles/creating-a-team).  
+:mortar_board: Aprende más acerca de como agregar miembros a un equipo [aquí](https://docs.github.com/es/articles/adding-organization-members-to-a-team).
 
 
 ### Tipos de cuentas en GitHub[^3]
@@ -68,7 +68,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 > Para la creación y gestión de repositorios relacionados con investigación y docencia, no es necesario adquirir productos de pago y se pueden utilizar las cuentas de usuario y organizaciones libres.  
 
-Apende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
+:mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
 ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
