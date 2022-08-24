@@ -23,8 +23,10 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 
 * Una organización puede tener uno o múltiples repositorios, proyectos, paquetes, equipos y miembros.
 * Los repositorios son creados o asociados por clonación directamente desde la raíz de la organización.
-* Los repositorios se asocian a los equipos o subequipos.
 * Los repositorios asociados a un equipo son visibles para todos los subequipos de niveles inferiores.
+* Usuarios externos que no pertenecen a la organización, pueden consultar los repositorios públicos en un único tablero sin los niveles de agrupamiento internos por equipos.
+* Usuarios externos pueden clonar repositorios públicos.
+* Los repositorios se asocian a los equipos o subequipos.
 * Los equipos principales pueden ser únicos o estar compuestos por múltiples equipos.
 * Cada equipo o subequipo tiene una página o tablero de control que incluye opciones de discusión, administración de miembros, administración de subequipos, administración de repositorios, administración de proyectos propios y configuraciones generales.
 * Un miembro puede pertenecer directamente a la organización y a uno o varios equipos o subequipos.
