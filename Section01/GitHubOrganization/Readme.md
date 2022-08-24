@@ -19,12 +19,15 @@ Existen diversas [topologías](https://wikidiff.com/topology/typology) para la c
 Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones o equipos de trabajo para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, usando características administrativas y de seguridad sofisticadas.  
 
 
-#### Características de una organización en GitHub
+#### Características de una organización en GitHub (2022.08.24)
 
-* Una organización puede tener uno o múltiples repositorios, projectos, paquetes y equipos.
-* 
-
-
+* Una organización puede tener uno o múltiples repositorios, proyectos, paquetes, equipos y miembros.
+* Los repositorios son creados o asociados por clonación directamente desde la raíz de la organización.
+* Los repositorios se asocian a los equipos o subequipos.
+* Los repositorios asociados a un equipo son visibles para todos los subequipos de niveles inferiores.
+* Los equipos principales pueden ser únicos o estar compuestos por múltiples equipos.
+* Cada equipo o subequipo tiene una página o tablero de control que incluye opciones de discusión, administración de miembros, administración de subequipos, administración de repositorios, administración de proyectos propios y configuraciones generales.
+* Un miembro puede pertenecer directamente a la organización y a uno o varios equipos o subequipos.
 
 :mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
