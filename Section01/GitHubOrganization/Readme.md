@@ -4,7 +4,7 @@ Keywords: `Organization` `Collaboration` `Teams` `Members` `Manteiners`
 Las organizaciones permiten integrar miembros de la comunidad de creadores, en equipos de trabajo para crear y publicar contenidos colaborativos a través de la clonación de versiones oficiales lanzadas por cada miembro o desde repositorios creados directamente por la organización.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Graph/GitHubOrganization.svg" width="30%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Graph/GitHubOrganization.svg" width="60%"><br><br>
 </div>
                                                                                                                                                       
 
