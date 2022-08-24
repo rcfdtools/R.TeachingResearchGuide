@@ -13,14 +13,14 @@
 		.st3 {font-size:1em}
 		.st4 {fill:#f2f2f2;stroke:none;stroke-width:1.5}
 		.st5 {fill:#990000;font-family:Segoe UI;font-size:0.666664em}
-		.st6 {fill:#7f7f7f;stroke:none;stroke-width:1.5}
+		.st6 {fill:#595959;stroke:none;stroke-width:1.5}
 		.st7 {marker-end:url(#mrkr6-38);stroke:#990000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st8 {fill:#990000;fill-opacity:1;stroke:#990000;stroke-opacity:1;stroke-width:0.25773195876289}
 		.st9 {marker-end:url(#mrkr6-69);stroke:#990000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st10 {marker-end:url(#mrkr6-69);stroke:#990000;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st11 {marker-end:url(#mrkr6-69);stroke:#990000;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st12 {marker-end:url(#mrkr6-38);stroke:#990000;stroke-dasharray:1.5,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
-		.st13 {fill:#595959;stroke:none;stroke-width:1.5}
+		.st13 {fill:#a5a5a5;stroke:none;stroke-width:1.5}
 		.st14 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -696,14 +696,14 @@
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 232.61 C-0 274.68 0 287.32 6.31 293.63 C12.37 299.7 24.26 299.92 62.7 299.92 L63.06 299.92" class="st7"/>
+			<path d="M0 232.61 C0 274.68 -0 287.32 6.31 293.63 C12.37 299.7 24.26 299.92 62.7 299.92 L63.06 299.92" class="st7"/>
 		</g>
 		<g id="shape224-200" v:mID="224" v:groupContext="shape" v:layerMember="0" transform="translate(197.674,-80.1565)">
 			<title>Dynamic connector.224</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 232.61 C0 272.91 0 284.3 -6.26 290.33 C-13.06 296.88 -27.26 297.08 -70.82 297.09 L-71.18 297.09"
+			<path d="M0 232.61 C-0 272.91 0 284.3 -6.26 290.33 C-13.06 296.88 -27.26 297.08 -70.82 297.09 L-71.18 297.09"
 					class="st12"/>
 		</g>
 		<g id="shape225-205" v:mID="225" v:groupContext="shape" transform="translate(311.436,-80.1565)">
