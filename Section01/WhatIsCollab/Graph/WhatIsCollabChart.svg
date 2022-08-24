@@ -88,7 +88,7 @@
 						 236.86 A11.3384 11.3384 -180 0 0 0 248.2 A11.3384 11.3384 -180 0 0 11.34 259.54 Z" class="st4"/>
 			<text x="10.88" y="245.8" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Centro de <tspan
 						x="13.57" dy="1.2em" class="st3">estudios</tspan></text>		</g>
-		<g id="shape164-9" v:mID="164" v:groupContext="shape" transform="translate(162.164,-105.668)">
+		<g id="shape164-9" v:mID="164" v:groupContext="shape" transform="translate(160.051,-105.668)">
 			<title>Rounded Rectangle.164</title>
 			<desc>Institución / Organización</desc>
 			<v:userDefs>
@@ -230,53 +230,53 @@
 						 236.86 A11.3384 11.3384 -180 0 0 0 248.2 A11.3384 11.3384 -180 0 0 11.34 259.54 Z" class="st1"/>
 			<text x="10.88" y="245.8" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Facultad / <tspan
 						x="11.11" dy="1.2em" class="st3">Programa</tspan></text>		</g>
-		<g id="shape170-33" v:mID="170" v:groupContext="shape" v:layerMember="0" transform="translate(162.164,-119.197)">
+		<g id="shape170-33" v:mID="170" v:groupContext="shape" v:layerMember="0" transform="translate(160.051,-119.197)">
 			<title>Dynamic connector.170</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C-14.34 259.54 -38.26 259.54 -48.89 254.95 C-55.04 252.3 -56.73 248.1 -57.2 244.11 L-57.21 243.75"
+			<path d="M0 259.54 C-13.82 259.54 -36.81 259.54 -47.05 254.97 C-53 252.31 -54.64 248.11 -55.09 244.11 L-55.11 243.75"
 					class="st7"/>
 		</g>
-		<g id="shape171-39" v:mID="171" v:groupContext="shape" v:layerMember="0" transform="translate(162.164,-119.197)">
+		<g id="shape171-39" v:mID="171" v:groupContext="shape" v:layerMember="0" transform="translate(160.051,-119.197)">
 			<title>Dynamic connector.171</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C-14.34 259.54 -37.31 259.54 -48.02 266.81 C-55.86 272.14 -57.13 281.38 -57.34 289.25 L-57.34 289.61"
+			<path d="M0 259.54 C-13.82 259.54 -35.85 259.54 -46.17 266.76 C-53.79 272.09 -55.03 281.37 -55.22 289.25 L-55.23 289.61"
 					class="st7"/>
 		</g>
-		<g id="shape172-44" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(229.504,-119.197)">
+		<g id="shape172-44" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(227.39,-119.197)">
 			<title>Dynamic connector.172</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C13.29 259.54 35.36 259.54 45.21 254.99 C50.97 252.33 52.56 248.12 52.99 244.11 L53.01 243.75"
+			<path d="M0 259.54 C13.82 259.54 36.81 259.54 47.05 254.97 C53.01 252.31 54.65 248.11 55.1 244.11 L55.11 243.75"
 					class="st7"/>
 		</g>
-		<g id="shape173-49" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(229.504,-119.197)">
+		<g id="shape173-49" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(227.39,-119.197)">
 			<title>Dynamic connector.173</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C13.29 259.54 34.39 259.54 44.33 266.7 C51.73 272.03 52.93 281.35 53.12 289.25 L53.12 289.61"
+			<path d="M0 259.54 C13.82 259.54 35.85 259.54 46.18 266.76 C53.8 272.09 55.03 281.37 55.23 289.25 L55.24 289.61"
 					class="st7"/>
 		</g>
-		<g id="shape174-54" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(201.866,-132.726)">
+		<g id="shape174-54" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(186.636,-132.726)">
 			<title>Dynamic connector.174</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M-6.03 259.54 C-6.03 254.22 -6.03 251.56 -6.38 250.23 C-6.74 248.91 -7.44 248.91 -7.79 248.24 C-8.14 247.57
-						 -8.14 246.24 -8.14 244.75 C-8.14 242.28 -8.14 239.39 -8.14 232.13" class="st9"/>
+			<path d="M7.08 259.54 C7.08 254.22 7.08 252.45 7.08 251.07 C7.08 250.38 7.08 249.79 7.08 249.43 C7.09 248.91 7.09 248.91
+						 7.09 248.45 C7.09 247.85 7.09 246.44 7.09 244.91 C7.09 242.33 7.09 239.4 7.09 232.13" class="st9"/>
 		</g>
-		<g id="shape175-60" v:mID="175" v:groupContext="shape" v:layerMember="0" transform="translate(201.866,-105.668)">
+		<g id="shape175-60" v:mID="175" v:groupContext="shape" v:layerMember="0" transform="translate(186.636,-105.668)">
 			<title>Dynamic connector.175</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M-6.03 259.54 C-6.03 264.85 -6.03 267.14 -6.26 268.44 C-6.56 270.17 -7.27 270.17 -7.66 271 C-8.14 272.04 -8.14
-						 274.38 -8.14 276.93 C-8.14 281.55 -8.14 286.86 -8.14 301.23" class="st9"/>
+			<path d="M7.08 259.54 C7.08 264.85 7.08 266.62 7.08 267.9 C7.08 268.54 7.08 269.05 7.08 269.4 C7.09 270.17 7.09 270.17
+						 7.09 270.79 C7.09 271.74 7.09 274.17 7.09 276.77 C7.09 281.52 7.09 286.86 7.09 301.23" class="st9"/>
 		</g>
 		<g id="shape176-65" v:mID="176" v:groupContext="shape" v:layerMember="0" transform="translate(79.7267,-143.232)">
 			<title>Dynamic connector.176</title>
@@ -553,13 +553,12 @@
 			</v:userDefs>
 			<path d="M-0 259.54 C-4.34 259.54 -5.14 247.23 -10.12 242.73 L-10.45 242.6" class="st10"/>
 		</g>
-		<g id="shape195-136" v:mID="195" v:groupContext="shape" v:layerMember="0" transform="translate(108.397,-194.256)">
+		<g id="shape195-136" v:mID="195" v:groupContext="shape" v:layerMember="0" transform="translate(104.787,-194.256)">
 			<title>Dynamic connector.195</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M-3.61 259.54 C-3.61 246.07 -18.01 246.07 -22.49 239.45 C-24.28 236.82 -24.49 233.12 -14.93 232.29 L-14.57 232.28"
-					class="st10"/>
+			<path d="M0 259.54 C0 250.18 14 249.06 17.35 239.75 L17.41 239.39" class="st10"/>
 		</g>
 		<g id="shape199-141" v:mID="199" v:groupContext="shape" v:layerMember="0" transform="translate(275.575,-159.532)">
 			<title>Dynamic connector.199</title>
@@ -684,28 +683,28 @@
 			</v:userDefs>
 			<path d="M7.09 260.24 C7.09 262.29 7.09 265.65 7.09 268.64" class="st9"/>
 		</g>
-		<g id="shape221-190" v:mID="221" v:groupContext="shape" v:layerMember="0" transform="translate(195.834,-132.726)">
+		<g id="shape221-190" v:mID="221" v:groupContext="shape" v:layerMember="0" transform="translate(193.72,-132.726)">
 			<title>Dynamic connector.221</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C-0 238.4 -19.89 238.4 -30.15 231.59 C-40.3 224.86 -41.03 211.47 -58.34 209.57 L-58.7 209.55"
+			<path d="M0 259.54 C-0 238.4 -18.94 238.4 -28.68 231.54 C-38.23 224.8 -38.92 211.46 -56.23 209.57 L-56.59 209.55"
 					class="st10"/>
 		</g>
-		<g id="shape223-195" v:mID="223" v:groupContext="shape" v:layerMember="0" transform="translate(195.834,-105.668)">
+		<g id="shape223-195" v:mID="223" v:groupContext="shape" v:layerMember="0" transform="translate(193.72,-105.668)">
 			<title>Dynamic connector.223</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C0 294.96 19.74 294.96 28.91 304.1 C36.29 311.46 36.83 324.75 54.12 326.63 L54.48 326.65"
+			<path d="M0 259.54 C-0 294.96 20.73 294.96 30.44 303.98 C38.36 311.35 38.94 324.73 56.24 326.63 L56.59 326.65"
 					class="st7"/>
 		</g>
-		<g id="shape224-200" v:mID="224" v:groupContext="shape" v:layerMember="0" transform="translate(195.834,-105.668)">
+		<g id="shape224-200" v:mID="224" v:groupContext="shape" v:layerMember="0" transform="translate(193.72,-105.668)">
 			<title>Dynamic connector.224</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C-0 294.96 -21.58 294.96 -31.83 302.98 C-40.42 309.7 -41.04 322.06 -58.34 323.81 L-58.7 323.83"
+			<path d="M0 259.54 C-0 294.96 -20.6 294.96 -30.31 303.08 C-38.35 309.8 -38.93 322.07 -56.23 323.81 L-56.59 323.83"
 					class="st10"/>
 		</g>
 		<g id="shape225-205" v:mID="225" v:groupContext="shape" transform="translate(313.319,-105.668)">
@@ -735,7 +734,7 @@
 						 232.48 A13.5288 13.5288 -180 0 0 -0 246.01 A13.5288 13.5288 -180 0 0 13.53 259.54 Z" class="st6"/>
 			<text x="12.62" y="243.61" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Institución / <tspan
 						x="10.37" dy="1.2em" class="st3">Organización</tspan></text>		</g>
-		<g id="shape226-209" v:mID="226" v:groupContext="shape" transform="translate(1.5,-45.3082)">
+		<g id="shape226-209" v:mID="226" v:groupContext="shape" transform="translate(1.5,-60.2545)">
 			<title>Rounded Rectangle.226</title>
 			<desc>Institución / Organización</desc>
 			<v:userDefs>
@@ -789,28 +788,28 @@
 						 232.48 A13.5288 13.5288 -180 0 0 -0 246.01 A13.5288 13.5288 -180 0 0 13.53 259.54 Z" class="st6"/>
 			<text x="12.62" y="243.61" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Institución / <tspan
 						x="10.37" dy="1.2em" class="st3">Organización</tspan></text>		</g>
-		<g id="shape229-217" v:mID="229" v:groupContext="shape" v:layerMember="0" transform="translate(162.164,-119.197)">
+		<g id="shape229-217" v:mID="229" v:groupContext="shape" v:layerMember="0" transform="translate(160.051,-119.197)">
 			<title>Dynamic connector.229</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C-82.7 259.54 -82.7 275.17 -102.41 280.38 C-111.59 282.81 -125.06 282.97 -126.81 302.01 L-126.82 302.37"
-					class="st7"/>
+			<path d="M0 259.54 C-80.58 259.54 -80.58 275.42 -88.47 280.54 C-92.22 282.98 -97.75 282.98 -106.51 282.98 C-112.78 282.98
+						 -120.69 282.98 -123.67 287.23 L-123.77 287.57" class="st7"/>
 		</g>
-		<g id="shape230-222" v:mID="230" v:groupContext="shape" v:layerMember="0" transform="translate(229.504,-126.284)">
+		<g id="shape230-222" v:mID="230" v:groupContext="shape" v:layerMember="0" transform="translate(227.39,-126.284)">
 			<title>Dynamic connector.230</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 266.62 C19.58 266.62 57.47 266.62 79.45 266.62" class="st9"/>
+			<path d="M0 266.62 C20.11 266.62 59.05 266.62 81.56 266.62" class="st9"/>
 		</g>
-		<g id="shape231-227" v:mID="231" v:groupContext="shape" v:layerMember="0" transform="translate(195.834,-132.726)">
+		<g id="shape231-227" v:mID="231" v:groupContext="shape" v:layerMember="0" transform="translate(193.72,-132.726)">
 			<title>Dynamic connector.231</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 259.54 C0 238.4 17.22 238.4 26.4 233.66 C36.87 228.25 36.87 216.66 36.87 202.19 C36.87 191.41 36.87 179.02
-						 43.58 175.52 L43.93 175.44" class="st7"/>
+			<path d="M0 259.54 C-0 238.4 18.25 238.4 27.95 233.61 C38.98 228.17 38.98 216.54 38.98 201.98 C38.98 191.28 38.98 178.98
+						 45.69 175.51 L46.04 175.43" class="st7"/>
 		</g>
 	</g>
 </svg>
