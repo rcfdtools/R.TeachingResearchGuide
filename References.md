@@ -2,7 +2,7 @@
 
 Este documento contiene referencias relacionadas con el contenido general de este repositorio. Cada actividad pueden contener referencias específicas.
 
-> Consulta [aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/.refs) los documentos de uso libre descargados e incluidos en este repositorio.
+> Consulta [aquí](.refs) los documentos de uso libre descargados e incluidos en este repositorio.
 
 
 ### Referencias generales
