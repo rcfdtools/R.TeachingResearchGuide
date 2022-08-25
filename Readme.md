@@ -26,7 +26,6 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 | Gestión con Visual Studio Code  | Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub,                                                                                                                           |
 
 <br>
-<br>
 
 **:scroll: Licencia, cláusulas, condiciones de uso y citación:** R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/LICENSE.md).
 
