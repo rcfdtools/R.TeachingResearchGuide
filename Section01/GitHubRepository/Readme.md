@@ -4,7 +4,7 @@ Keywords: `Markdown` `HTML` `Repository` `.gitignore` `Readme.md`
 En esta actividad aprenderá a crear y gestionar repositorios en GitHub directamente desde el navegador de Internet.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Graph/GitHubRepository.svg" width="30%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubRepository.svg" width="30%"><br><br>
 </div>
                                                                                                                                                       
 
@@ -12,12 +12,12 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 1. Ingrese a https://github.com/ y de clic en la opción `Sign up`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubSingUp.png)
+![R.TeachingResearchGuide](Screenshot/GitHubSingUp.png)
 
 2. En la ventana de registro, ingrese su dirección de correo electrónico, establezca una contraseña segura, defina su nombre de usuario, indique con `y/n` si desea recibir notificaciones por correo y de clic en el botón `Continue`. Para este ejemplo, crearé la cuenta de usuario `rcfdtoolstest`.
 
 > En la ventana de creación aparecerán mensajes indicando si la cuenta de correo utilizada ya está siendo utilizada por otro usuario, password válido y nombre disponible para la creación del usuario GitHub.  
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterYourEmail.png)
+![R.TeachingResearchGuide](Screenshot/GitHubEnterYourEmail.png)
 
 > **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
 > 
@@ -25,25 +25,25 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 3. Para terminar con la creación de cuenta, verifique la creación de su cuenta seleccionando o solucionando el rompecabezas que aparece en pantalla y de clic en el botón `Create account`. Será enviado un código de verificación a su cuenta de correo.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubVerifyAccount.png)
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubCreateAccount.png)
+![R.TeachingResearchGuide](Screenshot/GitHubVerifyAccount.png)
+![R.TeachingResearchGuide](Screenshot/GitHubCreateAccount.png)
 
 4. Ingrese el código de verificación recibido en su cuenta de correo, automáticamente será dirigido a la raíz de su espacio GitHub.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEmailCode.png)
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubEnterCode.png)
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubMain.png)
+![R.TeachingResearchGuide](Screenshot/GitHubEmailCode.png)
+![R.TeachingResearchGuide](Screenshot/GitHubEnterCode.png)
+![R.TeachingResearchGuide](Screenshot/GitHubMain.png)
 
 5. Para visualizar su espacio personal y los repositorios creados asociados, ingrese su nombre de usuario después del nombre de dominio `https://github.com/rcfdtoolstest`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubHome.png)
+![R.TeachingResearchGuide](Screenshot/GitHubHome.png)
 
 
 ### Creación de mi primer repositorio
 
 1. En la parte superior derecha de su ventana de GitHub, de clic en el botón `+` y seleccione la opción `New repository`.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubNewRepository.png)
+![R.TeachingResearchGuide](Screenshot/GitHubNewRepository.png)
 
 2. En la ventana de creación de repositorio nuevo, ingrese el nombre del repositorio, p. ej. `repotest` e ingrese una descripción general de su propósito.
 
@@ -63,7 +63,7 @@ Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferente
 
 Para finalizar la creación del repositorio, de clic en el botón `Create repository`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubCreateRepository.png)
+![R.TeachingResearchGuide](Screenshot/GitHubCreateRepository.png)
 
 [Ejemplo de licencia MIT](https://opensource.org/licenses/MIT)
 
@@ -81,7 +81,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 3. Luego de creado el repositorio, será dirigido automáticamente `repotest` y podrá visualizar el contenido del Archivo `Readme.md`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTest.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTest.png)
 
 > Recuerde que la documentación del proyecto principalmente se realiza a través de archivos Markdown en formato .md, y GitHub puede interpretar y mostrar en pantalla el contenido del archivo con su traducción a HTML para su visualización.
 
@@ -89,16 +89,16 @@ En la dirección de su navegador podrá observar el nombre de su cuenta de usuar
 
 Para clonar o descargar el repositorio, en el botón `Code` encontrará opciones para generar una URL de clonación, [GitHub command line - CLI](https://cli.github.com/), apertura y sincronización desde GitHub Desktop y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestCode.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestCode.png)
 
 Al encontrarse su sesión de usuario abierta en el navegador, ingresando https://github.com/, podrá observar que en el panel izquierdo aparece su repositorio en recientes.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRecent.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRecent.png)
 
 
 ### Opciones predeterminadas disponibles para repositorios nuevos
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestCodeSections.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestCodeSections.png)
 
 En la parte superior de la ventana del repositorio, podrá encontrar las siguientes secciones:
 
@@ -120,7 +120,7 @@ En la parte derecha encontrará la sección acerca de o `About` que presenta un 
 
 <div align="center">
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRightSidePanel.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRightSidePanel.png)
 
 </div>
 
@@ -134,7 +134,7 @@ De clic en las opciones de configuración, podrá observar que también puede as
 
 <div align="center">
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRightSidePanel1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRightSidePanel1.png)
 
 </div>
 
@@ -213,31 +213,31 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 
 1. Desde su navegador de Internet y en el repositorio creado previamente (p. ej. rcfdtoolstest/repotest), de clic en el botón `Add file` y seleccione la opción `Create new file`
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestNewFile.png)
 
 2. Cree la carpeta `.datasets` con su respectivo archivo Readme.md. Para crear carpetas, ingrese después de `repotest/` el nombre de la carpeta y el nombre del archivo readme. p. ej.: `.datasets/Readme.md`.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestNewFile1.png)
 
 Dentro del editor, ingrese el texto `## Datasets o conjuntos de datos comunes`.
 
 >> Recuerde que ## es utilizado en Markdown para definir un título de nivel 2.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile2.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestNewFile2.png)
 
 3. En la parte inferior de la ventana, ingrese en él `Commit` o texto de revisión descriptivo, p. ej., _"Creación de la carpeta para almacenamientos de datasets o conjuntos de datos comunes."_ y de clic en el botón `Commit new file`.
 
 > En GitHub, todas las modificaciones de elementos deben incluir un texto de revisión que describe los cambios que se están realizando sobre los archivos. Utilizando herramientas Desktop para gestión de repositorios, podrá efectuar la modificación de múltiples archivos y al publicar las actualizaciones deberá incluir un único _Commit_ que será visible en cada archivo.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestNewFile3.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestNewFile3.png)
 
 Una vez finalizada la creación de la carpeta y el archivo, podrá observar que en pantalla aparece la nueva carpeta y el archivo Readme.md.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolderDatasets.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestFolderDatasets.png)
 
 4. Repita el procedimiento anterior para crear las carpetas y archivos Readme.md para `.icons`, `.refs` y `.temp`. Diríjase a la raíz del repositorio y, visualice las carpetas generadas y los comentarios de revisión.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestFolders.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestFolders.png)
 
 
 ### Ejemplo de creación de carpetas específicas y archivos Readme.md
@@ -268,7 +268,7 @@ Estructura del curso ejemplo:
 
 Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md, localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeEdit.png)
 
 Incluya las siguientes referencias:
 
@@ -281,15 +281,15 @@ Incluya las siguientes referencias:
 
 > Como observa, las referencias se han definido a través de una lista utilizando `*` y contienen la hipervinculación `[descripción](hiperenlace)` al libro en línea. 
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEdit1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeEdit1.png)
 
 En la parte inferior de la ventana de edición, incluya como comentario de actualización o Commit: _"Inclusión de 4 referencias del autor Al Sweigart."_, y de clic en el botón `Commit changes`.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommit.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeEditCommit.png)
 
 Visualice el resultado obtenido y la representación en HTML del archivo Markdown.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditCommitted.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeEditCommitted.png)
 
 > Como pudo observar en el proceso de edición del archivo de referencias, es necesario conocer las marcas de Markdown que permiten crear listas o hipervincular texto, y no existe edición asistida que permita a partir de la selección de un texto, establecer p. ej., negrillas o cursiva. La ventana del editor permite realizar previsualización del archivo antes de que los cambios sean publicados.
 > 
@@ -297,7 +297,7 @@ Visualice el resultado obtenido y la representación en HTML del archivo Markdow
 
 El editor de archivos en línea dispone de las siguientes opciones:
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeEditOptions.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeEditOptions.png)
 
 | Opción           | Descripción                                                                                                                                                                                                                                 |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -310,10 +310,10 @@ El editor de archivos en línea dispone de las siguientes opciones:
 | :wastebasket:    | Eliminar el archivo. Requiere Commit.                                                                                                                                                                                                       |
 
 Blame  
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeBlame.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeBlame.png)
 
 History  
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubRepository/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
 
 
 ### Preguntas y respuestas Q&A
@@ -331,10 +331,7 @@ History
 | ¿Como puedo comprobar si un repositorio es oficialmente promovido por una institución o una organización y como puedo verificar la identidad de el o los creadores?                                                                          |                                                                                                                                                                                                                                                                                                                                  |
 | En mi tiempo libre estoy creando un nuevo curso y quiero que este sea difundido con certificación a través de la oferta académica de mi organización, ¿Es posible y como funciona la propiedad intelectual y los beneficios institucionales? |                                                                                                                                                                                                                                                                                                                                  | 
 
-
-> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) a crear y/o responder preguntas que otros usuarios necesiten conocer o  experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -352,11 +349,10 @@ History
 | 2022.08.21 | Creación de carpetas comunes y archivos. Ejemplo de creación de carpetas específicas y archivos. Edición en línea de archivos de documentación. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 | 2022.08.18 | Versión inicial.                                                                                                                                     | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
-
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/Markdown)  | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubOrganization) |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [Anterior](../Markdown) | [:house: Inicio](../../Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente](../GitHubOrganization) |
+|-------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------|
 
