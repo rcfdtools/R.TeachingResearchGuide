@@ -4,7 +4,7 @@ Keywords: `Organization` `Collaboration` `Teams` `Members` `Manteiners`
 Las organizaciones permiten integrar miembros de la comunidad de creadores, en equipos de trabajo para generar y publicar contenidos colaborativos a través de la clonación de versiones oficiales lanzadas por cada miembro o desde repositorios creados directamente por la organización.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Graph/GitHubOrganization.svg" width="70%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubOrganization.svg" width="70%"><br><br>
 </div>
                                                                                                                                                       
 
@@ -93,10 +93,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 | ¿Puedo clonar los repositorios públicos de una organización dentro de mi cuenta personal?                                                           | Sí, por tratarse de desarrollo colaborativo bajo el concepto de uso abierto, los repositorios pueden ser clonados y sus clonaciones pueden ser actualizadas. Si el repositorio de la organización fue clonado de la cuenta personal de uno de sus miembros, se recomienda clonar el repositorio original y no el repositorio clonado. |
 | ¿Al eliminar un equipo se eliminan también sus repositorios?                                                                                        | No, los repositorios de todos los equipos son administrados a nivel global de organización y estos son asociados a los equipos. Directamente los equipos no crear repositorios, únicamente los asocian si estos han sido creados previamente dentro de la organización.                                                               |
 
-
-> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) a crear y/o responder preguntas que otros usuarios necesiten conocer o  experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -113,12 +110,12 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 | 2022.08.24  | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   6   |
 | 2022.08.22  | Versión inicial.                                                        | [rcfdtools](https://github.com/rcfdtools)  |   1   |
 
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository)  | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
+|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: Tomado o adaptado de https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
 [^2]: Tomado o adaptado de https://docs.github.com/es/organizations/organizing-members-into-teams/about-teams
