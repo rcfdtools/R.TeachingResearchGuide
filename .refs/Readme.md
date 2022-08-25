@@ -1,7 +1,5 @@
 ## Referencias
 
-Reporta referencias adicionales a través de este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/12).
-
 | Referencia                                   | Archivo                                                                                                                        |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Como crear texto con ecuaciones en Markdown. | [CreateEquationsLaTeXMarkdown.pdf](https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md) |
@@ -14,5 +12,7 @@ Reporta referencias adicionales a través de este [hilo de discusión](https://g
 > 
 > Referenciar como: información del autor o autores. (Fecha). Título. Fuente. 
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) |
-|------------------------------------------------------------------------|
+Comparte referencias adicionales desde el hilo de discusión _Ayuda / Colabora_.
+
+| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/12) |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
