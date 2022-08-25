@@ -1,6 +1,6 @@
 ## Referencias generales
 
-Esta carpeta contiene documentos, artículos y enlaces de referencia relacionados con el contenido general de este repositorio. Dentro de cada actividad pueden existir carpetas de referencias específicas.
+Este documento contiene referencias relacionadas con el contenido general de este repositorio. Dentro de cada actividad pueden existir carpetas de referencias específicas.
 
 > Consulta [aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/.refs) los documentos de uso libre descargados e incluidos en este repositorio.
 
