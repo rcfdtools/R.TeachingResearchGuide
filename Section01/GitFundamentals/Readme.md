@@ -4,7 +4,7 @@ Keywords: `Branch` `Commit` `Pull request` `Pull` `Fork`
 Git es un software que permite rastrear y validar cambios en archivos de un proyecto o un repositorio.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitFundamentals/Graph/GitFundamentals.svg" width="30%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitFundamentals.svg" width="30%"><br>
 </div>
 
 
@@ -74,7 +74,7 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 
 > Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) de este microcontenido.
 >
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/99999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias
@@ -93,8 +93,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/CollabTools) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/Markdown) |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Anterior](../CollabTools) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) | [Siguiente](../Markdown) |
+|----------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
 
 [^1]: https://www.atlassian.com/es/git/tutorials/what-is-git
 [^2]: https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
