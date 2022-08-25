@@ -22,6 +22,13 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://docs.github.com/en/get-started/quickstart/github-glossary
 
 
+### emojis
+
+* emojis https://github.com/ikatyang/emoji-cheat-sheet
+* emojis https://gist.github.com/rxaviers/7360908
+* emojis https://www.webfx.com/tools/emoji-cheat-sheet/
+
+
 ### Diseño gráfico
 
 * https://htmlcolorcodes.com/color-picker/
