@@ -4,19 +4,19 @@ La imagen o entidad corporativa es la manera en la que una empresa, firma o come
 
 ### Colores en diagramas de procesos o diagramas de flujo
 
-| Elemento                             | Descripción                                                                                                    | Hexadecimal                                                                                                                        | RGB          |
-|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-------------|
-| Clase de entidad                     | Vectores CAD, archivos de formas geométricas, elementos geométricos. Borde continuo.                           | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconFeatureClass.svg) #4C85F4     | 76, 133, 244 |
-| Grilla ráster                        | Grillas en formato GeoTIFF, Grid, EWC y formatos de imagen georeferenciada. Borde continuo.                    | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconGrid.svg) #3EA853             | 62, 168, 83  |
-| Proceso manual                       | Proceso no automatizado que requiere ser ejecutado paso a paso de forma manual. Borde continuo.                | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconManualProcess.svg) #FBBC0E    | 251, 188, 14 |
-| Geoproceso                           | Proceso automático ejecutado a través de una herramienta que genera datos geográficos. Borde continuo.         | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconGeoProcess.svg) #EA4D35       | 234, 77, 53  |
-| Proceso automático o semiautomático  | Proceso que puede ser ejecutado automáticamente a través de una herramienta computacional. Borde con guiones.  | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconAutomaticProcess.svg) #EA4D35 | 234, 77, 53  |
-| Dataset                              | Tablas, libros, bases de datos, archivos .csv y cualquier tipo de datos tabulable.                             | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconDataset.svg) #696368          | 105, 99, 104 |
+| Elemento                             | Descripción                                                                                                    | Hexadecimal                                                         | RGB          |
+|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:-------------|
+| Clase de entidad                     | Vectores CAD, archivos de formas geométricas, elementos geométricos. Borde continuo.                           | ![R.TeachingResearchGuide](.icons/IconFeatureClass.svg) #4C85F4     | 76, 133, 244 |
+| Grilla ráster                        | Grillas en formato GeoTIFF, Grid, EWC y formatos de imagen georeferenciada. Borde continuo.                    | ![R.TeachingResearchGuide](.icons/IconGrid.svg) #3EA853             | 62, 168, 83  |
+| Proceso manual                       | Proceso no automatizado que requiere ser ejecutado paso a paso de forma manual. Borde continuo.                | ![R.TeachingResearchGuide](.icons/IconManualProcess.svg) #FBBC0E    | 251, 188, 14 |
+| Geoproceso                           | Proceso automático ejecutado a través de una herramienta que genera datos geográficos. Borde continuo.         | ![R.TeachingResearchGuide](.icons/IconGeoProcess.svg) #EA4D35       | 234, 77, 53  |
+| Proceso automático o semiautomático  | Proceso que puede ser ejecutado automáticamente a través de una herramienta computacional. Borde con guiones.  | ![R.TeachingResearchGuide](.icons/IconAutomaticProcess.svg) #EA4D35 | 234, 77, 53  |
+| Dataset                              | Tablas, libros, bases de datos, archivos .csv y cualquier tipo de datos tabulable.                             | ![R.TeachingResearchGuide](.icons/IconDataset.svg) #696368          | 105, 99, 104 |
 
 
-Ejemplo diagrama de flujo con [Microsoft Visio 2019](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/R.TeachingResearchGuide.vsdx)
+Ejemplo diagrama de flujo con [Microsoft Visio 2019](.graph/R.TeachingResearchGuide.vsdx)
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/FLowChartSample.svg" width="40%"><br>
+  <br><img alt="R.TeachingResearchGuide" src=".graph/FLowChartSample.svg" width="40%"><br>
   <sub>Convenciones generales en diagramas: clases de entidad en azul, dataset en gris oscuro, grillas en color verde, geo-procesos en rojo, procesos automáticos o semiautomáticos en guiones rojos y procesos manuales en amarillo. Líneas conectoras con guiones corresponden a procedimientos opcionales.</sub><br><br>
 </div>
 
@@ -31,20 +31,20 @@ Texto descriptivo a pie de imagen
 
 | Facultad                   | Hexadecimal                                                                                                                              | RGB           |
 |:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Escuela general            | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconEscuelaGeneral.svg) #990000         | 153, 0, 0     |
-| Escuela realce             | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconEscuelaRealce.svg) #333333          | 51, 51, 51    |
-| Ingeniería Civil           | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaCivil.svg) #990000        | 153, 0, 0     |
-| Ingeniería Industrial      | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaIndustrial.svg) #CC6633   | 204, 102, 51  |
-| Ingeniería Eléctrica       | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaElectrica.svg) #210042    | 33, 0, 66     |
-| Ingeniería Sistemas        | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaSistemas.svg) #004B19     | 0, 75, 25     |
-| Ingeniería Electrónica     | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaElectronica.svg) #003399  | 0, 51, 133    |
-| Economía                   | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconEconomia.svg) #007AA0               | 0, 122, 160   |
-| Administración de Empresas | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconAdministracionEmpresas.svg) #90006F | 144, 0, 111   |
-| Matemáticas                | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconMatematicas.svg) #003366            | 0, 51, 102    |
-| Ingeniería Mecánica        | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaMecanica.svg) #FFCC00     | 255, 204, 0   |
-| Ingeniería Ambiental       | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaAmbiental.svg) #7BBA25    | 123, 186, 37  |
-| Ingeniería Estadística     | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaEstadistica.svg) #00D900  | 0, 217, 0     |
-| Ingeniería Biomédica       | ![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/IconIngenieriaBiomedica.svg) #85C7C6    | 133, 199, 198 |
+| Escuela general            | ![R.TeachingResearchGuide](.icons/IconEscuelaGeneral.svg) #990000         | 153, 0, 0     |
+| Escuela realce             | ![R.TeachingResearchGuide](.icons/IconEscuelaRealce.svg) #333333          | 51, 51, 51    |
+| Ingeniería Civil           | ![R.TeachingResearchGuide](.icons/IconIngenieriaCivil.svg) #990000        | 153, 0, 0     |
+| Ingeniería Industrial      | ![R.TeachingResearchGuide](.icons/IconIngenieriaIndustrial.svg) #CC6633   | 204, 102, 51  |
+| Ingeniería Eléctrica       | ![R.TeachingResearchGuide](.icons/IconIngenieriaElectrica.svg) #210042    | 33, 0, 66     |
+| Ingeniería Sistemas        | ![R.TeachingResearchGuide](.icons/IconIngenieriaSistemas.svg) #004B19     | 0, 75, 25     |
+| Ingeniería Electrónica     | ![R.TeachingResearchGuide](.icons/IconIngenieriaElectronica.svg) #003399  | 0, 51, 133    |
+| Economía                   | ![R.TeachingResearchGuide](.icons/IconEconomia.svg) #007AA0               | 0, 122, 160   |
+| Administración de Empresas | ![R.TeachingResearchGuide](.icons/IconAdministracionEmpresas.svg) #90006F | 144, 0, 111   |
+| Matemáticas                | ![R.TeachingResearchGuide](.icons/IconMatematicas.svg) #003366            | 0, 51, 102    |
+| Ingeniería Mecánica        | ![R.TeachingResearchGuide](.icons/IconIngenieriaMecanica.svg) #FFCC00     | 255, 204, 0   |
+| Ingeniería Ambiental       | ![R.TeachingResearchGuide](.icons/IconIngenieriaAmbiental.svg) #7BBA25    | 123, 186, 37  |
+| Ingeniería Estadística     | ![R.TeachingResearchGuide](.icons/IconIngenieriaEstadistica.svg) #00D900  | 0, 217, 0     |
+| Ingeniería Biomédica       | ![R.TeachingResearchGuide](.icons/IconIngenieriaBiomedica.svg) #85C7C6    | 133, 199, 198 |
 
 </div>
 
@@ -52,19 +52,19 @@ Texto descriptivo a pie de imagen
 > 
 > Para diagramas de clasificación e ilustraciones se utiliza el color de contorno o de relleno específico de cada facultad.
 
-Ejemplo estilo 1 - diagrama de clasificación con borde en color genérico desde [Microsoft Visio 2019](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
+Ejemplo estilo 1 - diagrama de clasificación con borde en color genérico desde [Microsoft Visio 2019](.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/ClassificationChartSample1.svg" width="100%"><br><br>
+  <br><img alt="R.TeachingResearchGuide" src=".graph/ClassificationChartSample1.svg" width="100%"><br><br>
 </div>
 
-Ejemplo estilo 2 - diagrama de clasificación con relleno en color genérico desde [Microsoft Visio 2019](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
+Ejemplo estilo 2 - diagrama de clasificación con relleno en color genérico desde [Microsoft Visio 2019](.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/ClassificationChartSample2.svg" width="100%"><br><br>
+  <br><img alt="R.TeachingResearchGuide" src=".graph/ClassificationChartSample2.svg" width="100%"><br><br>
 </div>
 
-Ejemplo estilo 3 - diagrama de clasificación con fuente y conectores en color genérico desde [Microsoft Visio 2019](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
+Ejemplo estilo 3 - diagrama de clasificación con fuente y conectores en color genérico desde [Microsoft Visio 2019](.graph/R.TeachingResearchGuide.vsdx) por [juanrodace](https://github.com/juanrodace)
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.graph/ClassificationChartSample3.svg" width="100%"><br><br>
+  <br><img alt="R.TeachingResearchGuide" src=".graph/ClassificationChartSample3.svg" width="100%"><br><br>
 </div>
 
 > Exportar en formato vectorial .svg. Fuente tipográfica Seoge Ui para homologación a fuentes tipográficas estándar de GitHub.
@@ -130,19 +130,19 @@ Secuencia general para producción videográfica:
 
 <div align="center">Ejemplo de formato y localización del expositor para videos de apertura e introducción</div>  
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/FormatoPantallaVideoIntroSeccion.svg)
+![R.TeachingResearchGuide](.icons/FormatoPantallaVideoIntroSeccion.svg)
 
 > La disposición presentada en la figura anterior, permite que se aproveche el espacio de 3 de los 4 tercios izquierdos para la inclusión de las explicaciones específicas utilizando la presentación de apoyo.
 
 <div align="center">Ejemplo de formato y localización del expositor para desarrollo de actividades que requieren de explicación de procedimientos paso a paso, ejemplos prácticos o utilización de herramientas computacionales.</div>
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/FormatoPantallaVideoActividad.svg)
+![R.TeachingResearchGuide](.icons/FormatoPantallaVideoActividad.svg)
 
 > La disposition presentada en la figura anterior no interfiere con las explicaciones detalladas realizadas durante la sesión. Cuando se trate de la explicación de herramientas computacionales, se recomienda no utilizar el video en primera persona. 
 
 
 ### Formato para presentaciones de apoyo  
-(por [juanrodace](https://github.com/juanrodace) y [rcfdtools](https://github.com/rcfdtools), [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/2#discussioncomment-3327860), descarga [aquí :open_file_folder:](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.layouts/PlantillaVideo.pptx)). 
+(por [juanrodace](https://github.com/juanrodace) y [rcfdtools](https://github.com/rcfdtools), [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/2#discussioncomment-3327860), descarga [aquí :open_file_folder:](.layouts/PlantillaVideo.pptx)). 
 
 Caso de estudio: Universidad Escuela Colombiana de Ingeniería - Julio Garavito
 
@@ -176,8 +176,8 @@ Estilos predefinidos en la plantilla
 * Imagen con título sin expositor
 
 Ejemplo de diapositiva de bienvenida o introducción  
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.layouts/PlantillaVideoIntroSample.png)
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.layouts/PlantillaVideoNewSlideSample.png)
+![R.TeachingResearchGuide](.layouts/PlantillaVideoIntroSample.png)
+![R.TeachingResearchGuide](.layouts/PlantillaVideoNewSlideSample.png)
 
 
 ### Diseño de vestuario para presentación en primera persona
@@ -186,13 +186,13 @@ Caso de estudio: Universidad Escuela Colombiana de Ingeniería - Julio Garavito
 
 Para la grabación de clases en primera persona, se promueve el uso de la campaña publicitaria _Soy Escuela_ pero a nivel de cada facultad o programa.
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/TShritPoloSample.svg)
+![R.TeachingResearchGuide](.icons/TShritPoloSample.svg)
 
 <div align="center">
 
 Ejemplos para _Soy Escuela_ por programa académico. 
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/TShritPoloSampleProgram.svg)
+![R.TeachingResearchGuide](.icons/TShritPoloSampleProgram.svg)
 
 </div>
 
