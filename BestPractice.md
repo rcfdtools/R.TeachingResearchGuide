@@ -24,4 +24,4 @@ Comparte consejos y buenas prácticas en el hilo de discusión del botón _Ayuda
 | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
-[^1] Tomado de https://www.redalyc.org/journal/5216/521662150036/
+[^1]: Tomado de https://www.redalyc.org/journal/5216/521662150036/
