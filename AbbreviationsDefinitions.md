@@ -24,3 +24,7 @@
 | .svg      | Scalable Vector Graphics                                         |
 
 
+Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión _Ayuda / Colabora_.
+
+| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11) |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
