@@ -4,7 +4,7 @@ Keywords: `GitHub` `GitLab` `Google Code` `SourceForge` `GNU Savannah`
 Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear, ni siquiera tienen que conocerse para poder dar sus criterios y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento disponible públicamente, para ser accedido y revisado por otros investigadores, educadores o estudiantes. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/CollabTools/Graph/CollabTools.png" width="80%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/CollabTools.png" width="80%"><br>
 </div>
 
 
@@ -141,12 +141,12 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el
 | 2022.08.12 | Versión preliminar.        | [rcfdtools](https://github.com/rcfdtools)  |   2    |
 
 
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/LICENSE.md)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/WhatIsCollab) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [Anterior](../WhatIsCollab) | [:house: Inicio]([:house: Inicio](../../Readme.md))  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente](../GitFundamentals) |
+|-----------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------|
 
 [^1]: https://saasradar.net/herramientas-desarrollo-colaborativo/
 [^2]: https://es.wikipedia.org/wiki/SourceForge
