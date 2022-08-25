@@ -25,7 +25,9 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 | Gestión con PyCharm             | PyCharm es un entorno de desarrollo integrado (IDE) utilizado en programación informática, concretamente para el lenguaje de programación Python y permite la creación, gestión y publicación de proyectos en GitHub.                                           |
 | Gestión con Visual Studio Code  | Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub,                                                                                                                           |
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 **:scroll: Licencia, cláusulas, condiciones de uso y citación:** R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/LICENSE.md).
 
