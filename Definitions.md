@@ -38,5 +38,5 @@ Un curso o una investigación, una sección o una actividad puede ser clasificad
 
 Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión _Ayuda / Colabora_.
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11) |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11) |
+|-----------------------------|----------------------------------------------------------------------------------------------------|

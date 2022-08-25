@@ -3,5 +3,5 @@
 <br>
 <br>
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) |
-|------------------------------------------------------------------------|
+| [:house: Inicio](../Readme.md) |
+|--------------------------------|

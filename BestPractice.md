@@ -21,7 +21,7 @@ El concepto de buenas prácticas (BBPP) ha permeado indiscriminadamente en la ed
 
 Comparte consejos y buenas prácticas en el hilo de discusión del botón _Ayuda / Colabora_.
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
+|-----------------------------|---------------------------------------------------------------------------------------------------|
 
 [^1]: Tomado de https://www.redalyc.org/journal/5216/521662150036/

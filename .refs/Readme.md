@@ -14,5 +14,5 @@
 
 Comparte referencias adicionales desde el hilo de discusión _Ayuda / Colabora_.
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/12) |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [:house: Inicio](../Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/12) |
+|---------------------------------|----------------------------------------------------------------------------------------------------|

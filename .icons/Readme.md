@@ -11,5 +11,5 @@
 | Git_icon.svg                | Git icon. Jason Long, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Git_icon.svg   |
 | markdown-icon.svg           | Markdown icon                                                                                        | https://uxwing.com/markdown-icon/                      |
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) |
-|------------------------------------------------------------------------|
+| [:house: Inicio](../Readme.md) |
+|--------------------------------|

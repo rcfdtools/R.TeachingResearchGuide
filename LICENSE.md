@@ -28,5 +28,5 @@ Se permite la reproducción digital parcial o total de estas actividades, script
 
 Tienes alguna duda acerca de nuestra licencia, escríbenos a través de _Ayuda / Colabora_ de este documento.
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/10) |
-|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/10) |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
