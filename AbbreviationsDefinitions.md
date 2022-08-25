@@ -1,11 +1,11 @@
 ### Abreviaturas
 
-| Abreviatura | Significado                                                                                                                         |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| SO, OS      | [Sistema operativo.](https://en.wikipedia.org/wiki/Operating_system)                                                                |
-| CMD         | [Command o intérprete de comandos del SO.](https://en.wikipedia.org/wiki/Cmd.exe)                                                   |
-| GUI         | [Graphical user interface. Interfaz gráfica de usuario.](https://en.wikipedia.org/wiki/Graphical_user_interface)                    |
-| IC          | [flujos de trabajo de integración continua.](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts) |
+| Abreviatura | Significado                                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| SO, OS      | [Sistema operativo.](https://en.wikipedia.org/wiki/Operating_system)                                                                          |
+| CMD         | [Command o intérprete de comandos del SO.](https://en.wikipedia.org/wiki/Cmd.exe)                                                             |
+| GUI         | [Graphical user interface. Interfaz gráfica de usuario.](https://en.wikipedia.org/wiki/Graphical_user_interface)                              |
+| IC          | [Flujos de trabajo de integración continua de GitHub.](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts) |
 
 
 ### Definiciones
@@ -22,7 +22,7 @@
 | .md       | Markdown                                                         |
 | .xml      | Extensible Markup Language for Application programming interface |
 | .svg      | Scalable Vector Graphics                                         |
-
+| .vsdx     | Microsoft Visio diagram                                          |
 
 Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión _Ayuda / Colabora_.
 
