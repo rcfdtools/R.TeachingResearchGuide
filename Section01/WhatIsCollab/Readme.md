@@ -52,6 +52,16 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 </div>
 
 
+### Contenido audiovisual complementario recomendado
+
+* [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
+* [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
+* [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
+* [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
+* [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
+* [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
+
+
 ### Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                                                                                                                                                                                                                                                                        | Respuesta                                                                                                                                                                                                                                                                                         |
@@ -64,26 +74,12 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 | ¿Por dónde puedo iniciar si mi institución no tiene una política y lineamientos de desarrollo colaborativo?                                                                                                                                                                                                                                                                                     | Consulta directamente con tú organización, institución, entidad o empresa.                                                                                                                                                                                                                        |
 | ¿El desarrollo colaborativo ayuda a fortalecer y difundir mi perfil como investigador en [Colciencias CvLAC - Colombia](https://scienti.minciencias.gov.co/cvlac), [ResearchGate](https://www.researchgate.net/), [Linkedin](https://www.linkedin.com/), [Labroots](https://www.labroots.com/), [Clarivate](https://clarivate.com/), [Mendeley](https://www.mendeley.com/) y otras plataformas? | Sí, al asociar dentro de estos servicios el enlace a los repositorios en los que has participado, podrás difundir el detalle de tu trabajo, los roles desempeñados y los usuarios externos podrán consultar la trazabilidad de tus participaciones y aportes.                                     |
 
-> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Descargo de responsabilidad en licencias[^3]
 
 El objetivo de los esfuerzos de generación de licencias de código abierto de GitHub es proporcionar un punto de partida para ayudarte a hacer una elección informada. GitHub muestra información de licencias para ayudar a los usuarios a obtener información acerca de las licencias de código abierto y los proyectos que las utilizan. Esperamos que te sea útil, pero ten presente que no somos abogados y que cometemos errores como todo el mundo. Por ese motivo, GitHub proporciona la información sobre una base hipotética de "tal cual" y no da garantías al respecto de ninguna información o licencia proporcionada en función o a través de esta. Tampoco se hace responsable de los daños que surjan por el uso de la información de la licencia. Si tienes alguna pregunta al respecto de la licencia correcta para tu código o cualquier otro problema legal relacionado con esto, siempre es mejor consultar con un profesional.
-
-
-### Contenido audiovisual complementario recomendado
-
-* [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
-* [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
-* [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
-* [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
-* [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
-* [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
-
-> Si quieres conocer más acerca de los alcances y bondades del desarrollo colaborativo, te invitamos a leer los documentos citados en las referencias de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
 
 
 ### Referencias

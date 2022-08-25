@@ -72,9 +72,7 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 | ¿Para crear mi repositorio en GitHub requiero de conocimientos de programación?                                       | Se requieren conocimientos básicos como los que los profesores e investigadores frecuentemente usan en la producción de artículos científicos usando LaTeX.                                                                 |
 | ¿Existen herramientas que realicen automáticamente la gestión de mis repositorios usando las funcionalidades de Git ? | Sí, existen diferentes versiones Desktop como PyCharm o Visual Studio Code que gestionan los procesos Git y no se requieren conocimientos en el uso de consolas y comandos para editar, publicar y mantener los contenidos. |
 
-> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias

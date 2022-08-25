@@ -331,7 +331,7 @@ History
 | ¿Como puedo comprobar si un repositorio es oficialmente promovido por una institución o una organización y como puedo verificar la identidad de el o los creadores?                                                                          |                                                                                                                                                                                                                                                                                                                                  |
 | En mi tiempo libre estoy creando un nuevo curso y quiero que este sea difundido con certificación a través de la oferta académica de mi organización, ¿Es posible y como funciona la propiedad intelectual y los beneficios institucionales? |                                                                                                                                                                                                                                                                                                                                  | 
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) a crear y/o responder preguntas que otros usuarios necesiten conocer o  experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias

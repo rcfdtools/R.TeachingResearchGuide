@@ -241,6 +241,8 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
 * Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin. Se recomienda el uso de ```.
 
+> En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
+
 
 ### Preguntas y respuestas Q&A
 
@@ -251,11 +253,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 | ¿Puedo crear tablas con muchas columnas y texto?                         | Sí, tablas con múltiples columnas que no sean ajustables al espacio de visualización del navegador pueden ser visibles a través de barras de desplazamiento que son generadas automáticamente.                                                                                                                                        |
 | ¿Puedo crear tablas con gráficas embebidas?                              | Sí, las gráficas o íconos deben ser almacenadas en un directorio del repositorio y luego pueden ser embebidas con la marca `![Descripción](hiperenlace)`. Imágenes también pueden ser asociadas desde vínculos externos.                                                                                                              |
 
-> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) de este microcontenido.
->
-> En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
-> 
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias

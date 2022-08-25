@@ -93,7 +93,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 | ¿Puedo clonar los repositorios públicos de una organización dentro de mi cuenta personal?                                                           | Sí, por tratarse de desarrollo colaborativo bajo el concepto de uso abierto, los repositorios pueden ser clonados y sus clonaciones pueden ser actualizadas. Si el repositorio de la organización fue clonado de la cuenta personal de uno de sus miembros, se recomienda clonar el repositorio original y no el repositorio clonado. |
 | ¿Al eliminar un equipo se eliminan también sus repositorios?                                                                                        | No, los repositorios de todos los equipos son administrados a nivel global de organización y estos son asociados a los equipos. Directamente los equipos no crear repositorios, únicamente los asocian si estos han sido creados previamente dentro de la organización.                                                               |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) a crear y/o responder preguntas que otros usuarios necesiten conocer o  experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
