@@ -1,0 +1,27 @@
+Esta carpeta contiene documentos, artículos y enlaces de referencia relacionados con el contenido general de este repositorio. Dentro de cada actividad pueden existir carpetas de referencias específicas.
+
+> Consulta [aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/.refs) los documentos de uso libre descargados e incluidos en este repositorio.
+
+### Referencias generales
+
+* https://github.blog/
+* https://docs.github.com/es
+* https://docs.github.com/es/education
+* https://buttons.github.io/
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages
+* https://riptutorial.com/github/example/31774/follow-button
+* https://pages.github.com/
+* https://docs.github.com/en/pages
+* [How To Create A PowerPoint Template: Make Your Own Slide Background (1 of 3)](https://www.youtube.com/watch?v=oXCjOhlOROw)
+* https://processbliss.com/difference-between-policy-process-procedure/
+* https://docs.github.com/es/desktop
+* https://saasradar.net/herramientas-desarrollo-colaborativo/
+* https://docs.github.com/en/get-started/quickstart/github-glossary
+
+
+### Diseño gráfico
+
+* https://htmlcolorcodes.com/color-picker/
+* https://www.w3schools.com/colors/colors_picker.asp
+* https://imagecolorpicker.com/color-code/be2545
+
