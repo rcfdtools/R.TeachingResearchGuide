@@ -145,8 +145,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../WhatIsCollab) | [:house: Inicio]([:house: Inicio](../../Readme.md))  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente](../GitFundamentals) |
-|-----------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------|
+| [Anterior](../WhatIsCollab) | [:house: Inicio](../../Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente](../GitFundamentals) |
+|-----------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------|
 
 [^1]: https://saasradar.net/herramientas-desarrollo-colaborativo/
 [^2]: https://es.wikipedia.org/wiki/SourceForge
