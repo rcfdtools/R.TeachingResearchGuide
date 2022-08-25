@@ -32,4 +32,6 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 **Ayuda y soporte:** a través de la pestaña _[Discussions](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions)_ localizada en la parte superior de esta ventana, podrás encontrar y participar en los [_anuncios o noticias_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/announcements) publicados, enviarnos tus [_ideas_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/ideas) para actividades complementarias, participar en preguntas, respuestas y consultas específicas [_Q&A_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/q-a) y realizar [_publicaciones o consultas generales_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/general).
 
+**Clonación**: para compatibilidad completa de las rutas utilizadas en los scripts y herramientas de R.TeachingResearchGuide, en Microsoft Windows clonar y/o descomprimir en `D:\R.TeachingResearchGuide`. Enlace para clonación https://github.com/rcfdtools/R.TeachingResearchGuide.git.
+
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
