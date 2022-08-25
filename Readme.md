@@ -27,6 +27,7 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 [^1]: https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
 
+[Consejos y buenas prácticas de desarrollo colaborativo.](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/BestPractice.md) 
 
 **Licencia, cláusulas y condiciones de uso:** R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/LICENSE.md).
 
