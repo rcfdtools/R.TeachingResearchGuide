@@ -2,6 +2,8 @@
 
 Algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios.
 
+El concepto de buenas prácticas (BBPP) ha permeado indiscriminadamente en la educación dando pie a la existencia de distintas acepciones e interpretaciones sobre su deber ser, así como de las estrategias para su detección. Las buenas prácticas educativas (BBPPEE) son promovidas para referir un conjunto de acciones o principios que gozan de reconocimiento por los resultados positivos que se pueden obtener de su replicación. En el nivel superior se presentan con frecuencia asociadas a la integración de tecnologías digitales, resaltando el valor de estas para lograr tal reconocimiento.[^1] 
+
 | Consejo o buena práctica                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Autor                                       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | Descarga periódicamente copias individuales comprimidas de tus repositorios: en caso de que tu cuenta de usuario sea hackeada o accidentalmente eliminada, mantener copias comprimidas actualizadas de las versiones oficiales que vas liberando, te permitirá no perder todo el esfuerzo que has dedicado en la creación de tus contenidos. Si bien otros usuarios o las organizaciones a las cuales perteneces pueden haber clonado tus repositorios, estos pueden estar desactualizados. | [rcfdtools](https://github.com/rcfdtools)   |
@@ -21,3 +23,5 @@ Comparte consejos y buenas prácticas en el hilo de discusión del botón _Ayuda
 
 | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+
+[^1] Tomado de https://www.redalyc.org/journal/5216/521662150036/
