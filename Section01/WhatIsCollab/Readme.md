@@ -4,7 +4,7 @@ Keywords: `Collab` `Collaborative creation` `Agility`
 El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diversos ángulos.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/WhatIsCollabChart.svg" width="75%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/WhatIsCollabChart.svg" width="75%"><br>
 <sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultad y/o programa, centros de estudios, grupos de investigación y semilleros.</sub><br><br>
 </div>
 
@@ -13,7 +13,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 Tradicionalmente, pensamos que la creación de contenidos académicos y científicos se puede realizar de manera individual y aislada de otras personas; incluso, la formación profesional que recibimos en las aulas privilegia en cierto sentido esta modalidad. Es verdad que existen tareas que se pueden desarrollar en solitario, especialmente cuando se trabaja en la producción científica de trabajos de investigación y/o profundización con un alcance particular; sin embargo, cuando el nivel de dificultad de la investigación o los contenidos de los microcurrículos aumenta, ya sea por las nuevas innovaciones tecnológicas, porque requieren de conocimiento experto de múltiples disciplinas o por avances en docencia, la creación y actualización necesariamente se tiene que desarrollar en compañía de otras personas. De esta manera, la interacción humana en el proceso de creación de contenidos de calidad es en muchas ocasiones, obligatoria.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/WhatIsCollab/Graph/SingleOrCollabChart.svg" width="75%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/SingleOrCollabChart.svg" width="75%"><br>
 <sub>Esquema genérico de creadores de contenidos asociados para producción colaborativa.</sub><br><br>
 </div>
 
