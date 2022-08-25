@@ -1,5 +1,7 @@
 ## Consejos y buenas prácticas de desarrollo colaborativo
 
+Algunos consejos que tal vez te sean de utilidad a la hora de crear tus repositorios.
+
 | Consejo o buena práctica                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Autor                                       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | Descarga periódicamente copias individuales comprimidas de tus repositorios: en caso de que tu cuenta de usuario sea hackeada o accidentalmente eliminada, mantener copias comprimidas actualizadas de las versiones oficiales que vas liberando, te permitirá no perder todo el esfuerzo que has dedicado en la creación de tus contenidos. Si bien otros usuarios o las organizaciones a las cuales perteneces pueden haber clonado tus repositorios, estos pueden estar desactualizados. | [rcfdtools](https://github.com/rcfdtools)   |
@@ -16,5 +18,5 @@
 
 Comparte consejos y buenas prácticas en el hilo de discusión del botón _Ayuda / Colabora_.
 
-| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
-|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
