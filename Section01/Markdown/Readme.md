@@ -4,7 +4,7 @@ Keywords: `Markdown` `HTML` `LaTeX` `mermaid` `geoJSON`
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/Markdown/Graph/Markdown.svg" width="30%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/Markdown.svg" width="30%"><br><br>
 </div>
                                                                                                                                                       
 
@@ -106,16 +106,16 @@ print('x^y = %d', potencia)
 #### Imágenes
 
 **Ilustración embebida**  
-`![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
-![Logo de R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")
+`![Logo de R.TeachingResearchGuide](../../.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
+![Logo de R.TeachingResearchGuide](../../.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")
 
 **Ilustración con HTML y tamaño definido**  
-`<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px">`  
-<img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px">
+`<img alt="R.LTWB" src="../../.icons/R.TeachingResearchGuide.svg" width="240px">`  
+<img alt="R.LTWB" src="../../.icons/R.TeachingResearchGuide.svg" width="240px">
 
 **Ilustración con HTML y centrado**  
-`<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div>`  
-<div align="center"><img alt="R.LTWB" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg" width="240px"></div><br><br>
+`<div align="center"><img alt="R.LTWB" src="../../.icons/R.TeachingResearchGuide.svg" width="240px"></div>`  
+<div align="center"><img alt="R.LTWB" src="../../.icons/R.TeachingResearchGuide.svg" width="240px"></div><br><br>
 
 > Para ilustraciones embebidas utilizando únicamente el lenguaje de marcas Markdown, se utiliza el tamaño original de la imagen. En caso de que el tamaño exceda el ancho de pantalla, esta se ajusta al 100% del ancho disponible para visualización.
 > 
@@ -287,12 +287,12 @@ emojis
 | 2022.08.18 | Versión inicial con ejemplos. | [rcfdtools](https://github.com/rcfdtools)  |  5.5  |
 
 
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitFundamentals) | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository) |
-|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [Anterior](../GitFundamentals) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente](../GitHubRepository) |
+|--------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 [^2]: https://docs.github.com/es/get-started/writing-on-github
