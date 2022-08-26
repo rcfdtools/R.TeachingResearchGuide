@@ -382,6 +382,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 | Versión    | Descripción                                                                                                                                          | Autor                                      | Horas |
 |------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.08.26 | Actualizaciones generales. Definición de actividades prácticas a ser desarrolladas por el estudiante.                                                | [rcfdtools](https://github.com/rcfdtools)  |   2   |
 | 2022.08.21 | Creación de carpetas comunes y archivos. Ejemplo de creación de carpetas específicas y archivos. Edición en línea de archivos de documentación. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 | 2022.08.18 | Versión inicial.                                                                                                                                     | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
