@@ -8,6 +8,21 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 </div>
                                                                                                                                                       
 
+### Objetivos
+
+* Crear y administrar una cuenta en Github.
+* Crear mi primer repositorio.
+* Crear la estructura básica de carpetas de un repositorio dependiendo de su propósito.
+* Crear y editar en línea archivos Markdown Readme.md.
+
+
+### Requerimientos
+
+* Cuenta de correo personal.
+* Micro-currículo de un curso o una investigación organizado en dos niveles.
+* Conceptos generales del lenguaje de marcas Markdown. [:mortar_board:Aprender.](../Markdown)
+
+
 ### Creación de usuario
 
 1. Ingrese a https://github.com/ y de clic en la opción `Sign up`
@@ -21,7 +36,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 > **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
 > 
-> **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no use este nombre para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
+> **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no utilice el nombre corporativo para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
 
 3. Para terminar con la creación de cuenta, verifique la creación de su cuenta seleccionando o solucionando el rompecabezas que aparece en pantalla y de clic en el botón `Create account`. Será enviado un código de verificación a su cuenta de correo.
 
@@ -41,7 +56,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 ### Creación de mi primer repositorio
 
-1. En la parte superior derecha de su ventana de GitHub, de clic en el botón `+` y seleccione la opción `New repository`.
+1. En la parte superior derecha de su ventana de GitHub, de clic en el botón `+` y, seleccione la opción `New repository`.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubNewRepository.png)
 
@@ -59,7 +74,7 @@ Para inicializar un repositorio, uste puede decidir si quiere incluir el primer 
 
 Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferentes licencias disponibles orientadas a desarrollo de software o a producción de contenido audiovisual. Generalmente, los usuarios seleccionan la [Licencia MIT](https://opensource.org/licenses/MIT) debido a que confiere uso abierto completo pero sin ningún tipo de garantía o responsabilidad.
 
-> Para este ejemplo no especificaremos una licencia debido a que utilizaremos una licencia derivada que será documentada desde el centro de documentación wiki de este ejemplo.
+> Para este ejemplo no especificaremos una licencia debido a que utilizaremos una licencia derivada que será documentada desde la raíz del repositorio. 
 
 Para finalizar la creación del repositorio, de clic en el botón `Create repository`
 
@@ -102,19 +117,19 @@ Al encontrarse su sesión de usuario abierta en el navegador, ingresando https:/
 
 En la parte superior de la ventana del repositorio, podrá encontrar las siguientes secciones:
 
-| Sección      | Utilidad                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <> Code      | Ventana principal del repositorio donde se encuentran los archivos y carpetas del proyecto, investigación, e-book. Por defecto, todos los archivos se encuentran en el `main` del repositorio y pueden existir múltiples ramas o `branch`.                                                                                                                                                                                           |
-| Issues       | Los Issues son utilizados para elementos del repositorio, reportar errores que necesitan ser ajustados en nuevas versiones, solicitar nuevas funcionalidades, referenciar otras fuentes o métodos y en general se convierten en la lista de tareas pendientes que se deben ir solucionando. Issues permite la creación de plantillas para facilitar el reporte por parte de los usuarios.                                            |
-| Pull request | Cuando un usuario o un colaborador clona el repositorio y realiza ajustes, correcciones, actualizaciones, nuevas implementaciones; estas pueden ser incorporadas a través de peticiones de incorporación o Pull request. Una vez el propietario o colaborador directo revisa los cambios, estos pueden ser incorporados al main del proyecto y quedan documentados a través de Commit's.                                             |
-| Actions      | GitHub actions permite crear, probar y depurar el código creado a través de flujos de procesos. Durante las acciones se pueden documentar las revisiones, administrar las diferentes ramas de prueba y clasificar los problemas encontrados para colocarlos en la lista de pendientes de Issues.                                                                                                                                     |
-| Projects     | Esta herramienta permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                                                                                                                                     |
-| Wiki         | Wikis es el lugar donde se crea la documentación general del repositorio, permite incluir múltiples archivos Markdown para generar, p. ej. el índice general de contenidos, referencias generales, licencia de uso y un listado de abreviaturas.                                                                                                                                                                                     |
-| Security     | Desde esta pestaña se establecen las políticas generales y recomendaciones de seguridad, además de la configuración de herramientas para detectar vulnerabilidades.                                                                                                                                                                                                                                                                  |
-| Insights     | Esta pestaña permite monitorear todo lo que sucede en el repositorio, p. ej. el total de incorporaciones realizadas, las incorporaciones pendientes, los problemas identificados y resueltos, las acciones realizadas, los contribuidores, el tráfico hacia el repositorio como el número de veces que ha sido clonado o visitado, la frecuencia con la que se trabaja en el repositorio, gráficas de dependencia y linea de tiempo. |
-| Settings     | Configuración general del repositorio, definición de colaboradores, opciones de moderación, administración de ramas, definición de etiquetas, acciones, ambientes, páginas, integraciones y otros.                                                                                                                                                                                                                                   |
+| Sección      | Utilidad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <> Code      | Ventana principal del repositorio donde se encuentran los archivos y carpetas del proyecto, investigación, e-book. Por defecto, todos los archivos se encuentran en el `main` del repositorio y pueden existir múltiples ramas o `branch`.                                                                                                                                                                                                                                                                                            |
+| Issues       | Los Issues son utilizados para elementos del repositorio, reportar errores que necesitan ser ajustados en nuevas versiones, solicitar nuevas funcionalidades, referenciar otras fuentes o métodos y en general se convierten en la lista de tareas pendientes que se deben ir solucionando. Issues permite la creación de plantillas para facilitar el reporte por parte de los usuarios. Al clonar un repositorio público, los registros contenidos en Issues no son incluidos dentro del repositorio clonado.                       |
+| Pull request | Cuando un usuario o un colaborador clona el repositorio y realiza ajustes, correcciones, actualizaciones, nuevas implementaciones; estas pueden ser incorporadas a través de peticiones de incorporación o Pull request. Una vez el propietario o colaborador directo revisa los cambios, estos pueden ser incorporados al main del proyecto y quedan documentados a través de Commit's.                                                                                                                                              |
+| Actions      | GitHub actions permite crear, probar y depurar el código creado a través de flujos de procesos. Durante las acciones se pueden documentar las revisiones, administrar las diferentes ramas de prueba y clasificar los problemas encontrados para colocarlos en la lista de pendientes de Issues.                                                                                                                                                                                                                                      |
+| Projects     | Esta herramienta permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                                                                                                                                                                                                                                      |
+| Wiki         | Wikis es el lugar donde se crea la documentación general del repositorio, permite incluir múltiples archivos Markdown. Generalmente es utilizado para crear documentación de aplicaciones y software y no es común su uso en el desarrollo de cursos o libros electrónicos debido a que el contenido wiki no es clonable directamente en la nube con los archivos principales del repositorio. La documentación wiki puede ser clonada localmente en la unidad de disco local por cualquier usuario cuando el repositorio es público. |
+| Security     | Desde esta pestaña se establecen las políticas generales y recomendaciones de seguridad, además de la configuración de herramientas para detectar vulnerabilidades.                                                                                                                                                                                                                                                                                                                                                                   |
+| Insights     | Esta pestaña permite monitorear todo lo que sucede en el repositorio, p. ej. el total de incorporaciones realizadas, las incorporaciones pendientes, los problemas identificados y resueltos, las acciones realizadas, los contribuidores, el tráfico hacia el repositorio como el número de veces que ha sido clonado o visitado, la frecuencia con la que se trabaja en el repositorio, gráficas de dependencia y linea de tiempo.                                                                                                  |
+| Settings     | Configuración general del repositorio, definición de colaboradores, opciones de moderación, administración de ramas, definición de etiquetas, acciones, ambientes, páginas, integraciones y otros.                                                                                                                                                                                                                                                                                                                                    |
 
-> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discusiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte y es el mejor canal de comunicación entre los creadores y los usuarios. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General.
+> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discusiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte y es el mejor canal de comunicación entre los creadores y los usuarios. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General. Al clonar un repositorio público, los registros contenidos en Discussions no son incluidos dentro del repositorio clonado.
 
 En la parte derecha encontrará la sección acerca de o `About` que presenta un resumen general del repositorio, su descripción, usuarios que han marcado el repositorio como favorito, usuarios que se encueran visualizando, número de clonaciones y secciones con la liberación de nuevas versiones (cuando se trata de un software) y paquetes liberados. Desde el ícono de configuración localizado en la parte superior derecha, podrá actualizar los detalles generales, tales como el texto resumen, las palabras clave y desactivar los Releases, Packages & Environments.
 
@@ -192,9 +207,9 @@ Ejemplo:
 | Carpeta   | Descripción                                                                                             | Formatos ejemplo                                                                                  |
 |-----------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
 | .datasets | Contiene datos base que puedan ser convertidos en tablas, series o bases de datos.                      | .xls, xlsx, .txt, .dbf, .asc, .csv, .db, .mdbno espacial, .accdb no espacial, .sqlite no espacial |
-| .gdb      | Bases de datos espaciales                                                                               | Esri .gdb, .mdb .spatialite                                                                       |
+| .graph    | Gráficas y esquemas comunes. Incluye archivos fuente de diagramas y diseño gráfico.                     | .png, .svg, .cdr, .vsdx                                                                           |
 | .github   | Almacenamiento de plantillas Issue del repositorio                                                      | .md                                                                                               |
-| .icons    | Iconografía general                                                                                     | .ico, .png, .svg (recomendado)                                                                    |
+| .icons    | Iconografía general. Incluye archivos fuente de diseño gráfico.                                         | .ico, .png, .svg (recomendado)                                                                    |
 | .refs     | Archivos de referencias bibliográficas de uso libre recopiladas                                         | .pdf, .md, .doc, .docx, .epub                                                                     |
 | .src      | Scripts de uso común                                                                                    | .py, .bas, .sh                                                                                    |
 | .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                 |
@@ -314,6 +329,21 @@ Blame
 
 History  
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
+
+
+### Actividades complementarias:pencil2:
+
+En la siguiente tabla se listan las actividades complementarias que deben ser desarrolladas por el estudiante.
+
+| Actividad | Alcance                                                                                                                                                                                                                                                                                                    |
+|:---------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     0     | Cree su propia cuenta de usuario en GitHub y el repositorio para un curso o investigación.                                                                                                                                                                                                                 |
+|     1     | En la raíz del repositorio `<> Code`, cree el archivo LICENSE.md sin asociar una de las licencias disponibles en GitHub. Edite el contenido y agregue manualmente los términos de licencia.                                                                                                                |
+|     3     | Cree las carpetas comunes y al menos una de las secciones o capítulos con su estructura interna. Para cada carpeta cree un archivo Readme.md con su descripción. Descargue y copie en la carpeta `.icons`, algunos íconos relacionados con el contenido de su repositorio.                                 |
+|     4     | Dentro de uno de los documentos Readme.md, cree una tabla, una lista, enlaces, ilustraciones vinculadas a un enlace específico en Internet y su repositorio utilizando rutas absolutas y relativas. Incluya diferentes elementos del lenguaje de marcas Markdown.                                          |
+|     5     | Active las discusiones y cree una entrada _General_ para que usuarios puedan reportar nuevas referencias sin clonar el repositorio.                                                                                                                                                                        |
+|     6     | Dentro de los documentos Readme.md, cree mediante una tabla de una única fila, un panel de navegación que le permita ir a: actividad Anterior, inicio, Ayuda / Soporte y actividad Siguiente. Utilizando rutas relativas, enlace las actividades y el inicio.                                              |
+|     7     | Clone el repositorio ejemplo de este curso https://github.com/rcfdtoolstest/repotest y edite el archivo `.refs/Readme.md` incluyendo una referencia relacionada con el lenguaje de programación Python. Ejecute el `Pull request` para solicitar al propietario la incorporación de esta nueva referencia. |
 
 
 ### Preguntas y respuestas Q&A
