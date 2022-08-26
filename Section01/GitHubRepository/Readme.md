@@ -254,6 +254,8 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestFolders.png)
 
+> Cuando necesite cargar archivos a su repositorio, en `Add File` encontrará la opción `Upload files` que permite arrastrar uno o múltiples archivos locales. Para cuentas de no pago, cada archivo independiente no debe superar 100 MB. En caso de que requiera cargar archivos grandes, comprima en múltiples partes de 95 MB.
+
 
 ### Ejemplo de creación de carpetas específicas y archivos Readme.md
 
@@ -339,7 +341,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |:---------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     0     | Cree su propia cuenta de usuario en GitHub y el repositorio para un curso o investigación.                                                                                                                                                                                                                     |
 |     1     | En la raíz del repositorio `<> Code`, cree el archivo LICENSE.md sin asociar una de las licencias disponibles en GitHub. Edite el contenido y agregue manualmente los términos de licencia.                                                                                                                    |
-|     3     | Cree las carpetas comunes y al menos una de las secciones o capítulos con su estructura interna. Para cada carpeta cree un archivo Readme.md con su descripción. Descargue y copie en la carpeta `.icons`, algunos íconos relacionados con el contenido de su repositorio.                                     |
+|     3     | Cree las carpetas comunes y al menos una de las secciones o capítulos con su estructura interna. Para cada carpeta cree un archivo Readme.md con su descripción. Descargue y cargue en la carpeta `.icons`, algunos íconos relacionados con el contenido de su repositorio.                                    |
 |     4     | Dentro de uno de los documentos Readme.md, cree una tabla, una lista, enlaces, ilustraciones vinculadas a un enlace específico en Internet y su repositorio utilizando rutas absolutas y relativas. Incluya diferentes elementos del lenguaje de marcas Markdown.                                              |
 |     5     | Active las discusiones y cree una entrada _General_ para que usuarios puedan reportar nuevas referencias sin clonar el repositorio.                                                                                                                                                                            |
 |     6     | Dentro de los documentos Readme.md, cree mediante una tabla de una única fila, un panel de navegación que le permita ir a: actividad Anterior, inicio, Ayuda / Colabora y actividad Siguiente. Utilizando rutas relativas, enlace las actividades y el inicio. Asocie Ayuda / Colabora a una discusión creada. |
