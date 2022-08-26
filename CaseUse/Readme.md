@@ -197,5 +197,5 @@ Ejemplos para _Soy Escuela_ por programa académico.
 
 </div>
 
-| [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/2) |
-|-----------------------------|---------------------------------------------------------------------------------------------------|
+| [:house: Inicio](../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/2) |
+|--------------------------------|---------------------------------------------------------------------------------------------------|
