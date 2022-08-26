@@ -11,9 +11,10 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 ### Objetivos
 
 * Crear y administrar una cuenta en Github.
-* Crear mi primer repositorio.
+* Crear y configurar mi primer repositorio.
 * Crear la estructura básica de carpetas de un repositorio dependiendo de su propósito.
 * Crear y editar en línea archivos Markdown Readme.md.
+* Participar colaborativamente en la creación de un archivo de referencias de otro proyecto.
 
 
 ### Requerimientos
