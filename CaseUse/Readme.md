@@ -131,13 +131,13 @@ Secuencia general para producción videográfica:
 
 <div align="center">Ejemplo de formato y localización del expositor para videos de apertura e introducción</div>  
 
-![R.TeachingResearchGuide](.icons/FormatoPantallaVideoIntroSeccion.svg)
+![R.TeachingResearchGuide](.graph/FormatoPantallaVideoIntroSeccion.svg)
 
 > La disposición presentada en la figura anterior, permite que se aproveche el espacio de 3 de los 4 tercios izquierdos para la inclusión de las explicaciones específicas utilizando la presentación de apoyo.
 
 <div align="center">Ejemplo de formato y localización del expositor para desarrollo de actividades que requieren de explicación de procedimientos paso a paso, ejemplos prácticos o utilización de herramientas computacionales.</div>
 
-![R.TeachingResearchGuide](.icons/FormatoPantallaVideoActividad.svg)
+![R.TeachingResearchGuide](.graph/FormatoPantallaVideoActividad.svg)
 
 > La disposition presentada en la figura anterior no interfiere con las explicaciones detalladas realizadas durante la sesión. Cuando se trate de la explicación de herramientas computacionales, se recomienda no utilizar el video en primera persona. 
 
