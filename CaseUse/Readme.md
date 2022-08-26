@@ -187,13 +187,13 @@ Caso de estudio: Universidad Escuela Colombiana de Ingeniería - Julio Garavito
 
 Para la grabación de clases en primera persona, se promueve el uso de la campaña publicitaria _Soy Escuela_ pero a nivel de cada facultad o programa.
 
-![R.TeachingResearchGuide](.icons/TShritPoloSample.svg)
+![R.TeachingResearchGuide](.graph/TShritPoloSample.svg)
 
 <div align="center">
 
 Ejemplos para _Soy Escuela_ por programa académico. 
 
-![R.TeachingResearchGuide](.icons/TShritPoloSampleProgram.svg)
+![R.TeachingResearchGuide](.graph/TShritPoloSampleProgram.svg)
 
 </div>
 
