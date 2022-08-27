@@ -145,7 +145,16 @@ Indique que tipos de actividades planea realizar durante los próximos 7 días, 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubWelcome2.png)
 
-Opcionalmente podrá indicarle a GitHub, si dispone de algún repositorio personal que quiera ser importado a la organización
+Opcionalmente, podrá indicarle a GitHub si dispone de algún repositorio personal para ser importado dentro de la organización. Seleccione GitHub y de clic en el botón `Submit`.
+
+![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
+
+A partir de este momento, ya dispone de una organización y podrá invitar a otros usuarios.
+
+![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
+
+![R.TeachingResearchGuide](Screenshot/GitHubOrganizationHome.png)
+
 
 
 
