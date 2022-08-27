@@ -44,7 +44,7 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 * Cada equipo o subequipo tiene una página o tablero de control que incluye: opciones de discusión, administración de miembros, administración de subequipos, administración de repositorios, administración de proyectos propios y configuraciones generales.
 * Un miembro dentro de la organización puede ser integrado a uno o varios equipos o subequipos.
 
-> :mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
+> :mortar_board: Aprende más acerca de organizaciones GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
 
 ### Como funcionan los equipos de trabajo [^2]
