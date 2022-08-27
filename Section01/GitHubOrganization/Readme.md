@@ -149,9 +149,9 @@ Opcionalmente, podrá indicarle a GitHub si dispone de algún repositorio person
 
 ![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
 
-A partir de este momento, ya dispone de una organización y podrá invitar a otros usuarios a través del enlace https://github.com/rcfdtoolstestorganization.
-
 ![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
+
+A partir de este momento, ya dispone de una organización y podrá invitar a otros usuarios a través del enlace https://github.com/rcfdtoolstestorganization.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubOrganizationHome.png)
 
