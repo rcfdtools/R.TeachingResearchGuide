@@ -98,10 +98,34 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 > :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
-### Como crear una organización en GitHub
+### Como crear y gestionar una organización en GitHub
 
-1. Ingrese a su cuenta de GitHub y en la parte superior derecha, de clic en la opción +  
+1. Ingrese a su cuenta de GitHub, en la parte superior derecha, de clic en la opción `+` y de clic en la opción `New organization`.   
 
+![R.TeachingResearchGuide](Screenshot/GitHubNewOrganization.png)
+
+2. Seleccione un plan. Para el ejemplo utilizaremos la opción Free que permite utilizar los servicios para individuos y organizaciones. De clic en `Create a free organization`.
+
+Como puede observar a fecha 2022.08.27, la creación de una organización Free permite:
+
+* Crear repositorios ilimitados públicos o privados.
+* Utilizar las opciones de seguridad automática y las actualizaciones de versión.
+* Realizar 200 conexiones [CI/CD](https://resources.github.com/ci-cd/) para integración, depuración y liberación automática de versiones en repositorios públicos.
+* Almacenamiento de paquetes de hasta 500 MB en repositorios públicos.
+* Listas de tares pendientes y creación de proyectos ilimitados.
+* Soporte de la comunidad de GitHub.
+* Acceso a complementos para acceso al servicio de [GitHub Copilot](https://github.com/features/copilot) para programación asistida de código utilizando inteligencia artificial. 
+
+> Como observa, los servicios de uso libre están orientados a la creación de repositorios públicos. En cuentas de no pago, se pueden crear repositorios privados pero con algunas limitaciones, p. ej., no acceso a creación de documentación wiki.
+
+![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization.png)
+
+3. Ingrese el nombre para la organización, correo de contacto y defina el tipo de organización. Para este ejemplo, crearemos una organización personal denominada `rcfdtoolstestorganization`. Verifique su cuenta y de clic en el botón `Next` que aparece en la parte inferior de la ventana.
+
+> Las organizaciones en GitHub pueden estar asociadas a una cuenta personal o a una empresa o institución.
+
+![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization2.png)
 
 
 ### Actividades complementarias:pencil2:
@@ -130,6 +154,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
 * https://github.com/organizations/plan
 * https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts
+* https://resources.github.com/ci-cd/
 
 
 ### Control de versiones
