@@ -10,9 +10,9 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores, en e
 
 ### Objetivos
 
-* Conocer algunas de las características disponibles de las organizaciones.
+* Conocer algunas de las características disponibles de las organizaciones GitHub.
 * Entender como funcionan los equipos de trabajo colaborativo.
-* Conocer los tipos de cuentas que pueden ser integadas a una organización.
+* Conocer los tipos de cuentas que pueden ser integradas a una organización.
 
 
 ### Requerimientos
@@ -24,7 +24,7 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores, en e
 
 Las organizaciones de GitHub son cuentas compartidas donde empresas, instituciones y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor donde se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
 
-Por ejemplo, los profesores o los investigadores de un centro de estudios de una institución, pueden crear de forma particular diferentes contenidos o desarrollos a través de sus cuentas personales de usuario, luego estos pueden desde una organización clonar las versiones finales y presentar a estudiantes u otros investigadores sus creaciones en un espacio integrado. Por otra parte, los creadores de contenido pueden generar un proyecto desde la organización o desde equipos de trabajo y trabajar colaborativamente de manera agrupada.
+> Por ejemplo, los profesores o los investigadores de un centro de estudios de una institución, pueden crear de forma particular diferentes contenidos o desarrollos a través de sus cuentas personales de usuario, luego estos pueden desde una organización clonar las versiones finales y presentar a estudiantes u otros investigadores sus creaciones en un espacio integrado. Por otra parte, los creadores de contenido pueden generar un proyecto desde la organización o desde equipos de trabajo y trabajar colaborativamente de manera agrupada.
 
 Existen diversas [topologías](https://wikidiff.com/topology/typology) para la creación de organizaciones: desde la creación de una única organización donde se crean o publican los contenidos de todos los colaboradores (la navegabilidad pública dentro de los repositorios de la organización no clasifica los contenidos por un nivel jerárquico específico o una temática común sino a través de su popularidad y cronología, sin embargo, se pueden crear equipos de trabajo en múltiples niveles para organizar internamente los repositorios para los usuarios que pertenecen a la organización); la creación de organizaciones segmentadas de acuerdo a criterios académicos y administrativos (p. ej., un centro de estudios, un programa académico, una facultad con diferentes equipos de trabajo) para integrar las actividades específicas de un equipo de trabajo y las organizaciones segmentadas particulares para crear contenidos al rededor de una temática específica con un menor número de miembros. 
 
@@ -44,7 +44,7 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 * Cada equipo o subequipo tiene una página o tablero de control que incluye: opciones de discusión, administración de miembros, administración de subequipos, administración de repositorios, administración de proyectos propios y configuraciones generales.
 * Un miembro dentro de la organización puede ser integrado a uno o varios equipos o subequipos.
 
-:mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
+> :mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
 
 ### Como funcionan los equipos de trabajo [^2]
