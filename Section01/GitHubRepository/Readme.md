@@ -54,6 +54,18 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 
 ![R.TeachingResearchGuide](Screenshot/GitHubHome.png)
 
+En la parte superior de su tablero de control de usuario encontrará las secciones:
+
+![R.TeachingResearchGuide](Screenshot/GitHubHomeOptions.png)
+
+| Sección      | Utilidad                                                                                                                                                                                                                                                     |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Overview     | Resumen general de las actividades realizadas por el usuario. Es dinámico y depende de las acciones realizadas.                                                                                                                                              |
+| Repositories | Repositorios creados o clonados por el usuario.                                                                                                                                                                                                              |
+| Projects     | Esta sección permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios. |
+| Packages     | Paquetes incorporados al usuario.                                                                                                                                                                                                                           |
+| Stars        | Repositorios favoritos. Pueden ser propios, clonados o directos de otros usuarios.                                                                                                                                                                           |
+
 
 ### Creación de mi primer repositorio
 

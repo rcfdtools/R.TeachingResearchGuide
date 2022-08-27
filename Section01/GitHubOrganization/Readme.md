@@ -98,7 +98,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 > :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
-### Como crear y gestionar una organización en GitHub
+### Como crear una organización en GitHub
 
 1. Ingrese a su cuenta de GitHub, en la parte superior derecha, de clic en la opción `+` y de clic en la opción `New organization`.   
 
@@ -149,22 +149,52 @@ Opcionalmente, podrá indicarle a GitHub si dispone de algún repositorio person
 
 ![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
 
-A partir de este momento, ya dispone de una organización y podrá invitar a otros usuarios.
+A partir de este momento, ya dispone de una organización y podrá invitar a otros usuarios a través del enlace https://github.com/rcfdtoolstestorganization.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubWelcome3.png)
 
 ![R.TeachingResearchGuide](Screenshot/GitHubOrganizationHome.png)
 
+> Como observa en la pestaña `People`, únicamente aparece un miembro dentro de la organización y previamente se había agregado a un miembro más durante la creación. Al agregar un miembro a la organización, se envía una invitación que deberá ser aceptada por el usuario.
+> 
+> Las invitaciones se aceptan desde las opciones de configuración de usuario localizadas en la parte superior derecha de GitHub a través de las opciones de 
 
+![R.TeachingResearchGuide](Screenshot/GitHubMemberInvitationAccept.png)
+
+### Como gestionar una organización en GitHub
+
+Cuando se crea una organización, esta queda ligada a un usuario hasta que este decida ceder sus privilegios a otro usuario. El acceso a la organización desde la cuenta de usuario se realiza directamente desde la raíz de https://github.com/, a través de las opciones disponibles en la parte superior izquierda y una vez el usuario se ha autentificado dentro de la plataforma.
+
+![R.TeachingResearchGuide](Screenshot/GitHubOrganizationOpen.png)
+
+Las secciones principales del panel de control de la organización incluyen:
+
+![R.TeachingResearchGuide](Screenshot/GitHubOrganizationHomeOptions.png)
+
+| Sección      | Utilidad                                                                                                                                                                                                                                                                                                         |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Overview     | Resumen general de las actividades realizadas dentro de la organización. Es dinámico y depende de las acciones realizadas por los usuarios.                                                                                                                                                                      |
+| Repositories | Crear, importar, clonar, visualizar y gestionar los repositorios de la organización. Similar a la creación de un repositorio de usuario.                                                                                                                                                                        |
+| Projects     | Esta sección permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                     |
+| Packages     | Paquetes incorporados a la organización.                                                                                                                                                                                                                                                                         |
+| Teams        | Creación y visualización de equipos y subequipos. [Aprender más](https://docs.github.com/es/organizations/organizing-members-into-teams).                                                                                                                                                                        |
+| People       | Invitación y gestión de los miembros generales de la organización. Los miembros también pueden ser invitados directamente por un equipo. Este tablero de control permite visualizar los miembros activos, los colaboradores externos, los colaboradores pendientes, las invitaciones pendientes y las denegadas. |
+| Settings     | Configuración general que incluye: administración de facturación para organizaciones con cuentas pagas, privilegios de miembros, discusiones de equipo, moderación, codificación / planificación y automatización, seguridad, integraciones y registro de repositorios propios eliminados, entre otros.          |
 
 
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance |
-|:---:|:--------|
-| 1   | x      |
+|  # | Alcance                                              |
+|:--:|:-----------------------------------------------------|
+|  1 | Cree una organización e invite a algunos miembros.   |
+|  2 | Cree un equipo de trabajo dentro de la organización. |
+| 3 | Cree un repositorio.                                 |
+| 4  | Clone un repositorio.                                 |
+
+
+
 
 
 
