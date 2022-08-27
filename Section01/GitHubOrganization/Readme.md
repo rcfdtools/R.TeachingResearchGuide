@@ -163,7 +163,7 @@ A partir de este momento, ya dispone de una organización y podrá invitar a otr
 
 ### Como gestionar una organización en GitHub
 
-Cuando se crea una organización, esta queda ligada a un usuario hasta que este decida ceder sus privilegios a otro usuario. El acceso a la organización desde la cuenta de usuario se realiza directamente desde la raíz de https://github.com/, a través de las opciones disponibles en la parte superior izquierda y una vez el usuario se ha autentificado dentro de la plataforma.
+Cuando se crea una organización, esta queda ligada a un usuario hasta que este decida ceder sus privilegios a otro usuario. El acceso a la organización desde la cuenta de usuario se realiza directamente desde la raíz de https://github.com/, a través de las opciones disponibles en la parte superior izquierda, una vez el usuario se ha autentificado dentro de la plataforma.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubOrganizationOpen.png)
 
@@ -174,28 +174,27 @@ Las secciones principales del panel de control de la organización incluyen:
 | Sección      | Utilidad                                                                                                                                                                                                                                                                                                         |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Overview     | Resumen general de las actividades realizadas dentro de la organización. Es dinámico y depende de las acciones realizadas por los usuarios.                                                                                                                                                                      |
-| Repositories | Crear, importar, clonar, visualizar y gestionar los repositorios de la organización. Similar a la creación de un repositorio de usuario.                                                                                                                                                                        |
+| Repositories | Crear, importar, visualizar y gestionar los repositorios de la organización. Similar a la creación de un repositorio de usuario.                                                                                                                                                                        |
 | Projects     | Esta sección permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                     |
 | Packages     | Paquetes incorporados a la organización.                                                                                                                                                                                                                                                                         |
 | Teams        | Creación y visualización de equipos y subequipos. [Aprender más](https://docs.github.com/es/organizations/organizing-members-into-teams).                                                                                                                                                                        |
 | People       | Invitación y gestión de los miembros generales de la organización. Los miembros también pueden ser invitados directamente por un equipo. Este tablero de control permite visualizar los miembros activos, los colaboradores externos, los colaboradores pendientes, las invitaciones pendientes y las denegadas. |
 | Settings     | Configuración general que incluye: administración de facturación para organizaciones con cuentas pagas, privilegios de miembros, discusiones de equipo, moderación, codificación / planificación y automatización, seguridad, integraciones y registro de repositorios propios eliminados, entre otros.          |
 
+> La clonación de los repositorios se realiza directamente desde la opción `Fork` del repositorio original que permitirá definir si el clon se alojará dentro de los repositorios propios del usuario o dentro de los repositorios de la organización a la cual pertenece.
+> 
+> La asociación de repositorios a un grupo de trabajo solo se podrá realizar si estos existen dentro de los repositorios de la organización. Dentro de un equipo no se pueden incluir repositorios externos de usuarios particulares sí estos no han sido clonados o importados a la organización. 
+ 
 
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  # | Alcance                                              |
-|:--:|:-----------------------------------------------------|
-|  1 | Cree una organización e invite a algunos miembros.   |
-|  2 | Cree un equipo de trabajo dentro de la organización. |
-| 3 | Cree un repositorio.                                 |
-| 4  | Clone un repositorio.                                 |
-
-
-
-
+|  #  | Alcance                                                                                                          |
+|:---:|:-----------------------------------------------------------------------------------------------------------------|
+|  1  | Cree una organización e invite algunos miembros.                                                                 |
+|  2  | Cree un equipo de trabajo dentro de la organización con subequipos y asocie a algunos de los miembros invitados. |
+|  3  | Cree, clone e importe repositorios, compare sus diferenciass.                                                    |
 
 
 ### Preguntas y respuestas Q&A
@@ -219,10 +218,11 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Control de versiones
 
-| Versión     | Descripción                                                             | Autor                                      | Horas |
-|-------------|:------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.08.24  | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   6   |
-| 2022.08.22  | Versión inicial.                                                        | [rcfdtools](https://github.com/rcfdtools)  |   1   |
+| Versión    | Descripción                                                             | Autor                                      | Horas |
+|------------|:------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.08.27 | . | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| 2022.08.24 | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   6   |
+| 2022.08.22 | Versión inicial.                                                        | [rcfdtools](https://github.com/rcfdtools)  |   1   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
