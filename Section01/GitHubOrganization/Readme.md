@@ -6,9 +6,21 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores, en e
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/GitHubOrganization.svg" width="70%"><br><br>
 </div>
-                                                                                                                                                      
 
-### Conceptos generales[^1]
+
+### Objetivos
+
+* Conocer algunas de las características disponibles de las organizaciones.
+* Entender como funcionan los equipos de trabajo colaborativo.
+* Conocer los tipos de cuentas que pueden ser integadas a una organización.
+
+
+### Requerimientos
+
+* Cuenta GitHub. [:mortar_board:Aprender.](../GitHubRepository)
+
+
+### Conceptos generales [^1]
 
 Las organizaciones de GitHub son cuentas compartidas donde empresas, instituciones y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor donde se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
 
@@ -35,7 +47,7 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 :mortar_board: Aprende más acerca de organizaciones en GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
 
-### Como funcionan los equipos de trabajo[^2]
+### Como funcionan los equipos de trabajo [^2]
 
 Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembros de una organización, los cuales son invitados por los propietarios o administradores generales o por los gestores de equipo. Un usuario de GitHub puede pertenecer a múltiples organizaciones y a múltiples equipos de trabajo dentro de ellas, y sus funciones y privilegios dependerán del rol (administrar, leer, escribir, acceder) que desempeñe en cada proyecto o en cada repositorio.    
 
@@ -49,12 +61,12 @@ Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembro
 :mortar_board: Aprende más acerca de como agregar miembros a un equipo [aquí](https://docs.github.com/es/articles/adding-organization-members-to-a-team).
 
 
-### Tipos de cuentas en GitHub[^3]
+### Tipos de cuentas en GitHub [^3]
 
 Para la creación y la gestión de las organizaciones en GitHub, existen diferentes tipos de cuentas de usuario. 
 
 
-#### Cuentas personales[^3]
+#### Cuentas personales [^3]
 
 Cada persona que utilice GitHub.com deberá iniciar sesión con una cuenta personal. La cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Tu cuenta personal puede ser propietaria de recursos tales como repositorios, paquetes y proyectos. En cualquier momento que realices una acción en GitHub.com, tal como crear una propuesta o revisar una solicitud de cambios, dicha acción se atribuirá a tu cuenta personal.
 
@@ -63,7 +75,7 @@ Cada cuenta personal utiliza ya sea GitHub Free o GitHub Pro. Todas las cuentas 
 Utilizando cuentas libres y para los repositorios públicos, las discusiones y documentación wiki podrán ser habilitadas y utilizadas sin tener que utilizar una cuenta de pago. 
 
 
-#### Cuentas de organización[^3]
+#### Cuentas de organización [^3]
 
 Las organizaciones son cuentas compartidas en donde una cantidad ilimitada de personas pueden colaborar en muchos proyectos al mismo tiempo.
 
@@ -76,7 +88,7 @@ Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de re
 > Para obtener el conjunto de características completo en los repositorios privados y las características adicionales a nivel de la organización, incluyendo el inicio de sesión único de SAML y la cobertura de soporte mejorada, se puede migrar a GitHub Team o Nube de GitHub Enterprise.
 
 
-#### Cuentas de empresa[^3]
+#### Cuentas de empresa [^3]
 
 Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales de pago, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
 
@@ -87,15 +99,17 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 
 ### Como crear una organización en GitHub
 
+1. Ingrese a su cuenta de GitHub
+
 
 
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                    |
-|:---:|:-------------------------------------------------------------------------------------------|
-|  0  | Cree su propia cuenta de usuario en GitHub y el repositorio para un curso o investigación. |
+|  #  | Alcance |
+|:---:|:--------|
+| 1   | x      |
 
 
 
