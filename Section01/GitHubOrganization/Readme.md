@@ -43,6 +43,7 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 * Los equipos principales pueden ser únicos o estar compuestos por múltiples equipos.
 * Cada equipo o subequipo tiene una página o tablero de control que incluye: opciones de discusión, administración de miembros, administración de subequipos, administración de repositorios, administración de proyectos propios y configuraciones generales.
 * Un miembro dentro de la organización puede ser integrado a uno o varios equipos o subequipos.
+* Los repositorios asociados a un equipo son heredados a todos sus subequipos.
 
 > :mortar_board: Aprende más acerca de organizaciones GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
@@ -93,13 +94,13 @@ Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de re
 Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales de pago, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
 
 > Para la creación y gestión de repositorios relacionados con investigación y docencia, no es necesario adquirir productos de pago y se pueden utilizar las cuentas de usuario y organizaciones libres.  
-
-:mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
+> 
+> :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
 ### Como crear una organización en GitHub
 
-1. Ingrese a su cuenta de GitHub
+1. Ingrese a su cuenta de GitHub y en la parte superior derecha, de clic en la opción +  
 
 
 
