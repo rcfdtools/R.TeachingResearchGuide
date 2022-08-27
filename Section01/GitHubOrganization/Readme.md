@@ -85,6 +85,20 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
+### Como crear una organización en GitHub
+
+
+
+### Actividades complementarias:pencil2:
+
+En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
+
+|  #  | Alcance                                                                                    |
+|:---:|:-------------------------------------------------------------------------------------------|
+|  0  | Cree su propia cuenta de usuario en GitHub y el repositorio para un curso o investigación. |
+
+
+
 ### Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                            | Respuesta                                                                                                                                                                                                                                                                                                                             |
