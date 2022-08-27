@@ -120,12 +120,33 @@ Como puede observar a fecha 2022.08.27, la creación de una organización Free p
 
 ![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization.png)
 
-3. Ingrese el nombre para la organización, correo de contacto y defina el tipo de organización. Para este ejemplo, crearemos una organización personal denominada `rcfdtoolstestorganization`. Verifique su cuenta y de clic en el botón `Next` que aparece en la parte inferior de la ventana.
+3. Ingrese el nombre para la organización, correo de contacto y defina el tipo de organización. Para este ejemplo, crearemos una organización personal denominada `rcfdtoolstestorganization`. Verifique su cuenta, acepte los términos y condiciones y de clic en el botón `Next` que aparece en la parte inferior de la ventana.
 
 > Las organizaciones en GitHub pueden estar asociadas a una cuenta personal o a una empresa o institución.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization1.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubCreateFreeOrganization2.png)
+
+4. Para iniciar la colaboración, agregue los miembros de su equipo de trabajo utilizando su nombre en GitHub, su nombre o su dirección de correo. Para este ejemplo, agregaré al usuario [rcfdtools](https://github.com/rcfdtools). De clic en el botón `Complete setup` para terminar la creación de la organización.
+
+> Los usuarios deberán estar registrados en la plataforma para que puedan ser invitados e integrados a la organización.
+
+![R.TeachingResearchGuide](Screenshot/GitHubStartAddMembers.png)
+
+5. En la pantalla de bienvenida, seleccione o defina los tipos de actividades que realizaran a diario los miembros de la organización (Codificar, administrar y coordinar trabajos de ingeniería, planificación de proyectos, administración de facturación de cuenta) o defina intereses particulares. Para el ejemplo, seleccionaremos los 3 primeros intereses disponibles.
+
+![R.TeachingResearchGuide](Screenshot/GitHubWelcome.png)
+
+Defina el número de personas que espera trabajen dentro de la organización, p. ej. 25+ y el tipo de trabajos que la organización planea desarrollar y en otros incluya: `Creación de cursos virtuales` y `Desarrollo de trabajos de Investigación`.
+
+![R.TeachingResearchGuide](Screenshot/GitHubWelcome1.png)
+
+Indique que tipos de actividades planea realizar durante los próximos 7 días, únicamente podrá seleccionar hasta 3 tipos.
+
+![R.TeachingResearchGuide](Screenshot/GitHubWelcome2.png)
+
+Opcionalmente podrá indicarle a GitHub, si dispone de algún repositorio personal que quiera ser importado a la organización
+
 
 
 ### Actividades complementarias:pencil2:

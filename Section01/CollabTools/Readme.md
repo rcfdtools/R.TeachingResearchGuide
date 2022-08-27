@@ -18,7 +18,7 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 * Publicación de foros de discusión y soporte
 * Wikis para gestionar la documentación
 
-Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah.
+Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah, Bitbucket.
 
 
 ### Plataformas de desarrollo colaborativo
@@ -83,6 +83,11 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 * Hospedaje web para sistemas.
 * GNU arch y hospedaje de archivos.
 * Seguimiento de bugs.
+
+
+#### [Bitbucket](https://bitbucket.org/product)
+
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/_nOzAsz6EHI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br></div>
 
 
 ### ¿Qué plataforma debo usar?
