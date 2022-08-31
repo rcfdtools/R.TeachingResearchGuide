@@ -22,11 +22,11 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 ## Sección 2 - Gestión local de repositorios GitHub
 
-| Microcontenido                  | Alcance                                                                                                                                                                                                                                                         |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gestión con GitHub Desktop[^1]  | GitHub Desktop es una aplicación que te habilita para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un buscador web. GitHub Desktop fomenta que tú y tu equipo colaboren utilizando las mejoras prácticas con Git y GitHub. |
-| Gestión con PyCharm             | PyCharm es un entorno de desarrollo integrado (IDE) utilizado en programación informática, concretamente para el lenguaje de programación Python y permite la creación, gestión y publicación de proyectos en GitHub.                                           |
-| Gestión con Visual Studio Code  | Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub,                                                                                                                           |
+| Microcontenido                                     | Alcance                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Introducción a herramientas Git para gestión local | Existen diferentes herramientas de escritorio que permiten gestionar los cambios realizados en un repositorio de GitHub, algunas de estas herramientas se encargan solo de los controles de cambio y otras disponen de editores avanzados para la creación de documentos y codificación. |
+| Gestión con PyCharm                                | PyCharm es un entorno de desarrollo integrado (IDE) utilizado en programación informática, concretamente para el lenguaje de programación Python y permite la creación, gestión y publicación de proyectos en GitHub.                                                                    |
+| Gestión con Visual Studio Code                     | Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub,                                                                                                                                                    |
 
 <br>
 
@@ -36,4 +36,3 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-[^1]: https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
