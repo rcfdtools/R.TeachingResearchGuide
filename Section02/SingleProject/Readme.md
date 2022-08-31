@@ -10,6 +10,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, se pued
 
 ### Objetivos
 
+* Agregar y modificar el archivo de exclusiones .gitignore.
 * Modificar y actualizar la estructura de directorios del proyecto.
 * Modificar los archivos Readme.md existentes.
 * Crear nuevos archivos.
@@ -75,6 +76,10 @@ En la parte inferior de la ventana, de clic en el ícono _Git_ que le permitirá
 Para verificar los cambios realizados en el repositorio, desde su navegador de Internet, verifique el contenido de los archivos del proyecto en la pestaña `<>Code`, podrá observar que se encuentra publicado el nuevo archivo `.gitignore`, los comentarios de la modificación realizada y hace cuanto realizó los cambios.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepositoryFileGitIgnore.png)
+
+De clic en el archivo `.gitignore` y visualice su contenido.
+
+![R.TeachingResearchGuide](Screenshot/GitHubRepositoryFileGitIgnoreOpen.png)
 
 > Como pudo observar, no ha sido necesario el uso de la consola de comandos, ni conocer los comandos Git para la modificación y publicación en la nube de los cambios realizados en el repositorio.
 
