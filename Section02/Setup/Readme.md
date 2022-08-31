@@ -1,15 +1,13 @@
-## Gestión con PyCharm
-Keywords: `Desktop` `JETBRAINS`
+## Instalación, asociación de proyecto GitHub y configuración general de PyCharm
+Keywords: `Desktop` `JETBRAINS` `Clone` `Grammar` `Spelling` `VCS` `Git` `Plugins` `Inspections`
 
 PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crea y editar código, sino también crear documentación en formato de marcas Markdown y gestionar los controles de cambios, publicación y actualización en GitHub.                                                                                                         
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/PyCharm.svg" width="70%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/Setup.png" width="30%"><br><br>
 </div>
 
 > GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común utilizar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a utilizar es Python. 
-
-[^1]: 
 
 
 ### Objetivos
