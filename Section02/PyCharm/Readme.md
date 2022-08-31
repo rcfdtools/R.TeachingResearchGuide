@@ -19,7 +19,7 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 * Cuenta GitHub. [:mortar_board:Aprender.](../GitHubRepository)
 
 
-### Instalación
+### Instalación de PyCharm
 
 1. Ingrese a https://www.jetbrains.com/pycharm/ y de clic en el botón _DOWNLOAD_.
 
@@ -59,12 +59,72 @@ Defina el nombre de la carpeta en el menú inicio de su sistema operativo, por d
 ![R.TeachingResearchGuide](Screenshot/PyCharmSetupFinish.png)
 
 
-### Configuración
+### Apertura de PyCharm y asociación de proyecto GitHub
 
 1. Desde el menú inicio o desde sus aplicaciones, ejecute _PyCharm_, acepte las condiciones de uso y de clic en `Continue`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmUserAgreement.png)
 
+Automáticamente, aparecerá la ventana de bienvenida de PyCharm donde encontrará los siguientes grupos de opciones:
+
+![R.TeachingResearchGuide](Screenshot/PyCharmWelcome.png)
+
+| Grupo         | Opciones                                                                                                                                                      |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Projects      | Creación de un nuevo proyecto local, apertura de un proyecto local o apertura de un proyecto con sistema de control de versiones VCS.                         |
+| Customize     | Personalización de la visualización general del entorno: tema, fuente y configuración de accesos rápidos por teclado.                                         |
+| Plugins       | Panel para la instalación de complementos. Por defecto se instalan diferentes complementos como la edición de archivos Markdown, Shell Script, GitHub... |
+| Learn PyCharm | Acceso a cursos interactivos embebidos, ayuda y recursos.                                                                                                     |
+
+> PyCharm Community Edition permite solo la visualización de los cuadernos de Jupyter de Python. Para la ejecución se requiere de la versión profesional de Pycharm. 
+
+2. En la ventana de bienvenida y desde _Customize_, cambie la configuración del tema de color marcando la casilla `Sync with OS` que permitirá que utilizar el modo claro o oscuro de PyCharm de acuerdo a la configuración establecida en su sistema operativo.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmWelcomeColorTheme.png)
+
+3. En la ventana de bienvenida y desde _Projects_, seleccione la opción `Get from VCS` para abrir el repositorio creado en GitHub. De clic en el botón `Log In to GitHub`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmWelcomeLogInGitHub.png)
+
+Automáticamente, será dirigido a su navegador de Internet, de clic en el botón `Authorize in GitHub`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmAuthorizeInGitHub.png)
+
+Ingrese su nombre de usuario y contraseña de GitHub.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmAuthorizeInGitHub1.png)
+
+Conceda los permisos de acceso a la organización a través del botón `Grant` y de clic en el botón `Authorize JetBrains`
+
+![R.TeachingResearchGuide](Screenshot/PyCharmAuthorizeInGitHub2.png)
+
+Aparecerá el mensaje de autorización exitosa.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmAuthorizeInGitHub3.png)
+
+Una vez se realiza el ingreso y la autorización, en la ventana de bienvenida de PyCharm podrá visualizar los repositorios disponibles que el usuario ha creado en GitHub, para el ejemplo, el repositorio disponible se denomina `repotest` que corresponde al repositorio creado en la [Sección 1](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository) de este curso. Seleccione `repotest` y en la parte inferior defina la ruta donde serán clonados los archivos del repositorio disponible en la nube, utilizar por ejemplo la ruta `C:\repotest` o `D:\repotest`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmDirectory.png)
+
+Luego de seleccionar o definir la ruta, de clic en el botón `Clone` ubicado en la parte inferior. Si previamente no se ha instalado el complemento Git, la clonación será cancelada y aparecerá un mensaje en la parte inferior derecha indicando que Git no está instalado y un enlace para descargar e instalar, dar clic en el enlace.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmCloneCancel.png)
+![R.TeachingResearchGuide](Screenshot/PyCharmGitDownloadInstall.png)
+
+Una vez terminada la instalación del complemento Git, regrese nuevamente a la raíz de la pestaña _Projects_ y de clic nuevamente en `Get from VCS`, seleccione `repotest`, ingrese la ruta de clonación `C:\repotest` y de clic en `Clone`. Aparecerá un mensaje indicando si confía o no en el repositorio que va a clonar en disco, de clic en el botón `Trust Project`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmTrustProject.png)
+
+> Tenga en cuenta que antes de clonar un repositorio público de otro usuario, deberá verificar los archivos contenidos que descargará desde la nube. Pueden existir repositorios que contienen Malware u otros tipos de archivos malignos que pueden corromper sus propios proyectos o su sistema operativo.  
+
+Una vez termine la sincronización, podrá observar en el panel izquierdo denominado Project, la estructura de directorios y los archivos que fueron creados en la nube y será mostrado el archivo README.md contenido en la raíz del repositorio en modo de previsualización.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmRepoTestClone.png)
+
+
+### Configuración de PyCharm
+
+Luego de realizada la instalación', la conexión a los servicios de GitHub en la nube y la clonación local del repositorio, es necesario configurar el 
 
 
 
@@ -91,7 +151,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Referencias
 
-* 
+* https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html#get-started
 
 
 ### Control de versiones
