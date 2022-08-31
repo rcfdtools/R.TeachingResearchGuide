@@ -203,8 +203,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 | Versión    | Descripción                                                                                                                     | Autor                                      | Horas |
 |------------|:--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. Instalación de PyCharm. Apertura de PyCharm y asociación de proyecto GitHub. Configuración general de PyCharm. | [rcfdtools](https://github.com/rcfdtools)  |  4.5  |
-
+| 2022.08.31 | Versión inicial. Instalación de PyCharm. Apertura de PyCharm y asociación de proyecto GitHub. Configuración general de PyCharm. | [rcfdtools](https://github.com/rcfdtools)  |  4.5  |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
