@@ -122,9 +122,47 @@ Una vez termine la sincronización, podrá observar en el panel izquierdo denomi
 ![R.TeachingResearchGuide](Screenshot/PyCharmRepoTestClone.png)
 
 
-### Configuración de PyCharm
+### Configuración general de PyCharm
 
-Luego de realizada la instalación', la conexión a los servicios de GitHub en la nube y la clonación local del repositorio, es necesario configurar el 
+Luego de realizada la instalación, la conexión a los servicios de GitHub en la nube y la clonación local del repositorio, es necesario configurar el paquete de idioma que será utilizado para la corrección asistida de ortografía y gramática.
+
+1. En el menú _File_, seleccione la opción _Settings_ u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>. Seleccione el grupo de opciones _Editor / Natural Languages_. De clic en la opción `+`, seleccione Español y luego de clic en el botón `Apply`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsGrammarStyle.png)
+
+> Tenga en cuenta que la adición de un lenguaje natural no cambia el idioma de la interfaz de usuario, esta seguirá en idioma inglés. 
+
+2. En Natural Languages, de clic en la opción _Grammar and Style_, active las opciones de _tipografía avanzada_ y de clic en `Apply`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsGrammarStyleAdvancedTypography.png)
+
+> Como observa, PycCharm contiene opciones de gramática asistida que le ayudarán a escribir de forma profesional los contenidos de los documentos Markdown.
+
+3. En Natural Languages, de clic en la opción _Spelling_. Revise la configuración preestablecida que le permitirá crear diccionarios para toda la aplicación y todos los proyectos o crear diccionarios por cada proyecto. Adicionalmente, podrá generar una lista de nuevas palabras aceptadas, p. ej. palabra técnicas que no estén definidas dentro del diccionario.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsGrammarStyleSpelling.png)
+
+4. Dentro del grupo de opciones de _Spelling_ de clic en el enlace _Configure 'Spelling' inspection..._ Esta opción le permitirá configurar la forma como son mostradas las inspecciones sobre el documento, p. ej. los íconos, el subrayado para resaltar texto con error de tipografía, gramática y ortografía. 
+
+La configuración por defecto contiene inspecciones generales y por tipo de archivo, p. ej. inspecciones para archivos Markdown, Python, JSON, HTML y XML entre otros.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsInspections.png)
+
+5. Con respecto a las opciones de control de versión o VCS, de forma predeterminada en el grupo de opciones _Version Control_, se encuentra la configuración requerida para Git, control sobre los comentarios de modificación, rastreo de directorios para identificar archivos que son cargados manualmente al directorio del proyecto y las cuentas de GitHub definidas para los controles de versión.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsVersionControl.png)
+
+6. Para la configuración específica del proyecto abierto y clonado localmente desde GitHub, el grupo de opciones _Project: MiProyecto_, presenta las siguientes características:
+
+| Opciones           | Descripción                                                                                                                                                                        |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Python Interpreter | Configuración del intérprete de Python que será asociado a los scripts del proyecto. Aplica solo para repositorios dentro de los cuales se van a utilizar y ejecutar archivos .py. |
+| Project Structure  | Estructura general de directorios generales, directorios fuente y directorios excluidos.                                                                                           | 
+
+En la parte inferior de la ventana, encontrará un campo donde podrá definir exclusiones de archivos para el proyecto, p. ej. archivos temporales que no se deben publicar en la nube de GitHub. 
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProject.png)
+
 
 
 
