@@ -7,11 +7,15 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 <br><img alt="R.TeachingResearchGuide" src="Graph/PyCharm.svg" width="70%"><br><br>
 </div>
 
+> GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común utilizar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a utilizar es Python. 
+
+[^1]: 
+
 
 ### Objetivos
 
-* Instalar y configurar PyCharm.
-* 
+* Instalar y configurar la interfaz PyCharm.
+* Clonar localmente mi repositorio GitHub. 
 
 
 ### Requerimientos
