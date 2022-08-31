@@ -124,7 +124,7 @@ Una vez termine la sincronización, podrá observar en el panel izquierdo denomi
 
 ### Configuración general de PyCharm
 
-Luego de realizada la instalación, la conexión a los servicios de GitHub en la nube y la clonación local del repositorio, es necesario configurar el paquete de idioma que será utilizado para la corrección asistida de ortografía y gramática.
+Luego de realizada la instalación, la conexión a los servicios de GitHub en la nube y la clonación local del repositorio, es necesario configurar en el editor el paquete de idioma que será utilizado para la corrección asistida de ortografía y gramática; el control de versiones y las opciones generales del proyecto.
 
 1. En el menú _File_, seleccione la opción _Settings_ u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>. Seleccione el grupo de opciones _Editor / Natural Languages_. De clic en la opción `+`, seleccione Español y luego de clic en el botón `Apply`.
 
@@ -170,9 +170,9 @@ En la parte inferior de la ventana, encontrará un campo donde podrá definir ex
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance |
-|:---:|:--------|
-|  1  | xxx     |
+|  #  | Alcance                                                                                                       |
+|:---:|:--------------------------------------------------------------------------------------------------------------|
+|  1  | Descargue, instale, clone localmente su respositorio de GitHub y realice la configuración general de PyCharm. |
 
 
 ### Preguntas y respuestas Q&A
