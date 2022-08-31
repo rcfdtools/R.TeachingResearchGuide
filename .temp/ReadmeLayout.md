@@ -4,14 +4,38 @@ Keywords: `Organization` `Collaboration`
 Las organizaciones permiten integrar miembros de la comunidad de creadores de contenido y publicar a través de clonación, las versiones oficiales lanzadas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Graph/GitHubOrganization.svg" width="30%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubOrganization.svg" width="70%"><br><br>
 </div>
-                                                                                                                                                      
-
-### Creación de organizaciones
 
 
-![R.TeachingResearchGuide](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/Section01/GitHubOrganization/Screenshot/GitHubRepoTestRefsReadmeHistory.png)
+### Objetivos
+
+* 
+
+
+### Requerimientos
+
+* 
+
+
+### Conceptos generales
+
+
+![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
+
+
+### Desarrollo
+
+aaaaaaaa
+
+
+### Actividades complementarias:pencil2:
+
+En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
+
+|  #  | Alcance                                                                                                          |
+|:---:|:-----------------------------------------------------------------------------------------------------------------|
+|  1  | Cree una organización e invite algunos miembros.                                                                 |
 
 
 ### Preguntas y respuestas Q&A
@@ -38,11 +62,11 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores de co
 | 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
 
 
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki/License)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository)  | [:house: Inicio](https://github.com/rcfdtools/R.TeachingResearchGuide/wiki) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
+|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
