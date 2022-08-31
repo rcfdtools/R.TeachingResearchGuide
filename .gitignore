@@ -1,8 +1,8 @@
 # General exclusions
 #.gitignore
-.git/
 .idea/
-venv/
+.git/
+.venv/
 
 
 # Large files exclusions
