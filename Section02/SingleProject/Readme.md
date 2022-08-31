@@ -1,7 +1,7 @@
 ## Edición local de proyectos con PyCharm y publicación en la nube
 Keywords: `PyCharm` `Commit` `Push`
 
-Luego de realizada la clonación local del repositorio creado en GitHub, se pueden modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
+Luego de realizada la clonación local del repositorio creado en GitHub, se puede y/o es requetido modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/SingleProject.png" width="30%"><br><br>
@@ -46,6 +46,8 @@ Dentro del archivo, agregue las siguientes exclusiones:
 ```
 
 > La exclusión `.git/` descartará la sincronización de los archivos temporales locales de control de cambios de Git. La exclusión `.venv/` evitará que los archivos de entornos virtuales de Python creados en el directorio raíz, se sincronicen en la nube.
+> 
+> Si requiere incluir comentarios dentro del archivo _.gitignore_, utilice almohadilla # al inicio de la línea, p. en. `# Exclusiones generales`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewFileGitIgnoreEdit.png)
 
@@ -53,7 +55,7 @@ Dentro del archivo, agregue las siguientes exclusiones:
 
 > Recuerde que todos los archivos creados localmente que superen un tamaño de 100 MB, deberán ser excluidos de la sincronización o ser comprimidos en múltiples partes de 95 MB.
 
-Para sincronizar el archivo en la nube de GitHub, de clic en el botón Commit u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>K</kbd>. Ingrese comentarios para documentar los cambios realizados en el repositorio y para finalizar de clic en el botón `Commit and Push...`.
+Para sincronizar el archivo en la nube de GitHub, de clic en el botón `Commit` (ícono verde de aprobación ✓ localizado en la parte superior derecha de la pantalla) u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>K</kbd>. Ingrese comentarios para documentar los cambios realizados en el repositorio y para finalizar de clic en el botón `Commit and Push...`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewFileGitIgnoreCommit.png)
 
@@ -84,10 +86,63 @@ De clic en el archivo `.gitignore` y visualice su contenido.
 > Como pudo observar, no ha sido necesario el uso de la consola de comandos, ni conocer los comandos Git para la modificación y publicación en la nube de los cambios realizados en el repositorio.
 
 
-
-
 ### Modificación y/o complementación de la estructura de directorios
 
+Para agregar una carpeta nueva, en la raíz del repositorio o en una carpeta específica, de clic derecho, seleccione la opción _New / Directory_, ingrese el nombre del directorio y teclee <kbd>Enter</kbd>. 
+
+![R.TeachingResearchGuide](Screenshot/GitHubNewDirectory.png)
+
+Cree 3 directorios y nombre como `Section01`, `Section02` y `Section03`.
+
+![R.TeachingResearchGuide](Screenshot/GitHubNewDirectorySection01.png)
+
+![R.TeachingResearchGuide](Screenshot/GitHubNewDirectorySectionsTree.png)
+
+> Por defecto, los directorios locales que no contienen archivos, no son sincronizados dentro de GitHub cuando se realiza Commit y Push.
+
+Dentro de cada sección, crearemos las siguientes carpetas, subcarpetas y archivos Readme.md sin utilizar PyCharm, para ello, desde el explorador de archivos de su sistema operativo, cree la estructura dentro de Section01 y luego copie y pegue la estructura de actividades dentro de Section02 y Section03:
+
+> Para la creación de los archivos Readme.md, en el explorador de archivo, active la visualización de extensiones de archivos.
+
+* ActividadA
+  * Readme.md
+  * Graph
+    * Readme.md
+  * Screenshot
+    * Readme.md
+* ActividadB
+  * Readme.md
+  * Graph
+    * Readme.md
+  * Screenshot
+    * Readme.md
+* ActividadC
+  * Readme.md
+  * Graph
+    * Readme.md
+  * Screenshot
+    * Readme.md
+
+![R.TeachingResearchGuide](Screenshot/GitHubNewDirectoryCompleteStructure.png)
+
+> El proceso de creación de la estructura de directorios se simplifica si es realizado desde el explorador de archivos del sistema operativo, ya que al crear la estructura general de una sección, esta puede ser copiada y pegada a las demás secciones.  
+
+Debido a que la creación de la estructura fue realizada externamente, GitHub desplegará una ventana indicando si quiere visualizar los nuevos archivos creados y si siempre quiere adicionar archivos creados fuera de la IDE. De clic en `Always Add`.
+
+![R.TeachingResearchGuide](Screenshot/GitHubNewFilesAlwaysAdd.png)
+
+> En el panel izquierdo de proyecto, podrá observar toda la estructura creada y cada carpeta contiene un documento Readme.md de Markdown.
+
+Comente los cambios realizados mediante `Commit` y de clic en `Push` para publicar la estructura y los archivos creados.
+
+![R.TeachingResearchGuide](Screenshot/GitHubDirectoryStructurePush.png)
+![R.TeachingResearchGuide](Screenshot/GitHubDirectoryStructurePush1.png)
+
+Visualice la estructura creada en la nube desde su navegador de Internet.
+
+![R.TeachingResearchGuide](Screenshot/GitHubStructureOnline1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubStructureOnline2.png)
+![R.TeachingResearchGuide](Screenshot/GitHubStructureOnline3.png)
 
 
 
