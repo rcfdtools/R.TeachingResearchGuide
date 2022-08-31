@@ -18,7 +18,7 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 
 ### Requerimientos
 
-* Cuenta GitHub. [:mortar_board:Aprender.](../GitHubRepository)
+* Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../GitHubRepository)
 
 
 ### Instalación de PyCharm
@@ -175,9 +175,10 @@ En la parte inferior de la ventana, encontrará un campo donde podrá definir ex
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                                      |
-|:---:|:-------------------------------------------------------------------------------------------------------------|
-|  1  | Descargue, instale, clone localmente su repositorio de GitHub y realice la configuración general de PyCharm. |
+|  #  | Alcance                                                                                                                 |
+|:---:|:------------------------------------------------------------------------------------------------------------------------|
+|  1  | Descargue, instale y clone localmente su repositorio de GitHub. y realice la configuración general de PyCharm.          |
+|  2  | Realice la configuración general de PyCharm instalando el paquete para corrección gramatical y de escritura en español. |
 
 
 ### Preguntas y respuestas Q&A
