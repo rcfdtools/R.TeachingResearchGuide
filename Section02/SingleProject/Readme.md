@@ -1,4 +1,4 @@
-## Edición local de proyectos y publicación en la nube
+## Edición local de proyectos con PyCharm y publicación en la nube
 Keywords: `PyCharm` `Commit` `Push`
 
 Luego de realizada la clonación local del repositorio creado en GitHub, se pueden modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
