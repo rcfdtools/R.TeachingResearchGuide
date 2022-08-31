@@ -173,16 +173,17 @@ En la parte inferior de la ventana, encontrará un campo donde podrá definir ex
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                                       |
-|:---:|:--------------------------------------------------------------------------------------------------------------|
-|  1  | Descargue, instale, clone localmente su respositorio de GitHub y realice la configuración general de PyCharm. |
+|  #  | Alcance                                                                                                      |
+|:---:|:-------------------------------------------------------------------------------------------------------------|
+|  1  | Descargue, instale, clone localmente su repositorio de GitHub y realice la configuración general de PyCharm. |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                            | Respuesta                                                                                                             |
-|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| ¿Requiero de una versión de pago para gestionar mis proyectos GitHub desde PyCharm? | No, la versión community provee las herramientas necesarias para crear, editar, publicar y mantener tus repositorios. |
+| Pregunta                                                                                     | Respuesta                                                                                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Requiero de una versión de pago para gestionar mis proyectos GitHub desde PyCharm?          | No, la versión community provee las herramientas necesarias para crear, editar, publicar y mantener tus repositorios.                                                                                                                                                  |
+| ¿Para ejecutar cuadernos de Python Jupyter, requiero de la versión profesional de PyCharm?   | Sí, la versión Community únicamente permite la visualización de los notebook. Para la ejecución de Jupyter Notebooks, se recomienda la IDE de [Visual Studio Code de Microsoft](https://visualstudio.microsoft.com/), que a través de Plugins permite de forma libre, crear y ejecutar este tipo de archivos. |
 
 
 > Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
