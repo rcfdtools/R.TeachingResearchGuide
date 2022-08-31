@@ -20,7 +20,7 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 | Centro de discusiones                                                                            | Discusiones es el espacio donde los creadores de contenido, estudiantes, colaboradores y usuarios finales se reúnen para intercambiar ideas, solicitar ayuda, dar solución a problemas o para comunicarse entre sí.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
-## Sección 2 - Wiki y gestión local de repositorios GitHub
+## Sección 2 - Gestión local de repositorios GitHub
 
 | Microcontenido                  | Alcance                                                                                                                                                                                                                                                         |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
