@@ -163,6 +163,9 @@ En la parte inferior de la ventana, encontrará un campo donde podrá definir ex
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProject.png)
 
+7. En caso de que requiera de la instalación de Plugings adicionales, desde la misma ventana de configuración encontrará las opciones para ingresar al Marketplace o revisar y configurar los complementos instalados.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPlugins.png)
 
 
 
