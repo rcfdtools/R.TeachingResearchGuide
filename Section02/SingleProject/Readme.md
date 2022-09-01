@@ -2,7 +2,6 @@
 Keywords: `PyCharm` `Commit` `Push`
 
 Luego de realizada la clonación local del repositorio creado en GitHub, es necesario modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
-
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/SingleProject.png" width="30%"><br><br>
 </div>
@@ -168,12 +167,89 @@ PyCharm dispone de herramientas de edición de archivos Markdown que facilitan l
 | Panel de navegación                  | Anterior / Inicio / Ayuda / Siguiente. El botón _Inicio_ dirige al estudiante a la raíz de la documentación _Wiki_, el botón _Ayuda_ dirije al estudiante a la entrada específica de la discusión para preguntas y respuestas. Los enlaces _Anterior_ y _Siguiente_ dirigen al estudiante a las actividades inmediatas.                                                                                  | Tabla de una línea                                                    | 
 | Notas a pie                          | Listado de notas a pie citadas dentro de la actividad. Para citar utilice `[^1]` y para la descripción de la citación al pie del documento utilice `[^1]:` cambiando 1 por el número del consecutivo de la citación.                                                                                                                                                                                     | No requiere formato, se aplica automáticamente                        |
 
-1. Para incluir el título de la actividad, ingrese el texto "Actividad 1 - Edición de archivos Markdown"
+1. Para incluir el título de la actividad, ingrese el texto _"Actividad 1 - Edición de archivos Markdown", seleccione el texto y ubique el puntero del Mouse sobre el texto, aparecerá una barra de herramientas flotante que le permitirá definir los siguientes estilos de texto:
 
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeEditTextBar.png)
 
+| Formato               | Descripción      | Atajo                                         |
+|-----------------------|------------------|-----------------------------------------------|
+| normal, H1, H2.... H6 | Nivel de título  |                                               |
+| **B**                 | Negrilla         | <kbd>Ctrl</kbd>+<kbd>B</kbd>                  |
+| _I_                   | Itálica          | <kbd>Ctrl</kbd>+<kbd>I</kbd>                  |
+| ~~S~~                 | Tachado          | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd> |
+| <>                    | Código           | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd> |
+| :link:                | Hiperenlace      | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>U</kbd> |
+| List                  | Listas sin orden |                                               |
 
+Seleccione subtítulo H2, podrá observar que automáticamente se incluyen las marcas ## correspondientes al nivel de título 2 de HTML y que el texto cambia de color a púrpura y la marca ## a color azul. En la parte superior derecha de la ventana de edición del archivo Readme.md, encontrará 3 formas de visualizar el documento: visualización de fuente, visualización de fuente con vista preliminar y solo vista preliminar.
 
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeH2.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeH2Done.png)
 
+2. Para incluir las palabras clave, al final del título ingrese dos espacios y teclee <kbd>Enter</kbd> para crear un salto de línea sencillo de Markdown sin tener que utilizar el salto de línea `<br>` de HTML. Escriba la palabra "Keywords:", luego agregue diferentes palabras que describan la actividad sin separarlas usando comas, p. ej.: Markdown Title Table Hyperlink Image. Seleccione la primera palabra y oprima <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>, repita este procedimiento para cada palabra.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeCodeSimple.png)
+
+> Como puede observar, cada tipo de marca Markdown es representada en colores que facilitan la interpretación y escritura del documento. Para formato de código simple, el color de representación es verde.
+
+Durante el proceso de edición, el texto puede superar el ancho del espacio de edición en la ventana, lo que impide que no se visualice completamente el contenido del documento. Para ajustar el contenido al ancho disponible en pantalla, en el menú `View` u oprimiendo <kbd>Ctrl</kbd>+<kbd>V</kbd>, de clic en el grupo de opciones _Active Editor_ y active _Soft-Wrap_. Cuando esté editando código, podrá también activar _Show Whitespaces_ para visualmente identificar las indentaciones.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeSoftWrap.png)
+
+Ahora podrá visualizar todo el texto ajustado a la ventana.  
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeSoftWrap1.png)
+
+3. La inserción de imágenes puede ser realizada con <kbd>Alt</kbd>+<kbd>Insert</kbd> e Image o con <kbd>Ctrl</kbd>+<kbd>U</kbd>. Para el ejemplo, insertaremos una imagen localizada en Internet en la ruta https://archive.org/details/C-1995-2394.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertImage.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertImagePreview.png)
+
+> Como observa en pantalla, la imagen remota no puede ser previsualizada debido a que se encuentra en Internet. PyCharm permite la previsualización de imágenes que se encuentran almacenadas localmente en disco a partir de rutas relativas.
+
+Desde https://archive.org/details/C-1995-2394, descargue la imagen en el formato disponible JPEG. Guarde la imagen en la ruta 
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownload.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadPath.png)
+
+En el archivo Readme.md, modifique 
+
+`![NASA - Planet Earth](https://archive.org/details/C-1995-2394)`
+
+por 
+
+`![NASA - Planet Earth](Graph/1995_02394.jpg)`
+
+Al final de la línea de texto de la imagen, teclee dos veces <kbd>Enter</kbd> para insertar un salto de línea y una línea nueva, verifique la previsualización.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadLocalPathPreview.png)
+
+Para ajustar el ancho de la imagen p. ej. a 200 píxeles de ancho, podrá utilizar el llamado de HTML `<img alt="NASA - Planet Earth" src="Graph/1995_02394.jpg" width="200p">`
+
+> En HTML, los tamaños pueden ser definidos en diferentes unidades, p. ej. en píxeles `200p` o en porcentajes `50%`.
+
+Para centrar la imagen en pantalla, el código de Markdown o de HTML, deberá incluirse dentro de un marco flotante de HTML o `<div>`, así:
+
+```
+<div align="center">
+<img alt="NASA - Planet Earth" src="Graph/1995_02394.jpg" width="200p">
+</div>
+```
+
+Para incluir el texto de referencia de la fuente original de la imagen, podrá utilizar saltos de línea `<br>` y subíndices `<sub>` de HTML, así:
+
+```
+<div align="center">
+<img alt="NASA - Planet Earth" src="Graph/1995_02394.jpg" width="200p"><br>
+<sub>Planet Earth / Nasa Aeronautics and Space Administration / Lewis Research Center / https://archive.org/details/C-1995-2394</sub>
+</div>
+```
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadLocalPathPreview1.png)
+
+Realice el Commit / Push de Git y previsualice el resultado en su navegador de Internet.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmePush.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmePreview.png)
 
 
 ### Actividades complementarias:pencil2:
