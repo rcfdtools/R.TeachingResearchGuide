@@ -1,5 +1,5 @@
 ## Edición local de proyectos con PyCharm y publicación en la nube
-Keywords: `PyCharm` `Commit` `Push`
+Keywords: `PyCharm` `Commit` `Push` `Image` `Title` `Table`
 
 Luego de realizada la clonación local del repositorio creado en GitHub, es necesario modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
 <div align="center">
@@ -13,7 +13,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, es nece
 * Modificar y actualizar la estructura de directorios del proyecto.
 * Crear nuevos archivos.
 * Edición local de archivos Markdown .md.
-* Comentar y publicar los cambios realizados.
+* Comentar y publicar en la nube los cambios realizados.
 
 
 ### Requerimientos
@@ -23,7 +23,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, es nece
 
 ### Exclusión de directorios de control de cambios
 
-Previamente en la sección 1 de este curso, creamos un repositorio que contenía diferentes carpetas generales y en la actividad anterior clonamos esta carpeta localmente como `C:\repotest`. Al revisar la estructura de directorios local, la disponible en la nube y la gestionada por PyCharm, podremos observar que las estructuras son similares, excepto por la carpeta `.idea`, que ha sido generada localmente por PyCharm para el control de configuración del repositorio de forma local.
+Previamente en la sección 1 de este curso, creamos un repositorio que contenía diferentes carpetas generales y en la actividad anterior clonamos esta carpeta localmente como `C:\repotest`. Al revisar la estructura de directorios local, la disponible en la nube y la gestionada por PyCharm, podremos observar que las estructuras son similares, excepto por la carpeta `.idea`, que ha sido generada localmente por PyCharm para el control de configuración del repositorio local.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmStructureCompare.png)
 
@@ -62,19 +62,19 @@ PyCharm solicitará que indique el nombre del usuario que realizará la publicac
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmGitUserNotDefined.png)
 
-En la ventana emergente de publicación de comentarios y cargue de archivos podrá observar que se incluirá en la nube el archivo `.gitignore` localizado en `C:\repotest`. De clic en Push.
+En la ventana emergente de publicación de comentarios y cargue de archivos, podrá observar que se incluirá en la nube el archivo `.gitignore` localizado en `C:\repotest`. De clic en Push.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewFileGitIgnorePush.png)
 
-Luego lanzar el _Push_, podrá observar un mensaje indicando que se ha publicado la modificación.  
+Luego de lanzar el _Push_, podrá observar un mensaje indicando que se ha publicado la modificación.  
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewFileGitIgnorePushOk.png)
 
-En la parte inferior de la ventana, de clic en el ícono _Git_ que le permitirá visualizar el registro histórico detallado de los cambios realizados por Git dentro del repositorio.
+En la parte inferior de la ventana de PyCharm, de clic en el ícono _Git_ que le permitirá visualizar el registro histórico detallado de los cambios realizados por Git dentro del repositorio.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmGitHistory.png)
 
-Para verificar los cambios realizados en el repositorio, desde su navegador de Internet, verifique el contenido de los archivos del proyecto en la pestaña `<>Code`, podrá observar que se encuentra publicado el nuevo archivo `.gitignore`, los comentarios de la modificación realizada y hace cuanto realizó los cambios.
+Para verificar los cambios realizados en el repositorio, desde su navegador de Internet, verifique el contenido de los archivos del proyecto en la pestaña `<> Code`, podrá observar que se encuentra publicado el nuevo archivo `.gitignore`, los comentarios de la modificación realizada y hace cuanto realizó los cambios.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepositoryFileGitIgnore.png)
 
@@ -97,7 +97,7 @@ Cree 3 directorios y nombre como `Section01`, `Section02` y `Section03`.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubNewDirectorySectionsTree.png)
 
-> Por defecto, los directorios locales que no contienen archivos, no son sincronizados dentro de GitHub cuando se realiza Commit y Push.
+> Por defecto, los directorios locales que no contienen archivos, no son sincronizados dentro de GitHub cuando se realiza _Commit y Push_.
 
 Dentro de cada sección, crearemos las siguientes carpetas, subcarpetas y archivos Readme.md sin utilizar PyCharm, para ello, desde el explorador de archivos de su sistema operativo, cree la estructura dentro de Section01 y luego copie y pegue la estructura de actividades dentro de Section02 y Section03:
 
@@ -167,7 +167,7 @@ PyCharm dispone de herramientas de edición de archivos Markdown que facilitan l
 | Panel de navegación                  | Anterior / Inicio / Ayuda / Siguiente. El botón _Inicio_ dirige al estudiante a la raíz de la documentación _Wiki_, el botón _Ayuda_ dirije al estudiante a la entrada específica de la discusión para preguntas y respuestas. Los enlaces _Anterior_ y _Siguiente_ dirigen al estudiante a las actividades inmediatas.                                                                                  | Tabla de una línea                                                    | 
 | Notas a pie                          | Listado de notas a pie citadas dentro de la actividad. Para citar utilice `[^1]` y para la descripción de la citación al pie del documento utilice `[^1]:` cambiando 1 por el número del consecutivo de la citación.                                                                                                                                                                                     | No requiere formato, se aplica automáticamente                        |
 
-1. Para incluir el título de la actividad, ingrese el texto _"Actividad 1 - Edición de archivos Markdown", seleccione el texto y ubique el puntero del Mouse sobre el texto, aparecerá una barra de herramientas flotante que le permitirá definir los siguientes estilos de texto:
+1. Para incluir el título de la actividad, ingrese el texto _"Actividad A - Edición de archivos Markdown" o _"Actividad 1 - Edición de archivos Markdown", seleccione el texto y ubique el puntero del Mouse sobre el texto, aparecerá una barra de herramientas flotante que le permitirá definir los siguientes estilos de texto:
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeEditTextBar.png)
 
@@ -186,7 +186,7 @@ Seleccione subtítulo H2, podrá observar que automáticamente se incluyen las m
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeH2.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeH2Done.png)
 
-2. Para incluir las palabras clave, al final del título ingrese dos espacios y teclee <kbd>Enter</kbd> para crear un salto de línea sencillo de Markdown sin tener que utilizar el salto de línea `<br>` de HTML. Escriba la palabra "Keywords:", luego agregue diferentes palabras que describan la actividad sin separarlas usando comas, p. ej.: Markdown Title Table Hyperlink Image. Seleccione la primera palabra y oprima <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>, repita este procedimiento para cada palabra.
+2. Para incluir las palabras clave, al final del título ingrese dos espacios y teclee <kbd>Enter</kbd> para crear un salto de línea sencillo de Markdown sin tener que utilizar el salto de línea `<br>` de HTML. Escriba la palabra "Keywords:", luego agregue diferentes palabras que describan la actividad sin separarlas con comas, p. ej.: Markdown Title Table Hyperlink Image. Seleccione la primera palabra y oprima <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>, repita este procedimiento para cada palabra o de doble clic en la palabra para que esta se resalte y seleccione `<>`.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeCodeSimple.png)
 
@@ -204,12 +204,14 @@ Ahora podrá visualizar todo el texto ajustado a la ventana.
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertImage.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertImagePreview.png)
 
-> Como observa en pantalla, la imagen remota no puede ser previsualizada debido a que se encuentra en Internet. PyCharm permite la previsualización de imágenes que se encuentran almacenadas localmente en disco a partir de rutas relativas.
+> Como observa en pantalla, la imagen remota no puede ser previsualizada debido a que se encuentra en Internet. PyCharm permite la previsualización de imágenes que se encuentran almacenadas localmente en disco a partir de rutas absolutas o relativas.
 
 Desde https://archive.org/details/C-1995-2394, descargue la imagen en el formato disponible JPEG. Guarde la imagen en la ruta 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownload.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadPath.png)
+
+> Se recomienda el uso de rutas relativas para que al clonar el repositorio, la vinculación a las imágenes corresponda a las del clon y no a las del repositorio original.
 
 En el archivo Readme.md, modifique 
 
