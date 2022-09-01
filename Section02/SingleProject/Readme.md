@@ -146,7 +146,7 @@ Visualice la estructura creada en la nube desde su navegador de Internet.
 
 ### Edición local de archivos Markdown .md
 
-PyCharm dispone de herramientas de edición de archivos Markdown que facilitan la elaboración de los documentos o las actividades de un repositorio o un proyecto. Para este ejemplo, crearemos una actividad compuesta por los siguientes elementos dentro del archivo Readme.md localizado en la carpeta `Section01/ActividadA/` :
+PyCharm dispone de herramientas de edición de archivos Markdown que facilitan la elaboración de los documentos o las actividades de un repositorio o un proyecto. Para este ejemplo, crearemos una actividad dentro del archivo Readme.md localizado en la carpeta `Section01/ActividadA/` que contendrá algunos de los siguientes elementos:
 
 | Elemento                             | Descripción                                                                                                                                                                                                                                                                                                                                                                                              | Nivel jerárquico / Formato                                            |
 |:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
@@ -252,15 +252,26 @@ Realice el Commit / Push de Git y previsualice el resultado en su navegador de I
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmePreview.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmePreview1.png)
 
+4. Para insertar tablas oprima <kbd>Alt</kbd>+<kbd>Insert</kbd> y seleccione `Table`, defina con el puntero del mouse el número de filas y columnas, p. ej. 3x2 para crear una lista de actividades a desarrollar.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertTable.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertTable1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertTable2.png)
+
+Modifique la tabla ingresando los textos ejemplo presentados en la siguiente imagen.
+
+![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertTable3.png)
 
 
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                                                 |
-|:---:|:------------------------------------------------------------------------------------------------------------------------|
-|  1  |   |
+|  #  | Alcance                                                                                                                                                                                                                 |
+|:---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | Cree una actividad que incluya varias imágenes, tablas, listas de objetivos, lista de requerimientos y lista de referencias.                                                                                            |
+|  2  | A través de una tabla, cree una barra o panel de navegación que permita ir a la actividad anterior, inicio del repositorio y actividad siguiente.                                                                       |
+|  3  | Utilizando cualquier herramienta de diagramación (Draw.io, Microsoft Visio, PowerPoint), cree un diagrama de flujo o de procesos, convierta a formato Portable Network Graphic .png e inserte como una imagen centrada. |
 
 
 
@@ -280,15 +291,16 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Control de versiones
 
-| Versión    | Descripción                                                                                                                         | Autor                                      | Horas |
-|------------|:------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.08.31 | Versión inicial. Exclusión de directorios de control de cambios. Modificación y/o complementación de la estructura de directorios.  | [rcfdtools](https://github.com/rcfdtools)  |   4   |
+| Versión    | Descripción                                                                                                                        | Autor                                      | Horas |
+|------------|:-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.09.01 | Edición local de archivos Markdown .md. Actividades complementarias.                                                               | [rcfdtools](https://github.com/rcfdtools)  |   4   |
+| 2022.08.31 | Versión inicial. Exclusión de directorios de control de cambios. Modificación y/o complementación de la estructura de directorios. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
 | [Anterior](../Setup) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) | [Siguiente]() |
-|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------|
+|----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 

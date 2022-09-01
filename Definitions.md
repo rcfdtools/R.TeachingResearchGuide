@@ -18,12 +18,13 @@
 
 ### Extensiones y tipos de archivos
 
-| Extensión | Descripción                                                      |
-|-----------|------------------------------------------------------------------|
-| .md       | Markdown                                                         |
-| .xml      | Extensible Markup Language for Application programming interface |
-| .svg      | Scalable Vector Graphics                                         |
-| .vsdx     | Microsoft Visio diagram                                          |
+| Extensión                                    | Descripción                                                      |
+|----------------------------------------------|------------------------------------------------------------------|
+| [.md](https://fileinfo.com/extension/md)     | Markdown                                                         |
+| [.xml](https://fileinfo.com/extension/xml)   | Extensible Markup Language for Application programming interface |
+| [.svg](https://fileinfo.com/extension/svg)   | Scalable Vector Graphics                                         |
+| [.vsdx](https://fileinfo.com/extension/vsdx) | Microsoft Visio diagram                                          |
+| [.png](https://fileinfo.com/extension/png)   | Portable Network Graphic                                         |
 
 
 ### Niveles de profundización en contenidos académicos y/o de investigación
