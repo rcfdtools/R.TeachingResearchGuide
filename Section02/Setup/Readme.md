@@ -7,7 +7,7 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 <br><img alt="R.TeachingResearchGuide" src="Graph/Setup.png" width="30%"><br><br>
 </div>
 
-> GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común utilizar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a utilizar es Python. 
+> GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común usar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a usar es Python. 
 
 
 ### Objetivos
@@ -18,7 +18,7 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 
 ### Requerimientos
 
-* Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../GitHubRepository)
+* Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository)
 
 
 ### Instalación de PyCharm
@@ -71,16 +71,16 @@ Automáticamente, aparecerá la ventana de bienvenida de PyCharm donde encontrar
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmWelcome.png)
 
-| Grupo         | Opciones                                                                                                                                                      |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Projects      | Creación de un nuevo proyecto local, apertura de un proyecto local o apertura de un proyecto con sistema de control de versiones VCS.                         |
-| Customize     | Personalización de la visualización general del entorno: tema, fuente y configuración de accesos rápidos por teclado.                                         |
+| Grupo         | Opciones                                                                                                                                                 |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Projects      | Creación de un nuevo proyecto local, apertura de un proyecto local o apertura de un proyecto con sistema de control de versiones VCS.                    |
+| Customize     | Personalización de la visualización general del entorno: tema, fuente y configuración de accesos rápidos por teclado.                                    |
 | Plugins       | Panel para la instalación de complementos. Por defecto se instalan diferentes complementos como la edición de archivos Markdown, Shell Script, GitHub... |
-| Learn PyCharm | Acceso a cursos interactivos embebidos, ayuda y recursos.                                                                                                     |
+| Learn PyCharm | Acceso a cursos interactivos embebidos, ayuda y recursos.                                                                                                |
 
 > PyCharm Community Edition permite solo la visualización de los cuadernos de Jupyter de Python. Para la ejecución se requiere de la versión profesional de Pycharm. 
 
-2. En la ventana de bienvenida y desde _Customize_, cambie la configuración del tema de color marcando la casilla `Sync with OS` que permitirá que utilizar el modo claro o oscuro de PyCharm de acuerdo a la configuración establecida en su sistema operativo.
+2. En la ventana de bienvenida y desde _Customize_, cambie la configuración del tema de color marcando la casilla `Sync with OS` que permitirá que utilizar el modo claro u oscuro de PyCharm de acuerdo a la configuración establecida en su sistema operativo.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmWelcomeColorTheme.png)
 
@@ -161,11 +161,11 @@ La configuración por defecto contiene inspecciones generales y por tipo de arch
 | Python Interpreter | Configuración del intérprete de Python que será asociado a los scripts del proyecto. Aplica solo para repositorios dentro de los cuales se van a utilizar y ejecutar archivos .py. |
 | Project Structure  | Estructura general de directorios generales, directorios fuente y directorios excluidos.                                                                                           | 
 
-En la parte inferior de la ventana, encontrará un campo donde podrá definir exclusiones de archivos para el proyecto, p. ej. archivos temporales que no se deben publicar en la nube de GitHub. 
+En la parte inferior de la ventana, encontrará un campo donde podrá definir exclusiones de archivos para el proyecto, p. ej. archivos temporales que no se deben incluir en la publicación de una nueva versión. 
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProject.png)
 
-7. En caso de que requiera de la instalación de Plugings adicionales, desde la misma ventana de configuración encontrará las opciones para ingresar al Marketplace o revisar y configurar los complementos instalados.
+7. En caso de que requiera de la instalación de Plugins adicionales, desde la misma ventana de configuración encontrará las opciones para ingresar al Marketplace o revisar y configurar los complementos instalados.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPlugins.png)
 
@@ -177,7 +177,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 |  #  | Alcance                                                                                                                 |
 |:---:|:------------------------------------------------------------------------------------------------------------------------|
-|  1  | Descargue, instale y clone localmente su repositorio de GitHub. y realice la configuración general de PyCharm.          |
+|  1  | Descargue, instale y clone localmente su repositorio de GitHub.                                                         |
 |  2  | Realice la configuración general de PyCharm instalando el paquete para corrección gramatical y de escritura en español. |
 
 
@@ -188,10 +188,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | ¿Requiero de una versión de pago para gestionar mis proyectos GitHub desde PyCharm?          | No, la versión community provee las herramientas necesarias para crear, editar, publicar y mantener tus repositorios.                                                                                                                                                  |
 | ¿Para ejecutar cuadernos de Python Jupyter, requiero de la versión profesional de PyCharm?   | Sí, la versión Community únicamente permite la visualización de los notebook. Para la ejecución de Jupyter Notebooks, se recomienda la IDE de [Visual Studio Code de Microsoft](https://visualstudio.microsoft.com/), que a través de Plugins permite de forma libre, crear y ejecutar este tipo de archivos. |
 
-
-> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/14) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -209,7 +206,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior]() | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior]() | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/14) | [Siguiente](../Setup) |
+|--------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-----------------------|
 
 [^1]: 

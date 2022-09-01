@@ -1,7 +1,7 @@
 ## Edición local de proyectos con PyCharm y publicación en la nube
 Keywords: `PyCharm` `Commit` `Push`
 
-Luego de realizada la clonación local del repositorio creado en GitHub, se puede y/o es requetido modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
+Luego de realizada la clonación local del repositorio creado en GitHub, es necesario modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                                                                                                        
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/SingleProject.png" width="30%"><br><br>
@@ -10,7 +10,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, se pued
 
 ### Objetivos
 
-* Agregar y modificar el archivo de exclusiones .gitignore.
+* Crear y/o modificar el archivo de exclusiones .gitignore.
 * Modificar y actualizar la estructura de directorios del proyecto.
 * Modificar los archivos Readme.md existentes.
 * Crear nuevos archivos.
@@ -22,7 +22,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, se pued
 * PyCharm instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
 
 
-### Exclusión de directorios de control de cambios y 
+### Exclusión de directorios de control de cambios
 
 Previamente en la sección 1 de este curso, creamos un repositorio que contenía diferentes carpetas generales y en la actividad anterior clonamos esta carpeta localmente como `C:\repotest`. Al revisar la estructura de directorios local, la disponible en la nube y la gestionada por PyCharm, podremos observar que las estructuras son similares, excepto por la carpeta `.idea`, que ha sido generada localmente por PyCharm para el control de configuración del repositorio de forma local.
 
@@ -102,7 +102,7 @@ Cree 3 directorios y nombre como `Section01`, `Section02` y `Section03`.
 
 Dentro de cada sección, crearemos las siguientes carpetas, subcarpetas y archivos Readme.md sin utilizar PyCharm, para ello, desde el explorador de archivos de su sistema operativo, cree la estructura dentro de Section01 y luego copie y pegue la estructura de actividades dentro de Section02 y Section03:
 
-> Para la creación de los archivos Readme.md, en el explorador de archivo, active la visualización de extensiones de archivos.
+> Para la creación de los archivos Readme.md, en el explorador de archivo, active la visualización de extensiones de archivos. Cree archivos de texto Readme.txt y renombre a Readme.md.
 
 * ActividadA
   * Readme.md
@@ -145,7 +145,6 @@ Visualice la estructura creada en la nube desde su navegador de Internet.
 ![R.TeachingResearchGuide](Screenshot/GitHubStructureOnline3.png)
 
 
-
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
@@ -162,10 +161,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | x       | x |
 
-
-> Ayúdame a crear y/o responder preguntas que otros usuarios necesiten conocer desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
->
-> Escribe o comparte en el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido, que otras dudas, preguntas, contenidos y experiencias tienes relacionadas con desarrollo colaborativo para el enfoque en educación e investigación.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -183,7 +179,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior]() | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../Setup) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) | [Siguiente]() |
+|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
