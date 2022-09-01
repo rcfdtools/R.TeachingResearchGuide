@@ -1,7 +1,7 @@
 ## Instalación, clonación local de proyecto GitHub y configuración general de PyCharm
 Keywords: `Desktop` `JETBRAINS` `Clone` `Grammar` `Spelling` `VCS` `Git` `Plugins` `Inspections`
 
-PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crea y editar código, sino también crear documentación en formato de marcas Markdown y gestionar los controles de cambios, publicación y actualización en GitHub.                                                                                                         
+PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar los controles de cambios, publicación y actualización en GitHub.                                                                                                         
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/Setup.png" width="30%"><br><br>
@@ -34,7 +34,7 @@ PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para l
 
 3. Desde la ventana de descargas de su navegador o desde la carpeta de descargas de su sistema operativo, ejecute el instalador descargado, p. ej. `pycharm-community-2022.2.1.exe `
 
-Los requisitos para su instalación son:
+Los requisitos de instalación y funcionamiento son:
 
 * Sistema operativo de 64 bits para usuarios de Microsoft Windows 8, 10 u 11.
 * 2 GB de memoria RAM libre con recomendación de 8 GB de memoria RAM en el equipo.
