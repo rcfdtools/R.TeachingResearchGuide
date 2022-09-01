@@ -274,12 +274,11 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  3  | Utilizando cualquier herramienta de diagramación (Draw.io, Microsoft Visio, PowerPoint), cree un diagrama de flujo o de procesos, convierta a formato Portable Network Graphic .png e inserte como una imagen centrada. |
 
 
-
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                     | Respuesta                                                                                                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| x       | x |
+| Pregunta                                                                                                            | Respuesta                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Luego de realizado el Commit / Push, puedo deshacer los cambios en el repositorio y retornar a una versión previa? | Sí, desde el gestor de Git localizado en la parte inferior izquierda de PyCharm, se pueden revertir o eliminar las modificaciones realizadas y publicadas cronológicamente. Es importante tener en cuenta que la reversión o la eliminación de cambios afectará el repositorio local y el repositorio en la nube, una vez se vuelva a publicar un nuevo cambio. Se recomienda crear una copia comprimida de la carpeta local del repositorio, antes de realizar este tipo de acciones. |
 
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
