@@ -250,6 +250,8 @@ Realice el Commit / Push de Git y previsualice el resultado en su navegador de I
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmePush.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmePreview.png)
+![R.TeachingResearchGuide](Screenshot/GitHubReadmePreview1.png)
+
 
 
 ### Actividades complementarias:pencil2:
