@@ -225,6 +225,8 @@ Al final de la línea de texto de la imagen, teclee dos veces <kbd>Enter</kbd> p
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadLocalPathPreview.png)
 
+> Si la imagen se encuentra en un nivel superior dentro del árbol de directorios, con `../` podrá regresar al directorio anterior. Para este ejemplo, `../` regresaría a la raíz de Section01 y `../../` a la raíz principal del repositorio. 
+
 Para ajustar el ancho de la imagen p. ej. a 200 píxeles de ancho, podrá utilizar el llamado de HTML `<img alt="NASA - Planet Earth" src="Graph/1995_02394.jpg" width="200p">`
 
 > En HTML, los tamaños pueden ser definidos en diferentes unidades, p. ej. en píxeles `200p` o en porcentajes `50%`.
@@ -263,6 +265,8 @@ Realice el Commit / Push de Git y previsualice el resultado en su navegador de I
 Modifique la tabla ingresando los textos ejemplo presentados en la siguiente imagen.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeInsertTable3.png)
+
+Publique y visualice en GitHub.
 
 
 ### Actividades complementarias:pencil2:
