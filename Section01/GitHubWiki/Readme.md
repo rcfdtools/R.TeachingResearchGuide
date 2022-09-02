@@ -83,8 +83,30 @@ R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra l
 
 ![R.TeachingResearchGuide](Screenshot/WikiFooter.png)
 
+5. Para insertar una barra lateral personalizada, de clic en el botón `+ Add a custom sidebar` localizado en la parte derecha de la ventana.
 
+![R.TeachingResearchGuide](Screenshot/WikiAddSidebar.png)
 
+Ingrese texto, imágenes o enlaces dentro del contenido de la barra lateral, p. ej `Encuentra otros cursos [GitHub de rcfdtools](https://github.com/rcfdtools)`
+
+![R.TeachingResearchGuide](Screenshot/WikiAddSidebarSave.png)
+
+> Como observa, el archivo es creado con el nombre **_Sidebar** que es el nombre por defecto utilizado para el panel lateral global visible en la documentación.
+
+![R.TeachingResearchGuide](Screenshot/WikiSidebar.png)
+
+6. Para crear páginas adicionales, en la parte superior derecha del centro de documentación Wiki, de clic en el botón `New Page`, p. ej. cree una página específica donde se encontrarán los diferentes casos de estudio a evaluar.
+
+![R.TeachingResearchGuide](Screenshot/WikiNewPageCaseStudy.png)
+![R.TeachingResearchGuide](Screenshot/WikiNewPageCaseStudySave.png)
+![R.TeachingResearchGuide](Screenshot/WikiCaseStudy.png)
+
+> Como observa, en la zona lateral derecha ahora encuentra diferentes enlaces para acceder a la documentación del repositorio.
+
+En caso de no ser requerido, el centro de documentación Wiki puede ser desactivado desde la configuración general del proyecto en la sección Features.
+
+![R.TeachingResearchGuide](Screenshot/WikiDisable.png)
+![R.TeachingResearchGuide](Screenshot/WikiDisable1.png)
 
 
 ### Actividades complementarias:pencil2:
@@ -94,34 +116,39 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  #  | Alcance                                                                                                                                         |
 |:---:|:------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1  | Active el centro de documentación Wiki e incluya documentación general de su proyecto, agregue un pié de página y personalice la barra lateral. |
+|  2  | Agregue páginas adicionales al centro de documentación.                                                                                         |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                                                        | Respuesta                                                                                                                                                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Es recomendable utilizar el centro de documentación Wiki para crear el índice de un curso virtual o un e-book? | No se recomienda debido a que los archivos del centro de documentación Wiki no son clonados junto con los archivos del repositorio principal y además por que no existe control de cambios como el que se realiza sobre los archivos del repositorio principal. |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
 
-* 
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/creating-a-footer-or-sidebar-for-your-wiki
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/viewing-a-wikis-history-of-changes
+* https://docs.github.com/en/communities/documenting-your-project-with-wikis/disabling-wikis
 
 
 ### Control de versiones
 
 | Versión    | Descripción      | Autor                                      | Horas |
 |------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
+| 2022.09.02 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../GitHubOrganization) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) | [Siguiente]() |
+|---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
