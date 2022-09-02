@@ -44,6 +44,8 @@ Luego de crear y guardar la primera página correspondiente al Home, el centro d
 
 ![R.TeachingResearchGuide](Screenshot/WikiHome.png)
 
+Para acceder a la página principal del Wiki de ejemplo, ingresar en su navegador a la dirección https://github.com/rcfdtoolstest/repotest/wiki
+
 2. Para editar Home, de clic en el botón `Edit` localizado en la parte derecha de la ventana. Observará que al editar la página, se activan diferentes herramientas de edición asistida del documento que le permitirán incluir títulos, enlaces, imágenes, estilos, listas y guiones; además podrá cambiar el modo de edición para que sea visualizado en diferentes estilos de escritura y el historial de cambios realizado desde la creación. Modifique la página de inicio incluyendo elementos descriptivos del repositorio como aparece en la siguiente imagen.
 
 ![R.TeachingResearchGuide](Screenshot/WikiHomeEdit.png)
@@ -57,6 +59,31 @@ Realice la previsualización del documento, incluya un mensaje corto para inform
 
 ![R.TeachingResearchGuide](Screenshot/WikiHomeEdit1.png)
 ![R.TeachingResearchGuide](Screenshot/WikiHomeEditSave1.png)
+
+Las secciones creadas a partir de la definición de títulos en diferentes niveles, pueden ser consultadas desde la barra lateral o desde la barra de direcciones del navegador. Por ejemplo, para acceder a casos de estudio podrá utilizar el enlace  https://github.com/rcfdtoolstest/repotest/wiki#ejemplos-de-casos-de-estudio 
+
+![R.TeachingResearchGuide](Screenshot/WikiHomeStudyCaseTitle.png)
+
+> Es importante considerar que si el título es modificado, p. ej. de **Ejemplos de casos de estudio** a **Ejemplos de casos de estudio 2022**, el enlace lo dirigirá a la raíz de Home pero no a la localización específica del contenido requerido dentro de la página.
+
+4. Para la creación del pié de página global, en la parte inferior de la pantalla de clic en la opción `+ Add a custom footer`
+
+![R.TeachingResearchGuide](Screenshot/WikiAddCustomFooter.png)
+
+Ingrese p. ej. el siguiente texto, ingrese comentarios de edición y de clic en el botón `Save Page`.
+
+```
+R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando clic aquí.
+
+¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de rcfdtools en GitHub.
+```
+![R.TeachingResearchGuide](Screenshot/WikiAddCustomFooterSave.png)
+
+> Como observa, el archivo es creado con el nombre **_Footer** que es el nombre por defecto utilizado para los pies de página globales en la documentación.
+
+![R.TeachingResearchGuide](Screenshot/WikiFooter.png)
+
+
 
 
 
