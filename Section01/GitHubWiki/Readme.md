@@ -1,5 +1,5 @@
 ## Centro de documentación Wiki en GitHub
-Keywords: `Wiki` `Documentation`
+Keywords: `Wiki` `Documentation` `Footer` `Sidepanel`
 
 Conceptos de documentación global de proyectos orientados a desarrollo de software o App's a través de espacios wiki.
 
