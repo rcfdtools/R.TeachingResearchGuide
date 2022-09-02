@@ -12,6 +12,7 @@ Conceptos de documentación global de proyectos orientados a desarrollo de softw
 
 * Crear y editar la página principal Home de Wiki.
 * Crear y modificar el archivo de pie de página.
+* Crear y modificar la barra lateral.
 
 
 ### Requerimientos
@@ -32,11 +33,11 @@ Otro elemento a tener en cuenta en la gestión de documentación Wiki, tiene que
 
 ![R.TeachingResearchGuide](Screenshot/WikiFirstPage.png)
 
-En la ventana de creación de la nueva página se incluye por defecto el nombre **Home** que corresponderá a la página principal del repositorio, cuyo propósito es similar al archivo README.md que se incluye en la raíz del repositorio principal.
+En la ventana de creación de la nueva página se incluye por defecto el nombre **Home**, que corresponderá a la página principal del centro de documentación, cuyo propósito es similar al archivo _README.md_ que se incluye en la raíz del repositorio principal.
 
 ![R.TeachingResearchGuide](Screenshot/WikiFirstPageHome.png)
 
-Ingrese un texto descriptivo dentro la página de inicio, por defecto se incluye **Welcome to the repotest wiki!** e ingrese un mensaje de edición (similar al mensaje que se incluye al realizar _Commit_ dentro del repositorio principal). De clic en el botón `Save Page`.
+Ingrese un texto descriptivo dentro la página de inicio, por defecto se incluye _"Welcome to the repotest wiki!"_ e ingrese un mensaje de edición (similar al mensaje que se incluye al realizar _Commit_ dentro del repositorio principal). De clic en el botón `Save Page`.
 
 ![R.TeachingResearchGuide](Screenshot/WikiFirstPageHomeSavePage.png)
 
@@ -64,7 +65,7 @@ Las secciones creadas a partir de la definición de títulos en diferentes nivel
 
 ![R.TeachingResearchGuide](Screenshot/WikiHomeStudyCaseTitle.png)
 
-> Es importante considerar que si el título es modificado, p. ej. de **Ejemplos de casos de estudio** a **Ejemplos de casos de estudio 2022**, el enlace lo dirigirá a la raíz de Home pero no a la localización específica del contenido requerido dentro de la página.
+> Es importante considerar que si el título es modificado, p. ej. de _"Ejemplos de casos de estudio"_ a _"Ejemplos de casos de estudio 2022"_, el enlace lo dirigirá a la raíz de Home pero no a la localización específica del contenido requerido dentro de la página.
 
 4. Para la creación del pié de página global, en la parte inferior de la pantalla de clic en la opción `+ Add a custom footer`
 
@@ -121,9 +122,10 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                                        | Respuesta                                                                                                                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ¿Es recomendable utilizar el centro de documentación Wiki para crear el índice de un curso virtual o un e-book? | No se recomienda debido a que los archivos del centro de documentación Wiki no son clonados junto con los archivos del repositorio principal y además por que no existe control de cambios como el que se realiza sobre los archivos del repositorio principal. |
+| Pregunta                                                                                                                           | Respuesta                                                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Es recomendable utilizar el centro de documentación Wiki para crear el índice de un curso virtual, un e-book o una investigación? | No se recomienda debido a que los archivos del centro de documentación Wiki no son clonados junto con los archivos del repositorio principal y además por que no existe control de cambios como el que se realiza sobre los archivos del repositorio principal. |
+| ¿En que casos se recomienda el uso de Wiki?                                                                                        | Es recomendado para proyectos orientados al desarrollo de software o investigaciones que como resultado generen herramientas computacionales que requieran documentación extendida.                                                                             |                                                                            |
 
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
