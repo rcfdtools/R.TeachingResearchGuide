@@ -4,7 +4,7 @@ Keywords: `Wiki` `Documentation`
 Conceptos de documentación global de proyectos orientados a desarrollo de software o App's a través de espacios wiki.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubWiki.svg" width="50%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubWiki.svg" width="30%"><br><br>
 </div>
 
 
