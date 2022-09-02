@@ -40,16 +40,24 @@ Ingrese un texto descriptivo dentro la página de inicio, por defecto se incluye
 
 ![R.TeachingResearchGuide](Screenshot/WikiFirstPageHomeSavePage.png)
 
-Luego de crear y guardar la primera página correspondiente al Home, el centro de documentación se encontrará activado para editar los contenidos, crear nuevas páginas, adicionar pie de página para todos los documentos, una barra lateral personalizada y encontrará además, un enlace para la clonación local del centro de documentación Wiki que para el ejemplo es https://github.com/rcfdtoolstest/repotest.wiki.git.
+Luego de crear y guardar la primera página correspondiente al Home, el centro de documentación se encontrará activado para editar los contenidos, crear nuevas páginas, adicionar el pie de página para todos los documentos, una barra lateral personalizada y además, un enlace para la clonación local del centro de documentación Wiki, que para el ejemplo es https://github.com/rcfdtoolstest/repotest.wiki.git.
 
-2. 
+![R.TeachingResearchGuide](Screenshot/WikiHome.png)
 
+2. Para editar Home, de clic en el botón `Edit` localizado en la parte derecha de la ventana. Observará que al editar la página, se activan diferentes herramientas de edición asistida del documento que le permitirán incluir títulos, enlaces, imágenes, estilos, listas y guiones; además podrá cambiar el modo de edición para que sea visualizado en diferentes estilos de escritura y el historial de cambios realizado desde la creación. Modifique la página de inicio incluyendo elementos descriptivos del repositorio como aparece en la siguiente imagen.
 
+![R.TeachingResearchGuide](Screenshot/WikiHomeEdit.png)
 
+Realice la previsualización del documento, incluya un mensaje corto para informar acerca de los cambios realizados y de clic en el botón `Save Page`.
 
-### Desarrollo
+![R.TeachingResearchGuide](Screenshot/WikiHomeEditPreview.png)
+![R.TeachingResearchGuide](Screenshot/WikiHomeEditSave.png)
 
-aaaaaaaa
+3. Los documentos Wiki pueden contener diferentes secciones que podrán ser visibles en el panel derecho, las cuales son definidas a partir de los niveles de títulos contenidos dentro del documento. Modifique la lista creada anteriormente y ahora cree para cada elemento subtítulos, p. ej. nivel 2 o H2, guarde y verifique en el panel derecho la inclusión de las secciones.
+
+![R.TeachingResearchGuide](Screenshot/WikiHomeEdit1.png)
+![R.TeachingResearchGuide](Screenshot/WikiHomeEditSave1.png)
+
 
 
 ### Actividades complementarias:pencil2:
