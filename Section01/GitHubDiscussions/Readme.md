@@ -21,7 +21,7 @@ Discusiones es el espacio donde los creadores de contenido, estudiantes, colabor
 
 ### Desarrollo
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=IpBw2SJkFyk" target="_blank"><img src="http://img.youtube.com/vi/IpBw2SJkFyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=IpBw2SJkFyk</sub><br><br><</div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=IpBw2SJkFyk" target="_blank"><img src="http://img.youtube.com/vi/IpBw2SJkFyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a><sub><br>https://www.youtube.com/watch?v=IpBw2SJkFyk</sub><br><br><</div>
 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
