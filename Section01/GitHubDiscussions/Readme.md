@@ -4,7 +4,7 @@ Keywords: `Discussions`
 Discusiones es el espacio donde los creadores de contenido, estudiantes, colaboradores y usuarios finales se reúnen para intercambiar ideas, solicitar ayuda, dar solución a problemas o para comunicarse entre sí.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubDiscussions.svg" width="70%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/GitHubDiscussions.svg" width="50%"><br><br>
 </div>
 
 
@@ -21,8 +21,9 @@ Discusiones es el espacio donde los creadores de contenido, estudiantes, colabor
 
 ### Desarrollo
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=IpBw2SJkFyk" target="_blank"><img src="http://img.youtube.com/vi/IpBw2SJkFyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="270" border="10" /></a><sub><br>https://www.youtube.com/watch?v=IpBw2SJkFyk</sub><br><br><</div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=IpBw2SJkFyk" target="_blank"><img src="http://img.youtube.com/vi/IpBw2SJkFyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=IpBw2SJkFyk</sub><br><br><</div>
 
+1. 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
 
