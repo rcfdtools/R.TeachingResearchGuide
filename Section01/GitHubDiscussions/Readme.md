@@ -111,7 +111,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | ¿Al eliminar una categoría se eliminan todas las publicaciones relacionadas?         | No, las publicaciones pueden ser reasignadas o movidas a otra categoría antes de que la categoría sea eliminada. |
 | ¿Al eliminar una publicación se eliminan todos sus comentarios?                      | Sí y no podrán ser recuperados.                                                                                  |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -133,7 +133,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../GitHubWiki) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) | [Siguiente](../../Section02/Setup) |
+|---------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------|
 
 [^1]: 
