@@ -24,22 +24,22 @@ Discusiones es el espacio donde los creadores de contenido, estudiantes, colabor
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoSettings.png)
 
-2. En _Settings_, seleccione a la izquierda _General_, desplace la ventana hacia abajo y en la sección _Features_ active _Discussions_. En la misma ventana, de clic en el botón `Set up discussions` para iniciar la configuración.
+2. En _Settings_, seleccione a la izquierda _General_, desplace la ventana hacia abajo y en la sección _Features_, active _Discussions_. En la misma ventana, de clic en el botón `Set up discussions` para iniciar la configuración.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoSettingsGeneral.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoSettingsGeneralDiscussions.png)
 
-3. En la parte superior de la ventana, podrá observar una nueva pestaña llamada _Discussions_ y que automáticamente fue redirigido a la creación de la primera discusión correspondiente a la bienvenida general. De clic en el botón `Start Discussión` que realizará la publicación.
+3. En la parte superior de la ventana, podrá observar una nueva pestaña llamada _Discussions_, automáticamente será redirigido a la creación de la primera discusión correspondiente a la bienvenida general. De clic en el botón `Start Discussión` para realizar la publicación.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoSettingsGeneralDiscussionsWelcome.png)
 
-4. Luego de guardada la discusión podrá observar en el panel derecho, que la primera discusión ha sido creada en el grupo `Announcements` y que no se encuentra asociada a ningún label.
+4. Luego de guardada la discusión, podrá observar en el panel derecho, que la primera discusión ha sido creada en el grupo `Announcements` y que no se encuentra asociada a ninguna etiqueta o label.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoDiscussionsWelcome.png)
 
-Desde el panel derecho y dando clic en los íconos de configuración :gear:, podrá cambiar la categoría de la discusión y editar los rótulos asociados.
+> Desde el panel derecho y dando clic en los íconos de configuración :gear:, podrá cambiar la categoría de la discusión y editar los rótulos asociados.
 
-También podrá observar en el panel lateral él número de participantes, notificaciones que le permitirán suscribirse o de-suscribirse y las siguientes opciones de gestión:
+También podrá observar en el panel lateral el número de participantes, notificaciones que le permitirán suscribirse o de-suscribirse y las siguientes opciones de gestión:
 
 | Opción                       | Descripción                                                                                                                                                                                                                              | Visibilidad                 |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -55,7 +55,7 @@ También podrá observar en el panel lateral él número de participantes, notif
 
 ### Gestión de categorías en el centro de discusión
 
-De clic en la pestaña de discusiones. 
+Al dar clic en la pestaña de discusiones de la ventana principal del repositorio, accederá a la siguiente ventana: 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoDiscussions.png)
 
@@ -79,7 +79,7 @@ Descripción de los formatos de discusión
 | Announcement          | Compartir actualizaciones y novedades con la comunidad. Solo los usuarios colaboradores y los administradores pueden publicar nuevos anuncios en esta categoría pero cualquier usuario puede comentar o responder.                                                              |
 | Poll                  | Permite crear encuestas para generar interés sobre un tema en particular.                                                                                                                                                                                                       |
 
-> Cualquier usuario es libre de participar en las discusiones ya creadas, o podrá crear nuevas discusiones para las categorías disponibles.
+> Cualquier usuario es libre de participar en las discusiones ya creadas, o podrá crear nuevas discusiones para las categorías disponibles, excepto para Announcements.
 
 Para editar las categorías, en el panel izquierdo y al lado derecho del título _Categories_, de clic en el ícono en forma de _lápiz_ :pencil2:
 
