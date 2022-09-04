@@ -9,7 +9,8 @@ Discusiones es el espacio donde los creadores de contenido, estudiantes, colabor
 ### Objetivos
 
 * Activar el centro de discusiones.
-* Crear una discusión por cada actividad y asociarla al enlace Ayuda / Colabora.
+* Crear una discusión.
+* Crear y editar categorías de discusión.
 
 
 ### Requerimientos
