@@ -1,5 +1,5 @@
 ## Gestión local de múltiples proyectos desde PyCharm
-Keywords: `GitHub` `Repositories`
+Keywords: `GitHub` `Repositories` `Wiki`
 
 A través de PyCharm Community, se pueden gestionar local y simultáneamente múltiples repositorios y sus centros de documentación Wiki asociados.
 
@@ -11,7 +11,8 @@ A través de PyCharm Community, se pueden gestionar local y simultáneamente mú
 ### Objetivos
 
 * Clonar localmente el centro de documentación Wiki asociado a mi repositorio.
-* Editar localmente y publicar los contenidos Wiki en GitHub.
+* Editar localmente los contenidos del repositorio principal y el repositorio Wiki.
+* Publicar en GitHub simultáneamente los cambios realizados.
 
 
 ### Requerimientos
