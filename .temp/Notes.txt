@@ -20,6 +20,12 @@ Tareas
 		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
     Caso de uso - Universidad Escuela Colombiana de Ingeniería
 
+<div align="center">
+  <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+  <br><b>Guía para enseñanza e investigación colaborativa utilizando GitHub.</b><br>by r.cfdtools@gmail.com<br><br>
+</div>
+
+
 General update.
 _Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta actividad._
 
