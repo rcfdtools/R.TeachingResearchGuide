@@ -1,7 +1,7 @@
 ## Gestión local de múltiples proyectos desde PyCharm
 Keywords: `GitHub` `Repositories`
 
-A través de PyCharm Community se pueden gestionar local y simultáneamente múltiples repositorios y sus centros de documentación Wiki asociados.
+A través de PyCharm Community, se pueden gestionar local y simultáneamente múltiples repositorios y sus centros de documentación Wiki asociados.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/MultipleProject.png" width="30%"><br><br>
@@ -92,7 +92,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | ¿Al eliminar la carpetas locales de mi equipo, se elimina mi repositorio en la nube de GitHub? | No, los archivos de GitHub se mantienen hasta que el usuario decida eliminar por completo el repositorio desde la nube. |
 | ¿Si cambio de equipo local, puedo clonar nuevamente los archivos?                              | Sí, los repositorios de GitHub pueden ser clonados localmente múltiples veces.                                          |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/18) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -113,7 +113,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../SingleProject) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/18) | [Siguiente]() |
+|------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
