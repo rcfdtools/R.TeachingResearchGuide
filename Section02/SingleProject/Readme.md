@@ -293,6 +293,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 ### Referencias
 
 * https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html#get-started
+* https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html
+* https://www.jetbrains.com/help/pycharm/contribute-to-projects.html
+* https://www.jetbrains.com/help/pycharm/maintain-projects-on-github.html
 
 
 ### Control de versiones
