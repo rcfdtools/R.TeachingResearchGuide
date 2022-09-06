@@ -1,5 +1,5 @@
 <div align="center">
-  <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuide.svg" width="480px">
+  <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="480px">
   <br><b>Guía para enseñanza e investigación colaborativa utilizando GitHub.</b><br>by r.cfdtools@gmail.com<br><br>  
 </div>
 
