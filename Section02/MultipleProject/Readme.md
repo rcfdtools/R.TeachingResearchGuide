@@ -12,7 +12,7 @@ A través de PyCharm Community, se pueden gestionar local y simultáneamente mú
 
 * Clonar localmente el centro de documentación Wiki asociado a mi repositorio.
 * Editar localmente los contenidos del repositorio principal y el repositorio Wiki.
-* Publicar en GitHub simultáneamente los cambios realizados.
+* Publicar simultáneamente en GitHub, los cambios realizados.
 
 
 ### Requerimientos
@@ -88,10 +88,10 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                       | Respuesta                                                                                                               |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| ¿Al eliminar la carpetas locales de mi equipo, se elimina mi repositorio en la nube de GitHub? | No, los archivos de GitHub se mantienen hasta que el usuario decida eliminar por completo el repositorio desde la nube. |
-| ¿Si cambio de equipo local, puedo clonar nuevamente los archivos?                              | Sí, los repositorios de GitHub pueden ser clonados localmente múltiples veces.                                          |
+| Pregunta                                                                                          | Respuesta                                                                                                 |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| ¿Al eliminar la carpetas locales de mi equipo, se eliminan mis repositorios en la nube de GitHub? | No, los archivos de GitHub se mantienen hasta que el usuario decida eliminar por completo el repositorio. |
+| ¿Si cambio de equipo local, puedo clonar nuevamente los archivos?                                 | Sí, los repositorios de GitHub pueden ser clonados localmente múltiples veces.                            |
 
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/18) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
@@ -105,9 +105,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas |
-|------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.09.06 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| Versión    | Descripción                                                                                                   | Autor                                      | Horas |
+|------------|:--------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.09.06 | Versión inicial con clonación y modificación simultánea de repositorio principal y repositorio Wiki asociado. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
