@@ -1,7 +1,7 @@
 ## Instalación, clonación local de proyecto GitHub y configuración general de PyCharm
-Keywords: `Desktop` `JETBRAINS` `Clone` `Grammar` `Spelling` `VCS` `Git` `Plugins` `Inspections`
+Keywords: `Desktop` `JETBRAINS` `Clone` `Grammar` `Spelling` `VCS` `Git` `Plugins` `Inspections` `Community`
 
-PyCharm es un entorno de desarrollo integrado (IDE) en desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar los controles de cambios, publicación y actualización en GitHub.                                                                                                         
+Para la gestión y clonación local de repositorios creados en GitHub, es necesario descargar, instalar y configurar la versión de uso libre PyCharm Community.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/Setup.png" width="30%"><br><br>

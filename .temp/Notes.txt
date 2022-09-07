@@ -1,4 +1,4 @@
-Guía para enseñanza e investigación colaborativa
+Guía para enseñanza e investigación colaborativa con GitHub
 
 R.TeachingResearchGuide
 https://github.com/rcfdtools/R.TeachingResearchGuide.git
@@ -11,7 +11,6 @@ Clone local directory D:\R.TeachingResearchGuide.wiki
 ✓✕
 
 Tareas
-	Revisión estructura por clase o actividad.
 	Imagen corporativa y diseño de piezas publicitarias.
     Esquema de acreditación de cursos.
 	Transferencia de conocimiento
@@ -19,6 +18,21 @@ Tareas
 		Sesion 2 - Viernes 14 de octubre.
 		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
     Caso de uso - Universidad Escuela Colombiana de Ingeniería
+
+
+Avance
+    Sección 1 - Introducción y fundamentos
+        8 actividades propuestas desarrolladas,
+    Sección 2 - Gestión local de repositorios GitHub con PyCharm
+        4 actividades propuestas de las cuales 3 se encuentran desarrolladas y 1 pendiente.
+    Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
+        2 actividades propuestas, ninguna desarrollada.
+    Notas
+        Para las 3 secciones faltan las presentaciones de apoyo para la capacitación a realizar los días viernes 7 y 14 de octubre.
+        Avance a 2022.09.07: 65%
+        Repositorio: https://github.com/rcfdtools/R.TeachingResearchGuide
+
+
 
 <div align="center">
   <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
