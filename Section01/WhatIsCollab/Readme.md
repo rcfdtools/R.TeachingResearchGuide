@@ -1,7 +1,7 @@
 ## ¿Qué es el desarrollo colaborativo?
 Keywords: `Collab` `Collaborative creation` `Agility`
 
-El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diversos ángulos.
+En esta actividad aprenderás diferentes conceptos relacionados con desarrollo colaborativo, sus beneficios y las diferencias principales entre cooperación y colaboración.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/WhatIsCollabChart.svg" width="75%"><br>
