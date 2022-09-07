@@ -23,7 +23,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 
 ### Sección 2 - Gestión local de repositorios GitHub con PyCharm Community
 
-PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar controles de cambios en múltiples repositorios, corrección de escritura, gramática avanzada,  publicación y actualización comentada en GitHub.
+PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar controles de cambios en múltiples repositorios, corrección de escritura, gramática avanzada, publicación y actualización comentada en GitHub.
 
 | Microcontenido                                                                                        | Alcance                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
