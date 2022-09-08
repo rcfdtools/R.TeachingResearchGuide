@@ -191,12 +191,38 @@ En la Terminal, ingrese el comando `pip install -r requirements.txt`
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonInterpreterPackages.png)
 
-Como observa, las librerías requeridas han sido instaladas y se encuentran disponibles para su uso. La instalación de la librería _seaborn_ requirió de la instalación de múltiples librerías adicionales a las definidas en el archivo de requerimientos.
+Como observa, las librerías requeridas han sido instaladas y se encuentran disponibles para su uso. La instalación de _seaborn_ requirió de la instalación de múltiples librerías adicionales a las definidas en el archivo de requerimientos.
 
 > En la ventana del intérprete podrá observar las versiones instaladas en su equipo y las versiones más recientes disponibles en la nube. Por ejemplo, en el caso de la librería _pip_ la versión instalada es la 21.3.1 y la versión más reciente es 22.2.2. Para actualizar esta librería, puede ejecutar desde la Terminal el comando `C:\repotest\.venv310\Scripts\python.exe -m pip install --upgrade pip` o desde el administrador de paquetes de la ventana de configuración, puede dar doble clic en la librería _pip_ y desde la ventana de paquetes disponibles, instalar la versión más reciente dando clic en el botón `Install Package`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPipUpdate.png)
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPipUpdateSuccessful.png)
+
+
+### Creación y ejecución de scripts Python
+
+Luego de definido el ambiente virtual de trabajo y la instalación de diferentes librerías, podremos ejecutar o crear scripts de Python directamente desde PyCharm. Complementariamente, definiremos en el archivo de requerimientos, que es requerida la instalación de la librería, p. ej., `requests` que permite descargar archivos desde Internet.
+
+1. En PyCharm, modifique el archivo `requirements.txt` incluyendo la librería `requests`
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsRequirementsRequest.png)
+
+2. En el panel _Project_ localizado a la izquierda de la ventana de PyCharm, de clic derecho en la raíz del repositorio `repotest`,  seleccione la opción _New / Directory_ y cree un directorio con el nombre `.src`
+
+![R.TeachingResearchGuide](Screenshot/PyCharmNewDirectory.png)
+
+3. De clic en la carpeta `.src`, seleccione la opción _New / Python File_ y nombre como `test.py`
+
+![R.TeachingResearchGuide](Screenshot/PyCharmNewPythonFile.png)
+
+En la parte superior izquierda de la ventana de edición del nuevo script, podrá observar que el requerimiento definido en el archivo `requirements.txt` para el paquete `request`, no se ha completado debido a que la librería requerida no se encuentra instalada. En la parte superior derecha de la ventana, de clic en la opción _Install requirement_ para instalar automáticamente la librería requerida.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmInstallRequirement.png)
+
+> Como observó en instrucciones anteriores, las librerías requeridas pueden ser instaladas a través del gestor `pip` utilizando el archivo de requerimientos, manualmente desde el gestor de paquetes PyCharm asociado al intérprete de Python o automáticamente desde la creación de cualquier archivo en Python.
+
+4. Para el script de prueba, calcularemos la trayectoria de un lanzamiento parabólico, imprimiremos el resultado en la consola de comandos y escribiremos los resultados en un archivo Markdown en formato de tabla.
+
 
 
 
@@ -214,9 +240,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                                                                                       | Respuesta |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas¿ | Sí,       |
 
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
@@ -227,6 +253,8 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.python.org/3/library/venv.html
 * https://learnpython.com/blog/python-requirements-file/
 * https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2
+* https://www.toppr.com/guides/physics/motion-in-a-plane/projectile-motion/
+* https://appgametutoriales.com/en/python-math-sin-cos-tangent/
 
 
 ### Control de versiones
