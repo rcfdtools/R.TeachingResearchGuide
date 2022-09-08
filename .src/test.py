@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# Parabolic trajectory projectile motion - Markdown sample
+# Parabolic trajectory projectile motion - Markdown example
 # https://github.com/rcfdtools
 
 # Libraries
@@ -12,12 +12,12 @@ u = 9.43646034373488 # Initial projectile velocity, m/s
 markdown_file = open('ParabolicSample.md','w+') # w+ create the file if it doesn't exist.
 
 # Calculations
-file_header = ('### Parabolic trajectory projectile motion - Markdown sample\n\n'
-               'Variables\n\n'
+file_header = ('### Parabolic trajectory projectile motion - Markdown example\n\n'
+               '#### Variables\n\n'
                '* g, gravity acceleration, m/s²: %f\n'
                '* tetta, inclination angle, °: %f\n'
                '* u, initial projectile velocity, m/s: %f'
-               '\n\nResults table' %(g,tetta,u)
+               '\n\n#### Results table' %(g,tetta,u)
               )
 print(file_header)
 markdown_file.write(file_header)
