@@ -12,7 +12,7 @@ u = 9.43646034373488 # Initial projectile velocity, m/s
 markdown_file = open('ParabolicSample.md','w+') # w+ create the file if it doesn't exist.
 
 # Calculations
-file_header = ('## Parabolic trajectory projectile motion - sample\n\n'
+file_header = ('### Parabolic trajectory projectile motion - Markdown sample\n\n'
       '* g, gravity acceleration, m/s²: %f\n'
       '* tetta, inclination angle, °: %f\n'
       '* u, initial projectile velocity, m/s: %f' %(g,tetta,u)

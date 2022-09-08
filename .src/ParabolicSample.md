@@ -1,4 +1,4 @@
-## Parabolic trajectory projectile motion - sample
+### Parabolic trajectory projectile motion - Markdown sample
 
 * g, gravity acceleration, m/s²: 9.806000
 * tetta, inclination angle, °: 60.000000
