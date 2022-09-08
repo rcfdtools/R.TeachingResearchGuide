@@ -1,5 +1,7 @@
 ### Parabolic trajectory projectile motion - Markdown example
 
+Projectile refers to an object that is in flight after being thrown or projected. In a projectile motion, the only acceleration acting is in the vertical direction which is acceleration due to gravity (g). Equations of motion, therefore, can be applied separately in X-axis and Y-axis to find the unknown parameters.[^1]
+
 #### Variables
 
 * g, gravity acceleration, m/s²: 9.806000
@@ -25,3 +27,5 @@
 | 600 | 148.824831 |
 | 650 | 80.843057 |
 | 700 | 0.494537 |
+
+[^1]: https://www.toppr.com/guides/physics/motion-in-a-plane/projectile-motion/
