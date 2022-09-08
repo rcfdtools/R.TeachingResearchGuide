@@ -17,8 +17,8 @@ A través de PyCharm Community, se pueden gestionar local y simultáneamente mú
 
 ### Requerimientos
 
-* Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository)
-* PyCharm instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
+* Cuenta y repositorio [GitHub](https://github.com/). [:mortar_board:Aprender.](../../Section01/GitHubRepository)
+* [PyCharm Community](https://www.jetbrains.com/pycharm/) instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
 * Centro de documentación Wiki en GitHub. [:mortar_board:Aprender.](../../Section01/GitHubWiki)
 
 

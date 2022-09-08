@@ -10,7 +10,8 @@
 | GNUSavannahLogo.png         | GNU Savannah icon                                                                                    | https://www.pngegg.com/es/png-eygva/download           |
 | Git_icon.svg                | Git icon. Jason Long, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Git_icon.svg   |
 | markdown-icon.svg           | Markdown icon                                                                                        | https://uxwing.com/markdown-icon/                      |
-| PyCharm.png                 | PyCharm icon                                                                                         | https://www.freepng.es/png-85ulxq/                                                       |
+| PyCharm.png                 | PyCharm icon                                                                                         | https://www.freepng.es/png-85ulxq/                     |
+| logo, python svg icon.svg   | Python icon                                                                                          | https://www.iconninja.com/logo-python-icon-26531       |
 
 | [:house: Inicio](../Readme.md) |
 |--------------------------------|

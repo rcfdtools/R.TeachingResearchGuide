@@ -18,7 +18,8 @@ Luego de realizada la clonación local del repositorio creado en GitHub, es nece
 
 ### Requerimientos
 
-* PyCharm instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
+* Cuenta y repositorio [GitHub](https://github.com/). [:mortar_board:Aprender.](../../Section01/GitHubRepository)
+* [PyCharm Community](https://www.jetbrains.com/pycharm/) instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
 
 
 ### Exclusión de directorios de control de cambios

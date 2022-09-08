@@ -18,6 +18,7 @@ Para la gestión y clonación local de repositorios creados en GitHub, es necesa
 
 ### Requerimientos
 
+* [PyCharm Community](https://www.jetbrains.com/pycharm/) 2022.2.2 o superior
 * Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository)
 
 
