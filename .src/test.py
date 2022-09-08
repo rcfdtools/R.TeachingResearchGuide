@@ -16,7 +16,8 @@ file_header = ('### Parabolic trajectory projectile motion - Markdown sample\n\n
                'Variables\n\n'
                '* g, gravity acceleration, m/s²: %f\n'
                '* tetta, inclination angle, °: %f\n'
-               '* u, initial projectile velocity, m/s: %f' %(g,tetta,u)
+               '* u, initial projectile velocity, m/s: %f'
+               '\n\nResults table' %(g,tetta,u)
               )
 print(file_header)
 markdown_file.write(file_header)

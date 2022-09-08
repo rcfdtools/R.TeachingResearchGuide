@@ -6,6 +6,8 @@ Variables
 * tetta, inclination angle, °: 60.000000
 * u, initial projectile velocity, m/s: 9.436460
 
+Results table
+
 | x | y |
 |---|---|
 | 0 | 0.000000 |
