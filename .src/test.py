@@ -13,10 +13,11 @@ markdown_file = open('ParabolicSample.md','w+') # w+ create the file if it doesn
 
 # Calculations
 file_header = ('### Parabolic trajectory projectile motion - Markdown sample\n\n'
-      '* g, gravity acceleration, m/s²: %f\n'
-      '* tetta, inclination angle, °: %f\n'
-      '* u, initial projectile velocity, m/s: %f' %(g,tetta,u)
-      )
+               'Variables\n\n'
+               '* g, gravity acceleration, m/s²: %f\n'
+               '* tetta, inclination angle, °: %f\n'
+               '* u, initial projectile velocity, m/s: %f' %(g,tetta,u)
+              )
 print(file_header)
 markdown_file.write(file_header)
 tetta_rad = tetta * math.pi / 180

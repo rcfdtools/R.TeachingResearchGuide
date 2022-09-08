@@ -1,5 +1,7 @@
 ### Parabolic trajectory projectile motion - Markdown sample
 
+Variables
+
 * g, gravity acceleration, m/s²: 9.806000
 * tetta, inclination angle, °: 60.000000
 * u, initial projectile velocity, m/s: 9.436460
