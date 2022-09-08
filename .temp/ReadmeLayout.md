@@ -33,9 +33,9 @@ aaaaaaaa
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                                          |
-|:---:|:-----------------------------------------------------------------------------------------------------------------|
-|  1  | Cree una organización e invite algunos miembros.                                                                 |
+|  #  | Alcance |
+|:---:|:--------|
+|  1  | xxx.    |
 
 
 ### Preguntas y respuestas Q&A

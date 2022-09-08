@@ -1,12 +1,13 @@
 ### Abreviaturas
 
-| Abreviatura | Significado                                                                                                                                      |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| SO, OS      | [Sistema operativo.](https://en.wikipedia.org/wiki/Operating_system)                                                                             |
-| CMD         | [Command o intérprete de comandos del SO.](https://en.wikipedia.org/wiki/Cmd.exe)                                                                |
-| GUI         | [Graphical user interface. Interfaz gráfica de usuario.](https://en.wikipedia.org/wiki/Graphical_user_interface)                                 |
-| IC o CI     | [Flujos de trabajo de integración continua de GitHub.](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts)    |
-| CI/CD       | [Itegración contínua / Depuración y liberación contínua.](https://resources.github.com/ci-cd/) |
+| Abreviatura | Significado                                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| SO, OS      | [Sistema operativo.](https://en.wikipedia.org/wiki/Operating_system)                                                                          |
+| CMD         | [Command o intérprete de comandos del SO.](https://en.wikipedia.org/wiki/Cmd.exe)                                                             |
+| GUI         | [Graphical user interface. Interfaz gráfica de usuario.](https://en.wikipedia.org/wiki/Graphical_user_interface)                              |
+| IC o CI     | [Flujos de trabajo de integración continua de GitHub.](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts) |
+| CI/CD       | [Itegración contínua / Depuración y liberación contínua.](https://resources.github.com/ci-cd/)                                                |
+| IDE         | [Integrated development environment.](https://www.redhat.com/en/topics/middleware/what-is-ide)                                                |
 
 
 ### Definiciones
