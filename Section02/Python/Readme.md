@@ -65,6 +65,8 @@ seaborn
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmRequirementModules.png)
 
+> Dentro del archivo de requerimientos, podrá definir la versión específica requerida de la librería a instalar o verificar, p. ej., pandas==1.4.3
+
 Al ingresar las librerías requerías, podrá observar que `seaborn` ha sido resaltado en color rojo indicando que no existe en la versión actual de Python instalada en el equipo. 
 
 > Por defecto, cuando se clona localmente con PyCharm un repositorio de GitHub, se asocia el intérprete de Python instalado y registrado en el sistema operativo.
@@ -122,7 +124,79 @@ En la ventana final, de clic en la opción _Disable path length limit_ que le pe
 
 ### Asociación local de Python en PyCharm Community
 
-1. 
+1. En PyCharm, oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> para acceder a la configuración general. En la ventana de configuración, seleccione la pestaña _Project_ y la opción _Python Interpreter_
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonInterpreter.png)
+
+> Como observa en la ilustración, previamente al clonar el repositorio _repotest_ desde GitHub, se asoció una versión antigua de Python instalada en el equipo. 
+
+2. En la parte superior derecha de la ventana, de clic en la opción _Add Interpreter_, seleccione _Add Local Interpreter..._
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonAddInterpreter.png)
+
+3. En la ventana de inclusión de intérpretes, seleccione a la izquierda la opción _Virtualenv Environment_, seleccione la casilla _New_, ingrese la localización, p. ej., `C:\repotest\.venv310`, el intérprete base de Python de los disponibles y registrados en el sistema, p. ej., `C:\Python310\Python.exe`. Para finalizar, de clic en el botón `OK`
+
+> Dentro de un proyecto se pueden definir y asociar múltiples entornos virtuales, debido a esto, es recomendable que el nombre de la carpeta a crear dentro del entorno virtual, se modifique de `venv` a `.venv310` para que dentro del directorio principal, esta aparezca al inicio (debido al punto) y el usuario conozca que la versión asociada de Python es la 3.10.
+> 
+> Dependiendo de si en su versión de Python ha instalado previamente librerías o módulos, podrá seleccionar la casilla _Inherit global site-packages_ para incluir estas librerías en el entorno virtual. Se recomienda no marcar la casilla para instalar nuevamente las librerías y versiones requeridas para el proyecto.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonAddInterpreterVenv.png)
+
+Una vez finalizada la creación del entorno virtual, en la ventana principal de configuración de intérpretes, podrá observar las librerías base asociadas Python.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonInterpreterVenv.png)
+
+> Recuerde que el directorio `.venv310` debe ser incluído en el archivo de exclusiones _.gitignore_ localizado en la raíz del repositorio.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmGitIgnoreVenv.png)
+
+4. En la ventana principal de configuración de intérpretes, de clic en los botones `Apply` y `OK`. Al regresar a la ventana principal de PyCharm, obtendrá una notificación indicando si desea descargar la herramienta de pre-construcción de índices compartidos que le permitirá reducir el tiempo de indexación y uso de CPU al incluir nuevas librerías o paquetes dentro del entorno virtual. De clic en el botón `Always download`. 
+
+![R.TeachingResearchGuide](Screenshot/PyCharmPrebuildSharedIndex.png)
+![R.TeachingResearchGuide](Screenshot/PyCharmPrebuildSharedIndex1.png)
+
+5. Dando clic en el ícono de alertas disponible en la parte superior derecha de la ventana de edición del archivo requirements.txt, verifique los mensajes obtenidos, podrá observar que para la versión 3.10 de Python, no se encuentran instalas las librerías requeridas.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmRequirementModulesAlert1.png)
+
+6. Para instalar las librerías requeridas a partir del archivo de requerimientos, en la parte inferior de la ventana, seleccione la pestaña `Terminal`.
+
+Dependiendo de la versión de su sistema operativo y de si ha modificado previamente las plantillas administrativas de grupo para permitir la ejecución de scripts .ps1 de PowerShell, podrá obtener el siguiente mensaje.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmTerminalPowershellError.png)
+
+Para activar la ejecución de scripts de sistema, en Windows oprima las teclas <kbd>Windows</kbd>+<kbd>R</kbd> y en la ventana de ejecución ingrese el comando `gpedit.msc` que le permitirá ingresar al administrador de directivas de grupo local. 
+
+![R.TeachingResearchGuide](Screenshot/WindowsGpedit.png)
+
+En el grupo de opciones de _Configuración del equipo / Plantillas administrativas / Componentes de Windows / PowerShell_, de doble clic sobre la opción _Activar la ejecución de scripts_   
+
+![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents.png)
+![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents1.png)
+
+En la ventana _Activar la ejecución de scripts_, marque la casilla _Habilitada_ y en opciones seleccione _Permitir todos los scripts_, de clic e los botones `Aplicar` y `Aceptar`. Cierre las ventanas del editor de directivas.
+
+![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents2.png)
+
+Cierre y abra nuevamente Pycharm, podrá observar que la ventana de la Terminal ya no despliega errores y que al lado izquierto se indica que la ejecución de la consola se está realizando desde el entorno virtual (.venv310).
+
+![R.TeachingResearchGuide](Screenshot/PyCharmTerminalOk.png)
+
+En la Terminal, ingrese el comando `pip install -r requirements.txt`
+
+![R.TeachingResearchGuide](Screenshot/PyCharmTerminarPipRequirements.png)
+![R.TeachingResearchGuide](Screenshot/PyCharmTerminarPipRequirements1.png)
+
+7. Luego de finalizada la instalación de las librerías requeridas, oprima <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> para ingresar a la configuración del sistema, verifique si las librerías requeridas han sido instaladas. 
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonInterpreterPackages.png)
+
+Como observa, las librerías requeridas han sido instaladas y se encuentran disponibles para su uso. La instalación de la librería _seaborn_ requirió de la instalación de múltiples librerías adicionales a las definidas en el archivo de requerimientos.
+
+> En la ventana del intérprete podrá observar las versiones instaladas en su equipo y las versiones más recientes disponibles en la nube. Por ejemplo, en el caso de la librería _pip_ la versión instalada es la 21.3.1 y la versión más reciente es 22.2.2. Para actualizar esta librería, puede ejecutar desde la Terminal el comando `C:\repotest\.venv310\Scripts\python.exe -m pip install --upgrade pip` o desde el administrador de paquetes de la ventana de configuración, puede dar doble clic en la librería _pip_ y desde la ventana de paquetes disponibles, instalar la versión más reciente dando clic en el botón `Install Package`.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPipUpdate.png)
+![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPipUpdateSuccessful.png)
 
 
 
@@ -150,7 +224,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 ### Referencias
 
 * https://www.python.org/
-* 
+* https://docs.python.org/3/library/venv.html
+* https://learnpython.com/blog/python-requirements-file/
+* https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2
 
 
 ### Control de versiones
