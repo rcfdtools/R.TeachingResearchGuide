@@ -65,7 +65,7 @@ seaborn
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmRequirementModules.png)
 
-> Dentro del archivo de requerimientos, podrá definir la versión específica requerida de la librería a instalar o verificar, p. ej., pandas==1.4.3
+> Dentro del archivo de requerimientos, podrá definir la versión específica requerida de la librería a instalar o verificar, p. ej., `pandas==1.4.3`
 
 Al ingresar las librerías requerías, podrá observar que `seaborn` ha sido resaltado en color rojo indicando que no existe en la versión actual de Python instalada en el equipo. 
 
@@ -178,7 +178,7 @@ En la ventana _Activar la ejecución de scripts_, marque la casilla _Habilitada_
 
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents2.png)
 
-Cierre y abra nuevamente Pycharm, podrá observar que la ventana de la Terminal ya no despliega errores y que al lado izquierdo se indica que la ejecución de la consola se está realizando desde el entorno virtual (.venv310).
+Cierre y abra nuevamente Pycharm, podrá observar que la ventana de la Terminal ya no despliega errores y que al lado izquierdo se indica que la ejecución de la consola se está realizando desde el entorno virtual `.venv310`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmTerminalOk.png)
 
@@ -314,17 +314,17 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  #  | Alcance                                                                                                                                          |
 |:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1  | Descargue, instale y configure Python.                                                                                                           |
-|  2  | Asocie la versión de Python como el intérprete de comandos del proyecto o repositorio.                                                           |
+|  2  | Asocie la versión de Python como intérprete de comandos del proyecto o repositorio.                                                              |
 |  3  | Cree un script en Python para el cálculo de funciones trigonométricas que genere una tabla con múltiples columnas dentro de un archivo Markdown. |
 |  4  | Comente, publique y visualice los resultados en GutHub.                                                                                          |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                                                                       | Respuesta                                                                                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas? | Sí, automáticamente al asociar el intérprete de Python y al abrir un archivo .py, PyCharm identifica el nuevo requerimiento e informa al usuario para la instalación de la librería requerida. |
-
+| Pregunta                                                                                                                                       | Respuesta                                                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas? | Sí, automáticamente al asociar el intérprete de Python y al abrir un archivo .py, PyCharm identifica el nuevo requerimiento e informa al usuario para la instalación de la librería requerida.                   |
+| ¿Puedo eliminar librerías instaladas en el entorno virtual e instalar librerías de versiones anteriores?                                       | Sí, desde la Terminal a través del comando `pip unistall <paquete>` o desde las opciones de configuración del intérprete asociado, se pueden desinstalar librerías para luego instalar las versiones requeridas. |
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
@@ -336,6 +336,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2
 * https://www.toppr.com/guides/physics/motion-in-a-plane/projectile-motion/
 * https://appgametutoriales.com/en/python-math-sin-cos-tangent/
+* https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/
 
 
 ### Control de versiones
