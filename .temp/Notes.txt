@@ -63,3 +63,12 @@ Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que pe
 |-------------------------------------|---------|
 | Instalación y configuración general |         |
 | Edición local de repositorios       |         |
+
+
+
+* [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
+* [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
+* [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
+* [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
+* [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
+* [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
