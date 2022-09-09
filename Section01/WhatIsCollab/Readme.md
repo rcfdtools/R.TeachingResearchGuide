@@ -8,7 +8,7 @@ En esta actividad aprenderás diferentes conceptos relacionados con desarrollo c
 <sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultad y/o programa, centros de estudios, grupos de investigación y semilleros.</sub><br><br>
 </div>
 
-### Creación de contenidos de forma individual o colectiva
+### Creación de contenidos de forma individual o colectiva [^1]
 
 Tradicionalmente, pensamos que la creación de contenidos académicos y científicos se puede realizar de manera individual y aislada de otras personas; incluso, la formación profesional que recibimos en las aulas privilegia en cierto sentido esta modalidad. Es verdad que existen tareas que se pueden desarrollar en solitario, especialmente cuando se trabaja en la producción científica de trabajos de investigación y/o profundización con un alcance particular; sin embargo, cuando el nivel de dificultad de la investigación o los contenidos de los microcurrículos aumenta, ya sea por las nuevas innovaciones tecnológicas, porque requieren de conocimiento experto de múltiples disciplinas o por avances en docencia, la creación y actualización necesariamente se tiene que desarrollar en compañía de otras personas. De esta manera, la interacción humana en el proceso de creación de contenidos de calidad es en muchas ocasiones, obligatoria.
 
@@ -109,6 +109,6 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 | [Anterior](../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente](../CollabTools) |
 |--------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------|
 
-[^1]: https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
+[^1]: Tomado o adaptado de https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
 [^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
 [^3]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
