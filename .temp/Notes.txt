@@ -33,7 +33,6 @@ Avance
         Repositorio: https://github.com/rcfdtools/R.TeachingResearchGuide
 
 
-
 <div align="center">
   <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
   <br><b>Guía para enseñanza e investigación colaborativa utilizando GitHub.</b><br>by r.cfdtools@gmail.com<br><br>
@@ -41,17 +40,10 @@ Avance
 
 
 General update.
-
 _Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta actividad._
 _Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta sección._
-
-
 > Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
-
-
-<div align="center">
-</div>
-
+<div align="center"></div>
 <br>(**Versión borrador**)
 
 
@@ -61,3 +53,13 @@ https://www.youtube.com/watch?v=sSZHr7Frp3o
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>
 <kbd>Ctrl</kbd>+<kbd>S</kbd>
 <kbd>Enter</kbd>
+
+
+### Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
+
+Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.
+
+| Microcontenido                      | Alcance |
+|-------------------------------------|---------|
+| Instalación y configuración general |         |
+| Edición local de repositorios       |         |

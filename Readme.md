@@ -32,17 +32,6 @@ PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado
 | [Gestión local de múltiples proyectos en PyCharm](Section02/MultipleProject)                          | A través de PyCharm Community se pueden gestionar local y simultáneamente múltiples repositorios y sus centros de documentación Wiki asociados.                                                                     |
 | [Proyectos GitHub utilizando Python en PyCharm](Section02/Python)                                     | Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.  |
 
-
-### Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
-
-Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.
-
-| Microcontenido                      | Alcance |
-|-------------------------------------|---------|
-| Instalación y configuración general |         |    
-| Edición local de repositorios       |         |    
-
-
 <br>
 
 **:scroll: Licencia, cláusulas, condiciones de uso y citación:** R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md).
