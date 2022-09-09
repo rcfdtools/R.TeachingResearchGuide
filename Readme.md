@@ -30,7 +30,7 @@ PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado
 | [Instalación, clonación local de proyecto GitHub y configuración general de PyCharm](Section02/Setup) | Para la gestión y clonación local de repositorios creados en GitHub, es necesario descargar, instalar y configurar la versión de uso libre PyCharm Community.                                                       |
 | [Edición local de proyectos con PyCharm y publicación en la nube](Section02/SingleProject)            | Luego de realizada la clonación local del repositorio creado en GitHub, es necesario modificar la estructura de directorios, agregar nuevos archivos y editar o actualizar los archivos existentes.                 |
 | [Gestión local de múltiples proyectos en PyCharm](Section02/MultipleProject)                          | A través de PyCharm Community se pueden gestionar local y simultáneamente múltiples repositorios y sus centros de documentación Wiki asociados.                                                                     |
-| [Proyectos GitHub que requieren Python](Section02/Python)<br>(**Versión borrador**)                   | Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.  |
+| [Proyectos GitHub utilizando Python en PyCharm](Section02/Python)                                     | Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.  |
 
 
 ### Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code

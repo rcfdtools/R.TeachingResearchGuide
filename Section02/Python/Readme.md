@@ -1,5 +1,5 @@
-## Proyectos GitHub que requieren Python
-Keywords: `Python` `requirements` `GitHub`
+## Proyectos GitHub utilizando Python en PyCharm
+Keywords: `Python` `requirements` `GitHub` `LaTeX` `CMD` `Interpreter` `Coding`
 
 Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.
 
@@ -29,7 +29,7 @@ Existen diferentes alternativas para la instalación de librerías asociadas a u
 
 > Es recomendable crear el archivo de requerimientos en la raíz del repositorio antes de la asociación y creación del entorno virtual de Python. Esto permitirá que Python identifique los módulos o las librerías requeridas para el proyecto y permitirá realizar la instalación automática. 
 
-1. En PyCharm Community, cree el archivo `requirements.txt` en la raíz del repositorio. Para ello, diríjase a la pestaña Proyect, de clic derecho en la raíz del repositorio `repotest`, seleccione la opción _New / File_
+1. En PyCharm Community, cree el archivo `requirements.txt` en la raíz del repositorio. Para ello, diríjase a la pestaña _Project_, de clic derecho en la raíz del repositorio `repotest`, seleccione la opción _New / File_
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewFile.png)
 
@@ -49,7 +49,7 @@ De clic en el botón `Accept` en la ventana emergente que indica que este plugin
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmRequirementPluginAccept.png)
 
-Para verificar la correcta instalación del Plugin, en el menu _File_, seleccione la opción _Settings_ u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>. En la pestaña Plugins, verifique que se encuentre instalado y activado _Requirements_.
+Para verificar la correcta instalación del Plugin, en el menu _File_, seleccione la opción _Settings_ u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>. En la pestaña Plugins, revise que se encuentre instalado y activado _Requirements_.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmPlugins.png)
 
@@ -146,7 +146,7 @@ Una vez finalizada la creación del entorno virtual, en la ventana principal de 
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsProjectPythonInterpreterVenv.png)
 
-> Recuerde que el directorio `.venv310` debe ser incluído en el archivo de exclusiones _.gitignore_ localizado en la raíz del repositorio.
+> Recuerde que el directorio `.venv310` debe ser incluido en el archivo de exclusiones _.gitignore_ localizado en la raíz del repositorio.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmGitIgnoreVenv.png)
 
@@ -174,11 +174,11 @@ En el grupo de opciones de _Configuración del equipo / Plantillas administrativ
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents.png)
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents1.png)
 
-En la ventana _Activar la ejecución de scripts_, marque la casilla _Habilitada_ y en opciones seleccione _Permitir todos los scripts_, de clic e los botones `Aplicar` y `Aceptar`. Cierre las ventanas del editor de directivas.
+En la ventana _Activar la ejecución de scripts_, marque la casilla _Habilitada_ y en opciones seleccione _Permitir todos los scripts_, de clic en los botones `Aplicar` y `Aceptar`. Cierre las ventanas del editor de directivas.
 
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents2.png)
 
-Cierre y abra nuevamente Pycharm, podrá observar que la ventana de la Terminal ya no despliega errores y que al lado izquierto se indica que la ejecución de la consola se está realizando desde el entorno virtual (.venv310).
+Cierre y abra nuevamente Pycharm, podrá observar que la ventana de la Terminal ya no despliega errores y que al lado izquierdo se indica que la ejecución de la consola se está realizando desde el entorno virtual (.venv310).
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmTerminalOk.png)
 
@@ -207,7 +207,7 @@ Luego de definido el ambiente virtual de trabajo y la instalación de diferentes
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsRequirementsRequest.png)
 
-2. En el panel _Project_ localizado a la izquierda de la ventana de PyCharm, de clic derecho en la raíz del repositorio `repotest`,  seleccione la opción _New / Directory_ y cree un directorio con el nombre `.src`
+2. En el panel _Project_ localizado a la izquierda de la ventana de PyCharm, de clic derecho en la raíz del repositorio `repotest`, seleccione la opción _New / Directory_ y cree un directorio con el nombre `.src`
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmNewDirectory.png)
 
@@ -235,7 +235,10 @@ $g$ = gravity acceleration, $m/s^{2}$
 $\theta$ = inclination angle, $°$  
 $u$ = initial projectile velocity, $m/s$  
 
-Código [ParabolicSample.py](ParabolicSample.py), [Markdown](ParabolicSample.md)
+Copie y pegue en el archivo _test.py_, las siguientes instrucciones Python:
+
+Código ejemplo: [ParabolicSample.py](ParabolicSample.py)  
+Resultado Markdown: [ParabolicSample.md](ParabolicSample.md)
 ```
 # -*- coding: UTF-8 -*-
 # Parabolic trajectory projectile motion - Markdown example
@@ -278,26 +281,51 @@ for x in range (0, 750, 50):
 
 markdown_file.write('\n[^1]: https://www.toppr.com/guides/physics/motion-in-a-plane/projectile-motion/')
 ```
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonTest.png)
 
+5. Dando clic derecho sobre la pestaña del archivo _test.py_, seleccione la opción _Run 'test'_ u oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F10</kbd> para ejecutar el script.
 
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonTestRun.png)
+
+Automáticamente, se desplegará el panel de ejecución mostrando la impresión en consola definida en el script.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonTestRunResults.png)
+
+6. Durante la ejecución, el script _test.py_ ha creado dentro de la misma carpeta de ejecución, el archivo Markdown denominado _ParabolicSample.md_. Desde el panel _Project_, abra y visualice el contenido del archivo.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonParabolicSample.png)
+
+7. Para publicar los resultados en la nube de GitHub, realice el _Commit / Push_.
+
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonParabolicSamplePush.png)
+![R.TeachingResearchGuide](Screenshot/PyCharmPythonParabolicSamplePush1.png)
+
+8. Visualice los resultados desde https://github.com/rcfdtoolstest/repotest/tree/main/.src
+
+![R.TeachingResearchGuide](Screenshot/GitHubParabolicSample.png)
+![R.TeachingResearchGuide](Screenshot/GitHubParabolicSample1.png)
+![R.TeachingResearchGuide](Screenshot/GitHubParabolicSample2.png)
 
 
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance |
-|:---:|:--------|
-|  1  | xxxx    |
+|  #  | Alcance                                                                                                                                          |
+|:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | Descargue, instale y configure Python.                                                                                                           |
+|  2  | Asocie la versión de Python como el intérprete de comandos del proyecto o repositorio.                                                           |
+|  3  | Cree un script en Python para el cálculo de funciones trigonométricas que genere una tabla con múltiples columnas dentro de un archivo Markdown. |
+|  4  | Comente, publique y visualice los resultados en GutHub.                                                                                          |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta                                                                                                                                       | Respuesta |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas¿ | Sí,       |
+| Pregunta                                                                                                                                       | Respuesta                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas? | Sí, automáticamente al asociar el intérprete de Python y al abrir un archivo .py, PyCharm identifica el nuevo requerimiento e informa al usuario para la instalación de la librería requerida. |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -314,14 +342,14 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 | Versión    | Descripción                                                                                                                                                                                                                                       | Autor                                      | Horas |
 |------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.09.09 | Creación y ejecución de scripts Python, ecuación LaTeX.                                                                                                                                                                                           | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| 2022.09.09 | Creación y ejecución de scripts Python, ecuación LaTeX. Actividades complementarias.                                                                                                                                                              | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 | 2022.09.08 | Versión inicial. Archivo de requerimientos Python. Instalación personalizada de Python sobre Windows. Verificación de Python por consola CMD de Windows. Asociación local de Python en PyCharm Community. Creación y ejecución de scripts Python. | [rcfdtools](https://github.com/rcfdtools)  |   8   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../MultipleProject) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) | [Siguiente]() |
+|--------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
