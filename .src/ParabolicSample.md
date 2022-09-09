@@ -2,12 +2,12 @@
 
 Projectile refers to an object that is in flight after being thrown or projected. In a projectile motion, the only acceleration acting is in the vertical direction which is acceleration due to gravity (g). Equations of motion, therefore, can be applied separately in X-axis and Y-axis to find the unknown parameters.[^1]
 
-$y = x	an 	heta  - rac{{g{{(x)}^2}}}{{2{{(u\cos 	heta )}^2}}}\$
+$y = x\tan \theta  - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
 
 #### Donde
 
 $g$ = gravity acceleration, m/s²: 9.806000
-$	heta$ = inclination angle, °: 60.000000
+$\theta$ = inclination angle, °: 60.000000
 $u$ = initial projectile velocity, m/s: 9.436460
 
 #### Results table
