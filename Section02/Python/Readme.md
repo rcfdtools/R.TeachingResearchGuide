@@ -223,6 +223,8 @@ En la parte superior izquierda de la ventana de edición del nuevo script, podr�
 
 4. Para el script de prueba, calcularemos la trayectoria de un lanzamiento parabólico, imprimiremos el resultado en la consola de comandos y escribiremos los resultados en un archivo Markdown en formato de tabla.
 
+$y = x\left( {\tan \theta } \right) - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
+
 
 
 
@@ -261,8 +263,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 | Versión    | Descripción      | Autor                                      | Horas |
 |------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
-
+| 2022.09.08 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |   8   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 

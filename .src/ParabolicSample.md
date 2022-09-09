@@ -5,7 +5,7 @@ Projectile refers to an object that is in flight after being thrown or projected
 #### Variables
 
 * g, gravity acceleration, m/s²: 9.806000
-* tetta, inclination angle, °: 60.000000
+* theta, inclination angle, °: 60.000000
 * u, initial projectile velocity, m/s: 9.436460
 
 #### Results table
