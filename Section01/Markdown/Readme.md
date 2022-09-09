@@ -141,7 +141,7 @@ $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
 $P=\gamma y S_{0} V$
 
-Donde:
+Donde:  
 $P$ = Potencia de la corriente $[N-m/s]$  
 $\gamma$ = Peso específico del agua $[N/m^{3}]$  
 $y$ = Profundidad de la lámina de agua $[m]$  

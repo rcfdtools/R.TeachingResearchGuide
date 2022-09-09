@@ -14,10 +14,12 @@ projectile_txt = 'Projectile refers to an object that is in flight after being t
 
 # Calculations
 file_header = ('### Parabolic trajectory projectile motion - Markdown example\n\n'
-               '%s\n\n#### Variables\n\n'
-               '* g, gravity acceleration, m/s²: %f\n'
-               '* theta, inclination angle, °: %f\n'
-               '* u, initial projectile velocity, m/s: %f'
+               '%s\n\n'
+               '$y = x\tan \theta  - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$'
+               '\n\n#### Donde\n\n'
+               '$g$ = gravity acceleration, m/s²: %f\n'
+               '$\theta$ = inclination angle, °: %f\n'
+               '$u$ = initial projectile velocity, m/s: %f'
                '\n\n#### Results table' %(projectile_txt, g,theta,u)
               )
 print(file_header)
