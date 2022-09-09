@@ -18,7 +18,7 @@ file_header = ('### Parabolic trajectory projectile motion - Markdown example\n\
                '$y = x\\tan \\theta  - \\frac{{g{{(x)}^2}}}{{2{{(u\cos \\theta )}^2}}}\$'
                '\n\n#### Donde\n\n'
                '$g$ = gravity acceleration, m/s²: %f\n'
-               '$\theta$ = inclination angle, °: %f\n'
+               '$\\theta$ = inclination angle, °: %f\n'
                '$u$ = initial projectile velocity, m/s: %f'
                '\n\n#### Results table' %(projectile_txt, g,theta,u)
               )
