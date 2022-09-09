@@ -4,10 +4,12 @@ Projectile refers to an object that is in flight after being thrown or projected
 
 $y = x\tan \theta  - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
 
-#### Donde
+Donde
 
 $g$ = gravity acceleration, m/s²: 9.806000
+
 $\theta$ = inclination angle, °: 60.000000
+
 $u$ = initial projectile velocity, m/s: 9.436460
 
 #### Results table
