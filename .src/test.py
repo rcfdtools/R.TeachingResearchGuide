@@ -17,10 +17,10 @@ file_header = ('### Parabolic trajectory projectile motion - Markdown example\n\
                '%s\n\n'
                '$y = x\\tan \\theta  - \\frac{{g{{(x)}^2}}}{{2{{(u\cos \\theta )}^2}}}\$'
                '\n\nDonde,\n\n'
-               '$g$ = gravity acceleration $[m/s^{2}]$: %f\n\n'
-               '$\\theta$ = inclination angle $[°]$: %f\n\n'
-               '$u$ = initial projectile velocity $[m/s]$: %f'
-               '\n\n#### Results table' %(projectile_txt, g,theta,u)
+               '$g$ = gravity acceleration, $m/s^{2}$: %f\n\n'
+               '$\\theta$ = inclination angle, $°$: %f\n\n'
+               '$u$ = initial projectile velocity, $m/s$: %f'
+               '\n\nResults table' %(projectile_txt, g,theta,u)
               )
 print(file_header)
 markdown_file.write(file_header)
