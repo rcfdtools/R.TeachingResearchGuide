@@ -1,3 +1,7 @@
+<div align="center">
+  <br><img alt="R.LTWB" src="../.icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+</div>
+
 ## Caso de uso - Universidad Escuela Colombiana de Ingeniería
 
 La imagen o entidad corporativa es la manera en la que una empresa, firma o comercio se presenta a sí misma al público, tanto como a clientes o a inversores como a empleados. Se puede ver típicamente en logotipos y en el uso de marcas registradas, pero también puede incluir cosas como el diseño de producto, la publicidad, las relaciones públicas, etcétera. Es el objetivo principal de la comunicación institucional de una empresa, con el propósito de construir y mantener su identidad para que coincidan y facilite sus objetivos de negocio. Es creada sobre todo por personas idóneas en diseño gráfico, utilizando principalmente campañas comunicacionales, plataformas digitales y otras formas de promoción. https://es.wikipedia.org/wiki/Imagen_corporativa
