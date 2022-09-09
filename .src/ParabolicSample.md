@@ -10,7 +10,7 @@ $g$ = gravity acceleration $[m/s^{2}]$: 9.806000
 
 $\theta$ = inclination angle $[°]$: 60.000000
 
-$u$ = initial projectile velocity $[m/s]: 9.436460
+$u$ = initial projectile velocity $[m/s]$: 9.436460
 
 #### Results table
 
