@@ -325,6 +325,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ¿Luego de instalar con `pip` las librerías definidas en el archivo de requerimientos, puedo incluir nuevas librerías para que sean instaladas? | Sí, automáticamente al asociar el intérprete de Python y al abrir un archivo .py, PyCharm identifica el nuevo requerimiento e informa al usuario para la instalación de la librería requerida.                   |
 | ¿Puedo eliminar librerías instaladas en el entorno virtual e instalar librerías de versiones anteriores?                                       | Sí, desde la Terminal a través del comando `pip unistall <paquete>` o desde las opciones de configuración del intérprete asociado, se pueden desinstalar librerías para luego instalar las versiones requeridas. |
+
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
