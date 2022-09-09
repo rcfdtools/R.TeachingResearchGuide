@@ -6,9 +6,11 @@ $y = x\tan \theta  - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
 
 Donde,
 
-$g$ = gravity acceleration, m/s²: 9.806000
-$\theta$ = inclination angle, °: 60.000000
-$u$ = initial projectile velocity, m/s: 9.436460
+$g$ = gravity acceleration $[m/s^{2}]$: 9.806000
+
+$\theta$ = inclination angle $[°]$: 60.000000
+
+$u$ = initial projectile velocity $[m/s]: 9.436460
 
 #### Results table
 
