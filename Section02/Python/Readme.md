@@ -223,7 +223,7 @@ En la parte superior izquierda de la ventana de edición del nuevo script, podr�
 
 4. Para el script de prueba, calcularemos la trayectoria de un lanzamiento parabólico, imprimiremos el resultado en la consola de comandos y escribiremos los resultados en un archivo Markdown en formato de tabla.
 
-$y = x\left( {\tan \theta } \right) - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
+$y = x\tan \theta  - \frac{{g{{(x)}^2}}}{{2{{(u\cos \theta )}^2}}}\$
 
 
 
