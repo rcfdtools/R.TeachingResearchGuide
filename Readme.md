@@ -48,7 +48,7 @@ Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que pe
 
 **:beginner: Ayuda y soporte:** a través de la pestaña _[Discussions](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions)_ localizada en la parte superior de esta ventana, podrás encontrar y participar en los [_anuncios o noticias_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/announcements) publicados, enviarnos tus [_ideas_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/ideas) para actividades complementarias, participar en preguntas, respuestas y consultas específicas [_Q&A_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/q-a) y realizar [_publicaciones o consultas generales_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/general) públicas.
 
-[:ok_hand: Consejos y buenas prácticas de desarrollo colaborativo.](BestPractice.md)
+[:blue_heart: Consejos y buenas prácticas de desarrollo colaborativo.](BestPractice.md)
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
