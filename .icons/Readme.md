@@ -12,6 +12,7 @@
 | markdown-icon.svg           | Markdown icon                                                                                        | https://uxwing.com/markdown-icon/                      |
 | PyCharm.png                 | PyCharm icon                                                                                         | https://www.freepng.es/png-85ulxq/                     |
 | logo, python svg icon.svg   | Python icon                                                                                          | https://www.iconninja.com/logo-python-icon-26531       |
+| VSCode.png                  | Visual Studio Code icon                                                                              | https://www.pngwing.com/en/free-png-aztoa              |
 
 | [:house: Inicio](../Readme.md) |
 |--------------------------------|

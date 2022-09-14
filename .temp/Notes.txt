@@ -55,17 +55,6 @@ https://www.youtube.com/watch?v=sSZHr7Frp3o
 <kbd>Enter</kbd>
 
 
-### Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
-
-Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.
-
-| Microcontenido                      | Alcance |
-|-------------------------------------|---------|
-| Instalación y configuración general |         |
-| Edición local de repositorios       |         |
-
-
-
 * [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
 * [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
 * [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)

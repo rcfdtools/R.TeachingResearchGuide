@@ -1,21 +1,22 @@
 ## Instalación y configuración general de Visual Studio Code
-Keywords: `VSCode` `Setup`
+Keywords: `VSCode` `Setup` `Python` `Jupyter` `Markdown` `Powershell` `Material-Icon-Theme` `MagicPython` `HTML-CSS`
 
-Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.                                                                                                                
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/Setup.svg" width="70%"><br><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/VSCode.png" width="30%"><br><br>
 </div>
 
 
 ### Objetivos
 
-* 
+* Instalar y configurar la interfaz VS Code.
+* Instalar y configurar complementos documentación Markdown, Python, HTML y CSS.
 
 
 ### Requerimientos
 
-* 
+* Cuenta GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository)
 
 
 ### Descarga e instalación de VS Code
@@ -79,6 +80,14 @@ Automáticamente ha sido redireccionado al administrador de extensiones o Extens
 
 En la casilla de búsqueda, ingrese e instale las siguientes extensiones:
 
+**GitHub Repositories**
+
+![R.TeachingResearchGuide](Screenshot/VSCodeMarketplaceGitHubRepositories.png)
+
+**GitHub Pull Requests and Issues**
+
+![R.TeachingResearchGuide](Screenshot/VSCodeMarketplaceGitHubPullRequestsIssues.png)
+
 **Python de Microsoft**
 
 ![R.TeachingResearchGuide](Screenshot/VSCodeMarketplacePython.png)
@@ -132,30 +141,34 @@ De clic en el botón `Select Python Interpreter`, ingrese la ruta de Python inst
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance |
-|:---:|:--------|
-|  1  | xxx.    |
+|  #  | Alcance                                                                                        |
+|:---:|:-----------------------------------------------------------------------------------------------|
+|  1  | Descargue, instale y configure VS Code.                                                        |
+|  2  | Descargue, instale y configure las extensiones requeridas para el desarrollo de sus proyectos. |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                       | Respuesta                                         |
+|----------------------------------------------------------------|---------------------------------------------------|
+| ¿VS Code permite la gestión Git de mis repositorios en GitHub? | Sí, a través de la extensión GitHub Repositories. |
 
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
 
-* 
+* https://code.visualstudio.com/docs/setup/setup-overview
+* https://code.visualstudio.com/docs/setup/windows
+* https://code.visualstudio.com/docs/getstarted/introvideos
+* https://code.visualstudio.com/docs/getstarted/themes
 
 
 ### Control de versiones
 
 | Versión    | Descripción      | Autor                                      | Horas |
 |------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
+| 2022.09.14 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
