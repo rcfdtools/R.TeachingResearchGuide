@@ -8,6 +8,9 @@ R.TeachingResearchGuide.wiki
 https://github.com/rcfdtools/R.TeachingResearchGuide.wiki.git
 Clone local directory D:\R.TeachingResearchGuide.wiki
 
+Test account
+
+
 ✓✕
 
 Tareas
