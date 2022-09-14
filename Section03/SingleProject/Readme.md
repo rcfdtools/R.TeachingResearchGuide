@@ -1,7 +1,7 @@
 ## Edición local de repositorios GitHub con VS Code
 Keywords: `VS-Code` `Markdown` `GitHub-Repositories` `GitHub-Pull-Requests-and-Issues`
 
-Las organizaciones permiten integrar miembros de la comunidad de creadores de contenido y publicar a través de clonación, las versiones oficiales lanzadas.                                                                                                                  
+Luego de realizada la instalación y configuración, podrás gestionar localmente repositorios de GitHub, revisar los controles de cambios realizados sobre los archivos de los proyectos, comentar y publicar las actualizaciones en la nube.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/VSCode.png" width="30%"><br><br>
@@ -10,15 +10,17 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores de co
 
 ### Objetivos
 
-* Clonar 
+* Abrir repositorios remotos.
+* Modificar archivos, revisar el control de cambios, comentar y publicar cambios en la nube.  
 
 
 ### Requerimientos
 
-* 
+* Cuenta y repositorio [GitHub](https://github.com/). [:mortar_board:Aprender.](../../Section01/GitHubRepository)
+* Instalación y configuración de VS Code. [:mortar_board:Aprender.](../Setup)
 
 
-### Clonación
+### Procedimiento general
 
 1. En VS Code, de clic en el ícono `Open a Remote Window` localizado en la esquina inferior izquierda de la ventana, luego en la parte superior, seleccione la opción `Open Remote Repository` y en las opciones emergentes seleccione `Open Repository from GitHub`
 
@@ -86,7 +88,7 @@ Verifique el contenido publicado del archivo desde Internet a través de la dire
 
 ![R.TeachingResearchGuide](Screenshot/InternetReadme.png)
 
-3. Ingrese al final del texto  existente "Modificado localmente desde VS Code." y oprima <kbd>Ctrl</kbd>+<kbd>S</kbd> para guardar los cambios.
+3. Ingrese al final del texto existente "Modificado localmente desde VS Code." y oprima <kbd>Ctrl</kbd>+<kbd>S</kbd> para guardar los cambios.
 
 ![R.TeachingResearchGuide](Screenshot/VSCodeReadme1.png)
 
@@ -109,37 +111,39 @@ De esta forma podrá modificar, comentar y actualizar cualquier archivo de sus r
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance |
-|:---:|:--------|
-|  1  | xxx.    |
+|  #  | Alcance                                                                                                      |
+|:---:|:-------------------------------------------------------------------------------------------------------------|
+|  1  | Realice la conexión remota a uno o varios repositorios.                                                      |
+|  2  | Edite archivos Markdown, revise los controles de cambios, comente y publique las actualizaciones realizadas. |
 
 
 ### Preguntas y respuestas Q&A
 
-| Pregunta | Respuesta |
-|----------|-----------|
-|          |           |
+| Pregunta                                                                  | Respuesta                                                                                                                                                                                                                                                                                 |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Se pueden gestionar simultáneamente múltiples cuentas GitHub de usuario? | No, VS Code solo permite la gestión de todos los repositorios asociados a una única cuenta, sin embargo, podrá cerrar la sesión de la cuenta de usuario, cerrar el editor y las carpetas de proyecto vinculadas e ingresar desde otra cuenta para realizar cambios en otros repositorios. |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/25) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
 
-* 
+* https://marketplace.visualstudio.com/publishers/GitHub
+* https://code.visualstudio.com/docs/editor/github
 
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas |
-|------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.08.22 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
+| Versión    | Descripción                             | Autor                                      | Horas |
+|------------|:----------------------------------------|--------------------------------------------|:-----:|
+| 2022.09.14 | Versión inicial. Procedimiento general. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../Setup) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/25) | [Siguiente]() |
+|----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
