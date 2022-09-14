@@ -1,7 +1,7 @@
 ## Instalación y configuración de Visual Studio Code
 Keywords: `VSCode` `Setup` `Python` `Jupyter` `Markdown` `Powershell` `Material-Icon-Theme` `MagicPython` `HTML-CSS`
 
-Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.                                                                                                                
+Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.
 
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/VSCode.png" width="30%"><br><br>
@@ -153,7 +153,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |----------------------------------------------------------------|---------------------------------------------------|
 | ¿VS Code permite la gestión Git de mis repositorios en GitHub? | Sí, a través de la extensión GitHub Repositories. |
 
-> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
+> Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/24) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
 ### Referencias
@@ -175,7 +175,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) | [Siguiente]() |
-|---------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/24) | [Siguiente]() |
+|---------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
 
 [^1]: 
