@@ -1,5 +1,5 @@
 ## Instalación y configuración de Visual Studio Code
-Keywords: `VSCode` `Setup` `Python` `Jupyter` `Markdown` `Powershell` `Material-Icon-Theme` `MagicPython` `HTML-CSS`
+Keywords: `VSCode` `Setup` `Python` `Jupyter` `Markdown` `Powershell` `Material-Icon-Theme` `MagicPython` `HTML-CSS` `GitHub-Repositories` `GitHub-Pull-Requests-and-Issues`
 
 Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.
 
@@ -166,9 +166,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Control de versiones
 
-| Versión    | Descripción      | Autor                                      | Horas |
-|------------|:-----------------|--------------------------------------------|:-----:|
-| 2022.09.14 | Versión inicial. | [rcfdtools](https://github.com/rcfdtools)  |  XX   |
+| Versión    | Descripción                                                                           | Autor                                      | Horas |
+|------------|:--------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.09.14 | Versión inicial. Descarga e instalación de VS Code. Configuración general de VS Code. | [rcfdtools](https://github.com/rcfdtools)  |   5   |
 
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
