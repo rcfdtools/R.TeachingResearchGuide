@@ -1,4 +1,4 @@
-## Consejos y buenas prácticas de desarrollo colaborativo:ok_hand:
+## Consejos y buenas prácticas de desarrollo colaborativo:blue_heart:
 
 Algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios.
 
