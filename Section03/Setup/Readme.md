@@ -11,7 +11,7 @@ Para la gestión de repositorios GitHub a través de Visual Studio Code, es nece
 ### Objetivos
 
 * Instalar y configurar la interfaz VS Code.
-* Instalar y configurar complementos documentación Markdown, Python, HTML y CSS.
+* Instalar y configurar complementos documentación Markdown, Python, HTML, CSS y los complementos para gestión de repositorios de GitHub.
 
 
 ### Requerimientos

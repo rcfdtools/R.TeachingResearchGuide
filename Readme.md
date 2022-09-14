@@ -40,7 +40,7 @@ Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que pe
 | Microcontenido                                                       | Alcance                                                                                                                                                         |
 |----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Instalación y configuración de Visual Studio Code](Section03/Setup) | Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones. |
-| Edición local de repositorios                                        |                                                                                                                                                                 |
+| Edición local de repositorios GitHub                                 |                                                                                                                                                                 |
 
 <br>
 
