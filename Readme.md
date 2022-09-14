@@ -44,6 +44,8 @@ Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que pe
 
 <br>
 
+---
+
 **:scroll: Licencia, cláusulas, condiciones de uso y citación:** R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md).
 
 **:beginner: Ayuda y soporte:** a través de la pestaña _[Discussions](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions)_ localizada en la parte superior de esta ventana, podrás encontrar y participar en los [_anuncios o noticias_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/announcements) publicados, enviarnos tus [_ideas_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/ideas) para actividades complementarias, participar en preguntas, respuestas y consultas específicas [_Q&A_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/q-a) y realizar [_publicaciones o consultas generales_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/general) públicas.
