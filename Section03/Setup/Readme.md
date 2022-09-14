@@ -1,4 +1,4 @@
-## Instalación y configuración general de Visual Studio Code
+## Instalación y configuración de Visual Studio Code
 Keywords: `VSCode` `Setup` `Python` `Jupyter` `Markdown` `Powershell` `Material-Icon-Theme` `MagicPython` `HTML-CSS`
 
 Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.                                                                                                                
