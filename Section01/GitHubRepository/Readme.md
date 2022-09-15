@@ -346,6 +346,30 @@ History
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
 
 
+### GitHub App para Android e Apple iOS
+
+Desde la tienda de aplicaciones de su teléfono móvil, instale la aplicación GitHub.
+
+![R.TeachingResearchGuide](Screenshot/AppStoreGitHub.png)
+![R.TeachingResearchGuide](Screenshot/PlayStoreGitHub.png)
+
+Abra la aplicación, ingrese con su cuenta de usuario y visualice el _Home_ de GitHub, podrá observar que en _My Work_ existen diferentes opciones.
+
+![R.TeachingResearchGuide](Screenshot/GitHubAppHome.png)
+
+De clic en la opción _Repositores_ para visualizar los repositorios de usuario.
+
+![R.TeachingResearchGuide](Screenshot/GitHubAppRepositories.png)
+
+Podrá observar, p. ej., que existe el repositorio _repotest_, de clic sobre él. 
+
+![R.TeachingResearchGuide](Screenshot/GitHubAppRepositoriesRepotest.png)
+
+Dando clic en la opción _Browse code_, abra la carpeta de referencias y verifique las entradas que hemos incluido en el archivo Readme.md.
+
+![R.TeachingResearchGuide](Screenshot/GitHubAppRepositoriesRefs.png)
+
+
 ### Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
@@ -360,6 +384,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  6  | Dentro de los documentos Readme.md, cree mediante una tabla de una única fila, un panel de navegación que le permita ir a: actividad Anterior, inicio, Ayuda / Colabora y actividad Siguiente. Utilizando rutas relativas, enlace las actividades y el inicio. Asocie Ayuda / Colabora a una discusión creada. |
 |  7  | Desde la opciones de `Insights` disponibles en la parte superior del repositorio, y desde el panel lateral `Community Standards`, establezca el código de conducta y el esquema de contribución.                                                                                                               |
 |  8  | Clone el repositorio ejemplo de este curso https://github.com/rcfdtoolstest/repotest y edite el archivo `.refs/Readme.md` incluyendo una referencia relacionada con el lenguaje de programación Python. Ejecute el `Pull request` para solicitar al propietario la incorporación de esta nueva referencia.     |
+|  9  | Instale la App de GitHub en su dispositivo móvil y verifique los contenidos creados en su repositorio.                                                                                                                                                                                                         |
 
 
 ### Preguntas y respuestas Q&A

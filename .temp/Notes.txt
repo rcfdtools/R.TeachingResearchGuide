@@ -8,9 +8,6 @@ R.TeachingResearchGuide.wiki
 https://github.com/rcfdtools/R.TeachingResearchGuide.wiki.git
 Clone local directory D:\R.TeachingResearchGuide.wiki
 
-Test account
-
-
 ✓✕
 
 Tareas
@@ -20,8 +17,6 @@ Tareas
 		Sesion 1 - Viernes 07 de octubre.
 		Sesion 2 - Viernes 14 de octubre.
 		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
-    Caso de uso - Universidad Escuela Colombiana de Ingeniería
-
 
 Avance
     Sección 1 - Introducción y fundamentos
