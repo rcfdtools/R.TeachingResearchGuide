@@ -24,10 +24,10 @@ El concepto de buenas prácticas (BBPP) ha permeado indiscriminadamente en la ed
 | Toma nota                                                                   | Cuando se te ocurra una idea, una mejora o complementar una actividad, toma notas electrónicas (p. ej., en Google Keep crea notas separadas para cada proyecto o repositorio usando casillas de verificación) y agregala a la lista de pendientes. Al terminar de implementar uno o varios elementos de tu lista, marcalas como completadas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [rcfdtools](https://github.com/rcfdtools)   |
 | Descripción / About & Topics                                                | Todo repositorio en GitHub requiere de una descripción y palabras clave, asegúrate que la descripción represente el contenido o el propósito del repositorio e incluye palabras clave acorde con los temas principales contenidos en el repositorio. EL meta-buscador de GitHub utiliza estos dos elementos para mostrar los repositorios que contienen elementos relacionados al criterio de búsqueda ingresado.                                                                                                                                                                                                                                                                                                                                                                                                   | [rcfdtools](https://github.com/rcfdtools)   |
 
-_Comparte consejos y buenas prácticas desde Ayuda / Colabora._
-
 
 ##  
+
+_Comparte consejos y buenas prácticas desde Ayuda / Colabora._
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
 

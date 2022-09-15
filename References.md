@@ -36,7 +36,14 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://www.w3schools.com/colors/colors_picker.asp
 * https://imagecolorpicker.com/color-code/be2545
 
-Comparte referencias generales desde el hilo de discusión _Ayuda / Colabora_.
+
+##  
+
+_Comparte referencias generales desde Ayuda / Colabora._
+
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
 | [:house: Inicio](Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/12) |
 |------------------------------|----------------------------------------------------------------------------------------------------|
