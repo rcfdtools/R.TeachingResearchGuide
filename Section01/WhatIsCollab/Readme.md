@@ -95,6 +95,9 @@ El objetivo de los esfuerzos de generación de licencias de código abierto de G
 * https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
 * https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 * https://choosealicense.com/
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 
 
 ### Control de versiones
