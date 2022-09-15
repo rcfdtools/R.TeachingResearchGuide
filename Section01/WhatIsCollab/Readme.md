@@ -85,6 +85,9 @@ El objetivo de los esfuerzos de generación de licencias de código abierto de G
 
 ### Referencias
 
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 * [Programación colaborativa. De la necesidad de su uso a la psicología de sus interacciones](https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.)
 * https://www.barcelona.cat/digitalstandards/es/free-soft/0.2/collaborative-development
 * https://www.euroinnova.pe/blog/que-son-los-proyectos-colaborativos
@@ -95,9 +98,6 @@ El objetivo de los esfuerzos de generación de licencias de código abierto de G
 * https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
 * https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 * https://choosealicense.com/
-* [Referencias generales](../../References.md)
-* [Abreviaturas y definiciones generales](../../Definitions.md)
-* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 
 
 ### Control de versiones
