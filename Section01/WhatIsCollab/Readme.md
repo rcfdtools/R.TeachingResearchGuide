@@ -52,7 +52,7 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 </div>
 
 
-## Agregar valor a mi organización a través de desarrollo colaborativo [^4]
+### Agregar valor a mi organización a través de desarrollo colaborativo [^4]
 
 El desarrollo de contenidos bajo el esquema de desarrollo colaborativo, agrega valor a tu perfil profesional, a tu equipo de trabajo y a la organización a la que perteneces.
 
