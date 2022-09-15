@@ -52,6 +52,18 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 </div>
 
 
+## Agregar valor a mi organización a través de desarrollo colaborativo [^4]
+
+El desarrollo de contenidos bajo el esquema de desarrollo colaborativo, agrega valor a tu perfil profesional, a tu equipo de trabajo y a la organización a la que perteneces.
+
+| Valor                                                                                                            | ¿Cómo?                                                                                                                                                                                                                                                                                     | Autor                                     |
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Combina tu experticia y la experticia de los miembros de tú equipo de trabajo para crear contenidos compartidos. | En entornos educativos, múltiples profesores pueden enseñar la misma asignatura y a través del desarrollo colaborativo, se puede crear y desarrollar un curso global con un micro-currículo común, que combine la experticia de los diferentes miembros del equipo.                        | [rcfdtools](https://github.com/rcfdtools) |
+| Crea oportunamente contenidos científicos de alta calidad con actualización permanente.                          | Un equipo de trabajo organizado y multidisciplinar, estará al tanto de nuevos métodos y herramientas que podrá implementar en contenidos existentes dentro de la organización. "Encuentra las necesidades de tus usuarios y dales lo que necesitan mucho más rápido que tus competidores". | [rcfdtools](https://github.com/rcfdtools) |
+| Busca siempre la manera de dar valor agregado a todos los contenidos en los que participes.                      | Al desarrollar una investigación, crear un curso o escribir un libro, crea un repositorio documentado e invita a otros miembros de tu equipo y organización a colaborar.                                                                                                                   | [rcfdtools](https://github.com/rcfdtools) |
+| Interactúa con los miembros de tu equipo y con tus clientes.                                                     | Crea centros de discusión en cada repositorio para documentar la interacción entre los miembros y usuarios, publica frecuentemente noticias para mantener actualizada a tu comunidad.                                                                                                      | [rcfdtools](https://github.com/rcfdtools) |       
+
+
 ### Contenido audiovisual complementario recomendado
 
 En los siguientes videos encontrarás diferentes perspectivas y conocimientos relacionadas con desarrollo colaborativo que te ayudarán a entender su importancia y necesidad dentro de equipos de trabajo y organizaciones.
@@ -116,3 +128,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 [^1]: Tomado o adaptado de https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
 [^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
 [^3]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+[^4]: Tomado o adaptado de [7 Ways To Add Value To Your Business | Brian Tracy](https://www.youtube.com/watch?v=xztW-nosYn0)
