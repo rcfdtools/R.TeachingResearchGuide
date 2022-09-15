@@ -42,7 +42,7 @@ Visual Studio Code (VS Code) es un editor de código fuente multilenguaje que pe
 | [Instalación y configuración de Visual Studio Code](Section03/Setup)        | Para la gestión de repositorios GitHub a través de Visual Studio Code, es necesario instalar el entorno de desarrollo integrado (IDE) y diferentes extensiones.                                                                             |
 | [Edición local de repositorios GitHub con VS Code](Section03/SingleProject) | Luego de realizada la instalación y configuración, podrás gestionar localmente repositorios de GitHub, revisar los controles de cambios realizados sobre los archivos de los proyectos, comentar y publicar las actualizaciones en la nube. |
 
-<br>
+##  
 
 _:beginner: Ayuda / Colabora: a través de la pestaña _[Discussions](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions)_ localizada en la parte superior de esta ventana, podrás encontrar y participar en los [_anuncios o noticias_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/announcements) publicados, enviarnos tus [_ideas_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/ideas) para actividades complementarias, participar en preguntas, respuestas y consultas específicas [_Q&A_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/q-a) y realizar [_publicaciones o consultas generales_](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/categories/general) públicas._
 
