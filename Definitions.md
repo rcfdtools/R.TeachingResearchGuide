@@ -43,7 +43,7 @@ Un curso o una investigación, una sección o una actividad puede ser clasificad
 
 _Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión [Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11)._
 
-_:beginner: R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
+_:scroll: R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
 
 _[:blue_heart: Consejos y buenas prácticas de desarrollo colaborativo](BestPractice.md): algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios._
 
