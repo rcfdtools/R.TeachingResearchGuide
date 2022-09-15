@@ -346,7 +346,7 @@ History
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
 
 
-### GitHub App para Android e Apple iOS
+### GitHub App en Android o Apple iOS
 
 Desde la tienda de aplicaciones de su teléfono móvil, instale la aplicación GitHub.
 
