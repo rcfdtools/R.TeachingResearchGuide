@@ -41,14 +41,13 @@ Un curso o una investigación, una sección o una actividad puede ser clasificad
 
 > La dedicación académica se refiere al tiempo que el estudiante o profesional ha dedicado (durante o luego de su formación) al desarrollo de investigaciones, casos de estudio y proyectos aplicados a partir de los cuales se ha generado conocimiento y/o un producto verificable que puede ser certificado por una organización (p. ej. informes y anexos técnicos, documentos de investigación, artículos, producción científica, repositorios con registros de control de cambios con investigador asociado). Es de considerar que no solamente se obtiene el nivel de experticia a partir de conocimientos obtenidos a través de formación formal o informal, sino a través de la aplicación de estos conocimientos. 
 
-_:bulb: Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión [Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11)._
+_:bulb:Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión [Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11)._
 
-_:scroll: R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
+_:scroll:R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
 
-_[:blue_heart: Consejos y buenas prácticas de desarrollo colaborativo](BestPractice.md): algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios._
+_[:blue_heart:Consejos y buenas prácticas de desarrollo colaborativo](BestPractice.md): algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
-
 
 | [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11) |
 |-----------------------------|----------------------------------------------------------------------------------------------------|
