@@ -114,9 +114,10 @@ El objetivo de los esfuerzos de generación de licencias de código abierto de G
 
 ### Control de versiones
 
-| Versión    | Descripción         | Autor                                      | Horas |
-|------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.12 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+| 2022.09.15 | Agregar valor a mi organización a través de desarrollo colaborativo. | [rcfdtools](https://github.com/rcfdtools)  |   1   |
+| 2022.08.12 | Versión preliminar.                                                  | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
