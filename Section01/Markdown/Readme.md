@@ -260,6 +260,10 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 
 ### Referencias
 
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
+
 Markdown generales  
 * https://docs.github.com/es/get-started/writing-on-github
 * [Curso de #Markdown desde cero, ProgramaTutos en Youtube](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ)

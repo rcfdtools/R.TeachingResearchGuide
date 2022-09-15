@@ -210,6 +210,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Referencias
 
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 * https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
 * https://github.com/organizations/plan
 * https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts

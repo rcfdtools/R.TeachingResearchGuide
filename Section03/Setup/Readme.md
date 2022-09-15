@@ -158,6 +158,9 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 
 ### Referencias
 
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 * https://code.visualstudio.com/docs/setup/setup-overview
 * https://code.visualstudio.com/docs/setup/windows
 * https://code.visualstudio.com/docs/getstarted/introvideos

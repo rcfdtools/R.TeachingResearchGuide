@@ -133,6 +133,9 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el
 
 ### Referencias
 
+* [Referencias generales](../../References.md)
+* [Abreviaturas y definiciones generales](../../Definitions.md)
+* [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 
 
