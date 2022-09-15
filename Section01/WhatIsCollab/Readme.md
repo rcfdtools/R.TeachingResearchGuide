@@ -4,7 +4,7 @@ Keywords: `Collab` `Collaborative creation` `Agility`
 En esta actividad aprenderás diferentes conceptos relacionados con desarrollo colaborativo, sus beneficios y las diferencias principales entre cooperación y colaboración.
 
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/WhatIsCollabChart.svg" width="75%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/WhatIsCollabChart.svg" width="60%"><br>
 <sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultad y/o programa, centros de estudios, grupos de investigación y semilleros.</sub><br><br>
 </div>
 
