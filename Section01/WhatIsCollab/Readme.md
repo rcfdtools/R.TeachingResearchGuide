@@ -52,6 +52,11 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 </div>
 
 
+### Agregar valor a mi organización a través de desarrollo colaborativo
+
+
+
+
 ### Contenido audiovisual complementario recomendado
 
 En los siguientes videos encontrarás diferentes perspectivas y conocimientos relacionadas con desarrollo colaborativo que te ayudarán a entender su importancia y necesidad dentro de equipos de trabajo y organizaciones.
