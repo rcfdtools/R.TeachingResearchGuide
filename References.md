@@ -20,6 +20,7 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://docs.github.com/es/desktop
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 * https://docs.github.com/en/get-started/quickstart/github-glossary
+* https://towardsdatascience.com/forget-about-algorithms-and-models-learn-how-to-solve-problems-first-c791fde5842e
 
 
 ### emojis
