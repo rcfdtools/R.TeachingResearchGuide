@@ -126,7 +126,7 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 | [Anterior](../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente](../CollabTools) |
 |--------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------|
 
-[^1]: Tomado o adaptado de https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
+[^1]: Tomado y/o adaptado de https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
 [^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
 [^3]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
-[^4]: Tomado o adaptado de [7 Ways To Add Value To Your Business | Brian Tracy](https://www.youtube.com/watch?v=xztW-nosYn0)
+[^4]: Tomado y/o adaptado de [7 Ways To Add Value To Your Business | Brian Tracy](https://www.youtube.com/watch?v=xztW-nosYn0)
