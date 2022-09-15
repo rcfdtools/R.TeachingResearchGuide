@@ -41,7 +41,7 @@ Un curso o una investigación, una sección o una actividad puede ser clasificad
 
 > La dedicación académica se refiere al tiempo que el estudiante o profesional ha dedicado (durante o luego de su formación) al desarrollo de investigaciones, casos de estudio y proyectos aplicados a partir de los cuales se ha generado conocimiento y/o un producto verificable que puede ser certificado por una organización (p. ej. informes y anexos técnicos, documentos de investigación, artículos, producción científica, repositorios con registros de control de cambios con investigador asociado). Es de considerar que no solamente se obtiene el nivel de experticia a partir de conocimientos obtenidos a través de formación formal o informal, sino a través de la aplicación de estos conocimientos. 
 
-## ... 
+##  
 
 _:bulb:Comparte abreviaturas, definiciones o extensiones desde el hilo de discusión [Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/11)._
 
