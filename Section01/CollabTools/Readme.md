@@ -27,7 +27,7 @@ Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & C
 
 Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Fue desarrollada en el lenguaje de programación Ruby on Rails y opera desde el 2010 bajo este nombre, heredado de Logical Awesome LLC. En la actualidad esta forja es propiedad de Microsoft, y es la más importante hasta la fecha, con una alta cantidad de usuarios que la usan. Esto se debe, entre otras particularidades, por la mejora continua de sus funciones y posibilidades en materia de publicación y acceso a los proyectos. Brinda opciones para diferentes intereses, permitiendo clasificar algunos proyectos con un mayor nivel de privacidad, manteniendo una mayoría de código público. Un factor relevante es la seguridad que posee y la estabilidad, lo cual genera confianza en los desarrolladores.
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="R.TeachingResearchGuide" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
 
 Algunas características de esta plataforma son:
 
@@ -48,14 +48,14 @@ Dentro de GitHub hay varios servicios, como:
 
 Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. Como el resto, maneja el control de versiones para los proyectos como aspecto clave en el desarrollo colaborativo. En este caso, GitLab incluye servicios DevOps para agilizar las etapas de construcción de un software. Su amplia usabilidad se debe a que es una suite muy completa que permite, no solo crear repositorios, sino administrarlos y gestionarlos, para que puedan incluso se conecten entre ellos, aunque pertenezcan a diferentes proyectos. Una idea de su impacto se genera al conocer que tiene clientes como la SIEMENS, NVIDIA y T-Mobile.
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=MqL6BMOySIQ" target="_blank"><img src="http://img.youtube.com/vi/MqL6BMOySIQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=MqL6BMOySIQ</sub><br><br></div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=MqL6BMOySIQ" target="_blank"><img src="http://img.youtube.com/vi/MqL6BMOySIQ/0.jpg" alt="R.TeachingResearchGuide" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=MqL6BMOySIQ</sub><br><br></div>
 
 
 #### [Google Colab & Code](https://code.google.com/)
 
 El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google.
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=_nOzAsz6EHI" target="_blank"><img src="http://img.youtube.com/vi/_nOzAsz6EHI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=_nOzAsz6EHI</sub><br><br></div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=_nOzAsz6EHI" target="_blank"><img src="http://img.youtube.com/vi/_nOzAsz6EHI/0.jpg" alt="R.TeachingResearchGuide" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=_nOzAsz6EHI</sub><br><br></div>
 
 Servicios principales visibles en code.google.com y 
 
@@ -87,11 +87,7 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 
 #### [Bitbucket](https://bitbucket.org/product)
 
-<div align="center">
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br>
-
-</div>
+<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="R.TeachingResearchGuide" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br></div>
 
 
 ### ¿Qué plataforma debo usar?
