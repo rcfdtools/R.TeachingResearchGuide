@@ -13,6 +13,7 @@
 | PyCharm.png                 | PyCharm icon                                                                                         | https://www.freepng.es/png-85ulxq/                     |
 | logo, python svg icon.svg   | Python icon                                                                                          | https://www.iconninja.com/logo-python-icon-26531       |
 | VSCode.png                  | Visual Studio Code icon                                                                              | https://www.pngwing.com/en/free-png-aztoa              |
+| Bitbucket-Logo.wine.svg     | Atlassian Bitbucket icon                                                                             | https://www.logo.wine/logo/Bitbucket              |
 
 | [:house: Inicio](../Readme.md) |
 |--------------------------------|
