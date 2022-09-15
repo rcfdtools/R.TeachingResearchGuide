@@ -87,7 +87,11 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 
 #### [Bitbucket](https://bitbucket.org/product)
 
-<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br></div>
+<div align="center">
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br>
+
+</div>
 
 
 ### ¿Qué plataforma debo usar?
