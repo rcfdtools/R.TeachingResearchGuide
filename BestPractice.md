@@ -25,6 +25,18 @@ El concepto de buenas prácticas (BBPP) ha permeado indiscriminadamente en la ed
 | Descripción / About & Topics                                                | Todo repositorio en GitHub requiere de una descripción y palabras clave, asegúrate que la descripción represente el contenido o el propósito del repositorio e incluye palabras clave acorde con los temas principales contenidos en el repositorio. EL meta-buscador de GitHub utiliza estos dos elementos para mostrar los repositorios que contienen elementos relacionados al criterio de búsqueda ingresado.                                                                                                                                                                                                                                                                                                                                                                                                   | [rcfdtools](https://github.com/rcfdtools)   |
 
 
+
+## Agregar valor a mi organización a través de desarrollo colaborativo [^2]
+
+| Valor                                                                                                            | ¿Cómo?                                                                                                                                                                                                                                                                                                 | Autor                                     |
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Creación oportuna de contenidos científicos de alta calidad con actualización permanente.                        | Un equipo de trabajo organizado y multidisciplinar, estará al tanto de nuevos métodos y herramientas que podrá implementar en contenidos existentes dentro de la organización. "Encuentra las necesidades de tus potenciales clientes y dales lo que necesitan mucho más rápido que tus competidores". | [rcfdtools](https://github.com/rcfdtools) |
+| Busca siempre la manera de dar valor agregado a todos los contenidos en los que participes.                      | Al desarrollar una investigación, crear un curso o escribir un libro, crea un repositorio documentado e invita a otros miembros de tu equipo y organización a colaborar.                                                                                                                               | [rcfdtools](https://github.com/rcfdtools) |
+| Combina tu experticia y la experticia de los miembros de tú equipo de trabajo para crear contenidos compartidos. | En entornos educativos, múltiples profesores pueden dictar la misma asignatura y a través del desarrollo colaborativo se puede crear y desarrollar un curso global con un micro-currículo común que combine la experticia de los diferentes miembros del equipo.                                       | [rcfdtools](https://github.com/rcfdtools) |
+|                                                                                                                  |     
+
+
+
 ##  
 
 _Comparte consejos y buenas prácticas desde Ayuda / Colabora._
@@ -37,3 +49,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |-----------------------------|---------------------------------------------------------------------------------------------------|
 
 [^1]: Tomado de https://www.redalyc.org/journal/5216/521662150036/
+[^2]: Tomado o adaptado de [7 Ways To Add Value To Your Business | Brian Tracy](https://www.youtube.com/watch?v=xztW-nosYn0)
