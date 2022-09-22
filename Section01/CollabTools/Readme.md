@@ -9,12 +9,12 @@ Existen diferentes herramientas o plataformas informáticas para desarrollo cola
 
 ### Características de las plataformas de desarrollo colaborativo[^1]
 
-Este tipo de plataformas se conocen como forjas, y es un término que reúne las características que debe cumplir una herramienta para convertirse en una plataforma de desarrollo colaborativo. Además de permitir la disponibilidad del los archivos fuente de uno o varios proyectos, también pueden utilizarse para dar soporte y mantenimiento a investigaciones y sistemas informáticos ya concluidos y en explotación. Una forja o plataforma colaborativa, alberga múltiples proyectos a la vez, organizados correctamente, que registra los accesos y genera las trazas necesarias para mantener el control sobre los cambios y el acceso a dichos proyectos. Cada plataforma tiene varias aplicaciones que responden a una única interfaz administrativa desde donde se realiza el registro de los colaboradores.
+Este tipo de plataformas se conocen como forjas, y es un término que reúne las características que debe cumplir una herramienta para convertirse en una plataforma de desarrollo colaborativo. Además de permitir la disponibilidad del los archivos fuente de uno o varios proyectos, también pueden utilizarse para dar soporte y mantenimiento a investigaciones y sistemas informáticos ya concluidos y en explotación o producción. Una forja o plataforma colaborativa, alberga múltiples proyectos a la vez, organizados correctamente, que registra los accesos y genera las trazas necesarias para mantener el control sobre los cambios y el acceso a dichos proyectos. Cada plataforma tiene varias aplicaciones que responden a una única interfaz administrativa desde donde se realiza el registro de los colaboradores.
 
 Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base de sus utilidades está sobre tecnologías como:
 
-* Control de versiones
-* Publicación de foros de discusión y soporte
+* Control de versiones y trazabilidad
+* Foros de discusión y soporte
 * Wikis para gestionar la documentación
 
 Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah, Bitbucket.
@@ -89,26 +89,26 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="R.TeachingResearchGuide" width="480" border="10" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br></div>
 
 
-### ¿Qué plataforma debo usar?
+### ¿Cuál plataforma debo usar?
 
 Para responder esta pregunta, creemos una lista de requerimientos específicos para el enfoque de educación e investigación planteado en este curso y para las 3 plataformas más populares.
 
 <div align="center">
 
-| Requerimiento                                                                             | GitHub | GitLab | Google Code |
-|-------------------------------------------------------------------------------------------|:------:|:------:|:-----------:|
-| Creación de cuenta sin versión de prueba o que expira                                     |   ✓    |        |      ✓      |
-| Repositorios públicos sin login de usuario                                                |   ✓    |        |             |
-| Repositorios ilimitados por usuario sin versión de pago                                   |   ✓    |        |             |
-| Creación de organizaciones                                                                |   ✓    |   ✓    |             |
-| Clonación de repositorios entre usuarios y organizaciones                                 |   ✓    |   ✓    |             |
-| Descarga directa de repositorio sin registro de usuario                                   |   ✓    |        |      ✓      |
-| Buscador de proyectos sin registro de usuario                                             |   ✓    |        |             |
-| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                           |   ✓    |        |             |
-| Gestión local de repositorio utilizando herramientas de desarrollo                        |   ✓    |   ✓    |      ✓      |
-| Entornos de discusión por repositorio                                                     |   ✓    |   ✓    |      ✓      |
-| Llamado de recursos entre repositorios<br>(archivos, paquetes de datos, librerías...)     |   ✓    |   ✓    |      ✓      |
-| Aplicación móvil oficial con opciones de edición, discusiones, asuntos, notificaciones... |   ✓    |        |             |
+| Requerimiento                                                                           | GitHub | GitLab | Google Code |
+|:----------------------------------------------------------------------------------------|:------:|:------:|:-----------:|
+| Creación de cuenta sin versión de prueba o que expira                                   |   ✓    |        |      ✓      |
+| Repositorios públicos sin login de usuario                                             |   ✓    |        |             |
+| Repositorios ilimitados por usuario sin versión de pago                                 |   ✓    |        |             |
+| Creación de organizaciones                                                              |   ✓    |   ✓    |             |
+| Clonación de repositorios entre usuarios y organizaciones                               |   ✓    |   ✓    |             |
+| Descarga directa de repositorio sin registro de usuario                                 |   ✓    |        |      ✓      |
+| Buscador de proyectos sin registro de usuario                                           |   ✓    |        |             |
+| Cargue masivo de archivos inferiores a 100 MB en cuentas libres                         |   ✓    |        |             |
+| Gestión local de repositorio utilizando herramientas de desarrollo                      |   ✓    |   ✓    |      ✓      |
+| Entornos de discusión por repositorio público                                           |   ✓    |   ✓    |      ✓      |
+| Llamado de recursos entre repositorios<br>(archivos, paquetes de datos, librerías...)   |   ✓    |   ✓    |      ✓      |
+| Aplicación móvil oficial con opciones de edición, discusiones, asuntos, notificaciones. |   ✓    |        |             |
 
 </div>
 
