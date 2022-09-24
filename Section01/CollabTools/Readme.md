@@ -1,7 +1,7 @@
 ## Herramientas para desarrollo colaborativo
 Keywords: `GitHub` `GitLab` `Google Code` `SourceForge` `GNU Savannah`
 
-Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear, ni siquiera tienen que conocerse para poder dar sus criterios y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento disponible públicamente, para ser accedido y revisado por otros investigadores, educadores o estudiantes. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
+Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear contenidos, ni siquiera tienen que conocerse para poder dar sus criterios, aportar sus habilidades y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento debe ser público y abierto, para que sea accedido y revisado por otros investigadores, educadores, estudiantes o creadores de contenido. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
 <div align="center">
 <br><img alt="R.TeachingResearchGuide" src="Graph/CollabTools.png" width="65%"><br>
 </div>
@@ -15,7 +15,7 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 
 * Control de versiones y trazabilidad
 * Foros de discusión y soporte
-* Wikis para gestionar la documentación
+* Wikis para gestionar documentación oficial
 
 Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah, Bitbucket.
 
@@ -112,11 +112,11 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 
 </div>
 
-> Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools](https://github.com/rcfdtools) y su validación puede cambiar por cambios en las políticas propias de cada plataforma.
+> Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools]((https://github.com/rcfdtools) y su validación puede cambiar debido a los ajustes en las políticas propias de cada plataforma.
 > 
 > Pruebas de búsqueda de repositorios públicos realizada en 2022.08.13 desde los buscadores de cada plataforma: al ingresar la palabra **Hydrology** en Google Code Archive se obtienen 34 resultados y en el buscador de GitLab sin inicio de sesión o registro de usuario, no se obtienen resultados. Al realizar esta misma búsqueda desde el buscador de GitHub se obtienen más de 1000 repositorios directos.
 
-De acuerdo a la cobertura en los requerimientos indicados, la plataforma para el desarrollo de contenidos por desarrollo colaborativo orientado a educación e investigación es GitHub. 
+De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la creación de contenidos por desarrollo colaborativo orientado a educación e investigación que utilizaremos para el desarrollo de esta guía, es GitHub.
 
 
 ### Preguntas y respuestas Q&A
