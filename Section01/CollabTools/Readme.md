@@ -98,7 +98,7 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 | Requerimiento                                                                           | GitHub | GitLab | Google Code |
 |:----------------------------------------------------------------------------------------|:------:|:------:|:-----------:|
 | Creación de cuenta sin versión de prueba o que expira                                   |   ✓    |        |      ✓      |
-| Repositorios públicos sin login de usuario                                             |   ✓    |        |             |
+| Repositorios públicos sin login de usuario                                              |   ✓    |        |             |
 | Repositorios ilimitados por usuario sin versión de pago                                 |   ✓    |        |             |
 | Creación de organizaciones                                                              |   ✓    |   ✓    |             |
 | Clonación de repositorios entre usuarios y organizaciones                               |   ✓    |   ✓    |             |
