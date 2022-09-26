@@ -53,5 +53,5 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src=".icons/Banner1.svg" width="100%">
+  <br><img alt="R.TeachingResearchGuide" src="CaseUse/.icons/Banner1.svg" width="100%">
 </div>
