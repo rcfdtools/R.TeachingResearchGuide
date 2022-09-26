@@ -1,5 +1,5 @@
 <div align="center">
-  <br><img alt="R.LTWB" src="../.icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+  <br><img alt="R.TeachingResearchGuide" src="../.icons/R.TeachingResearchGuideBanner1.svg" width="100%">
 </div>
 
 ## Sección 2 - Gestión local de repositorios GitHub con PyCharm Community

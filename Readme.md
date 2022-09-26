@@ -1,5 +1,5 @@
 <div align="center">
-  <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+  <br><img alt="R.TeachingResearchGuide" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
 </div>
 
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.  
@@ -52,3 +52,6 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
+<div align="center">
+  <br><img alt="R.TeachingResearchGuide" src=".icons/Banner1.svg" width="100%">
+</div>
