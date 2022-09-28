@@ -5,7 +5,7 @@
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.  
 
 
-### Sección 1 - Introducción, fundamentos e implementación de GitHub
+## Sección 1 - Introducción, fundamentos e implementación de GitHub
 
 El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores (denominados en esta guía como “**creadores de contenido**”), colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diferentes perspectivas.
 
@@ -21,7 +21,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 | [Centro de discusiones en GitHub](Section01/GitHubDiscussions)                                   | Discusiones es el espacio donde los creadores de contenido, estudiantes, colaboradores y usuarios finales se reúnen para intercambiar ideas, solicitar ayuda, dar solución a problemas o para comunicarse entre sí.                                                                                                                        |
 
 
-### Sección 2 - Gestión local de repositorios GitHub con PyCharm Community
+## Sección 2 - Gestión local de repositorios GitHub con PyCharm Community
 
 PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar controles de cambios en múltiples repositorios, corrección de escritura, gramática avanzada, publicación y actualización comentada en GitHub.
 
@@ -33,7 +33,7 @@ PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado
 | [Proyectos GitHub utilizando Python en PyCharm](Section02/Python)                                     | Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.  |
 
 
-### Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
+## Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
 
 Visual Studio Code (VS Code) de Microsoft, es un editor de código fuente multi-lenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.
 
