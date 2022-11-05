@@ -277,6 +277,7 @@ Markdown generales
 * https://markdown.es/
 * https://raw.githubusercontent.com/admnll/ecuaciones-latex-word-markdown/master/markdown.md
 * https://geojson.org/
+* https://latex-tutorial.com/symbols/greek-alphabet/
 
 emojis  
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
