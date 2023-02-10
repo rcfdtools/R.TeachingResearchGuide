@@ -121,6 +121,8 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 > Los requerimientos presentados en la tabla anterior han sido definidos por [rcfdtools]((https://github.com/rcfdtools) y su validación puede cambiar debido a los ajustes en las políticas propias de cada plataforma.
 > 
 > Pruebas de búsqueda de repositorios públicos realizada en 2022.08.13 desde los buscadores de cada plataforma: al ingresar la palabra **Hydrology** en Google Code Archive se obtienen 34 resultados y en el buscador de GitLab sin inicio de sesión o registro de usuario, no se obtienen resultados. Al realizar esta misma búsqueda desde el buscador de GitHub se obtienen más de 1000 repositorios directos.
+> 
+> Desde la web se pueden cargar directamente archivos de 25 MB, a través de gestores de archivos o por consola, se pueden cargar archivos de hasta 100 MB.
 
 De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la creación de contenidos por desarrollo colaborativo orientado a educación e investigación que utilizaremos para el desarrollo de esta guía, es GitHub.
 
