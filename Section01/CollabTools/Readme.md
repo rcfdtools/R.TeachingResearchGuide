@@ -3,7 +3,7 @@ Keywords: `GitHub` `GitLab` `Google Code` `SourceForge` `GNU Savannah`
 
 Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear contenidos, ni siquiera tienen que conocerse para poder dar sus criterios, aportar sus habilidades y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento debe ser público y abierto, para que sea accedido y revisado por otros investigadores, educadores, estudiantes o creadores de contenido. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
 <div align="center">
-<br><img alt="R.TeachingResearchGuide" src="Graph/CollabTools.png" width="65%"><br>
+<br><img alt="R.TeachingResearchGuide" src="Graph/CollabTools.png" width="45%"><br>
 </div>
 
 
