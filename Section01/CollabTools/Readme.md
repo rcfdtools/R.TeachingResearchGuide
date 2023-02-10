@@ -42,6 +42,9 @@ Dentro de GitHub hay varios servicios, como:
 * [GitHub Codespaces](https://github.com/features/codespaces)
 * [Patrocinadores](https://github.com/sponsors)
 
+Consulta aquí el [listado de grandes compañías que utilizan GitHub](https://github.com/d2s/companies).
+Consulta aquí el [listado de universidades con organizaciones públicas en GitHub](https://github.com/filler/universities-on-github).
+
 
 #### [GitLab](https://gitlab.com/)
 
