@@ -4,7 +4,7 @@
 
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.  
 
-<div align="center"><a href="https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89" target="_blank"><img src=".icons/VideoIntro.png" alt="R.TeachingResearchGuide" width="320" border="0" /></a><sub><br>https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89<br><br></div>
+<div align="center"><a href="https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89" target="_blank"><img src=".icons/VideoIntro.png" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89<br><br></div>
 
 
 ## Sección 1 - Introducción, fundamentos e implementación de GitHub
