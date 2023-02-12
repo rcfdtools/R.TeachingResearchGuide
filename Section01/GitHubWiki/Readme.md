@@ -22,7 +22,7 @@ Conceptos de documentación global de proyectos orientados a desarrollo de softw
 
 ### Conceptos generales
 
-Al crear un repositorio en GitHub, automáticamente se crea el centro de documentación Wiki, que comúnmente es utilizado para documentar proyectos orientados al desarrollo de software. Si bien, el centro de documentación puede ser usado para cualquier tipo de proyecto sin importar su propósito, no es recomendable usarlo para contenidos orientados a cursos y libros electrónicos, debido a que al realizar la clonación por parte de otros usuarios, los archivos Markdown embebidos dentro del espacio virtual Wiki, no son incluidos en la descarga o en la sincronización.
+Al crear un repositorio público en GitHub, automáticamente se crea el centro de documentación Wiki, que comúnmente es utilizado para documentar proyectos orientados al desarrollo de software. Si bien, el centro de documentación puede ser usado para cualquier tipo de proyecto sin importar su propósito, no es recomendable usarlo para contenidos orientados a cursos y libros electrónicos, debido a que al realizar la clonación por parte de otros usuarios, los archivos Markdown embebidos dentro del espacio virtual Wiki, no son incluidos en la descarga o en la sincronización.
 
 Otro elemento a tener en cuenta en la gestión de documentación Wiki, tiene que ver con que los elementos no son editables por otros usuarios para posteriores solicitudes de integración de cambios, causando que la actualización directa solo dependa del propietario y colaboradores directos del repositorio. Si bien, la sección Wiki de un repositorio puede ser clonada localmente por otros usuarios, esta difícilmente puede ser integrada y publicada a los repositorios principales clonados.
 
