@@ -35,7 +35,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 > En la ventana de creación aparecerán mensajes indicando si la cuenta de correo utilizada ya está siendo utilizada por otro usuario, password válido y nombre disponible para la creación del usuario GitHub.  
 ![R.TeachingResearchGuide](Screenshot/GitHubEnterYourEmail.png)
 
-> **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o GMail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
+> **Recomendación de correo asociado**: debido a que su cuenta de GitHub es personal y el ingreso de sesión y recuperación de contraseñas estará regido por su dirección de correo, se recomienda crear una cuenta de correo personal en Outlook o Gmail y crear su cuenta GitHub utilizando esta dirección. Luego de generada la cuenta, podrá asociar su cuenta de correo corporativo desde la [configuración de cuenta de correo](https://github.com/settings/emails).
 > 
 > **Recomendación para nombre de usuario**: utilice un nombre corto que describa su identidad profesional o su especialidad, p. ej. si ud es experto en proyectos relacionados con física cuántica, su nombre de usuario podrá ser algo como `quantumphysicsprj`, siempre y cuando este nombre no haya sido tomado por otro usuario. Por privacidad y para dar un carácter más profesional a su espacio colaborativo en GitHub, **No es recomendable usar su nombre** o información personal. Si es propietario de una empresa, no utilice el nombre corporativo para crear su perfil, cree un espacio compartido colaborativo a través de una Organización de GitHub.  
 
@@ -75,7 +75,7 @@ En la parte superior de su tablero de control de usuario encontrará las seccion
 
 2. En la ventana de creación de repositorio nuevo, ingrese el nombre del repositorio, p. ej. `repotest` e ingrese una descripción general de su propósito.
 
-Defina su el repositorio será de uso Público o Privado, si es público, cualquier usuario de Internet podrá visualizar, clonar o descargar la información contenida dentro del respositorio; si es privado, usted podrá decidir quien o quienes pueden acceder al respositorio.
+Defina si el repositorio será de uso Público o Privado, si es público, cualquier usuario de Internet podrá visualizar, clonar o descargar la información contenida dentro del respositorio; si es privado, usted podrá decidir quien o quienes pueden acceder al respositorio.
 
 > Para los dos tipos de repositorio, el creador podrá decidir si integra o no las modificaciones que los usuarios propongan a través de commit's.
 
@@ -83,7 +83,7 @@ Para inicializar un repositorio, uste puede decidir si quiere incluir el primer 
 
 > En caso de que no cree el archivo Readme.md y .gitingore, estos podrán ser creados manualmente.
 > 
-> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `.venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`. Para la gestión desde Desktop, p. ej. a través de PyCharm o de Visual Studio Code`, no se incluyen la carpeta `.idea` y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
+> Github dispone de múltiples plantillas que contiene los archivos que no deben ser sincronizados y publicados en su proyecto, p. ej. para proyectos creados en Python en los cuales se han creado ambientes virtuales, no se debe sincronizar la carpeta `.venv` ni los archivos precompilados `.pyc` de librerías propias contenidas en `__pycache__`. Para la gestión desde Desktop, p. ej. a través de PyCharm o de Visual Studio Code, no se incluyen la carpeta `.idea` y demás archivos de gestión utilizados por los administradores de contenido o herramientas de gestión Git.
 
 Opcionalmente, podrá seleccionar el tipo de licencia a utilizar entre diferentes licencias disponibles orientadas a desarrollo de software o a producción de contenido audiovisual. Generalmente, los usuarios seleccionan la [Licencia MIT](https://opensource.org/licenses/MIT) debido a que confiere uso abierto completo pero sin ningún tipo de garantía o responsabilidad.
 
