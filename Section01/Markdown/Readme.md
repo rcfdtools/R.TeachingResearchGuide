@@ -243,6 +243,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 |     :notebook:     | `:notebook:`         | Referencias generales.                                                                               |
 |      :label:       | `:label:`            | Abreviaturas o definiciones generales.                                                               |
 |       :star:       | `:star:`             | Seguir este repositorio.                                                                             |
+|    :blue_heart:    | `:blue_heart:`       | Consejo o buena práctica.                                                                            |
 
 
 #### Otras marcas
