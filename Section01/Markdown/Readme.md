@@ -52,7 +52,7 @@ Algunos de los beneficios de usar Markdown son:
 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="0" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>
 
-> Para embeber sus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube. Utilice `height="360"` para definir el alto de la imagen de referencia 
+> Para embeber tus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube. Utilice `height="360"` para definir el alto de la imagen de referencia 
 
 
 #### Script con múltiples líneas
@@ -235,6 +235,14 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 |       :new:        | `:new:`              | Elemento nuevo en cualquier sección, actividad o en documentación.                                   |
 |   :lady_beetle:    | `:lady_beetle:`      | Solución de errores o bugs.                                                                          |
 |     :pencil2:      | `:pencil2:`          | Actividades complementarias a desarrollar por el estudiante.                                         |
+|       :bulb:       | `:bulb:`             | Idea o forma alternativa.                                                                            |
+|       :hook:       | `:hook:`             | Hiperenlace directo a otra actividad o sección.                                                      |
+| :1st_place_medal:  | `:1st_place_medal:`  | Certificación o actividad requerida para obtener un certificado.                                     |
+|  :sun_with_face:   | `:sun_with_face:`    | Iniciar el curso.                                                                                    |
+|     :infinity:     | `:infinity:`         | Otros cursos.                                                                                        |
+|     :notebook:     | `:notebook:`         | Referencias.                                                                                         |
+|      :label:       | `:label:`            | Abreviaturas o definiciones.                                                                         |
+|       :star:       | `:star:`             | Seguir este repositorio.                                                                             |
 
 
 #### Otras marcas
