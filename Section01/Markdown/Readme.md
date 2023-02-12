@@ -235,13 +235,13 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 |       :new:        | `:new:`              | Elemento nuevo en cualquier sección, actividad o en documentación.                                   |
 |   :lady_beetle:    | `:lady_beetle:`      | Solución de errores o bugs.                                                                          |
 |     :pencil2:      | `:pencil2:`          | Actividades complementarias a desarrollar por el estudiante.                                         |
-|       :bulb:       | `:bulb:`             | Idea o forma alternativa.                                                                            |
+|       :bulb:       | `:bulb:`             | Idea o forma alternativa de realizar un procedimiento o una subactividad.                            |
 |       :hook:       | `:hook:`             | Hiperenlace directo a otra actividad o sección.                                                      |
-| :1st_place_medal:  | `:1st_place_medal:`  | Certificación o actividad requerida para obtener un certificado.                                     |
+| :1st_place_medal:  | `:1st_place_medal:`  | Actividad requerida para obtener la certificación.                                                   |
 |  :sun_with_face:   | `:sun_with_face:`    | Iniciar el curso.                                                                                    |
-|     :infinity:     | `:infinity:`         | Otros cursos.                                                                                        |
-|     :notebook:     | `:notebook:`         | Referencias.                                                                                         |
-|      :label:       | `:label:`            | Abreviaturas o definiciones.                                                                         |
+|     :infinity:     | `:infinity:`         | Ver otros cursos.                                                                                    |
+|     :notebook:     | `:notebook:`         | Referencias generales.                                                                               |
+|      :label:       | `:label:`            | Abreviaturas o definiciones generales.                                                               |
 |       :star:       | `:star:`             | Seguir este repositorio.                                                                             |
 
 
