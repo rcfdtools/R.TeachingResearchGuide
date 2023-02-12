@@ -249,7 +249,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
-* Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código y no es necesario utilizar ``` al inicio y fin. Se recomienda el uso de ```.
+* Al tabular varias líneas de texto con la tecla <kbd>Tab</kbd>, las lineas son representadas como líneas de código. Se recomienda el uso de ```.
 
 > En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
 
