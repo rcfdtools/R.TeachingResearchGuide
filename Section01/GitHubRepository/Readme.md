@@ -133,7 +133,7 @@ En la parte superior de la ventana del repositorio, podrá encontrar las siguien
 | Sección      | Utilidad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <> Code      | Ventana principal del repositorio donde se encuentran los archivos y carpetas del proyecto, investigación, e-book. Por defecto, todos los archivos se encuentran en el `main` del repositorio y pueden existir múltiples ramas o `branch`.                                                                                                                                                                                                                                                                                            |
-| Issues       | Los Issues son utilizados para elementos del repositorio, reportar errores que necesitan ser ajustados en nuevas versiones, solicitar nuevas funcionalidades, referenciar otras fuentes o métodos y en general se convierten en la lista de tareas pendientes que se deben ir solucionando. Issues permite la creación de plantillas para facilitar el reporte por parte de los usuarios. Al clonar un repositorio público, los registros contenidos en Issues no son incluidos dentro del repositorio clonado.                       |
+| Issues       | Los Issues son utilizados para reportar errores que necesitan ser ajustados en nuevas versiones, solicitar nuevas funcionalidades, referenciar otras fuentes o métodos y en general se convierten en la lista de tareas pendientes que se deben ir solucionando. Issues permite la creación de plantillas para facilitar el reporte por parte de los usuarios. Al clonar un repositorio público, los registros contenidos en Issues no son incluidos dentro del repositorio clonado.                       |
 | Pull request | Cuando un usuario o un colaborador clona el repositorio y realiza ajustes, correcciones, actualizaciones, nuevas implementaciones; estas pueden ser incorporadas a través de peticiones de incorporación o Pull request. Una vez el propietario o colaborador directo revisa los cambios, estos pueden ser incorporados al main del proyecto y quedan documentados a través de Commit's.                                                                                                                                              |
 | Actions      | GitHub actions permite crear, probar y depurar el código creado a través de flujos de procesos. Durante las acciones se pueden documentar las revisiones, administrar las diferentes ramas de prueba y clasificar los problemas encontrados para colocarlos en la lista de pendientes de Issues.                                                                                                                                                                                                                                      |
 | Projects     | Esta herramienta permite crear una especie de libro electrónico donde se crean actividades y se designan equipos y responsables, que permiten realizar un seguimiento a los avances del proyecto. Se pueden filtrar, ordenar y agrupar por diferentes criterios.                                                                                                                                                                                                                                                                      |
@@ -142,7 +142,7 @@ En la parte superior de la ventana del repositorio, podrá encontrar las siguien
 | Insights     | Esta pestaña permite monitorear todo lo que sucede en el repositorio, p. ej. el total de incorporaciones realizadas, las incorporaciones pendientes, los problemas identificados y resueltos, las acciones realizadas, los contribuidores, el tráfico hacia el repositorio como el número de veces que ha sido clonado o visitado, la frecuencia con la que se trabaja en el repositorio, gráficas de dependencia y linea de tiempo.                                                                                                  |
 | Settings     | Configuración general del repositorio, definición de colaboradores, opciones de moderación, administración de ramas, definición de etiquetas, acciones, ambientes, páginas, integraciones y otros.                                                                                                                                                                                                                                                                                                                                    |
 
-> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discusiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte y es el mejor canal de comunicación entre los creadores y los usuarios. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General. Al clonar un repositorio público, los registros contenidos en Discussions no son incluidos dentro del repositorio clonado.
+> Por defecto, en las opciones disponibles para el repositorio no se encuentran las Discusiones, cuyo funcionamiento es similar al de un foro de ayuda y soporte, y es el mejor canal de comunicación entre los creadores y los usuarios. Su activación se realiza desde las opciones de configuración o Settings a través del grupo de opciones General. Al clonar un repositorio público, los registros contenidos en Discussions no son incluidos dentro del repositorio clonado, estas permanecen siempre asociadas al repositorio original.
 
 En la parte derecha encontrará la sección acerca de o `About` que presenta un resumen general del repositorio, su descripción, usuarios que han marcado el repositorio como favorito, usuarios que se encueran visualizando, número de clonaciones y secciones con la liberación de nuevas versiones (cuando se trata de un software) y paquetes liberados. Desde el ícono de configuración localizado en la parte superior derecha, podrá actualizar los detalles generales, tales como el texto resumen, las palabras clave y desactivar los Releases, Packages & Environments.
 
@@ -152,7 +152,7 @@ En la parte derecha encontrará la sección acerca de o `About` que presenta un 
 
 </div>
 
-De clic en las opciones de configuración, podrá observar que también puede asociar un Website creado a través de [GitHub Pages](https://pages.github.com/). Realice los siguientes ajustes:
+De clic en las opciones de configuración del panel lateral About, podrá observar que también puede asociar un Website creado a través de [GitHub Pages](https://pages.github.com/). Realice los siguientes ajustes:
 
 * Actualice la descripción del repositorio a "Repositorio de prueba - Guía para enseñanza e investigación colaborativa - https://github.com/rcfdtools/R.TeachingResearchGuide."
 * Topics: research teaching guide guidelines rcfdtools (ingresar en minúscula y separados por un espacio)
@@ -217,15 +217,15 @@ Para la gestión de los recursos compartidos del repositorio, es necesario crear
 
 Ejemplo:
 
-| Carpeta   | Descripción                                                                                             | Formatos ejemplo                                                                                  |
-|-----------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
-| .datasets | Contiene datos base que puedan ser convertidos en tablas, series o bases de datos.                      | .xls, xlsx, .txt, .dbf, .asc, .csv, .db, .mdbno espacial, .accdb no espacial, .sqlite no espacial |
-| .graph    | Gráficas y esquemas comunes. Incluye archivos fuente de diagramas y diseño gráfico.                     | .png, .svg, .cdr, .vsdx                                                                           |
-| .github   | Almacenamiento de plantillas Issue del repositorio                                                      | .md                                                                                               |
-| .icons    | Iconografía general. Incluye archivos fuente de diseño gráfico.                                         | .ico, .png, .svg (recomendado)                                                                    |
-| .refs     | Archivos de referencias bibliográficas de uso libre recopiladas                                         | .pdf, .md, .doc, .docx, .epub                                                                     |
-| .src      | Scripts de uso común                                                                                    | .py, .bas, .sh                                                                                    |
-| .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                 |
+| Carpeta   | Descripción                                                                                             | Formatos ejemplo                                                                                   |
+|-----------|:--------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|
+| .datasets | Contiene datos base que puedan ser convertidos en tablas, series o bases de datos.                      | .xls, xlsx, .txt, .dbf, .asc, .csv, .db, .mdb no espacial, .accdb no espacial, .sqlite no espacial |
+| .graph    | Gráficas y esquemas comunes. Incluye archivos fuente de diagramas y diseño gráfico.                     | .png, .svg, .cdr, .vsdx                                                                            |
+| .github   | Almacenamiento de plantillas Issue del repositorio                                                      | .md                                                                                                |
+| .icons    | Iconografía general. Incluye archivos fuente de diseño gráfico.                                         | .ico, .png, .svg (recomendado)                                                                     |
+| .refs     | Archivos de referencias bibliográficas de uso libre recopiladas                                         | .pdf, .md, .doc, .docx, .epub                                                                      |
+| .src      | Scripts de uso común                                                                                    | .py, .bas, .sh                                                                                     |
+| .temp     | Carpeta para volcado de archivos temporales de aplicaciones. Archivos de prueba. Versiones preliminares | Cualquier formato                                                                                  |
 
 > Todos los directorios contendrán un archivo Readme.md en formato Markdown con las especificaciones detalladas de los contenidos de las carpetas.
 
@@ -249,7 +249,7 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 
 Dentro del editor, ingrese el texto `## Datasets o conjuntos de datos comunes`.
 
->> Recuerde que ## es utilizado en Markdown para definir un título de nivel 2.
+> Recuerde que ## es utilizado en Markdown para definir un título de nivel 2.
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestNewFile2.png)
 
@@ -267,7 +267,9 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestFolders.png)
 
-> Cuando necesite cargar archivos a su repositorio, en `Add File` encontrará la opción `Upload files` que permite arrastrar uno o múltiples archivos locales. Para cuentas de no pago, cada archivo independiente no debe superar 100 MB. En caso de que requiera cargar archivos grandes, comprima en múltiples partes de 95 MB.
+> Cuando necesite cargar archivos a su repositorio, en `Add File` encontrará la opción `Upload files` que permite arrastrar uno o múltiples archivos locales. Para cuentas de no pago, cada archivo independiente no debe superar 25 MB. En caso de que requiera cargar archivos grandes, comprima en múltiples partes de 95 MB.
+> 
+> Desde gestores de repositorios Desktop, podrá realizar cargues de archivos de hasta 100 MB.
 
 
 ### Ejemplo de creación de carpetas específicas y archivos Readme.md
