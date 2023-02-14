@@ -31,7 +31,7 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * Creación de redes colaborativas donde los repositorios de los grupos o centros es abierta y compartida dentro de los miembros de la institución, otras instituciones y comunidades científicas.
 * Interacción directa entre grupos, profesores y estudiantes a través de discusiones.
 * Facilidad de integración en la solución de casos de estudio, debido a que los miembros de la red pueden plantear diferentes formas de abordar el problema y se pueden obtener múltiples soluciones.
-* El conocimiento compartido facilita los procesos de enseñanza y aprendizaje debido a que una vez se cuenta con la línea base del conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.
+* El conocimiento compartido facilita los procesos de enseñanza, aprendizaje y transferencia tecnológica, debido a que una vez se cuenta con la línea base del conocimiento, los miembros del equipo buscan nuevas formas de transmitir este conocimiento de una forma más asertiva.
 * Agrega valor a todos los niveles de las organizaciones a las cuales pertenecen los colaboradores.
 
 
