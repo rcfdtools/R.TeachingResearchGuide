@@ -264,6 +264,8 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 | ¿Puedo crear tablas con muchas columnas y texto?                         | Sí, tablas con múltiples columnas que no sean ajustables al espacio de visualización del navegador pueden ser visibles a través de barras de desplazamiento que son generadas automáticamente.                                                                                                                                         |
 | ¿Puedo crear tablas con gráficas embebidas?                              | Sí, las gráficas o íconos deben ser almacenadas en un directorio del repositorio y luego pueden ser embebidas con la marca `![Descripción](hiperenlace)`. Imágenes también pueden ser asociadas desde vínculos externos.                                                                                                               |
 
+> Para la conversión de archivos de Microsoft Word a formato Markdown, guarde el archivo en formato _Single File Web Page (.mht)_ y utilizando un convertidor en línea como [ASPOSE](https://products.aspose.app/words/conversion/mht-to-md), realice la conversión. Obtendrá un comprimido con el archivo .md y las ilustraciones embebidas dentro del documento serán convertidas en imágenes independientes en formato [Portable Network Graphic](https://www.adobe.com/creativecloud/file-types/image/raster/png-file.html) o .png.   
+
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
