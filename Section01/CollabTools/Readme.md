@@ -46,7 +46,7 @@ Quiénes utilizan GitHub
 
 * Consulta aquí el [listado de grandes compañías que utilizan GitHub](https://github.com/d2s/companies).
 * Consulta aquí el [listado de universidades con organizaciones públicas en GitHub](https://github.com/filler/universities-on-github).
-* Consulta aquí el [listado de entidades gubernamentales en GitHub](https://github.com/filler/universities-on-github).
+* Consulta aquí el [listado de entidades gubernamentales en GitHub](https://government.github.com/community/).
 
 
 #### [GitLab](https://gitlab.com/)
