@@ -46,7 +46,7 @@ Una vez realice la verificación retornará automáticamente a VS Code y podrá 
 
 ![R.TeachingResearchGuide](Screenshot/VSCodeOpenRemoteRepositories.png)
 
-Para el ejemplo, he accedido a los repositorios de mi cuenta de usuario [rcfdtools](https://github.com/rcfdtools) de GitHub, en caso de que requiera acceder a una cuenta diferente, en la ventana principal de CS Code, de clic en el botón de usuarios localizado a la izquierda y de clic en `Sign Out`
+Para el ejemplo, he accedido a los repositorios de mi cuenta de usuario [rcfdtools](https://github.com/rcfdtools) de GitHub, en caso de que requiera acceder a una cuenta diferente, en la ventana principal de VS Code, de clic en el botón de usuarios localizado a la izquierda y de clic en `Sign Out`
 
 ![R.TeachingResearchGuide](Screenshot/VSCodeGitHubSignOut.png)
 
