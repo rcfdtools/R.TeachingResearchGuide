@@ -89,6 +89,8 @@ Automáticamente, aparecerá la ventana de bienvenida de PyCharm donde encontrar
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmWelcomeLogInGitHub.png)
 
+> En caso de que ya se encuentre dentro de la interfaz de PyCharm y trabajando en algún repositorio, desde la barra de menús y en las opciones de _Git / Clone_, podrá acceder a la ventana _Get From Version Control_.
+
 Automáticamente, será dirigido a su navegador de Internet, de clic en el botón `Authorize in GitHub`.
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmAuthorizeInGitHub.png)
