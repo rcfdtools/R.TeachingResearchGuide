@@ -169,7 +169,7 @@ Para activar la ejecución de scripts de sistema, en Windows oprima las teclas <
 
 ![R.TeachingResearchGuide](Screenshot/WindowsGpedit.png)
 
-En el grupo de opciones de _Configuración del equipo / Plantillas administrativas / Componentes de Windows / PowerShell_, de doble clic sobre la opción _Activar la ejecución de scripts_   
+En el grupo de opciones de _Configuración del equipo / Plantillas administrativas / Componentes de Windows / Windows PowerShell_, de doble clic sobre la opción _Activar la ejecución de scripts_   
 
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents.png)
 ![R.TeachingResearchGuide](Screenshot/WindowsGpeditComponents1.png)
