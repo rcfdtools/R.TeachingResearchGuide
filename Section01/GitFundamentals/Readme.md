@@ -81,6 +81,7 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 * [Abreviaturas y definiciones generales](../../Definitions.md)
 * [Consejos y buenas prácticas de desarrollo colaborativo](../../BestPractice.md)
 * https://www.atlassian.com/es/git/tutorials/what-is-git
+* [25 most recommended programming books of all-time](https://github.com/daolf/Most-recommended-programming-books)
 
 
 ### Control de versiones

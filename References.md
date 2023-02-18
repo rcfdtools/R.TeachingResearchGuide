@@ -21,6 +21,8 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 * https://docs.github.com/en/get-started/quickstart/github-glossary
 * https://towardsdatascience.com/forget-about-algorithms-and-models-learn-how-to-solve-problems-first-c791fde5842e
+* https://github.com/DataScienceSpecialization/courses
+* https://github.com/r-link/2017-11_Hydraulics_course_TEC
 
 
 ### emojis
