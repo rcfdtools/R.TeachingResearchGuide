@@ -47,6 +47,7 @@ Este documento contiene referencias relacionadas con el contenido general de est
 
 * [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
 * [Best FREE Speech to Text AI - Whisper AI](https://www.youtube.com/watch?v=8SQV-B83tPU)
+* [Multi-Language Text to Speech AI (FREE multi-language ai voice genration software)](https://www.youtube.com/watch?v=zZ2hAS7uWZk)
 * https://www.naturalreaders.com/
 * https://speechify.com/
 
