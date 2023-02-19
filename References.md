@@ -21,6 +21,10 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 * https://docs.github.com/en/get-started/quickstart/github-glossary
 * https://towardsdatascience.com/forget-about-algorithms-and-models-learn-how-to-solve-problems-first-c791fde5842e
+
+
+### Ejemplos de GitHub en educación
+
 * https://github.com/DataScienceSpecialization/courses
 * https://github.com/r-link/2017-11_Hydraulics_course_TEC
 
@@ -37,6 +41,19 @@ Este documento contiene referencias relacionadas con el contenido general de est
 * https://htmlcolorcodes.com/color-picker/
 * https://www.w3schools.com/colors/colors_picker.asp
 * https://imagecolorpicker.com/color-code/be2545
+
+
+### Texto a voz o text to speach TTS
+
+* [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
+* [Best FREE Speech to Text AI - Whisper AI](https://www.youtube.com/watch?v=8SQV-B83tPU)
+* https://www.naturalreaders.com/
+* https://speechify.com/
+
+
+### Edición de videos
+
+* [Curso de Davinci Resolve en español - Mundo Audiovisual](https://www.youtube.com/playlist?list=PL1EtVnEJg9_PnGMd0e7AwkP2gL_MlqMHR)
 
 
 ##  
