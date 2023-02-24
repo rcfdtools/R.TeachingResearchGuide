@@ -7,7 +7,7 @@ Para la gestión y clonación local de repositorios creados en GitHub, es necesa
 <br><img alt="R.TeachingResearchGuide" src="Graph/Setup.png" width="30%"><br><br>
 </div>
 
-> GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común usar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a usar es Python. 
+> GitHub dispone de la aplicación de gestión local [GitHub Desktop](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), habilitada para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un navegador web, sin embargo, esta herramienta no dispone de un editor integrado de archivos y se concentra en gestionar los cambios Git sobre el repositorio. Debido a esto, es común usar herramientas IDE desktop como PyCharm, para gestionar integralmente los archivos de un proyecto, especialmente si el entorno de programación a usar es Python. [Video oficial aquí](https://www.youtube.com/watch?v=l7uo1d3R0Wo). 
 
 
 ### Objetivos
