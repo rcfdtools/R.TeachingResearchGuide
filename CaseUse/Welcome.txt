@@ -1,0 +1,22 @@
+Bienvenid@ al Curso de Enseñanza e Investigación Colaborativa con GitHub
+
+UNIVERSIDAD ESCUELA COLOMBIANA DE INGENIERÍA JULIO GARAVITO
+Instructor: William Ricardo Aguilar Piña
+william.aguilar@escuelaing.edu.co
+
+Horario: martes 14 (Aula D-209i) y jueves 16 (Aula E-314) de marzo de 09:00am – 11:00am. Modalidad presencial.
+
+Guías de clase en https://github.com/rcfdtools/R.TeachingResearchGuide
+
+Bienvenid@, en este curso, los participantes encontrarán diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.
+
+El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores (denominados en este curso como “creadores de contenido”), colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diferentes perspectivas.
+
+En el siguiente video de introducción general, encontrará varios de los conceptos a tratar durante el curso. Se recomienda su visualización antes de la clase del martes, en la cual desarrollaremos las actividades prácticas.
+
+https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89
+
+Para el desarrollo de las actividades prácticas, es necesario crear una cuenta de usuario en github.com, utilizando para ello un correo personal de Gmail. Las instrucciones generales para la creación de cuentas se encuentran en https://github.com/rcfdtools/R.TeachingResearchGuide/tree/main/Section01/GitHubRepository
+
+Agradecemos su interés y esperamos que este curso le aporte algunos conocimientos que complementen, fortalezcan y faciliten sus actuales y futuras labores académicas.
+
