@@ -97,6 +97,27 @@ Ejemplo estilo 3 - diagrama de clasificación con fuente y conectores en color g
 | :globe_with_meridians: | `:globe_with_meridians` | Localización geográfica.                                                                             |
 
 
+### Iconografía oficial cabecera y pie de curso y actividades
+
+Cabecera en página de inicio
+
+```
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+```
+
+Pie en página de inicio
+
+```
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+```
+
+Botón de certificación a pie de actividad
+
+```
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
+```
+
+
 ### Estructura genérica de una actividad
 
 Para el desarrollo de cada actividad, internamente se subdivide el contenido incluyendo los siguientes elementos:
