@@ -4,7 +4,7 @@ UNIVERSIDAD ESCUELA COLOMBIANA DE INGENIERÍA JULIO GARAVITO
 Instructor: William Ricardo Aguilar Piña
 william.aguilar@escuelaing.edu.co
 
-Horario: martes 14 (Aula D-209i) y jueves 16 (Aula E-314) de marzo de 09:00am – 11:00am. Modalidad presencial.
+Horario: martes 18 (C3-103i) y jueves 20 (Aula C3-105i) de abril de 03:00pm – 05:00pm. Modalidad presencial.
 
 Guías de clase en https://github.com/rcfdtools/R.TeachingResearchGuide
 
