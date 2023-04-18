@@ -115,7 +115,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 En la dirección de su navegador podrá observar el nombre de su cuenta de usuario y el nombre del repositorio creado `https://github.com/rcfdtoolstest/repotest`. Desde este momento, el repositorio se encuentra visible en Internet y puede ser consultado por cualquier usuario debido a que es público.
 
-Para clonar o descargar el repositorio, en el botón `Code` encontrará opciones para generar una URL de clonación, [GitHub command line - CLI](https://cli.github.com/), apertura y sincronización desde GitHub Desktop y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
+Para clonar o descargar el repositorio, en el botón `Code` encontrará opciones para generar una URL de clonación, [GitHub command line - CLI](https://cli.github.com/), apertura y sincronización desde [GitHub Desktop](https://desktop.github.com/) y descarga en formato .zip. Para este proyecto, la URL de clonación es `https://github.com/rcfdtoolstest/repotest.git` que corresponde al nombre que aparece en la barra del navegador más la terminación `.git`
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestCode.png)
 
