@@ -277,11 +277,11 @@ Publique y visualice en GitHub.
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
-|  #  | Alcance                                                                                                                                                                                                                 |
-|:---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1  | Cree una actividad que incluya varias imágenes, tablas, listas de objetivos, lista de requerimientos y lista de referencias.                                                                                            |
-|  2  | A través de una tabla, cree una barra o panel de navegación que permita ir a la actividad anterior, inicio del repositorio y actividad siguiente.                                                                       |
-|  3  | Utilizando cualquier herramienta de diagramación (Draw.io, Microsoft Visio, PowerPoint), cree un diagrama de flujo o de procesos, convierta a formato Portable Network Graphic .png e inserte como una imagen centrada. |
+|  #  | Alcance                                                                                                                                                                                                                                                |
+|:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | Cree una actividad que incluya varias imágenes, tablas, listas de objetivos, lista de requerimientos y lista de referencias.                                                                                                                           |
+|  2  | A través de una tabla, cree una barra o panel de navegación que permita ir a la actividad anterior, inicio del repositorio y actividad siguiente.                                                                                                      |
+|  3  | Utilizando cualquier herramienta de diagramación (Draw.io, Microsoft Visio, PowerPoint), cree un diagrama de flujo o de procesos, convierta a formato Portable Network Graphic .png o a Scalable Vector Graph .svg e inserte como una imagen centrada. |
 
 
 ### Preguntas y respuestas Q&A
