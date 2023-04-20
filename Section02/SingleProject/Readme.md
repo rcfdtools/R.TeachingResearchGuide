@@ -102,7 +102,9 @@ Cree 3 directorios y nombre como `Section01`, `Section02` y `Section03`.
 
 Dentro de cada sección, crearemos las siguientes carpetas, subcarpetas y archivos Readme.md sin utilizar PyCharm, para ello, desde el explorador de archivos de su sistema operativo, cree la estructura dentro de Section01 y luego copie y pegue la estructura de actividades dentro de Section02 y Section03:
 
-> Para la creación de los archivos Readme.md, en el explorador de archivo, active la visualización de extensiones de archivos. Cree archivos de texto Readme.txt y renombre a Readme.md.
+> Para el desarrollo de esta actividad también puede utilizar la estructura de directorios de ejemplo definida en la Sección 1 de este curso, correspondiente a la estructura de un curso básico de Python.
+> 
+> Para la creación de los archivos Readme.md, en el explorador de archivos, active la visualización de extensiones de archivos. Cree archivos de texto Readme.txt y renombre a Readme.md.
 
 * ActividadA
   * Readme.md
