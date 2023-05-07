@@ -167,7 +167,7 @@ $x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
 
-#### [Diagramas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
+#### [Diagramas & mapas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
 
 Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
 
