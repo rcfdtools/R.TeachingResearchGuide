@@ -22,7 +22,7 @@ Luego de realizada la clonación local del repositorio creado en GitHub, es nece
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup)
 
 
-### Exclusión de directorios de control de cambios
+### Exclusión de directorios del control de cambios
 
 Previamente en la sección 1 de este curso, creamos un repositorio que contenía diferentes carpetas generales y en la actividad anterior clonamos esta carpeta localmente como `C:\repotest`. Al revisar la estructura de directorios local, la disponible en la nube y la gestionada por PyCharm, podremos observar que las estructuras son similares, excepto por la carpeta `.idea`, que ha sido generada localmente por PyCharm para el control de configuración del repositorio local.
 
@@ -210,7 +210,7 @@ Ahora podrá visualizar todo el texto ajustado a la ventana.
 
 > Como observa en pantalla, la imagen remota no puede ser previsualizada debido a que se encuentra en Internet. PyCharm permite la previsualización de imágenes que se encuentran almacenadas localmente en disco a partir de rutas absolutas o relativas.
 
-Desde https://archive.org/details/C-1995-2394, descargue la imagen en el formato disponible JPEG. Guarde la imagen en la ruta 
+Desde https://archive.org/details/C-1995-2394, descargue la imagen en el formato disponible JPEG y almacénela en la carpeta Graph. 
 
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownload.png)
 ![R.TeachingResearchGuide](Screenshot/GitHubReadmeImageNASAPlanetEarthDownloadPath.png)
