@@ -291,6 +291,7 @@ Markdown generales
 * https://geojson.org/
 * https://python-geojson.readthedocs.io/en/latest/
 * https://latex-tutorial.com/symbols/greek-alphabet/
+* [How to add a collapsible section in markdown](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 emojis  
 * emojis https://github.com/ikatyang/emoji-cheat-sheet
