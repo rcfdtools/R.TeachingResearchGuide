@@ -172,6 +172,7 @@ En la parte inferior de la ventana, encontrará un campo donde podrá definir ex
 
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPlugins.png)
 
+> :lady_beetle:Nota: en el evento de que la sincronización no sea realizada correctamente obteniendo un error denominado _TODO_, comprima la carpeta `.idea`, elimínela del directorio local de su equipo y vuelva a realizar la sincronización a través de un `Commit/Push`, luego restaure el comprimido de la carpeta `.idea` en su localización original. 
 
 
 ### Actividades complementarias:pencil2:
