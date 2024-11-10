@@ -294,9 +294,10 @@ Markdown generales
 * [How to add a collapsible section in markdown](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 emojis  
-* emojis https://github.com/ikatyang/emoji-cheat-sheet
-* emojis https://gist.github.com/rxaviers/7360908
-* emojis https://www.webfx.com/tools/emoji-cheat-sheet/
+* https://github.com/ikatyang/emoji-cheat-sheet
+* https://gist.github.com/rxaviers/7360908
+* https://www.webfx.com/tools/emoji-cheat-sheet/
+* https://gist.github.com/rxaviers/7360908
 
 
 ### Control de versiones
