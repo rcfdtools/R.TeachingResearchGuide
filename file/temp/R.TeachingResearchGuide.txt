@@ -1,0 +1,69 @@
+Guía para enseñanza e investigación colaborativa con GitHub
+
+R.TeachingResearchGuide
+https://github.com/rcfdtools/R.TeachingResearchGuide.git
+Clone local directory D:\R.TeachingResearchGuide
+
+R.TeachingResearchGuide.wiki
+https://github.com/rcfdtools/R.TeachingResearchGuide.wiki.git
+Clone local directory D:\R.TeachingResearchGuide.wiki
+
+✓✕
+
+Tareas
+	Imagen corporativa y diseño de piezas publicitarias.
+    Esquema de acreditación de cursos.
+	Transferencia de conocimiento
+		Sesion 1 - Viernes 07 de octubre.
+		Sesion 2 - Viernes 14 de octubre.
+		Prerequisito: cada centro propone un curso virtual con el detalle de la estructura de secciones y actividades.
+
+Avance
+    Sección 1 - Introducción y fundamentos
+        8 actividades propuestas desarrolladas,
+    Sección 2 - Gestión local de repositorios GitHub con PyCharm
+        4 actividades propuestas de las cuales 3 se encuentran desarrolladas y 1 pendiente.
+    Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
+        2 actividades propuestas, ninguna desarrollada.
+    Notas
+        Para las 3 secciones faltan las presentaciones de apoyo para la capacitación a realizar los días viernes 7 y 14 de octubre.
+        Avance a 2022.09.07: 65%
+        Repositorio: https://github.com/rcfdtools/R.TeachingResearchGuide
+
+
+<div align="center">
+  <br><img alt="R.LTWB" src=".icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+  <br><b>Guía para enseñanza e investigación colaborativa utilizando GitHub.</b><br>by r.cfdtools@gmail.com<br><br>
+</div>
+
+
+General update.
+_Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta actividad._
+_Realice o publique aquí consultas, ideas, comentarios, preguntas y respuestas relacionadas con esta sección._
+> Ayúdame a responder o complementar estas preguntas y respuestas desde el [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9999) de este microcontenido.
+<div align="center"></div>
+<br>(**Versión borrador**)
+
+
+Transfer a Github repository to an Organization
+https://www.youtube.com/watch?v=sSZHr7Frp3o
+
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>
+<kbd>Ctrl</kbd>+<kbd>S</kbd>
+<kbd>Enter</kbd>
+
+
+* [Education- Collaboration](https://www.youtube.com/watch?v=Po40I4c94R0)
+* [The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen](https://www.youtube.com/watch?v=VmQVNE-MbKI)
+* [The 7 Keys to Creative Collaboration](https://www.youtube.com/watch?v=2DmFFS0dqQc)
+* [6 Steps Building a Collaborative Team Environment](https://www.youtube.com/watch?v=6v5dzeq7FOY)
+* [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
+* [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
+
+
+
+activity/
+/Readme.md
+◄
+►
+
