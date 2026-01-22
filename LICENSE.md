@@ -23,8 +23,4 @@ Al consultar, descargar, descomprimir, instalar, usar o explorar las herramienta
 
 ### Citación
 
-Se permite la reproducción digital parcial o total de estas actividades, scripts, guías de desarrollo, modelos de datos y documentación, siempre que se haga referencia como: "R.TeachingResearchGuide - Guía para enseñanza e investigación colaborativa con GitHub.", https://github.com/rcfdtools/R.TeachingResearchGuide, Bogotá - Colombia - Suramérica.".
-
-
-| [:house: Inicio](README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/10) |
-|-----------------------------|----------------------------------------------------------------------------------------------------|
+Se permite la reproducción digital parcial o total de estas actividades, scripts, guías de desarrollo, modelos de datos y documentación, siempre que se haga referencia como: "CURSO - Guía para enseñanza e investigación colaborativa con GitHub - TeachingResearchGuide", https://github.com/rcfdtools/R.TeachingResearchGuide, Bogotá - Colombia - Suramérica.".
