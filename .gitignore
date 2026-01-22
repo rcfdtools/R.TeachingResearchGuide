@@ -5,8 +5,7 @@
 
 
 # Large files exclusions
-Section01/Section01.mp4
-Section01/.ttsv/Section01.mp4
+file/ttsv/Section01.mp4
 
 
 # Byte-compiled / optimized / DLL files
