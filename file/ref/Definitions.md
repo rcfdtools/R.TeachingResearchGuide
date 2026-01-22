@@ -1,4 +1,7 @@
-### Abreviaturas
+# Abreviaturas y definiciones
+
+
+## Abreviaturas
 
 | Abreviatura | Significado                                                                                                                                   |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10,14 +13,14 @@
 | IDE         | [Integrated development environment.](https://www.redhat.com/en/topics/middleware/what-is-ide)                                                |
 
 
-### Definiciones
+## Definiciones
 
 | Definición                                                       | Descripción                                                                                                                          |
 |------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | [Standalone](https://en.wikipedia.org/wiki/Standalone_software)  | Instalación independiente.                                                                                                           |
 
 
-### Extensiones y tipos de archivos
+## Extensiones y tipos de archivos
 
 | Extensión                                    | Descripción                                                      |
 |----------------------------------------------|------------------------------------------------------------------|
@@ -28,7 +31,7 @@
 | [.png](https://fileinfo.com/extension/png)   | Portable Network Graphic                                         |
 
 
-### Niveles de profundización en contenidos académicos y/o de investigación
+## Niveles de profundización en contenidos académicos y/o de investigación
 
 Un curso o una investigación, una sección o una actividad puede ser clasificada en diferentes niveles en función de la complejidad de los contenidos, de los requisitos previos o del grado de experticia y/o habilidad requerido, a obtener o desarrollar. Los criterios aquí expuestos han sido desarrollados por [rcfdtools](https://github.com/rcfdtools) de acuerdo a su experiencia profesional y académica.
 
