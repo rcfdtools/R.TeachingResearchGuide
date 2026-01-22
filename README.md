@@ -6,8 +6,6 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 
 <div align="center"><img src=".icons/Gemini_Generated_Image_q9hvhcq9hvhcq9hv.png" alt="R.SIGE" width="40%" border="0" /><sub><br>Generado con: <a href="https://gemini.google.com/app/c7a01330d0108f1b">https://gemini.google.com</a></sub><br><br></div>
 
-<div align="center"><a href="https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89" target="_blank"><img src=".icons/VideoIntro.png" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89<br><br></sub></div>
-
 
 ## :large_blue_circle:Sección 1 - Introducción, fundamentos e implementación de GitHub
 

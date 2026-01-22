@@ -10,6 +10,9 @@ Clone local directory D:\R.TeachingResearchGuide.wiki
 
 ✓✕Δ°Σβρσθαπ∑√±πØμx●•∫≠≈≤≥´◄ ►
 
+Video Introducción
+<div align="center"><a href="https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89" target="_blank"><img src=".icons/VideoIntro.png" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89<br><br></sub></div>
+
 Tareas
 	Imagen corporativa y diseño de piezas publicitarias.
     Esquema de acreditación de cursos.
