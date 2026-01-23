@@ -91,11 +91,13 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 | 2022.08.13 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |  1.5  |
 
 
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../CollabTools) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) | [Siguiente ►](../Markdown) |
+| [◄ Anterior](../CollabTools/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/6) | [Siguiente ►](../Markdown/Readme.md) |
 |------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|---------------------------|
 
 [^1]: https://www.atlassian.com/es/git/tutorials/what-is-git

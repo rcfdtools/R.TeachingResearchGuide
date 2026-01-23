@@ -312,11 +312,14 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | 2022.09.01 | Edición local de archivos Markdown .md. Actividades complementarias.                                                               | [rcfdtools](https://github.com/rcfdtools)  |   4   |
 | 2022.08.31 | Versión inicial. Exclusión de directorios de control de cambios. Modificación y/o complementación de la estructura de directorios. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
 
+
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../Setup) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) | [Siguiente ►](../MultipleProject) |
-|------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------|
+| [◄ Anterior](../PyCharmSetup/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/15) | [Siguiente ►](../PycharmMultipleProject/Readme.md) |
+|-----------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------|
 
 [^1]: 

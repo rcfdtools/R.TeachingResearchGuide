@@ -431,11 +431,14 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | 2022.08.21 | Creación de carpetas comunes y archivos. Ejemplo de creación de carpetas específicas y archivos. Edición en línea de archivos de documentación. Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 | 2022.08.18 | Versión inicial.                                                                                                                                     | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
+
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../Markdown) | [:house: Inicio](../../README.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente ►](../GitHubOrganization) |
+| [◄ Anterior](../Markdown/Readme.md) | [:house: Inicio](../../README.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente ►](../GitHubOrganization/Readme.md) |
 |---------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|
 
 [^1]: Tomado y/o adaptado de https://docs.github.com/es/get-started/learning-about-github/githubs-products

@@ -133,11 +133,14 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |------------|:---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
 | 2022.09.04 | Versión inicial. Activación del centro de discusiones y creación de la primera publicación. Gestión de categorías en el centro de discusión. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
+
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../GitHubWiki) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) | [Siguiente ►](../../Section02) |
-|-----------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------|
+| [◄ Anterior](../GitHubWiki/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) | [Siguiente ►](../PyCharmSetup/Readme.md) |
+|-----------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------------|
 
 [^1]: 

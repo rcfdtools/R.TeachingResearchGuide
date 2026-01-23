@@ -1,4 +1,4 @@
-## Proyectos GitHub utilizando Python en PyCharm
+# 2.4. Proyectos GitHub utilizando Python en PyCharm
 Keywords: `Python` `requirements` `GitHub` `LaTeX` `CMD` `Interpreter` `Coding`
 
 Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería.
@@ -8,7 +8,7 @@ Python es un potente lenguaje de programación interpretado con licencia de cód
 </div>
 
 
-### Objetivos
+## Objetivos
 
 * Instalar y configurar Python.
 * Crear entornos virtuales en Python.
@@ -16,14 +16,14 @@ Python es un potente lenguaje de programación interpretado con licencia de cód
 * Ejecutar scripts en Python y generar archivos Markdown.
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta y repositorio [GitHub](https://github.com/). [:mortar_board:Aprender.](../../Section01/GitHubRepository)
 * [PyCharm Community](https://www.jetbrains.com/pycharm/) instalado y configurado con repositorio clonado localmente. [:mortar_board:Aprender.](../Setup) 
 * [Python 3.10](https://www.python.org/downloads/) o superior.
 
 
-### Archivo de requerimientos Python
+## Archivo de requerimientos Python
 
 Existen diferentes alternativas para la instalación de librerías asociadas a un proyecto desarrollado en Python, desde instalar manualmente las librerías desde consola a través de gestores de paquetes o módulos como `pip`, instalación asistida desde entornos de desarrollo integrados (IDE) o a través de la creación del archivo de texto `requirements.txt`.
 
@@ -78,7 +78,7 @@ Al dar clic en el ícono rojo de alertas localizado en la parte superior derecha
 > Debido a que realizaremos la instalación de una nueva versión de Python, no es necesario por ahora, verificar las versiones disponibles de las librerías encontradas en el entorno de Python sí este ya se encuentra instalado.
 
 
-### Instalación personalizada de Python sobre Windows
+## Instalación personalizada de Python sobre Windows
 
 1. Ingrese a www.python.org, de clic en _Downloads_ y seleccione la opción _Windows_ o seleccione su sistema operativo actual. Luego de clic en el botón de descarga, p. ej., `Python 3.10.7`
 
@@ -107,7 +107,7 @@ En la ventana final, de clic en la opción _Disable path length limit_ que le pe
 ![R.TeachingResearchGuide](Screenshot/PythonInstallSuccessful.png)
 
 
-### Verificación de Python por consola CMD de Windows
+## Verificación de Python por consola CMD de Windows
 
 1. En Windows, oprima las teclas <kbd>Windows</kbd>+<kbd>R</kbd> para acceder a la ventana de ejecución. Ingrese el comando `cmd` y teclee <kbd>Enter</kbd> para acceder a la consola de comandos.
 
@@ -122,7 +122,7 @@ En la ventana final, de clic en la opción _Disable path length limit_ que le pe
 ![R.TeachingResearchGuide](Screenshot/WindowsCMDPtthonVersion1.png)
 
 
-### Asociación local de Python en PyCharm Community
+## Asociación local de Python en PyCharm Community
 
 1. En PyCharm, oprima la combinación de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd> para acceder a la configuración general. En la ventana de configuración, seleccione la pestaña _Project_ y la opción _Python Interpreter_
 
@@ -199,7 +199,7 @@ Como observa, las librerías requeridas han sido instaladas y se encuentran disp
 ![R.TeachingResearchGuide](Screenshot/PyCharmSettingsPipUpdateSuccessful.png)
 
 
-### Creación y ejecución de scripts Python
+## Creación y ejecución de scripts Python
 
 Luego de definido el ambiente virtual de trabajo y la instalación de diferentes librerías, podremos ejecutar o crear scripts de Python directamente desde PyCharm. Complementariamente, definiremos en el archivo de requerimientos, que es requerida la instalación de la librería, p. ej., `requests` que permite descargar archivos desde Internet.
 
@@ -255,7 +255,7 @@ markdown_file = open('ParabolicSample.md','w+') # w+ create the file if it doesn
 projectile_txt = 'Projectile refers to an object that is in flight after being thrown or projected. In a projectile motion, the only acceleration acting is in the vertical direction which is acceleration due to gravity (g). Equations of motion, therefore, can be applied separately in X-axis and Y-axis to find the unknown parameters.[^1]'
 
 # Calculations
-file_header = ('### Parabolic trajectory projectile motion - Markdown example\n\n'
+file_header = ('## Parabolic trajectory projectile motion - Markdown example\n\n'
                '%s\n\n'
                '$y = x\\tan \\theta  - \\frac{{g{{(x)}^2}}}{{2{{(u\cos \\theta )}^2}}}\$'
                '\n\nDonde,\n\n'
@@ -307,7 +307,7 @@ Automáticamente, se desplegará el panel de ejecución mostrando la impresión 
 ![R.TeachingResearchGuide](Screenshot/GitHubParabolicSample2.png)
 
 
-### Ejemplos de reportes científicos autogenerados
+## Ejemplos de reportes científicos autogenerados
 
 | Descripción                                                                                             | Código .py                                                                                | Reporte .md                                                                                                                                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -317,7 +317,7 @@ Automáticamente, se desplegará el panel de ejecución mostrando la impresión 
 | Agregación estadística para obtención de promedios multianuales compuestos y por fenómeno climatológico | [Agg.py](https://github.com/rcfdtools/R.LTWB/blob/main/.src/Agg.py)                       | [Agg_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.md](https://github.com/rcfdtools/R.LTWB/blob/main/.datasets/IDEAM_Agg/Agg_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.md)<br>[Agg_Pivot_PTPM_TT_M.csv.md](https://github.com/rcfdtools/R.LTWB/blob/main/.datasets/IDEAM_Agg/Agg_Pivot_PTPM_TT_M.csv.md)                                           |
 
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -329,7 +329,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  4  | Comente, publique y visualice los resultados en GutHub.                                                                                          |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                       | Respuesta                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -339,7 +339,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -353,18 +353,21 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                                                                                                                                                                                                       | Autor                                      | Horas |
 |------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
 | 2022.09.09 | Creación y ejecución de scripts Python, ecuación LaTeX. Actividades complementarias.                                                                                                                                                              | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 | 2022.09.08 | Versión inicial. Archivo de requerimientos Python. Instalación personalizada de Python sobre Windows. Verificación de Python por consola CMD de Windows. Asociación local de Python en PyCharm Community. Creación y ejecución de scripts Python. | [rcfdtools](https://github.com/rcfdtools)  |   8   |
 
+
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../MultipleProject) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) | [Siguiente](../../Section03) |
-|--------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|------------------------------|
+| [◄ Anterior](../PyCharmMultipleProject/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/19) | [Siguiente ►](../VSCodeSetup/Readme.md) |
+|---------------------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------|
 
 [^1]: 

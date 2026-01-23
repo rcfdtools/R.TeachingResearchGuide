@@ -1,4 +1,4 @@
-## Edición local de repositorios GitHub con VS Code
+# 3.2. Edición local de repositorios GitHub con VS Code
 Keywords: `VS-Code` `Markdown` `GitHub-Repositories` `GitHub-Pull-Requests-and-Issues`
 
 Luego de realizada la instalación y configuración, podrás gestionar localmente repositorios de GitHub, revisar los controles de cambios realizados sobre los archivos de los proyectos, comentar y publicar las actualizaciones en la nube.
@@ -8,19 +8,19 @@ Luego de realizada la instalación y configuración, podrás gestionar localment
 </div>
 
 
-### Objetivos
+## Objetivos
 
 * Abrir repositorios remotos.
 * Modificar archivos, revisar el control de cambios, comentar y publicar cambios en la nube.  
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta y repositorio [GitHub](https://github.com/). [:mortar_board:Aprender.](../../Section01/GitHubRepository)
 * Instalación y configuración de VS Code. [:mortar_board:Aprender.](../Setup)
 
 
-### Procedimiento general
+## Procedimiento general
 
 1. En VS Code, de clic en el ícono `Open a Remote Window` localizado en la esquina inferior izquierda de la ventana, luego en la parte superior, seleccione la opción `Open Remote Repository` y en las opciones emergentes seleccione `Open Repository from GitHub`
 
@@ -107,7 +107,7 @@ Verifique el contenido actualizado del archivo desde Internet a través de la di
 De esta forma podrá modificar, comentar y actualizar cualquier archivo de sus repositorios.
 
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -117,7 +117,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  2  | Edite archivos Markdown, revise los controles de cambios, comente y publique las actualizaciones realizadas. |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                  | Respuesta                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -126,7 +126,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/25) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -135,18 +135,20 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://code.visualstudio.com/docs/editor/github
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                             | Autor                                      | Horas |
 |------------|:----------------------------------------|--------------------------------------------|:-----:|
 | 2022.09.14 | Versión inicial. Procedimiento general. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
 
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../Setup) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/25) | [Siguiente]() |
-|----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|---------------|
+| [◄ Anterior](../VSCodeSetup/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/25) |
+|----------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|
 
 [^1]: 

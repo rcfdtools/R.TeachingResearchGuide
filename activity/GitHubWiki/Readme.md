@@ -149,11 +149,13 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 | 2022.09.02 | Versión inicial. Conceptos generales. Procedimiento de edición de documentos Wiki. Actividades complementarias. Preguntas y respuestas Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
 
 
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../GitHubOrganization) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) | [Siguiente ►](../GitHubDiscussions) |
+| [◄ Anterior](../GitHubOrganization/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) | [Siguiente ►](../GitHubDiscussions/Readme.md) |
 |-------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------|
 
 [^1]: 
