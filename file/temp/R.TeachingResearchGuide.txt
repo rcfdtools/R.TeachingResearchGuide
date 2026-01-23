@@ -65,8 +65,11 @@ https://www.youtube.com/watch?v=sSZHr7Frp3o
 
 
 
+##
 activity/
 /Readme.md
+.icons/ file/graph/
+README
 ◄
 ►
 
