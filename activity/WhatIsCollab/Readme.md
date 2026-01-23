@@ -1,4 +1,9 @@
-## ¿Qué es el desarrollo colaborativo?
+# :large_blue_circle: Sección 1 - Introducción, fundamentos e implementación de GitHub
+
+El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores (denominados en esta guía como “**creadores de contenido**”), colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diferentes perspectivas.
+
+
+# 1.1. ¿Qué es el desarrollo colaborativo?
 Keywords: `Collab` `Collaborative creation` `Agility`
 
 En esta actividad aprenderás diferentes conceptos relacionados con desarrollo colaborativo, sus beneficios y las diferencias principales entre cooperación y colaboración.
@@ -8,7 +13,7 @@ En esta actividad aprenderás diferentes conceptos relacionados con desarrollo c
 <sub>Esquema genérico de instituciones orientadas a producción académica y de investigación bajo enfoque colaborativo a nivel facultad y/o programa, centros de estudios, grupos de investigación y semilleros.</sub><br><br>
 </div>
 
-### Creación de contenidos de forma individual o colectiva [^1]
+## Creación de contenidos de forma individual o colectiva [^1]
 
 Tradicionalmente, pensamos que la creación de contenidos académicos y científicos se puede realizar de manera individual y aislada de otras personas; incluso, la formación profesional que recibimos en las aulas privilegia en cierto sentido esta modalidad. Es verdad que existen tareas que se pueden desarrollar en solitario, especialmente cuando se trabaja en la producción científica de trabajos de investigación y/o profundización con un alcance particular; sin embargo, cuando el nivel de dificultad de la investigación o los contenidos de los micro-currículos aumenta, ya sea por las nuevas innovaciones tecnológicas, porque requieren de conocimiento experto de múltiples disciplinas o por avances en docencia, la creación y actualización necesariamente se tiene que desarrollar en compañía de otras personas. De esta manera, la interacción humana en el proceso de creación de contenidos de calidad es en muchas ocasiones, obligatoria.
 
@@ -18,14 +23,14 @@ Tradicionalmente, pensamos que la creación de contenidos académicos y científ
 </div>
 
 
-### ¿Cuándo surgió la necesidad de trabajar colaborativamente? [^1]
+## ¿Cuándo surgió la necesidad de trabajar colaborativamente? [^1]
 
 Cuando iniciaron las primeras computadoras, hubo necesidad de crear programas para que estas funcionaran. En ese entonces, no existía la ingeniería de software como tal y la programación era un proceso más artesanal que metodológico. No fue hasta 1968, que la ingeniería del software surgió buscando ordenar las actividades relacionadas con la creación de programas de cómputo, orientándolas hacia la obtención de un producto de calidad, a través de un proceso repetible, que minimizará la probabilidad de fracaso. Su creación fue la respuesta a la llamada crisis del software, causada por sistemas complejos, de difícil implementación, que superan su presupuesto original, que no satisfacen los requerimientos para los que fueron creados y que demoran mucho en concluirse, o bien, no se concluyen nunca.
 
 En la década de los ochenta y noventa, la complejidad de las aplicaciones informáticas creció todavía más y la importancia de la ingeniería de software fue evidente. Se hizo necesaria la colaboración de varias personas en proyectos de amplio alcance; sin embargo, no fue hasta el año 2001, en Utah, Estados Unidos, cuando se reconoció oficialmente que el software podía desarrollarse de mejores maneras. Se firmó el [Manifiesto Agilidad (Kent Beck et al., 2001)](https://agilemanifesto.org/iso/es/manifesto.html), que significó un cambio de paradigma en la creación de programas informáticos. Se enfatizaron los aspectos humanos sobre los aspectos técnicos y se centró la atención en el software que funciona y agrega valor a quien lo usa, dejando así de lado la documentación excesiva y los procedimientos densos y tardados. A esta filosofía se le denominó “agilidad” o "agility".
 
 
-### Beneficios de trabajar colaborativamente
+## Beneficios de trabajar colaborativamente
 
 * Los contenidos producidos combinan la experticia de los integrantes del equipo de trabajo, de la facultad o el programa académico, del grupo de investigación o del centro de estudios al cual pertenecen.
 * Creación de redes colaborativas donde los repositorios de los grupos o centros es abierta y compartida dentro de los miembros de la institución, otras instituciones y comunidades científicas.
@@ -35,7 +40,7 @@ En la década de los ochenta y noventa, la complejidad de las aplicaciones infor
 * Agrega valor a todos los niveles de las organizaciones a las cuales pertenecen los colaboradores.
 
 
-### Cooperación vs. Colaboración[^2]
+## Cooperación vs. Colaboración[^2]
 
 La cooperación y colaboración son elementos vitales en el desarrollo de procesos creativos y producción de contenidos.
 
@@ -53,7 +58,7 @@ La cooperación y colaboración son elementos vitales en el desarrollo de proces
 </div>
 
 
-### Agregar valor a mi organización a través de desarrollo colaborativo [^4]
+## Agregar valor a mi organización a través de desarrollo colaborativo [^4]
 
 El desarrollo de contenidos bajo el esquema de desarrollo colaborativo, agrega valor a tu perfil profesional, a tu equipo de trabajo y a la organización a la que perteneces.
 
@@ -65,7 +70,7 @@ El desarrollo de contenidos bajo el esquema de desarrollo colaborativo, agrega v
 | Interactúa con los miembros de tu comunidad.                                                                     | Crea centros de discusión en cada repositorio para documentar la interacción entre los miembros y usuarios, publica frecuentemente noticias para mantener actualizada a tu comunidad.                                                                                                                                                                                                                                                               |       
 
 
-### Contenido audiovisual complementario recomendado
+## Contenido audiovisual complementario recomendado
 
 En los siguientes videos encontrarás diferentes perspectivas y conocimientos relacionadas con desarrollo colaborativo que te ayudarán a entender su importancia y necesidad dentro de equipos de trabajo y organizaciones.
 
@@ -76,7 +81,7 @@ En los siguientes videos encontrarás diferentes perspectivas y conocimientos re
 | <div align="center">[5 Things to Cover in Weekly Team Meetings / How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)<br><a href="http://www.youtube.com/watch?feature=player_embedded&v=f3Fl2M-eCZc" target="_blank"><img src="http://img.youtube.com/vi/f3Fl2M-eCZc/0.jpg" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub>https://www.youtube.com/watch?v=f3Fl2M-eCZc</sub><br><br></div> | <div align="center">[Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)<br><a href="http://www.youtube.com/watch?feature=player_embedded&v=Gr5mAboH1Kk" target="_blank"><img src="http://img.youtube.com/vi/Gr5mAboH1Kk/0.jpg" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub>https://www.youtube.com/watch?v=Gr5mAboH1Kk</sub><br><br></div>                    |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                                                                                                                                                                                                                                                                        | Respuesta                                                                                                                                                                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,12 +96,12 @@ En los siguientes videos encontrarás diferentes perspectivas y conocimientos re
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Descargo de responsabilidad en licencias[^3]
+## Descargo de responsabilidad en licencias[^3]
 
 El objetivo de los esfuerzos de generación de licencias de código abierto de GitHub es proporcionar un punto de partida para ayudarte a hacer una elección informada. GitHub muestra información de licencias para ayudar a los usuarios a obtener información acerca de las licencias de código abierto y los proyectos que las utilizan. Esperamos que te sea útil, pero ten presente que no somos abogados y que cometemos errores como todo el mundo. Por ese motivo, GitHub proporciona la información sobre una base hipotética de "tal cual" y no da garantías al respecto de ninguna información o licencia proporcionada en función o a través de esta. Tampoco se hace responsable de los daños que surjan por el uso de la información de la licencia. Si tienes alguna pregunta al respecto de la licencia correcta para tu código o cualquier otro problema legal relacionado con esto, siempre es mejor consultar con un profesional.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -113,19 +118,22 @@ El objetivo de los esfuerzos de generación de licencias de código abierto de G
 * https://choosealicense.com/
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
 |------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
 | 2022.09.15 | Agregar valor a mi organización a través de desarrollo colaborativo. | [rcfdtools](https://github.com/rcfdtools)  |   1   |
 | 2022.08.12 | Versión preliminar.                                                  | [rcfdtools](https://github.com/rcfdtools)  |   3   |
 
+
+##
+
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente](../CollabTools) |
-|--------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------|
+| [◄ Anterior](../Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/3) | [Siguiente ►](../CollabTools) |
+|----------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|------------------------------|
 
 [^1]: Tomado y/o adaptado de https://www.scielo.org.mx/scielo.php?pid=S2007-78902020000800028&script=sci_arttext#:~:text=El%20desarrollo%20colaborativo%20se%20refiere,inform%C3%A1tico%20funcional%20y%20de%20calidad.
 [^2]: https://www.youtube.com/watch?v=Gr5mAboH1Kk
