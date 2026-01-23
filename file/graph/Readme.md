@@ -1,4 +1,4 @@
-## Iconografía e ilustraciones generales
+# Iconografía e ilustraciones generales
 
 | Archivo                     | Descripción                                                                                          | Enlace fuente                                          |
 |-----------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -15,5 +15,5 @@
 | VSCode.png                  | Visual Studio Code icon                                                                              | https://www.pngwing.com/en/free-png-aztoa              |
 | Bitbucket-Logo.wine.svg     | Atlassian Bitbucket icon                                                                             | https://www.logo.wine/logo/Bitbucket              |
 
-| [:house: Inicio](../Readme.md) |
+| [:house: Inicio](../../README.md) |
 |--------------------------------|

@@ -8,5 +8,5 @@
 | ClassificationChartSample3.svg | Diagrama de clasificación, ejemplo 3   | [CaseUse](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse.md) |
 | FLowChartSample.svg            | Diagrama de flujo ejemplo              | [CaseUse](https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse.md) |
 
-| [:house: Inicio](../Readme.md) |
+| [:house: Inicio](../../README.md) |
 |--------------------------------|
