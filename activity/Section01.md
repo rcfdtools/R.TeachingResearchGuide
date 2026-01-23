@@ -1,5 +1,5 @@
 <div align="center">
-  <br><img alt="R.TeachingResearchGuide" src="../.icons/R.TeachingResearchGuideBanner1.svg" width="100%">
+  <br><img alt="R.TeachingResearchGuide" src="../file/graph/R.TeachingResearchGuideBanner1.svg" width="100%">
 </div>
 
 # :large_blue_circle: Sección 1 - Introducción, fundamentos e implementación de GitHub
