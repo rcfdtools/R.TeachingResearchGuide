@@ -1,4 +1,4 @@
-## Consejos y buenas prácticas de desarrollo colaborativo:blue_heart:
+# :blue_heart:Consejos y buenas prácticas de desarrollo colaborativo
 
 Algunos consejos que tal vez te sean de utilidad a la hora de crear y mantener tus repositorios.
 
@@ -29,11 +29,11 @@ El concepto de buenas prácticas (BBPP) ha permeado indiscriminadamente en la ed
 
 _Comparte consejos y buenas prácticas desde Ayuda / Colabora._
 
-_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](LICENSE.md)._
+_R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [:house: Inicio](Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
+| [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/8) |
 |-----------------------------|---------------------------------------------------------------------------------------------------|
 
 [^1]: Tomado de https://www.redalyc.org/journal/5216/521662150036/
