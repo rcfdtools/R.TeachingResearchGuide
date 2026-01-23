@@ -119,7 +119,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [◄ Anterior](../SingleProject/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/18) | [Siguiente ►](../PyCharmPython/Readme.md) |
-|--------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------|
+| [◄ Anterior](../PyCharmSingleProject/Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/18) | [Siguiente ►](../PyCharmPython/Readme.md) |
+|-------------------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------|
 
 [^1]: 
