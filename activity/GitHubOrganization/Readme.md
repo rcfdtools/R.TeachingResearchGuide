@@ -1,4 +1,4 @@
-## Fundamentos de organizaciones y equipos en GitHub
+# 1.6. Fundamentos de organizaciones y equipos en GitHub
 Keywords: `Organization` `Collaboration` `Teams` `Members` `Manteiners`
 
 Las organizaciones permiten integrar miembros de la comunidad de creadores, en equipos de trabajo para generar y publicar contenidos colaborativos a través de la clonación de versiones oficiales lanzadas por cada miembro o desde repositorios creados directamente por la organización.
@@ -8,19 +8,19 @@ Las organizaciones permiten integrar miembros de la comunidad de creadores, en e
 </div>
 
 
-### Objetivos
+## Objetivos
 
 * Conocer algunas de las características disponibles de las organizaciones GitHub.
 * Entender como funcionan los equipos de trabajo colaborativo.
 * Conocer los tipos de cuentas que pueden ser integradas a una organización.
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta GitHub. [:mortar_board:Aprender.](../GitHubRepository)
 
 
-### Conceptos generales [^1]
+## Conceptos generales [^1]
 
 Las organizaciones de GitHub son cuentas compartidas donde empresas, instituciones y creadores de contenidos de código abierto, pueden integrar su trabajo en un único espacio y con el soporte de un robusto sistema de seguridad y opciones administrativas avanzadas. La organización es un gran contenedor donde se crean o integran trabajos compartidos con el propósito de ofrecerlos a la comunidad bajo un único nombre o marca.
 
@@ -31,7 +31,7 @@ Existen diversas [topologías](https://wikidiff.com/topology/typology) para la c
 Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal para trabajar de manera independiente y esta cuenta puede estar asociada a una o múltiples organizaciones o equipos de trabajo para trabajar en proyectos compartidos. Un subconjunto de estas cuentas personales puede obtener el rol de propietario de la organización, el cual permite a estas personas administrar el acceso a los recursos de la organización de forma granular, usando características administrativas y de seguridad sofisticadas.  
 
 
-#### Características de una organización en GitHub (2022.08.24)
+### Características de una organización en GitHub (2022.08.24)
 
 * Una organización puede tener uno o múltiples repositorios, proyectos, paquetes, equipos y miembros.
 * Los repositorios son creados o asociados por clonación directamente desde la raíz de la organización.
@@ -48,7 +48,7 @@ Cada persona que utiliza GitHub, siempre inicia sesión en su cuenta personal pa
 > :mortar_board: Aprende más acerca de organizaciones GitHub [aquí](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
 
-### Como funcionan los equipos de trabajo [^2]
+## Como funcionan los equipos de trabajo [^2]
 
 Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembros de una organización, los cuales son invitados por los propietarios o administradores generales o por los gestores de equipo. Un usuario de GitHub puede pertenecer a múltiples organizaciones y a múltiples equipos de trabajo dentro de ellas, y sus funciones y privilegios dependerán del rol (administrar, leer, escribir, acceder) que desempeñe en cada proyecto o en cada repositorio.    
 
@@ -62,12 +62,12 @@ Los equipos de trabajo dentro de GitHub están compuestos por diferentes miembro
 :mortar_board: Aprende más acerca de como agregar miembros a un equipo [aquí](https://docs.github.com/es/articles/adding-organization-members-to-a-team).
 
 
-### Tipos de cuentas en GitHub [^3]
+## Tipos de cuentas en GitHub [^3]
 
 Para la creación y la gestión de las organizaciones en GitHub, existen diferentes tipos de cuentas de usuario. 
 
 
-#### Cuentas personales [^3]
+### Cuentas personales [^3]
 
 Cada persona que utilice GitHub.com deberá iniciar sesión con una cuenta personal. La cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Tu cuenta personal puede ser propietaria de recursos tales como repositorios, paquetes y proyectos. En cualquier momento que realices una acción en GitHub.com, tal como crear una propuesta o revisar una solicitud de cambios, dicha acción se atribuirá a tu cuenta personal.
 
@@ -76,7 +76,7 @@ Cada cuenta personal utiliza ya sea GitHub Free o GitHub Pro. Todas las cuentas 
 Utilizando cuentas libres y para los repositorios públicos, las discusiones y documentación wiki podrán ser habilitadas y utilizadas sin tener que utilizar una cuenta de pago. 
 
 
-#### Cuentas de organización [^3]
+### Cuentas de organización [^3]
 
 Las organizaciones son cuentas compartidas en donde una cantidad ilimitada de personas pueden colaborar en muchos proyectos al mismo tiempo.
 
@@ -89,7 +89,7 @@ Todas las organizaciones pueden ser propietarias de una cantidad ilimitada de re
 > Para obtener el conjunto de características completo en los repositorios privados y las características adicionales a nivel de la organización, incluyendo el inicio de sesión único de SAML y la cobertura de soporte mejorada, se puede migrar a GitHub Team o Nube de GitHub Enterprise.
 
 
-#### Cuentas de empresa [^3]
+### Cuentas de empresa [^3]
 
 Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresariales de pago, las cuales permiten a los administradores administrar las políticas y facturas centralmente para organizaciones múltiples y habilitar el innersourcing entre ellas. Para obtener más información, consulta la sección "[Acerca de las cuentas empresariales](https://docs.github.com/es/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" en la documentación de Nube de [GitHub Enterprise](https://docs.github.com/es/get-started/signing-up-for-github/setting-up-a-trial-of-github-enterprise-cloud).
 
@@ -98,7 +98,7 @@ Nube de GitHub Enterprise y GitHub Enterprise Server incluyen cuentas empresaria
 > :mortar_board: Aprende más acerca de tipos de cuentas [aquí](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts).
 
 
-### Como crear una organización en GitHub
+## Como crear una organización en GitHub
 
 1. Ingrese a su cuenta de GitHub, en la parte superior derecha, de clic en la opción `+` y de clic en la opción `New organization`.   
 
@@ -161,7 +161,7 @@ A partir de este momento, ya dispone de una organización y podrá invitar a otr
 
 ![R.TeachingResearchGuide](Screenshot/GitHubMemberInvitationAccept.png)
 
-### Como gestionar una organización en GitHub
+## Como gestionar una organización en GitHub
 
 Cuando se crea una organización, esta queda ligada a un usuario hasta que este decida ceder sus privilegios a otro usuario. El acceso a la organización desde la cuenta de usuario se realiza directamente desde la raíz de https://github.com/, a través de las opciones disponibles en la parte superior izquierda, una vez el usuario se ha autentificado dentro de la plataforma.
 
@@ -186,7 +186,7 @@ Las secciones principales del panel de control de la organización incluyen:
 > La asociación de repositorios a un grupo de trabajo solo se podrá realizar si estos existen dentro de los repositorios de la organización. Dentro de un equipo no se pueden incluir repositorios externos de usuarios particulares sí estos no han sido clonados o importados a la organización. 
  
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -197,7 +197,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  3  | Cree, clone e importe repositorios, compare sus diferenciass.                                                    |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                            | Respuesta                                                                                                                                                                                                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -208,7 +208,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -219,7 +219,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://resources.github.com/ci-cd/
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                                                                    | Autor                                      | Horas |
 |------------|:---------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
@@ -231,8 +231,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubRepository) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente](../GitHubWiki) |
-|---------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|----------------------------|
+| [◄ Anterior](../GitHubRepository) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/9) | [Siguiente ►](../GitHubWiki) |
+|-----------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|------------------------------|
 
 [^1]: Tomado o adaptado de https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations
 [^2]: Tomado o adaptado de https://docs.github.com/es/organizations/organizing-members-into-teams/about-teams

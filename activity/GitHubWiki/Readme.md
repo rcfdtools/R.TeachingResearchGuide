@@ -1,4 +1,4 @@
-## Centro de documentación Wiki en GitHub
+# 1.7. Centro de documentación Wiki en GitHub
 Keywords: `Wiki` `Documentation` `Footer` `Sidepanel`
 
 Conceptos de documentación global de proyectos orientados a desarrollo de software o App's a través de espacios wiki.
@@ -8,26 +8,26 @@ Conceptos de documentación global de proyectos orientados a desarrollo de softw
 </div>
 
 
-### Objetivos
+## Objetivos
 
 * Crear y editar la página principal Home de Wiki.
 * Crear y modificar el archivo de pie de página.
 * Crear y modificar la barra lateral.
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository) 
 
 
-### Conceptos generales
+## Conceptos generales
 
 Al crear un repositorio público en GitHub, automáticamente se crea el centro de documentación Wiki, que comúnmente es utilizado para documentar proyectos orientados al desarrollo de software. Si bien, el centro de documentación puede ser usado para cualquier tipo de proyecto sin importar su propósito, no es recomendable usarlo para contenidos orientados a cursos y libros electrónicos, debido a que al realizar la clonación por parte de otros usuarios, los archivos Markdown embebidos dentro del espacio virtual Wiki, no son incluidos en la descarga o en la sincronización.
 
 Otro elemento a tener en cuenta en la gestión de documentación Wiki, tiene que ver con que los elementos no son editables por otros usuarios para posteriores solicitudes de integración de cambios, causando que la actualización directa solo dependa del propietario y colaboradores directos del repositorio. Si bien, la sección Wiki de un repositorio puede ser clonada localmente por otros usuarios, esta difícilmente puede ser integrada y publicada a los repositorios principales clonados.
 
 
-### Procedimiento de edición de documentos Wiki
+## Procedimiento de edición de documentos Wiki
 
 1. En su repositorio, de clic en la pestaña Wiki localizada en la parte superior de la ventana. Por tratarse de un repositorio nuevo, aparecerá el botón `Create the first page`, de clic sobre él.
 
@@ -110,7 +110,7 @@ En caso de no ser requerido, el centro de documentación Wiki puede ser desactiv
 ![R.TeachingResearchGuide](Screenshot/WikiDisable1.png)
 
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -120,7 +120,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  2  | Agregue páginas adicionales al centro de documentación.                                                                                         |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                           | Respuesta                                                                                                                                                                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,7 +130,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -142,7 +142,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.github.com/en/communities/documenting-your-project-with-wikis/disabling-wikis
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                                                                                                 | Autor                                      | Horas |
 |------------|:--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
@@ -153,7 +153,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubOrganization) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) | [Siguiente](../GitHubDiscussions) |
-|-----------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
+| [◄ Anterior](../GitHubOrganization) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/16) | [Siguiente ►](../GitHubDiscussions) |
+|-------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------|
 
 [^1]: 

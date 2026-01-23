@@ -1,4 +1,4 @@
-## Centro de discusiones en GitHub
+# 1.8. Centro de discusiones en GitHub
 Keywords: `Discussions`
 
 Discusiones es el espacio donde los creadores de contenido, estudiantes, colaboradores y usuarios finales se reúnen para intercambiar ideas, solicitar ayuda, dar solución a problemas o para comunicarse entre sí.
@@ -6,19 +6,19 @@ Discusiones es el espacio donde los creadores de contenido, estudiantes, colabor
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=IpBw2SJkFyk" target="_blank"><img src="http://img.youtube.com/vi/IpBw2SJkFyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="0" /></a><sub><br>https://www.youtube.com/watch?v=IpBw2SJkFyk</sub><br><br></div>
 
 
-### Objetivos
+## Objetivos
 
 * Activar el centro de discusiones.
 * Crear una discusión.
 * Crear y editar categorías de discusión.
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta y repositorio GitHub. [:mortar_board:Aprender.](../../Section01/GitHubRepository) 
 
 
-### Activación del centro de discusiones y creación de la primera publicación
+## Activación del centro de discusiones y creación de la primera publicación
 
 1. Acceda a su repositorio de GitHub desde su navegador de Internet, luego de clic en la pestaña superior _Settings_
 
@@ -53,7 +53,7 @@ También podrá observar en el panel lateral el número de participantes, notifi
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoDiscussionsWelcome1.png)
 
 
-### Gestión de categorías en el centro de discusión
+## Gestión de categorías en el centro de discusión
 
 Al dar clic en la pestaña de discusiones de la ventana principal del repositorio, accederá a la siguiente ventana: 
 
@@ -92,7 +92,7 @@ Para crear nuevas categorías, p. ej., una categoría específica para casos de 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoDiscussionsCategories1.png)
 
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -104,7 +104,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  4  | [Deje un comentario](https://github.com/rcfdtoolstest/repotest/discussions/1) en la discusión creada en el repositorio ejemplo de este curso. |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                             | Respuesta                                                                                                        |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -115,7 +115,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -127,7 +127,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.github.com/es/site-policy/github-terms/github-community-guidelines
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                                                                                                  | Autor                                      | Horas |
 |------------|:---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
@@ -137,7 +137,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitHubWiki) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) | [Siguiente](../../Section02) |
-|---------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|------------------------------|
+| [◄ Anterior](../GitHubWiki) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/17) | [Siguiente ►](../../Section02) |
+|-----------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------|
 
 [^1]: 

@@ -1,4 +1,4 @@
-## Creación y gestión en línea de repositorios y documentos en GitHub
+# 1.5. Creación y gestión en línea de repositorios y documentos en GitHub
 Keywords: `Markdown` `HTML` `Repository` `.gitignore` `Readme.md` `Insights` `Community Standards`
 
 En esta actividad aprenderá a crear y gestionar repositorios en GitHub directamente desde el navegador de Internet.
@@ -8,7 +8,7 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 </div>
                                                                                                                                                       
 
-### Objetivos
+## Objetivos
 
 * Crear y administrar una cuenta en Github.
 * Crear y configurar mi primer repositorio.
@@ -17,14 +17,14 @@ En esta actividad aprenderá a crear y gestionar repositorios en GitHub directam
 * Participar colaborativamente en la creación de un archivo de referencias de otro proyecto.
 
 
-### Requerimientos
+## Requerimientos
 
 * Cuenta de correo personal.
 * Micro-currículo de un curso o una investigación organizado en dos niveles.
 * Conceptos generales del lenguaje de marcas Markdown. [:mortar_board:Aprender.](../Markdown)
 
 
-### Creación de usuario
+## Creación de usuario
 
 1. Ingrese a https://github.com/ y de clic en la opción `Sign up`
 
@@ -67,7 +67,7 @@ En la parte superior de su tablero de control de usuario encontrará las seccion
 | Stars        | Repositorios favoritos. Pueden ser propios, clonados o directos de otros usuarios.                                                                                                                                                                           |
 
 
-### Creación de mi primer repositorio
+## Creación de mi primer repositorio
 
 1. En la parte superior derecha de su ventana de GitHub, de clic en el botón `+` y, seleccione la opción `New repository`.
 
@@ -124,7 +124,7 @@ Al encontrarse su sesión de usuario abierta en el navegador, ingresando https:/
 ![R.TeachingResearchGuide](Screenshot/GitHubRecent.png)
 
 
-### Opciones predeterminadas disponibles para repositorios nuevos
+## Opciones predeterminadas disponibles para repositorios nuevos
 
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestCodeSections.png)
 
@@ -167,7 +167,7 @@ De clic en las opciones de configuración del panel lateral About, podrá observ
 </div>
 
 
-### Estructura genérica de un curso, una investigación, un e-book o un repositorio orientado a desarrollo de software
+## Estructura genérica de un curso, una investigación, un e-book o un repositorio orientado a desarrollo de software
 
 Las estructuras de directorios de un repositorio en GitHub, dependen del tipo de proyecto a realizar, p. ej.:
 
@@ -211,7 +211,7 @@ Estructura ejemplo para un curso teórico y práctico:
 > Respecto al nombre de las secciones y actividades, se recomienda utilizar un nombre corto que no incluya espacios, tildes, eñes, apóstrofes ni caracteres especiales como #$&*/|\{}[]. 
 
 
-### Carpetas de archivos comunes
+## Carpetas de archivos comunes
 
 Para la gestión de los recursos compartidos del repositorio, es necesario crear diferentes carpetas en el directorio principal que faciliten su llamado. Las carpetas en la raíz del repositorio utilizarán como prefijo un punto, se escriben en minúscula y utilizan nombres cortos, excepto aquellas que correspondan al nombre genérico de una herramienta específica, por ejemplo HECGeoHMS.
 
@@ -237,7 +237,7 @@ Dentro de una sección, una actividad o clase, pueden existir carpetas específi
 | Screenshot | Capturas y recortes de pantalla que son utilizados como ejemplo en el desarrollo de la actividad, subtema, clase o lección. | .png              |
 
 
-### Creación de carpetas comunes y archivos Readme.md
+## Creación de carpetas comunes y archivos Readme.md
 
 1. Desde su navegador de Internet y en el repositorio creado previamente (p. ej. rcfdtoolstest/repotest), de clic en el botón `Add file` y seleccione la opción `Create new file`
 
@@ -272,7 +272,7 @@ Una vez finalizada la creación de la carpeta y el archivo, podrá observar que 
 > Desde gestores de repositorios Desktop, podrá realizar cargues de archivos de hasta 100 MB. En caso de que requiera cargar archivos grandes, comprima en múltiples partes de 95 MB.
 
 
-### Ejemplo de creación de carpetas específicas y archivos Readme.md
+## Ejemplo de creación de carpetas específicas y archivos Readme.md
 
 Como explicamos anteriormente, un repositorio de GitHub puede ser utilizado para diferentes propósitos (desarrollar una App, crear un e-book, desarrollar una investigación, crear un curso...). Para este ejemplo, generaremos la estructura de un curso básico con contenido teórico / práctico, que está compuesto por 3 secciones y diferentes actividades por sección, y cuyo objetivo principal es enseñar fundamentos del lenguaje de programación Python. El procedimiento a seguir es el mismo presentado para la creación de carpetas comunes y la diferencia principal es que dentro de las secciones, existirán diferentes subcarpetas que corresponderán a las actividades. 
 
@@ -296,7 +296,7 @@ Estructura del curso ejemplo:
 > Los nombres de las actividades dentro de cada sección no contienen una numeración específica y se describen a través de un nombre corto descriptivo. Como se indicó anteriormente, las secuencia de desarrollo de las actividades dentro de un curso, debe ser diseñada de tal forma que estas puedan ser reordenadas, actualizadas, eliminadas y puedan ser integradas con otros cursos para crear cursos con contenidos compartidos. Al igual que las secciones, cada actividad contendrá un archivo Readme.md dentro del cual se desarrollaran los contenidos específicos de cada actividad.
 
 
-### Edición en línea de archivos de documentación Readme.md
+## Edición en línea de archivos de documentación Readme.md
 
 Los archivos de documentación del repositorio, pueden ser modificados en línea desde el navegador de Internet. Para este ejemplo, crearemos un listado de referencias bibliográficas dentro del archivo Readme.md, localizado en la carpeta general de referencias, para ello, en la raíz del repositorio de clic en la carpeta `.refs` y a continuación de clic en el ícono de edición (lápiz) localizado a la derecha del recuadro del archivo Readme.md.
 
@@ -348,7 +348,7 @@ History
 ![R.TeachingResearchGuide](Screenshot/GitHubRepoTestRefsReadmeHistory.png)
 
 
-### GitHub App en Android o Apple iOS
+## GitHub App en Android o Apple iOS
 
 Desde la tienda de aplicaciones de su teléfono móvil, instale la aplicación GitHub.
 
@@ -372,7 +372,7 @@ Dando clic en la opción _Browse code_, abra la carpeta de referencias y verifiq
 ![R.TeachingResearchGuide](Screenshot/GitHubAppRepositoriesRefs.png)
 
 
-### Actividades complementarias:pencil2:
+## Actividades complementarias:pencil2:
 
 En la siguiente tabla se listan las actividades complementarias a ser desarrolladas por el estudiante.
 
@@ -389,7 +389,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 |  9  | Instale la App de GitHub en su dispositivo móvil y verifique los contenidos creados en su repositorio.                                                                                                                                                                                                         |
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                                                                                                                     | Respuesta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -409,7 +409,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -422,7 +422,7 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.github.com/en/get-started/quickstart/github-glossary
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                                                                                                                                          | Autor                                      | Horas |
 |------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
@@ -435,7 +435,7 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../Markdown) | [:house: Inicio](../../Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente](../GitHubOrganization) |
-|-------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------|
+| [◄ Anterior](../Markdown) | [:house: Inicio](../../README.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/7) | [Siguiente ►](../GitHubOrganization) |
+|---------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|
 
 [^1]: Tomado y/o adaptado de https://docs.github.com/es/get-started/learning-about-github/githubs-products

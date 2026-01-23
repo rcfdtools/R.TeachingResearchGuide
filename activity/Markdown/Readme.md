@@ -1,4 +1,4 @@
-## Lenguaje Markdown y escritura en GitHub
+# 1.4. Lenguaje Markdown y escritura en GitHub
 Keywords: `Markdown` `HTML` `LaTeX` `mermaid` `geoJSON`
 
 Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown, que permite crear texto con formato, tablas, enlaces y utilizar elementos embebidos del lenguaje de hipertextos HTML y sin tener que definir estilos o tener conocimientos de programación. En este microcontenido encontrarás diferentes recursos para la escritura de e-Books y documentación wiki usando el lenguaje de marcas Markdown.
@@ -8,7 +8,7 @@ Los repositorios de GitHub utilizan para su documentación el lenguaje Markdown,
 </div>
                                                                                                                                                       
 
-### Conceptos básicos y beneficios[^1]
+## Conceptos básicos y beneficios[^1]
 
 Markdown es un lenguaje de marcas que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos usando directamente HTML, y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cuál vaya a ser su destino. Como explica [*John Gruber*](http://daringfireball.net/projects/markdown/), uno de sus creadores, Markdown es realmente dos cosas: por un lado, el lenguaje; por otro, una herramienta de software que convierte documentos .md en lenguaje HTML válido.
 
@@ -26,13 +26,13 @@ Algunos de los beneficios de usar Markdown son:
 | Generación automática de reportes .md a través de generadores de código        | Utilizando cualquier lenguaje de programación, se pueden generar fácilmente reportes en formato Markdown a partir de datos base y los resultados (textos descriptivos, tablas, gráficos) pueden publicarse y asociarse mediante objetos dentro de carpetas de publicación. [Ver ejemplo.](https://github.com/rcfdtools/R.LTWB/blob/main/.datasets/IDEAM_EDA/EDA.md)                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Control de versiones                                                           | Al estar embebidos y al ser interpretables por GitHub, se realiza automáticamente el seguimiento a los cambios realizados por uno o múltiples usuarios, por lo que en desarrollo colaborativo, se pueden identificar los cambios, actualizaciones e integraciones realizadas por cada usuario e incluso revertir cambios sobre el documento. Para cada nueva versión, en GitHub se pueden incluir en los _Commit_, comentarios detallados de los cambios realizados sobre el documento publicado.                                                                                                                                                                                                         |
 
-### Ejemplos básicos de Markdown[^2]
+## Ejemplos básicos de Markdown[^2]
 
 | Ejemplo                                                | Sintaxis                                                            |
 |:-------------------------------------------------------|:--------------------------------------------------------------------|
 | # Título nivel 1                                       | `# Título nivel 1`                                                  |
 | ## Título nivel 2                                      | `## Título nivel 1`                                                 |
-| ### Título nivel 2                                     | `### Título nivel 3`                                                |
+| ## Título nivel 2                                     | `## Título nivel 3`                                                |
 | _Texto en itálica_                                     | `_Texto en itálica_`                                                |
 | *Texto en itálica*                                     | `*Texto en itálica*`                                                |
 | **Texto en negrilla o énfasis**                        | `**Texto en negrilla o énfasis**`                                   |
@@ -46,7 +46,7 @@ Algunos de los beneficios de usar Markdown son:
 > Enlaza los vínculos de los contenidos propios de tu repositorio a través de rutas relativas y evita el uso de rutas absolutas. P. ej., en vez de llamar desde una subcarpeta un ícono global a través de su enlace completo en GitHub https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/.icons/R.TeachingResearchGuide.svg, utiliza la referencia relativa `.icons/R.TeachingResearchGuide.svg`. Si estás dentro de una subcarpeta, con `../` podrá regresar al nivel anterior y realizar la referencia como `../.icons/R.TeachingResearchGuide.svg`. Cuando estés usando herramientas Desktop para gestionar los archivos y documentos del proyecto, la previsualización mostrará los elementos vinculados (p. ej. las imágenes) debido a que las rutas de los archivos serán resueltas localmente.
 
 
-#### Hiperenlace a video de youtube centrado en marco div de HTML
+### Hiperenlace a video de youtube centrado en marco div de HTML
 
 `<div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="0" /></a><sub><br>https://www.youtube.com/watch?v=w3jLJU7DT5E</sub><br><br></div>`
 
@@ -55,7 +55,7 @@ Algunos de los beneficios de usar Markdown son:
 > Para embeber tus propios videos, reemplace `w3jLJU7DT5E` por el código de video requerido de Youtube. Utilice `height="360"` para definir el alto de la imagen de referencia 
 
 
-#### Script con múltiples líneas
+### Script con múltiples líneas
 
 Se utilizan 3 comillas invertidas al inicio y fin de las líneas de código ```
 
@@ -67,7 +67,7 @@ potencia = x**y
 print('x^y = %d', potencia)
 ```
 
-#### [Tablas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
+### [Tablas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
 
 ```
 |         | Alineación izquierda | Centrada | Alineación derecha |
@@ -84,7 +84,7 @@ print('x^y = %d', potencia)
 | Fila 3 | Texto                |  Texto   |               3.14 |
 
 
-#### Listas  
+### Listas  
 
 ```
 * Nivel 1
@@ -105,7 +105,7 @@ print('x^y = %d', potencia)
     * Subnivel 2-3-2
 
 
-#### Imágenes
+### Imágenes
 
 **Ilustración embebida**  
 `![Logo de R.TeachingResearchGuide](../../.icons/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
@@ -124,7 +124,7 @@ print('x^y = %d', potencia)
 > Para imágenes que representen íconos, diagramas de procesos y diagramas de flujo, se recomienda que el formato sea vectorial o .svg. Utilizar este formato garantiza que las imágenes no se visualicen borrosas debido a que su representación se realiza a través de vectores.
 
 
-#### [Escritura de expresiones matemáticas y/o ecuaciones](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) con LaTeX[^3]  
+### [Escritura de expresiones matemáticas y/o ecuaciones](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) con LaTeX[^3]  
 
 ```
 La potencia de la corriente se define como la energía disponible por unidad de área1:  
@@ -167,7 +167,7 @@ $x = \frac{{ - b \pm \sqrt {({b^2} - 4ac))} }}{{2a}}\$
 > Tenga en cuenta que en algunos casos, es necesario refrescar la ventana con la tecla <kbd>F5</kbd> para que se realice la traducción y representación de la escritura LaTeX a la ecuación.                         
 
 
-#### [Diagramas & mapas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
+### [Diagramas & mapas](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)[^4]  
 
 Utilizando Markdown y dentro de documentos de GitHub, se pueden utilizar 3 tipos de sintaxis diferentes: mermaid, geoJSON / topoJSON y ASCII STL. Estos diagramas pueden ser embebidos dentro de GitHub Issues, GitHub Discussions, pull requests, wikis, y archivos Markdown .md.
 
@@ -224,7 +224,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 > Opcionalmente, podrá utilizar herramientas Desktop o en línea como Microsoft Visio o Draw.io para generar diagramas y estos pueden ser guardados dentro del repositorio para su visualización en cualquier documento. Se recomienda la exportación en formato vectorial gráfico escalable .svg.
 
 
-#### [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+### [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 
 |         Ícono          | shortcode               | Utilidad                                                                                             |
 |:----------------------:|:------------------------|:-----------------------------------------------------------------------------------------------------|
@@ -247,7 +247,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 | :globe_with_meridians: | `:globe_with_meridians` | Localización geográfica.                                                                             |
 
 
-#### Otras marcas
+### Otras marcas
 
 * Incluya 2 espacios en blanco al final de una sentencia o párrafo y de enter para saltar a la siguiente línea.
 * Notas a pie de documento: con `[^1]` se define una nota a pie y al final del documento con `[^1]:` se define la descripción de la nota a pie o el texto descriptivo. Tenga en cuenta que una misma nota a pie puede ser llamada múltiples veces dentro de un mismo documento. 
@@ -256,7 +256,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 > En las referencias, encontrarás diferentes repositorios con ejemplos detallados de escritura Markdown.
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                 | Respuesta                                                                                                                                                                                                                                                                                                                              |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -270,7 +270,7 @@ Ejemplo simple de mapa con localización de un punto utilizando [geoJSON](https:
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -300,7 +300,7 @@ emojis
 * https://gist.github.com/rxaviers/7360908
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                   | Autor                                      | Horas |
 |------------|:------------------------------|--------------------------------------------|:-----:|
@@ -311,8 +311,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../GitFundamentals) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente](../GitHubRepository) |
-|--------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------|
+| [◄ Anterior](../GitFundamentals) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/5) | [Siguiente ►](../GitHubRepository) |
+|----------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------|
 
 [^1]: https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
 [^2]: https://docs.github.com/es/get-started/writing-on-github

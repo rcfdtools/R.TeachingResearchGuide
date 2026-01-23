@@ -1,4 +1,4 @@
-## Herramientas para desarrollo colaborativo
+# 1.2. Herramientas para desarrollo colaborativo
 Keywords: `GitHub` `GitLab` `Google Code` `SourceForge` `GNU Savannah`
 
 Existen diferentes herramientas o plataformas informáticas para desarrollo colaborativo que facilitan la interacción y gestión de la información. Los equipos de desarrollo ya no deben estar en el mismo lugar para poder comunicarse y crear contenidos, ni siquiera tienen que conocerse para poder dar sus criterios, aportar sus habilidades y participar en un proyecto. El desarrollo colaborativo es un modelo que parte de la base de que el conocimiento debe ser público y abierto, para que sea accedido y revisado por otros investigadores, educadores, estudiantes o creadores de contenido. Debido a que este modelo está ligado al software libre, las reglas son similares: cuando un creador de contenido aporta algo a un repositorio fuente, o participa en el desarrollo colaborativo, sus aportes deben quedar públicos y disponibles para que pueda ser evaluado, mejorado o utilizado.                                                                                                                                                                               
@@ -7,7 +7,7 @@ Existen diferentes herramientas o plataformas informáticas para desarrollo cola
 </div>
 
 
-### Características de las plataformas de desarrollo colaborativo[^1]
+## Características de las plataformas de desarrollo colaborativo[^1]
 
 Este tipo de plataformas se conocen como forjas, y es un término que reúne las características que debe cumplir una herramienta para convertirse en una plataforma de desarrollo colaborativo. Además de permitir la disponibilidad del los archivos fuente de uno o varios proyectos, también pueden utilizarse para dar soporte y mantenimiento a investigaciones y sistemas informáticos ya concluidos y en explotación o producción. Una forja o plataforma colaborativa, alberga múltiples proyectos a la vez, organizados correctamente, que registra los accesos y genera las trazas necesarias para mantener el control sobre los cambios y el acceso a dichos proyectos. Cada plataforma tiene varias aplicaciones que responden a una única interfaz administrativa desde donde se realiza el registro de los colaboradores.
 
@@ -20,9 +20,9 @@ Desde esta misma interfaz se comparten los proyectos u otras utilidades. La base
 Algunas de las plataformas más populares son: GitHub, GitLab, Google Collab & Code, SourceForge, GNU Savannah, Bitbucket.
 
 
-### Plataformas de desarrollo colaborativo
+## Plataformas de desarrollo colaborativo
 
-#### [GitHub](https://github.com/)
+### [GitHub](https://github.com/)
 
 Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Fue desarrollada en el lenguaje de programación Ruby on Rails y opera desde el 2010 bajo este nombre, heredado de Logical Awesome LLC. En la actualidad esta forja es propiedad de Microsoft, y es la más importante hasta la fecha, con una alta cantidad de usuarios que la usan. Esto se debe, entre otras particularidades, por la mejora continua de sus funciones y posibilidades en materia de publicación y acceso a los proyectos. Brinda opciones para diferentes intereses, permitiendo clasificar algunos proyectos con un mayor nivel de privacidad, manteniendo una mayoría de código público. Un factor relevante es la seguridad que posee y la estabilidad, lo cual genera confianza en los desarrolladores.
 
@@ -49,14 +49,14 @@ Quiénes utilizan GitHub
 * Consulta aquí el [listado de entidades gubernamentales en GitHub](https://government.github.com/community/).
 
 
-#### [GitLab](https://gitlab.com/)
+### [GitLab](https://gitlab.com/)
 
 Es una forja famosa y con un amplio uso en el mundo del desarrollo de software. Como el resto, maneja el control de versiones para los proyectos como aspecto clave en el desarrollo colaborativo. En este caso, GitLab incluye servicios DevOps para agilizar las etapas de construcción de un software. Su amplia usabilidad se debe a que es una suite muy completa que permite, no solo crear repositorios, sino administrarlos y gestionarlos, para que puedan incluso se conecten entre ellos, aunque pertenezcan a diferentes proyectos. Una idea de su impacto se genera al conocer que tiene clientes como la SIEMENS, NVIDIA y T-Mobile.
 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=MqL6BMOySIQ" target="_blank"><img src="http://img.youtube.com/vi/MqL6BMOySIQ/0.jpg" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://www.youtube.com/watch?v=MqL6BMOySIQ</sub><br><br></div>
 
 
-#### [Google Colab & Code](https://code.google.com/)
+### [Google Colab & Code](https://code.google.com/)
 
 El potencial de esta forja es el hospedaje de código, especialmente libre, y de sistemas basados en Google.
 
@@ -70,14 +70,14 @@ Servicios principales visibles en code.google.com y
 * [Google Colab](https://research.google.com/colaboratory/faq.html)
 
 
-#### [SourceForge](https://sourceforge.net/)[^2]
+### [SourceForge](https://sourceforge.net/)[^2]
 
 SourceForge es un sitio web de colaboración para proyectos de software. Fue fundado en 1999 por VA Software y, desde enero de 2016 es comercializado por Slashdot Media (antes llamada BizX). Provee una portada para una amplia gama de servicios útiles para los procesos de desarrollo de software e integra un amplio número de aplicaciones de software libre.
 
 SourceForge es una central de desarrollos de software que controla y gestiona varios proyectos de software libre y actúa como un repositorio de código fuente. SourceForge.net es hospedado por VA Software y corre en una versión del software SourceForge. A 2016, ofrece alojamiento a proyectos tales como Ares Galaxy, FileZilla, 7-Zip, phpMyAdmin, etc.
 
 
-#### [GNU Savannah](https://savannah.gnu.org/)
+### [GNU Savannah](https://savannah.gnu.org/)
 
 Es un proyecto macro, que ejecuta varios servicios para la gestión de proyectos de software libre. Este último aspecto marca la diferencia con otras forjas, pues brinda componentes meramente libres, por lo que los usuarios cuando suben sus sistemas deben especificar bajo que licencia lo distribuyen.
 
@@ -90,12 +90,12 @@ Esta plataforma brinda un número amplio de servicio a los desarrolladores como:
 * Seguimiento de bugs.
 
 
-#### [Bitbucket](https://bitbucket.org/product)
+### [Bitbucket](https://bitbucket.org/product)
 
 <div align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=BD8xfCILcBs" target="_blank"><img src="http://img.youtube.com/vi/BD8xfCILcBs/0.jpg" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://www.youtube.com/watch?v=BD8xfCILcBs</sub><br><br></div>
 
 
-### ¿Cuál plataforma debo usar?
+## ¿Cuál plataforma debo usar?
 
 Para responder esta pregunta, creemos una lista de requerimientos específicos para el enfoque de educación e investigación planteado en este curso y para las 3 plataformas más populares.
 
@@ -127,7 +127,7 @@ Para responder esta pregunta, creemos una lista de requerimientos específicos p
 De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la creación de contenidos por desarrollo colaborativo orientado a educación e investigación que utilizaremos para el desarrollo de esta guía, es GitHub.
 
 
-### Preguntas y respuestas Q&A
+## Preguntas y respuestas Q&A
 
 | Pregunta                                                                                                                                                                                                | Respuesta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -138,7 +138,7 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la
 > Ayúdame desde este [hilo de discusión](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) a crear y/o responder preguntas que otros usuarios necesiten conocer o experiencias relacionadas con esta actividad.
 
 
-### Referencias
+## Referencias
 
 * [Referencias generales](../../References.md)
 * [Abreviaturas y definiciones generales](../../Definitions.md)
@@ -146,7 +146,7 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 
 
-### Control de versiones
+## Control de versiones
 
 | Versión    | Descripción                | Autor                                      | Horas  |
 |------------|:---------------------------|--------------------------------------------|:------:|
@@ -158,8 +158,8 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
-| [Anterior](../WhatIsCollab) | [:house: Inicio](../../Readme.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente](../GitFundamentals) |
-|-----------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------|
+| [◄ Anterior](../WhatIsCollab) | [:house: Inicio](../../README.md)  | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.TeachingResearchGuide/discussions/4) | [Siguiente ►](../GitFundamentals) |
+|-------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------|
 
 [^1]: https://saasradar.net/herramientas-desarrollo-colaborativo/
 [^2]: https://es.wikipedia.org/wiki/SourceForge
