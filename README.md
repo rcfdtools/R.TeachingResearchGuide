@@ -1,4 +1,4 @@
-<div align="center"><img alt="R.TeachingResearchGuide" src="file/graph/R.TeachingResearchGuide" width="400px"><br><i>COURSE: Guide to collaborative teaching and research with GitHub</i></div>
+<div align="center"><img alt="R.TeachingResearchGuide" src="file/graph/R.TeachingResearchGuide.svg" width="400px"><br><i>COURSE: Guide to collaborative teaching and research with GitHub</i></div>
 
 # CURSO: Guía para enseñanza e investigación colaborativa con GitHub
 
