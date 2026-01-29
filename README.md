@@ -1,6 +1,7 @@
-<div align="center"><img alt="R.TeachingResearchGuide" src="file/graph/R.TeachingResearchGuide.svg" width="400px"><br><i>COURSE: Guide to collaborative teaching and research with GitHub</i></div>
+<div align="center"><a href="https://github.com/rcfdtools" target="_blank"><img src="https://github.com/rcfdtools/rcfdtools/blob/main/graph/rcfdtools_banner.png" alt="R.LTWB" width="100%" border="0" /></a></div>
+<div align="center"><sub><i>COURSE: Guide to collaborative teaching and research with GitHub - TeachingResearchGuide</i></sub></div>
 
-# CURSO: Guía para enseñanza e investigación colaborativa con GitHub
+# CURSO: Guía para enseñanza e investigación colaborativa con GitHub - TeachingResearchGuide
 
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.
 
