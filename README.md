@@ -5,7 +5,7 @@
 
 En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la creación de contenidos académicos relacionados con educación e investigación orientada a desarrollo colaborativo bajo el esquema de uso abierto o uso libre a través de GitHub.
 
-<div align="center"><img src="file/graph/Gemini_Generated_Image_q9hvhcq9hvhcq9hv.png" alt="R.SIGE" width="40%" border="0" /><sub><br>Generado con: <a href="https://gemini.google.com/app/c7a01330d0108f1b">https://gemini.google.com</a></sub><br><br></div>
+<div align="center"><img src="file/graph/Gemini_Generated_Image_q9hvhcq9hvhcq9hv_rounded.png" alt="R.SIGE" width="40%" border="0" /><sub><br>Generado con: <a href="https://gemini.google.com/app/c7a01330d0108f1b">https://gemini.google.com</a></sub><br><br></div>
 
 
 ## :large_blue_circle:Sección 1 - Introducción, fundamentos e implementación de GitHub
