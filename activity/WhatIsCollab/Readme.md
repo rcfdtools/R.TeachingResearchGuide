@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # :large_blue_circle: Sección 1 - Introducción, fundamentos e implementación de GitHub
 
 El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores (denominados en esta guía como “**creadores de contenido**”), colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diferentes perspectivas.

@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # Licencia y cláusulas del autor
 
 Al consultar, descargar, descomprimir, instalar, usar o explorar las herramientas, scripts y guías de desarrollo contenidas en este repositorio, sus archivos y documentación, usted como empresa, individuo, investigador, estudiante, profesional, empleado o persona, acepta los siguientes términos de uso:
@@ -21,6 +23,6 @@ Al consultar, descargar, descomprimir, instalar, usar o explorar las herramienta
 * No se permite la privatización, acaparamiento, venta o distribución comercial de este repositorio, software o del proyecto _R.TeachingResearchGuide_, ni ninguno de sus componentes, herramientas, memorias de cálculo, scripts, algoritmos y demás herramientas complementarias que se encuentran aquí publicadas o dentro de paquetes de instalación o liberaciones.
 
 
-### Citación
+## Citación
 
 Se permite la reproducción digital parcial o total de estas actividades, scripts, guías de desarrollo, modelos de datos y documentación, siempre que se haga referencia como: "CURSO - Guía para enseñanza e investigación colaborativa con GitHub - TeachingResearchGuide", https://github.com/rcfdtools/R.TeachingResearchGuide, Bogotá - Colombia - Suramérica.".

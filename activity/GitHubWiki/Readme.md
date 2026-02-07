@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 1.7. Centro de documentación Wiki en GitHub
 Keywords: `Wiki` `Documentation` `Footer` `Sidepanel`
 

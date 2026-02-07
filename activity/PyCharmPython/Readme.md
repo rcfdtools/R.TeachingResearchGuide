@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 2.4. Proyectos GitHub utilizando Python en PyCharm
 Keywords: `Python` `requirements` `GitHub` `LaTeX` `CMD` `Interpreter` `Coding`
 

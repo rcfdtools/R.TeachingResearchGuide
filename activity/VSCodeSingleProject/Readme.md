@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 3.2. Edición local de repositorios GitHub con VS Code
 Keywords: `VS-Code` `Markdown` `GitHub-Repositories` `GitHub-Pull-Requests-and-Issues`
 

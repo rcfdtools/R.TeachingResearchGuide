@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 1.5. Creación y gestión en línea de repositorios y documentos en GitHub
 Keywords: `Markdown` `HTML` `Repository` `.gitignore` `Readme.md` `Insights` `Community Standards`
 

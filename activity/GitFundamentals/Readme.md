@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 1.3. Fundamentos de Git
 Keywords: `Branch` `Commit` `Pull request` `Pull` `Fork`
 

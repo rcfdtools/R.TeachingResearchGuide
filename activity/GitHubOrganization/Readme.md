@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 1.6. Fundamentos de organizaciones y equipos en GitHub
 Keywords: `Organization` `Collaboration` `Teams` `Members` `Manteiners`
 

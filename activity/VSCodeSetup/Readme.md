@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # :large_blue_circle:Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
 
 Visual Studio Code (VS Code) de Microsoft, es un editor de código fuente multilenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.

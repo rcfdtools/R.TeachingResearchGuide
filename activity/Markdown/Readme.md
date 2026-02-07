@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 1.4. Lenguaje Markdown y escritura en GitHub
 Keywords: `Markdown` `HTML` `LaTeX` `mermaid` `geoJSON`
 

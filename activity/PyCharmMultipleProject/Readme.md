@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 2.3. Gestión local de múltiples proyectos desde PyCharm
 Keywords: `GitHub` `Repositories` `Wiki`
 

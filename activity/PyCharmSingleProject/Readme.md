@@ -1,3 +1,5 @@
+<div align="center"><img alt="rcfdtools" src="../../file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
+
 # 2.2. Edición local de proyectos con PyCharm y publicación en la nube
 Keywords: `PyCharm` `Commit` `Push` `Image` `Title` `Table`
 
