@@ -86,13 +86,6 @@ Conceptos generales de Branch, Commit, Pull-request, Pull, Fork.
 * [25 most recommended programming books of all-time](https://github.com/daolf/Most-recommended-programming-books)
 
 
-## Control de versiones
-
-| Versión    | Descripción         | Autor                                      | Horas |
-|------------|:--------------------|--------------------------------------------|:-----:|
-| 2022.08.13 | Versión preliminar. | [rcfdtools](https://github.com/rcfdtools)  |  1.5  |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

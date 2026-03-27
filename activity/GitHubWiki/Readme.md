@@ -144,13 +144,6 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://docs.github.com/en/communities/documenting-your-project-with-wikis/disabling-wikis
 
 
-## Control de versiones
-
-| Versión    | Descripción                                                                                                                                 | Autor                                      | Horas |
-|------------|:--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.09.02 | Versión inicial. Conceptos generales. Procedimiento de edición de documentos Wiki. Actividades complementarias. Preguntas y respuestas Q&A. | [rcfdtools](https://github.com/rcfdtools)  |   4   |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

@@ -221,15 +221,6 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://resources.github.com/ci-cd/
 
 
-## Control de versiones
-
-| Versión    | Descripción                                                                                                    | Autor                                      | Horas |
-|------------|:---------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.08.27 | Como crear una organización en GitHub. Como gestionar una organización en GitHub. Actividades complementarias. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
-| 2022.08.24 | Como funcionan los equipos de trabajo. Tipos de cuentas en GitHub. Q&A.                                        | [rcfdtools](https://github.com/rcfdtools)  |   6   |
-| 2022.08.22 | Versión inicial.                                                                                               | [rcfdtools](https://github.com/rcfdtools)  |   1   |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

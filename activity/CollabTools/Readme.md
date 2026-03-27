@@ -148,14 +148,6 @@ De acuerdo a la cobertura en los requerimientos indicados, la plataforma para la
 * https://saasradar.net/herramientas-desarrollo-colaborativo/
 
 
-## Control de versiones
-
-| Versión    | Descripción                | Autor                                      | Horas  |
-|------------|:---------------------------|--------------------------------------------|:------:|
-| 2022.08.13 | ¿Qué plataforma debo usar? | [rcfdtools](https://github.com/rcfdtools)  |  1.5   |
-| 2022.08.12 | Versión preliminar.        | [rcfdtools](https://github.com/rcfdtools)  |   2    |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

@@ -108,13 +108,6 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://www.jetbrains.com/help/pycharm/maintain-projects-on-github.html
 
 
-## Control de versiones
-
-| Versión    | Descripción                                                                                                   | Autor                                      | Horas |
-|------------|:--------------------------------------------------------------------------------------------------------------|--------------------------------------------|:-----:|
-| 2022.09.06 | Versión inicial con clonación y modificación simultánea de repositorio principal y repositorio Wiki asociado. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

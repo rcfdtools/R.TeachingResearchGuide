@@ -137,13 +137,6 @@ En la siguiente tabla se listan las actividades complementarias a ser desarrolla
 * https://code.visualstudio.com/docs/editor/github
 
 
-## Control de versiones
-
-| Versión    | Descripción                             | Autor                                      | Horas |
-|------------|:----------------------------------------|--------------------------------------------|:-----:|
-| 2022.09.14 | Versión inicial. Procedimiento general. | [rcfdtools](https://github.com/rcfdtools)  |   3   |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._

@@ -302,13 +302,6 @@ emojis
 * https://gist.github.com/rxaviers/7360908
 
 
-## Control de versiones
-
-| Versión    | Descripción                   | Autor                                      | Horas |
-|------------|:------------------------------|--------------------------------------------|:-----:|
-| 2022.08.18 | Versión inicial con ejemplos. | [rcfdtools](https://github.com/rcfdtools)  |  5.5  |
-
-
 ##
 
 _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](../../LICENSE.md)._
