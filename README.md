@@ -56,7 +56,6 @@ _R.TeachingResearchGuide es de uso libre para fines académicos, conoce nuestra 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [rcfdtools](https://github.com/rcfdtools) en GitHub._
 
 
-| [:sun_with_face: Iniciar curso](activity/WhatIsCollab/Readme.md) | [:infinity: Otros cursos y herramientas](https://github.com/rcfdtools) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.DAPC/discussions/1) | [:notebook: Referencias](file/ref/Readme.md) | [:label: Abreviaturas y definiciones](file/ref/Definitions.md) |
-|---------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------|
+| [:sun_with_face: Iniciar curso](activity/WhatIsCollab/Readme.md) | [:infinity: Otros cursos y herramientas](https://github.com/rcfdtools) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.DAPC/discussions/1) | [:notebook: Referencias](file/ref/Readme.md) | [:label: Dictionary](https://github.com/rcfdtools/rcfdtools/blob/main/file/ref/Dictionary.md) | <div align="center"><img alt="rcfdtools" src="file/graph/R.TeachingResearchGuide.svg" height="32px"></div>
+|---------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------|---|
 
-<div align="center"><img alt="rcfdtools" src="file/graph/R.TeachingResearchGuide.svg" height="46px"></div>
