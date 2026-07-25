@@ -1,3 +1,5 @@
+# R.TeachingResearchGuide / Notes
+
 Guía para enseñanza e investigación colaborativa con GitHub
 
 R.TeachingResearchGuide
@@ -7,8 +9,6 @@ Clone local directory D:\R.TeachingResearchGuide
 R.TeachingResearchGuide.wiki
 https://github.com/rcfdtools/R.TeachingResearchGuide.wiki.git
 Clone local directory D:\R.TeachingResearchGuide.wiki
-
-✓✕Δ°Σβρσθαπ∑√±πØμx●•∫≠≈≤≥´◄ ►
 
 Video Introducción
 <div align="center"><a href="https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89" target="_blank"><img src=".icons/VideoIntro.png" alt="R.TeachingResearchGuide" width="480" border="0" /></a><sub><br>https://web.microsoftstream.com/video/4f117fdd-5cea-4165-bf82-e66c8f890b89<br><br></sub></div>
@@ -63,14 +63,4 @@ https://www.youtube.com/watch?v=sSZHr7Frp3o
 * [5 Things to Cover in Weekly Team Meetings | How to Run a Staff Meeting Effectively](https://www.youtube.com/watch?v=f3Fl2M-eCZc)
 * [Cooperation vs Collaboration: When To Use Each Approach](https://www.youtube.com/watch?v=Gr5mAboH1Kk)
 
-
-
-##
-activity/
-/Readme.md
-../../README.md
-.icons/ file/graph/
-README
-◄
-►
 
