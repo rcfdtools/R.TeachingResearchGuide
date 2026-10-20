@@ -110,16 +110,16 @@ print('x^y = %d', potencia)
 ### Imágenes
 
 **Ilustración embebida**  
-`![Logo de R.TeachingResearchGuide](../../file/graphR.TeachingResearchGuide.svg "Ilustración ejemplo")`  
-![Logo de R.TeachingResearchGuide](../../file/graphR.TeachingResearchGuide.svg "Ilustración ejemplo")
+`![Logo de R.TeachingResearchGuide](../../file/graph/R.TeachingResearchGuide.svg "Ilustración ejemplo")`  
+![Logo de R.TeachingResearchGuide](../../file/graph/R.TeachingResearchGuide.svg "Ilustración ejemplo")
 
 **Ilustración con HTML y tamaño definido**  
-`<img alt="R.LTWB" src="../../file/graphR.TeachingResearchGuide.svg" width="240px">`  
-<img alt="R.LTWB" src="../../file/graphR.TeachingResearchGuide.svg" width="240px">
+`<img alt="R.LTWB" src="../../file/graph/R.TeachingResearchGuide.svg" width="240px">`  
+<img alt="R.LTWB" src="../../file/graph/R.TeachingResearchGuide.svg" width="240px">
 
 **Ilustración con HTML y centrado**  
-`<div align="center"><img alt="R.LTWB" src="../../file/graphR.TeachingResearchGuide.svg" width="240px"></div>`  
-<div align="center"><img alt="R.LTWB" src="../../file/graphR.TeachingResearchGuide.svg" width="240px"></div><br><br>
+`<div align="center"><img alt="R.LTWB" src="../../file/graph/R.TeachingResearchGuide.svg" width="240px"></div>`  
+<div align="center"><img alt="R.LTWB" src="../../file/graph/R.TeachingResearchGuide.svg" width="240px"></div><br><br>
 
 > Para ilustraciones embebidas utilizando únicamente el lenguaje de marcas Markdown, se utiliza el tamaño original de la imagen. En caso de que el tamaño exceda el ancho de pantalla, esta se ajusta al 100% del ancho disponible para visualización.
 > 
