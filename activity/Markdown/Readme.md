@@ -34,7 +34,7 @@ Algunos de los beneficios de usar Markdown son:
 |:-------------------------------------------------------|:--------------------------------------------------------------------|
 | # Título nivel 1                                       | `# Título nivel 1`                                                  |
 | ## Título nivel 2                                      | `## Título nivel 1`                                                 |
-| ## Título nivel 2                                     | `## Título nivel 3`                                                |
+| ## Título nivel 2                                      | `## Título nivel 3`                                                 |
 | _Texto en itálica_                                     | `_Texto en itálica_`                                                |
 | *Texto en itálica*                                     | `*Texto en itálica*`                                                |
 | **Texto en negrilla o énfasis**                        | `**Texto en negrilla o énfasis**`                                   |
