@@ -8,7 +8,7 @@ En esta guía encontrará diferentes micro-contenidos, enlaces y ayudas para la 
 <div align="center"><img src="file/graph/Gemini_Generated_Image_q9hvhcq9hvhcq9hv_rounded.png" alt="R.SIGE" width="40%" border="0" /><sub><br>Generado con: <a href="https://gemini.google.com/app/c7a01330d0108f1b">https://gemini.google.com</a></sub><br><br></div>
 
 
-## :large_blue_circle:Sección 1 - Introducción, fundamentos e implementación de GitHub
+## :large_blue_circle:Módulo 1 - Introducción, fundamentos e implementación de GitHub
 
 El desarrollo colaborativo se refiere al proceso de creación de contenidos académicos y científicos a través de la interacción simultánea de más de una persona para alcanzar uno o varios objetivos comunes; es así como programadores, investigadores y educadores (denominados en esta guía como “**creadores de contenido**”), colaboran entre ellos para obtener un producto de calidad que puede ser un software, una investigación, un curso, un programa académico o un libro electrónico, entre otros. No existe una manera única en que esta interacción se lleve a cabo debido a que el desarrollo colaborativo es un concepto amplio que se puede abordar desde diferentes perspectivas.
 
@@ -25,7 +25,7 @@ El desarrollo colaborativo se refiere al proceso de creación de contenidos acad
 | [1.8. Centro de discusiones en GitHub](activity/GitHubDiscussions/Readme.md)                                   | Discusiones es el espacio donde los creadores de contenido, estudiantes, colaboradores y usuarios finales se reúnen para intercambiar ideas, solicitar ayuda, dar solución a problemas o para comunicarse entre sí                                                                                                                                                                  |
 
 
-## :large_blue_circle:Sección 2 - Gestión local de repositorios GitHub con PyCharm Community
+## :large_blue_circle:Módulo 2 - Gestión local de repositorios GitHub con PyCharm Community
 
 PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado para la producción de proyectos basados en el lenguaje de programación Python, contiene editores avanzados y asistentes que no solamente permiten crear y editar código, sino también la documentación en formato de marcas Markdown, gestionar controles de cambios en múltiples repositorios, corrección de escritura, gramática avanzada, publicación y actualización comentada en GitHub.
 
@@ -37,7 +37,7 @@ PyCharm Community es un entorno de desarrollo integrado (IDE) desktop, diseñado
 | [2.4. Proyectos GitHub utilizando Python en PyCharm](activity/PyCharmPython/Readme.md)                                     | Python es un potente lenguaje de programación interpretado con licencia de código abierto que soporta orientación a objetos y es comúnmente utilizado en el desarrollo de proyectos e investigación en ingeniería |
 
 
-## :large_blue_circle:Sección 3 - Gestión local de repositorios GitHub con Visual Studio Code
+## :large_blue_circle:Módulo 3 - Gestión local de repositorios GitHub con Visual Studio Code
 
 Visual Studio Code (VS Code) de Microsoft, es un editor de código fuente multi-lenguaje que permite la gestión y publicación de proyectos en GitHub, además de la edición de archivos en el lenguaje de marcas Markdown.
 
@@ -58,5 +58,5 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 
 | [:sun_with_face: Iniciar curso](activity/WhatIsCollab/Readme.md) | [:infinity: Otros cursos y herramientas](https://github.com/rcfdtools) | [:beginner: Ayuda / Colabora](https://github.com/rcfdtools/R.DAPC/discussions/1) | [:notebook: Referencias](file/ref/Readme.md) | [:label: Dictionary](https://github.com/rcfdtools/rcfdtools/blob/main/file/ref/Dictionary.md) | <div align="center"><img alt="rcfdtools" src="file/graph/R.TeachingResearchGuide.svg" height="32px"></div>
-|---------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------|---|
+|------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------|---|
 
